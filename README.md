@@ -677,7 +677,7 @@
 			   <input type="radio" id="085" name="sl">
 			   <label for="085"></label>
 			   <img src="parte1/11_01_04.png"/>
-			   <figcaption>Construindo a mediatriz de <b>med<sub>BC</sub></b>, temos que a interseção da <b>med<sub>AB</sub></b> com a <b>med<sub>BC</sub> será o ponto equidistante de <b>A</b>, <b>B</b> e <b>C</b>. Logo, este ponto é o centro da circunferência.</figcaption>
+			   <figcaption>Construindo a mediatriz de <b>med<sub>BC</sub></b>, temos que a interseção da <b>med<sub>AB</sub></b> com a <b>med<sub>BC</sub></b> será o ponto equidistante de <b>A</b>, <b>B</b> e <b>C</b>. Logo, este ponto é o centro da circunferência.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte1/11_01_00.png" class="fundo" />
