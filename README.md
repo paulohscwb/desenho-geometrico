@@ -12,7 +12,7 @@
    <img src="parte1/apos_dg_0001.png" />
    <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
    <img src="parte1/apos_dg_0002.png" />
-   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
 	<p>Utilizaremos o compasso para construir a primeira circunferência. Lembre-se sempre de deixá-lo com o grafite apontado para desenhar com maior precisão.</p>
 	  <ul class="slider">
 		  <li>
@@ -41,9 +41,9 @@
 		   </li>
 		</ul>
 		<img src="parte1/02_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0002a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. Usaremos o compasso como instrumento auxiliar.</p>
 	  <ul class="slider">
 		  <li>
@@ -66,10 +66,10 @@
 		   </li>
 		</ul>
 		<img src="parte1/02_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0003.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para resolver este problema. Usaremos o compasso como instrumento auxiliar.</p>
 	  <ul class="slider">
 		  <li>
@@ -104,9 +104,9 @@
 		   </li>
 		</ul>
 		<img src="parte1/03_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0003a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer a construção deste triângulo. Usaremos a régua e o compasso como instrumentos auxiliares.</p>
 	  <ul class="slider">
 		  <li>
@@ -171,11 +171,11 @@
 		   </li>
 		</ul>
 		<img src="parte1/03_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0003b.png" />
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0004.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. O compasso será usado como instrumento auxiliar.</p>
 	  <ul class="slider">
 		  <li>
@@ -216,41 +216,41 @@
 		   </li>
 		</ul>
 		<img src="parte1/04_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0004a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício proposto.</p>
 	<img src="parte1/04_02_00.png" />
 	<figcaption>Encontramos duas soluções na resolução deste problema.</figcaption>
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0004b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Use o conceito do lugar geométrico circunferência para resolver este exercício.</p>
 	<img src="parte1/04_03_00.png" />
 	<figcaption>Encontramos duas soluções na resolução deste problema: os triângulos <b>ABC</b> e <b>A'BC</b>.</figcaption>
-  </details>
+  </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0005.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício.</p>
 	<img src="parte1/05_01_00.png" />
 	<figcaption>Como as laterais do triângulo isósceles medem <b>d</b>, usamos uma circunferência para encontrar os vértices <b>B</b> e <b>C</b>.</figcaption>
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0005a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Use o conceito do lugar geométrico circunferência para resolver este exercício.</p>
 	<img src="parte1/05_02_00.png" />
 	<figcaption>Lembrando que o lado <b>b</b> é o lado <b>AC</b> do triângulo, usamos a circunferência com centro em <b>C</b> e raio <b>b</b>.</figcaption>
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0005b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício.</p>
 	<img src="parte1/05_03_00.png" />
 	<figcaption>Como a circunferência passa por <b>P</b>, construímos a circunferência de centro em <b>P</b> e raio <b>r</b> para encontrar o centro da solução.</figcaption>
-  </details>
+  </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0006.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. Usaremos a régua e o compasso como instrumentos auxiliares.</p>
 	  <ul class="slider">
 		  <li>
@@ -297,9 +297,9 @@
 		   </li>
 		</ul>
 		<img src="parte1/06_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0006a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
 	<p>Neste segundo lugar geométrico, usamos a régua e o compasso como instrumentos auxiliares para sua construção.</p>
 	  <ul class="slider">
 		  <li>
@@ -328,10 +328,10 @@
 		   </li>
 		</ul>
 		<img src="parte1/06_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0007.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares para sua construção da mediatriz.</p>
 	  <ul class="slider">
 		  <li>
@@ -390,15 +390,15 @@
 		   </li>
 		</ul>
 		<img src="parte1/07_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0007a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Constuindo a mediatriz de <b>AB</b>, determinamos o ponto médio deste segmento.</p>
 	<img src="parte1/07_02_00.png" />
 	<figcaption>Utilize os mesmos passos usados na construção anterior.</figcaption>
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0007b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Usaremos a régua e o compasso como instrumentos auxiliares nesta construção.</p>
 	  <ul class="slider">
 		  <li>
@@ -433,10 +433,10 @@
 		   </li>
 		</ul>
 		<img src="parte1/07_03_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0008.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar a régua e o compasso como instrumentos auxiliares para resolver este problema.</p>
 	  <ul class="slider">
 		  <li>
@@ -495,9 +495,9 @@
 		   </li>
 		</ul>
 		<img src="parte1/08_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0008a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar a régua, o compasso e os esquadros como instrumentos auxiliares para resolver este problema. Vamos começar usando a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
@@ -556,9 +556,9 @@
 		   </li>
 		</ul>
 		<img src="parte1/08_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0008b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar a régua, o compasso e os esquadros como instrumentos auxiliares para resolver este problema. Vamos começar usando a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
@@ -611,48 +611,48 @@
 		   </li>
 		</ul>
 		<img src="parte1/08_03_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0009.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Constuindo a mediatriz de <b>AB</b>, determinamos o ponto médio <b>M</b>deste segmento.</p>
 	<img src="parte1/09_01_00.png" />
 	<figcaption>Usando as mediatrizes das metades do segmento <b>AB</b>, dividimos este segmento em 4 partes iguais.</figcaption>
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0009a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como <b>P</b> é esquidistante de <b>B</b> e de <b>C</b>, pertence à <b>med<sub>BC</sub></b>.</p>
 	<img src="parte1/09_02_00.png" />
 	<figcaption></figcaption>
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0009b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como <b>X</b> é esquidistante de <b>A</b> e de <b>C</b>, pertence à <b>med<sub>AC</sub></b>.</p>
 	<img src="parte1/09_03_00.png" />
 	<figcaption>Como a distância de <b>X</b> até <b>B</b> é igual a <b>r</b>, pertence à <b>Circunf(B,r)</b>.</figcaption>
-  </details>
+  </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0010.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como <b>X</b> é esquidistante de <b>A</b> e de <b>B</b>, pertence à <b>med<sub>AB</sub></b>.</p>
 	<img src="parte1/10_01_00.png" />
 	<figcaption>Como <b>X</b> é esquidistante de <b>C</b> e de <b>D</b>, pertence à <b>med<sub>CD</sub></b>.</figcaption>
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0010a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste caso, o centro será o ponto médio do diâmetro <b>AB</b>.</p>
 	<img src="parte1/10_02_00.png" />
 	<figcaption></figcaption>
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0010b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como a circunferência procurada passa por <b>P</b> e <b>Q</b>, seu centro pertence à <b>med<sub>PQ</sub></b>.</p>
 	<img src="parte1/10_03_00.png" />
 	<figcaption>Depois de achar o centro <b>O</b>, o raio será <b>OP = OQ</b>.</figcaption>
-  </details>
+  </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0011.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar a régua e o compasso como instrumentos auxiliares para resolver este problema.</p>
 	  <ul class="slider">
 		  <li>
@@ -681,9 +681,9 @@
 		   </li>
 		</ul>
 		<img src="parte1/11_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0011a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar os esquadros e o compasso como instrumentos auxiliares para resolver este problema. Como a reta <b>t</b> é tangente à circunferência de centro <b>O</b>, o raio <b>OT</b> será perpendicular a <b>t</b>.</p>
 	  <ul class="slider">
 		  <li>
@@ -712,13 +712,13 @@
 		   </li>
 		</ul>
 		<img src="parte1/11_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="parte1/apos_dg_0011b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Problema similar ao anterior. Você pode construir a reta <b>t</b> perpendicular ao segmento <b>OT</b> usando régua e compasso, ou o par de esquadros.</p>
 	<img src="parte1/11_03_00.png" />
 	<figcaption></figcaption>
-  </details>
+  </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
