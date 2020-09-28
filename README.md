@@ -916,7 +916,7 @@
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
+<details style="border-bottom: 1px solid #a2dec0;">
   <summary id="parte9">Equivalência de áreas: pág. 94-103</summary>
   <img src="parte9/apos_dg_0094.png" />
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
