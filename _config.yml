@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: "Desenho Geométrico"
+github:
+  is_project_page: false
