@@ -1382,7 +1382,7 @@
 			   <input type="radio" id="182" name="sl">
 			   <label for="182"></label>
 			   <img src="parte2/16_02_02.png"/>
-			   <figcaption>No vértice <b>A</b>, podemos construir a bissetriz do <b>&anglesph;DAE</b>: com centro em <b>A</b> e um arco com raio qualquer, encontre os pontos <b>D</b> e <b>E</b> sobre <b>t</b> e <b>r</b>.</figcaption>
+			   <figcaption>No vértice <b>A</b>, podemos construir a bissetriz do <b>&angsph;DAE</b>: com centro em <b>A</b> e um arco com raio qualquer, encontre os pontos <b>D</b> e <b>E</b> sobre <b>t</b> e <b>r</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="183" name="sl">
@@ -1394,7 +1394,7 @@
 			   <input type="radio" id="184" name="sl">
 			   <label for="184"></label>
 			   <img src="parte2/16_02_04.png"/>
-			   <figcaption>... e construa um arco de mesmo raio com centro em <b>E</b>, encontrando o ponto <b>F</b>. A semi-reta <b>OF</b> é a bissetriz do <b>&anglesph;DAE</b>. Podemos construir a bissetriz do suplementar deste ângulo, ou podemos usar a propriedade de que as bissetrizes de ângulos suplementares são perpendiculares.</figcaption>
+			   <figcaption>... e construa um arco de mesmo raio com centro em <b>E</b>, encontrando o ponto <b>F</b>. A semi-reta <b>OF</b> é a bissetriz do <b>&angsph;DAE</b>. Podemos construir a bissetriz do suplementar deste ângulo, ou podemos usar a propriedade de que as bissetrizes de ângulos suplementares são perpendiculares.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="185" name="sl">
@@ -1406,13 +1406,13 @@
 			   <input type="radio" id="186" name="sl">
 			   <label for="186"></label>
 			   <img src="parte2/16_02_06.png"/>
-			   <figcaption>... e deslizamos o esquadro de 45 até chegar em <b>A</b>. Logo, temos a bissetriz do ângulo suplementar do <b>&anglesph;DAE</b>.</figcaption>
+			   <figcaption>... e deslizamos o esquadro de 45 até chegar em <b>A</b>. Logo, temos a bissetriz do ângulo suplementar do <b>&angsph;DAE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="187" name="sl">
 			   <label for="187"></label>
 			   <img src="parte2/16_02_07.png"/>
-			   <figcaption>No vértice <b>B</b>, podemos fazer a mesma construção: bissetriz do <b>&anglesph;GBH</b> e a perpendicular à bissetriz. Todos os pontos das bissetrizes <b>biss(A)</b> são esquidistantes de <b>r</b> e <b>t</b>.</figcaption>
+			   <figcaption>No vértice <b>B</b>, podemos fazer a mesma construção: bissetriz do <b>&angsph;GBH</b> e a perpendicular à bissetriz. Todos os pontos das bissetrizes <b>biss(A)</b> são esquidistantes de <b>r</b> e <b>t</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="188" name="sl">
@@ -1442,7 +1442,7 @@
 			   <input type="radio" id="192" name="sl">
 			   <label for="192"></label>
 			   <img src="parte2/16_02_12.png"/>
-			   <figcaption>Logo, a mediatriz da base <b>BD</b> do <b>&#9651;</b> será a bissetriz do ângulo formado entre <b>r</b> e <b>s</b>. Esta mediatriz será paralela à bissetriz do <b>&anglesph;BAC</b>.</figcaption>
+			   <figcaption>Logo, a mediatriz da base <b>BD</b> do <b>&#9651;</b> será a bissetriz do ângulo formado entre <b>r</b> e <b>s</b>. Esta mediatriz será paralela à bissetriz do <b>&angsph;BAC</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/16_02_00.png" class="fundo" />
@@ -1461,7 +1461,7 @@
 			   <input type="radio" id="194" name="sl">
 			   <label for="194"></label>
 			   <img src="parte2/16_03_02.png"/>
-			   <figcaption>Se construirmos o arco com centro em <b>A</b> e um raio qualquer, que intercepte <b>r</b> nos pontos <b>B</b> e <b>C</b>, estamos considerando o <b>&anglesph;BAC = 180&deg;</b>.</figcaption>
+			   <figcaption>Se construirmos o arco com centro em <b>A</b> e um raio qualquer, que intercepte <b>r</b> nos pontos <b>B</b> e <b>C</b>, estamos considerando o <b>&angsph;BAC = 180&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="195" name="sl">
