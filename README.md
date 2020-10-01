@@ -1567,7 +1567,7 @@
 			   <input type="radio" id="209" name="sl">
 			   <label for="209"></label>
 			   <img src="parte2/17_02_02.png"/>
-			   <figcaption>Construa a bissetriz do <b>&ang;DAE</b>.</figcaption>
+			   <figcaption>Construa a bissetriz do <b>&angsph;DAE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="210" name="sl">
@@ -1579,7 +1579,7 @@
 			   <input type="radio" id="211" name="sl">
 			   <label for="211"></label>
 			   <img src="parte2/17_02_04.png"/>
-			   <figcaption>Agora vamos construir a bissetriz do <b>&ang;GCH</b>.</figcaption>
+			   <figcaption>Agora vamos construir a bissetriz do <b>&angsph;GCH</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="212" name="sl">
@@ -1591,7 +1591,7 @@
 			   <input type="radio" id="213" name="sl">
 			   <label for="213"></label>
 			   <img src="parte2/17_02_06.png"/>
-			   <figcaption>Vamos nomear esta semi-reta de <b>biss<sub>2</sub></b>. O encontro destas bissetrizes é o primeiro ex-incentro, relativo ao lado <b>AC = b</b>, que nomeamos como <b>I<sub>b</sub></b>. Se construirmos a bissetriz do <b>&ang;B</b>, ela passa pelo ex-incentro <b>I<sub>b</sub></b></figcaption>
+			   <figcaption>Vamos nomear esta semi-reta de <b>biss<sub>2</sub></b>. O encontro destas bissetrizes é o primeiro ex-incentro, relativo ao lado <b>AC = b</b>, que nomeamos como <b>I<sub>b</sub></b>. Se construirmos a bissetriz do <b>&angsph;B</b>, ela passa pelo ex-incentro <b>I<sub>b</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="214" name="sl">
@@ -1621,7 +1621,7 @@
 			   <input type="radio" id="218" name="sl">
 			   <label for="218"></label>
 			   <img src="parte2/17_02_11.png"/>
-			   <figcaption>Construa a bissetriz do <b>&ang;KBL</b>, que define a <b>biss<sub>4</sub></b>. Logo, temos que <b>I<sub>c</sub> &equiv; biss<sub>3</sub> &cup; biss<sub>4</sub></b>. Defina o raio <b>I<sub>c</sub>T<sub>2</sub> &perp; AC</b>.</figcaption>
+			   <figcaption>Construa a bissetriz do <b>&angsph;KBL</b>, que define a <b>biss<sub>4</sub></b>. Logo, temos que <b>I<sub>c</sub> &equiv; biss<sub>3</sub> &cap; biss<sub>4</sub></b>. Defina o raio <b>I<sub>c</sub>T<sub>2</sub> &perp; AC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="219" name="sl">
@@ -1661,7 +1661,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
 	<img src="parte2/18_02_00.png" />
-	<figcaption>Você pode construir a bissetriz do <b>&ang;BAC</b> ou a mediatriz de <b>BC</b>.</figcaption>
+	<figcaption>Você pode construir a bissetriz do <b>&angsph;BAC</b> ou a mediatriz de <b>BC</b>.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0018b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -1714,8 +1714,271 @@
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0019.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Neste exercício, vamos utilizar a régua e o compasso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="228" name="sl" checked>
+			   <label for="228"></label>
+			   <img src="parte2/19_01_01.png"/>
+			   <figcaption>Para transportar o ângulo <b>&alpha;</b>, podemos construir um arco com centro no vértice do ângulo, com raio qualquer e que intercepte os lados nos pontos <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="229" name="sl">
+			   <label for="229"></label>
+			   <img src="parte2/19_01_02.png"/>
+			   <figcaption>Com a mesma medida, definimos o arco com centro no vértice onde queremos transportar o ângulo: <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="230" name="sl">
+			   <label for="230"></label>
+			   <img src="parte2/19_01_03.png"/>
+			   <figcaption>Com o compasso, "pegamos" a medida da abertura do ângulo <b>BC</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="231" name="sl">
+			   <label for="231"></label>
+			   <img src="parte2/19_01_04.png"/>
+			   <figcaption>... e construímos o arco com centro em <b>D</b> e raio <b>BC</b>. A semi-reta <b>OE</b> forma ângulo <b>&alpha;</b> com <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="232" name="sl">
+			   <label for="232"></label>
+			   <img src="parte2/19_01_05.png"/>
+			   <figcaption>Note que esta construção funciona, pois construímos os triângulos congruentes.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/19_01_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0019a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. Vamos começar com a régua e o compasso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="233" name="sl" checked>
+			   <label for="233"></label>
+			   <img src="parte2/19_02_01.png"/>
+			   <figcaption>Construa uma reta qualquer e defina um ponto <b>A</b> nesta reta. Relembrando a construção de perpendicular, construimos um arco com centro <b>A</b> e raio <b>AB</b> qualquer...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="234" name="sl">
+			   <label for="234"></label>
+			   <img src="parte2/19_02_02.png"/>
+			   <figcaption>... definindo o ponto <b>C</b> sobre a reta, com mesmo raio.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="235" name="sl">
+			   <label for="235"></label>
+			   <img src="parte2/19_02_03.png"/>
+			   <figcaption>Agora é só construir a mediatriz de <b>BC</b>, com centro em <b>C</b> e um raio maior do que <b>AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="236" name="sl">
+			   <label for="236"></label>
+			   <img src="parte2/19_02_04.png"/>
+			   <figcaption>... e centro em <b>B</b> com mesmo raio.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="237" name="sl">
+			   <label for="237"></label>
+			   <img src="parte2/19_02_05.png"/>
+			   <figcaption>A semi-reta <b>AD</b> forma 90&deg; com a reta. A construção com os esquadros já foi feita anteriormente, e você pode fazê-la como exercício. Agora vamos escolher um ponto <b>E</b> sobre a reta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="238" name="sl">
+			   <label for="238"></label>
+			   <img src="parte2/19_02_06.png"/>
+			   <figcaption>Com centro em <b>E</b>, defina um arco de circunferência com raio <b>EF</b> qualquer...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="239" name="sl">
+			   <label for="239"></label>
+			   <img src="parte2/19_02_07.png"/>
+			   <figcaption>... e com centro em <b>F</b>, construa o arco com mesmo raio <b>EF</b>, encontrando a interseção <b>G</b>. Unindo <b>E</b> com <b>G</b>, temos a semi-reta que forma 60&deg; com a reta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="240" name="sl">
+			   <label for="240"></label>
+			   <img src="parte2/19_02_08.png"/>
+			   <figcaption>Esta construção funciona, pois construímos um triângulo equilátero de lado <b>EF</b>. Agora vamos ver como construir o ângulo de 60 &deg; com os esquadros.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="241" name="sl">
+			   <label for="241"></label>
+			   <img src="parte2/19_02_09.png"/>
+			   <figcaption>Escolha um ponto <b>H</b> sobre a reta, e alinhe a hipotenusa do esquadro de 60 com a reta, apoiando o cateto do ângulo de 30&deg; com o outro esquadro fixo, ou seja, deixaremos livre o lado do esquadro de 60&deg; para transferí-lo na reta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="242" name="sl">
+			   <label for="242"></label>
+			   <img src="parte2/19_02_10.png"/>
+			   <figcaption>Deslizando o esquadro de 60 até chegar em <b>H</b>, você consegue construir o ângulo de 60&deg; com vértice <b>H</b>. Este ângulo ficou virado para a direita da folha.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="243" name="sl">
+			   <label for="243"></label>
+			   <img src="parte2/19_02_11.png"/>
+			   <figcaption>Se você quiser o ângulo de 60&deg; virado para a esquerda, basta mudar o lado de alinhamento do esquadro de 60. O importante é lembrar sempre de deisar o ângulo de 60&deg; livre, sem apoio.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="244" name="sl">
+			   <label for="244"></label>
+			   <img src="parte2/19_02_12.png"/>
+			   <figcaption>Deslizando o esquadro do outro lado, você consegue construir o ângulo de 60&deg; do outro lado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="245" name="sl">
+			   <label for="245"></label>
+			   <img src="parte2/19_02_13.png"/>
+			   <figcaption>Assim ficam definidas as duas opções de construção de 60&deg;: com o compasso e com os esquadros.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/19_02_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0019b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
+	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. Vamos começar com a régua e o compasso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="246" name="sl" checked>
+			   <label for="246"></label>
+			   <img src="parte2/19_03_01.png"/>
+			   <figcaption>Começamos construindo o ângulo de 90&deg;, como fizemos no exercício anterior. Podemos prolongar o arco com centro em <b>C</b> para fazer a bissetriz de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="247" name="sl">
+			   <label for="247"></label>
+			   <img src="parte2/19_03_02.png"/>
+			   <figcaption>Com centro em <b>C</b>, construa o arco com raio maior do que a metade de <b>EC</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="248" name="sl">
+			   <label for="248"></label>
+			   <img src="parte2/19_03_03.png"/>
+			   <figcaption>... e use este mesmo raio para construir o arco com centro em <b>E</b>, encontrando o ponto <b>F</b> na interseção dos arcos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="249" name="sl">
+			   <label for="249"></label>
+			   <img src="parte2/19_03_04.png"/>
+			   <figcaption>A semi-reta <b>AF</b> forma 45&deg; com a reta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="250" name="sl">
+			   <label for="250"></label>
+			   <img src="parte2/19_03_05.png"/>
+			   <figcaption>Ao construir a bissetriz dos 45&deg;, temos o ângulo de 22,5&deg; = 22&deg;30'.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="251" name="sl">
+			   <label for="251"></label>
+			   <img src="parte2/19_03_06.png"/>
+			   <figcaption>E a bissetriz de 22,5&deg; fornece o ângulo de 11,15&deg;. Para construir o ângulo de 45&deg; com os esquadros, alinhamos a hipotenusa do esquadro de 45 com a reta, e apoiamos um cateto com o outro esquadro que ficará fixo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="252" name="sl">
+			   <label for="252"></label>
+			   <img src="parte2/19_03_07.png"/>
+			   <figcaption>Ao deslizar o esquadro de 45 até chegar no ponto <b>K</b> pertencente à reta, construimos o ângulo de 45 virado à direita da folha.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="253" name="sl">
+			   <label for="253"></label>
+			   <img src="parte2/19_03_08.png"/>
+			   <figcaption>Note que encontramos o ângulo de 135&deg;, que é o suplementar de 45&deg;. Se você quiser o ângulo de 45&deg; virado à esquerda, basta mudar o lado do apoio do esquadro de 60...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="254" name="sl">
+			   <label for="254"></label>
+			   <img src="parte2/19_03_09.png"/>
+			   <figcaption>... e deslizar o esquadro até chegar no ponto <b>K</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="255" name="sl">
+			   <label for="255"></label>
+			   <img src="parte2/19_03_10.png"/>
+			   <figcaption>Vamos desenhar outra reta no espaço abaixo para construir os outros ângulos.</figcaption>
+		   </li>
+		<img src="parte2/19_03_00.png" class="fundo" />
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
+	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. Vamos começar com a régua e o compasso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="256" name="sl" checked>
+			   <label for="256"></label>
+			   <img src="parte2/19_03_11.png"/>
+			   <figcaption>Escolha um ponto <b>L</b> da reta, e construa um arco com raio qualquer, interceptando a reta em <b>M</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="257" name="sl">
+			   <label for="257"></label>
+			   <img src="parte2/19_03_12.png"/>
+			   <figcaption>Com mesmo raio, construa o arco com centro em <b>M</b>, definindo a semi-reta <b>LN</b> que forma 60&deg; com a reta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="258" name="sl">
+			   <label for="258"></label>
+			   <img src="parte2/19_03_13.png"/>
+			   <figcaption>Construindo a bissetriz dos 60&deg;, temos o ângulo de 30&deg; construído com régua e compasso.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="259" name="sl">
+			   <label for="259"></label>
+			   <img src="parte2/19_03_14.png"/>
+			   <figcaption>Com a bissetriz de 30&deg;, temos o ângulo de 15&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="260" name="sl">
+			   <label for="260"></label>
+			   <img src="parte2/19_03_15.png"/>
+			   <figcaption>Quando construímos o ângulo de 60&deg;, definimos o suplementar de 120&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="261" name="sl">
+			   <label for="261"></label>
+			   <img src="parte2/19_03_16.png"/>
+			   <figcaption>Também temos o ângulo de 150&deg;, que é o suplementar de 30&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="262" name="sl">
+			   <label for="262"></label>
+			   <img src="parte2/19_03_17.png"/>
+			   <figcaption>Se construirmos a bissetriz do ângulo de 150&deg;, temos o ângulo de 75&deg; com régua e compasso.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="263" name="sl">
+			   <label for="263"></label>
+			   <img src="parte2/19_03_18.png"/>
+			   <figcaption>Agora vamos construir alguns ângulos com os esquadros. Escolha um ponto <b>R</b> sobre a reta e alinhe o cateto de 30&deg; com a reta. Coloque o cateto de 60&deg; com o apoio fixo do esquadro de 45...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="264" name="sl">
+			   <label for="264"></label>
+			   <img src="parte2/19_03_19.png"/>
+			   <figcaption>... e deslize o esquadro de 60 até chegar no ponto <b>R</b>. Assim, temos os ângulos de 30&deg; e 150&deg; construídos com os esquadros. Se você quiser o ângulo de 30&deg; virado para o outro lado, basta inverter as posições dos esquadros, como fizemos anteriormente com os ângulos de 45&deg; e 60&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="265" name="sl">
+			   <label for="265"></label>
+			   <img src="parte2/19_03_20.png"/>
+			   <figcaption>Escolha um ponto <b>S</b> sobre a reta, e apoie os esquadros assim: o de 45 com o cateto alinhado na reta, e o de 60 com o vértice de 30&deg; junto com o vértice de 45&deg;. Somando os ângulos, temos 75&deg;, então deixaremos fixo o esquadro de 45&deg;, deslizando o esquadro de 60...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="266" name="sl">
+			   <label for="266"></label>
+			   <img src="parte2/19_03_21.png"/>
+			   <figcaption>... até chegar em <b>S</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="267" name="sl">
+			   <label for="267"></label>
+			   <img src="parte2/19_03_22.png"/>
+			   <figcaption>Desta maneira, temos a construção do ângulo de 75&deg; com os esquadros. Conseguimos também o suplementar de 105&deg; com esta construção. Então, ficam as opções para você construir nos próximos exercícios: com os esquadros ou com régua e compasso.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/19_03_10.png" class="fundo" />
+  </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0020.png" />
   <img src="parte2/apos_dg_0020a.png" />
