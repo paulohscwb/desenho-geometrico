@@ -1295,7 +1295,7 @@
 			   <input type="radio" id="171" name="sl" checked>
 			   <label for="171"></label>
 			   <img src="parte2/15_03_01.png"/>
-			   <figcaption>Considere as bissetrizes <b>b<sub>1</sub></b> e <b>b<sub>s</sub></b> dos ângulos formados entre as retas <b>r</b> e <b>s</b>, com vértice <b>O</b>. Escolha um ponto <b>Q &isin; b<sub>2</sub></b>. O ponto <b>P &isin; b<sub>1</sub></b> é equidistante das retas <b>r</b> e <b>s</b>, ou seja, <b>PP' = PP''</b>.</figcaption>
+			   <figcaption>Considere as bissetrizes <b>b<sub>1</sub></b> e <b>b<sub>2</sub></b> dos ângulos formados entre as retas <b>r</b> e <b>s</b>, com vértice <b>O</b>. Escolha um ponto <b>Q &isin; b<sub>2</sub></b>. O ponto <b>P &isin; b<sub>1</sub></b> é equidistante das retas <b>r</b> e <b>s</b>, ou seja, <b>PP' = PP''</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="172" name="sl">
@@ -1322,18 +1322,168 @@
 			   <figcaption>Portanto, temos os ângulos <b>&alpha;</b> e <b>&beta;</b> que definem outra propriedade da bissetriz: ela divide os ângulos formados entre<b>r</b> e <b>s</b> ao meio.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="176" name="sl">
-			   <label for="176"></label>
+			   <input type="radio" id="170" name="sl">
+			   <label for="170"></label>
 			   <img src="parte2/15_03_05.png"/>
-			   <figcaption>O ângulo formado entre as bissetrizes <b>b<sub>1</sub></b> e <b>b<sub>s</sub></b> mede <b>&alpha; + &beta;</b>. Como <b>&alpha; + &alpha; + &beta; + &beta; = 180&deg;</b>, temos que <b>&alpha; + &beta; = 90&deg;</b>, ou seja, as bissetrizes dos ângulos suplementares são perpendiculares.</figcaption>
+			   <figcaption>O ângulo formado entre as bissetrizes <b>b<sub>1</sub></b> e <b>b<sub>2</sub></b> mede <b>&alpha; + &beta;</b>. Como <b>&alpha; + &alpha; + &beta; + &beta; = 180&deg;</b>, temos que <b>&alpha; + &beta; = 90&deg;</b>, ou seja, as bissetrizes dos ângulos suplementares são perpendiculares.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/15_03_00.png" class="fundo" />
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0016.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua e o compasso para construir a bissetriz.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="176" name="sl" checked>
+			   <label for="176"></label>
+			   <img src="parte2/16_01_01.png"/>
+			   <figcaption>Com centro no vértice <b>A</b>, construímos um arco de circunferência de raio qualquer que intercepte os lados do ângulo nos pontos <b>D</b> e <b>E</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="177" name="sl">
+			   <label for="177"></label>
+			   <img src="parte2/16_01_02.png"/>
+			   <figcaption>Com centro em <b>D</b>, construímos um arco com raio de medida qualquer que seja maior do que a metade de <b>DE</b> (é a construção de um ponto da mediatriz de <b>DE</b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="178" name="sl">
+			   <label for="178"></label>
+			   <img src="parte2/16_01_03.png"/>
+			   <figcaption>Com centro em <b>E</b>, construímos um arco com raio igual ao que fizemos no ponto <b>D</b>, encontrando o ponto <b>F</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="179" name="sl">
+			   <label for="179"></label>
+			   <img src="parte2/16_01_04.png"/>
+			   <figcaption>Usando a régua ou um dos esquadros, construímos a semi-reta <b>OF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="180" name="sl">
+			   <label for="180"></label>
+			   <img src="parte2/16_01_05.png"/>
+			   <figcaption>Esta semi-reta é a bissetriz do ângulo <b>&anglesph;A</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/16_01_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0016a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. A ideia é não usar a interseção das retas para construir a bissetriz.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="181" name="sl" checked>
+			   <label for="181"></label>
+			   <img src="parte2/16_02_01.png"/>
+			   <figcaption>Vamos nomear as retas <b>r</b> e <b>s</b>. Neste primeiro exemplo, vamos usar a ideia de definir uma terceira reta <b>t</b>, concorrente com <b>r</b> e <b>s</b> nos pontos <b>A</b> e <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="182" name="sl">
+			   <label for="182"></label>
+			   <img src="parte2/16_02_02.png"/>
+			   <figcaption>No vértice <b>A</b>, podemos construir a bissetriz do <b>&anglesph;DAE</b>: com centro em <b>A</b> e um arco com raio qualquer, encontre os pontos <b>D</b> e <b>E</b> sobre <b>t</b> e <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="183" name="sl">
+			   <label for="183"></label>
+			   <img src="parte2/16_02_03.png"/>
+			   <figcaption>Com centro em <b>D</b>, construa um arco com raio maior do que a metade de <b>DE</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="184" name="sl">
+			   <label for="184"></label>
+			   <img src="parte2/16_02_04.png"/>
+			   <figcaption>... e construa um arco de mesmo raio com centro em <b>E</b>, encontrando o ponto <b>F</b>. A semi-reta <b>OF</b> é a bissetriz do <b>&anglesph;DAE</b>. Podemos construir a bissetriz do suplementar deste ângulo, ou podemos usar a propriedade de que as bissetrizes de ângulos suplementares são perpendiculares.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="185" name="sl">
+			   <label for="185"></label>
+			   <img src="parte2/16_02_05.png"/>
+			   <figcaption>Usando a propriedade, podemos alinhar um cateto do esquadro de 45 com a bissetriz, deixando o outro esquadro como apoio fixo...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="186" name="sl">
+			   <label for="186"></label>
+			   <img src="parte2/16_02_06.png"/>
+			   <figcaption>... e deslizamos o esquadro de 45 até chegar em <b>A</b>. Logo, temos a bissetriz do ângulo suplementar do <b>&anglesph;DAE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="187" name="sl">
+			   <label for="187"></label>
+			   <img src="parte2/16_02_07.png"/>
+			   <figcaption>No vértice <b>B</b>, podemos fazer a mesma construção: bissetriz do <b>&anglesph;GBH</b> e a perpendicular à bissetriz. Todos os pontos das bissetrizes <b>biss(A)</b> são esquidistantes de <b>r</b> e <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="188" name="sl">
+			   <label for="188"></label>
+			   <img src="parte2/16_02_08.png"/>
+			   <figcaption>Todos os pontos das bissetrizes <b>biss(B)</b> são esquidistantes de <b>s</b> e <b>t</b>. Logo, nas interseções de <b>biss(A)</b> e <b>biss(B)</b>, temos os pontos equidistantes de <b>r</b> e <b>s</b>, ou seja, <b>J</b> e <b>K</b> definem a <b>biss(r,s)</b>. Agora vamos usar outro raciocínio: escolha um ponto <b>A &isin; r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="189" name="sl">
+			   <label for="189"></label>
+			   <img src="parte2/16_02_09.png"/>
+			   <figcaption>Neste ponto <b>A</b>, construa a reta <b>t // s</b>. Use os esquadros ou a régua e compasso para fazer esta construção.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="190" name="sl">
+			   <label for="190"></label>
+			   <img src="parte2/16_02_10.png"/>
+			   <figcaption>Agora vamos construir o triângulo isósceles de base <b>BC</b> e vértice <b>A</b>: com centro em <b>A</b>, construa um arco com raio qualquer que intercepte as retas <b>r</b> e <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="191" name="sl">
+			   <label for="191"></label>
+			   <img src="parte2/16_02_11.png"/>
+			   <figcaption>Prolongando-se o segmento <b>BC</b>, encontramos o ponto <b>D</b>. Se imaginarmos que o vértice do encontro de <b>r</b> e <b>s</b> é um ponto <b>V</b>, temos que os triângulos <b>&#9651;ABC</b> e <b>&#9651;VDB</b> serão semelhantes, pois a reta <b>r</b> é comum e as retas <b>t</b> e <b>s</b> são paralelas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="192" name="sl">
+			   <label for="192"></label>
+			   <img src="parte2/16_02_12.png"/>
+			   <figcaption>Logo, a mediatriz da base <b>BD</b> do <b>&#9651;</b> será a bissetriz do ângulo formado entre <b>r</b> e <b>s</b>. Esta mediatriz será paralela à bissetriz do <b>&anglesph;BAC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/16_02_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0016b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="193" name="sl" checked>
+			   <label for="193"></label>
+			   <img src="parte2/16_03_01.png"/>
+			   <figcaption>Considere uma reta <b>r</b> e um ponto qualquer <b>A &isin; r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="194" name="sl">
+			   <label for="194"></label>
+			   <img src="parte2/16_03_02.png"/>
+			   <figcaption>Se construirmos o arco com centro em <b>A</b> e um raio qualquer, que intercepte <b>r</b> nos pontos <b>B</b> e <b>C</b>, estamos considerando o <b>&anglesph;BAC = 180&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="195" name="sl">
+			   <label for="195"></label>
+			   <img src="parte2/16_03_03.png"/>
+			   <figcaption>Logo, podemos construir sua bissetriz (do mesmo jeito que fizemos com mediatriz): com centro em <b>B</b> e raio com medida maior do que <b>AB</b>, construimos um arco... </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="196" name="sl">
+			   <label for="196"></label>
+			   <img src="parte2/16_03_04.png"/>
+			   <figcaption>... e com centro em <b>C</b>, construimos um arco com raio de mesma medida, determinando o ponto <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="197" name="sl">
+			   <label for="197"></label>
+			   <img src="parte2/16_03_05.png"/>
+			   <figcaption>A semi-reta <b>AD</b> será a bissetriz de 180&deg;.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/16_03_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0016c.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0017.png" />
