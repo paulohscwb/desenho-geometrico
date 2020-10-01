@@ -1982,9 +1982,54 @@
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0020.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Neste exercício, vamos utilizar a régua e o compasso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="268" name="sl" checked>
+			   <label for="268"></label>
+			   <img src="parte2/20_01_01.png"/>
+			   <figcaption>Como a semi-reta <b>OC</b> é bissetriz do <b>&angsph;AOB</b>, vamos transportar a medida do <b>&angsph;AOC</b> para o outro semi-plano definido por <b>OC</b>: construa um arco com raio qualquer, centrado em <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="269" name="sl">
+			   <label for="269"></label>
+			   <img src="parte2/20_01_02.png"/>
+			   <figcaption>Com o compasso, "pegue" a medida da abertura do ângulo <b>DE</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="270" name="sl">
+			   <label for="270"></label>
+			   <img src="parte2/20_01_03.png"/>
+			   <figcaption>... e construa o arco com centro em <b>E</b> e raio <b>DE</b>. Assim, encontramos o ponto <b>B</b> que define o ângulo procurado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="271" name="sl">
+			   <label for="271"></label>
+			   <img src="parte2/20_01_04.png"/>
+			   <figcaption>A semi-reta <b>OB</b> define o <b>&angsph;AOB</b>, com bissetriz <b>OC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/20_01_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0020a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
+	<img src="parte2/20_02_00.png" />
+	<figcaption>Basta lembrar da construção que fizemos para transportar ângulos. Lembre-se que os arcos com centros nos vértices devem ter mesma medida de raio.</figcaption>
+  </details></div>
   <img src="parte2/apos_dg_0020b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
+	<img src="parte2/20_03_00.png" />
+	<figcaption>Lembre-se da construção que fizemos para transportar ângulos.</figcaption>
+  </details></div>
   <img src="parte2/apos_dg_0020c.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
+	<img src="parte2/20_04_00.png" />
+	<figcaption>Lembre-se da construção que fizemos para transportar ângulos.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
 </details>
 
