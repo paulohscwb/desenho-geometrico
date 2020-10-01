@@ -62,7 +62,7 @@
 			   <input type="radio" id="007" name="sl">
 			   <label for="007"></label>
 			   <img src="parte1/02_02_03.png"/>
-			   <figcaption>Como o ponto <b>X</b> está na reta <b>t</b>, teremos duas soluções para este problema, encontradas na interseção da <b>Circunf(P,d)</b> com a reta <b>t</b>.</figcaption>
+			   <figcaption>Como o ponto <b>X</b> está na reta <b>t</b>, teremos duas soluções para este problema, encontradas na interseção da <b>Circunf(P,d)</b> com a reta <b>t</b>. Se a <b>Circunf(P,d)</b> não interceptar a reta <b>t</b>, não temos solução. No caso em que a <b>Circunf(P,d)</b> for tangente à reta <b>t</b>, teremos apenas 1 solução.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte1/02_02_00.png" class="fundo" />
@@ -100,7 +100,7 @@
 			   <input type="radio" id="012" name="sl">
 			   <label for="012"></label>
 			   <img src="parte1/03_01_05.png"/>
-			   <figcaption>Temos duas soluções, encontradas nas interseções das circunferências construídas.</figcaption>
+			   <figcaption>Temos duas soluções, encontradas nas interseções das circunferências construídas. Se as circunferências ficarem tangentes, teremos apenas 1 solução. E no caso em que as circunferências não se cortam, não teremos solução neste problema.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte1/03_01_00.png" class="fundo" />
@@ -167,7 +167,7 @@
 			   <input type="radio" id="022" name="sl">
 			   <label for="022"></label>
 			   <img src="parte1/03_02_10.png"/>
-			   <figcaption>Nas interseções das circunferências construídas, podemos escolher o vértice <b>C</b> e "passar a limpo" o triângulo <b>ABC</b> unindo as extremidades <b>A</b> com <b>C</b> e <b>B</b> com <b>C</b>. O triângulo <b>ABC'</b> pode ser desenhado com linhas tracejadas.</figcaption>
+			   <figcaption>Nas interseções das circunferências construídas, podemos escolher o vértice <b>C</b> e "passar a limpo" o triângulo <b>ABC</b> unindo as extremidades <b>A</b> com <b>C</b> e <b>B</b> com <b>C</b>. O triângulo <b>ABC'</b> pode ser desenhado com linha tracejada.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte1/03_02_00.png" class="fundo" />
@@ -194,7 +194,7 @@
 			   <input type="radio" id="026" name="sl">
 			   <label for="026"></label>
 			   <img src="parte1/04_01_04.png"/>
-			   <figcaption>Com o mesmo raio, construímos a <b>Circunf(B,r)</b>, que é o segundo lugar geométrico de <b>O</b>. Teremos duas soluções: <b>O</b> e <b>O'</b>.</figcaption>
+			   <figcaption>Com o mesmo raio, construímos a <b>Circunf(B,r)</b>, que é o segundo lugar geométrico de <b>O</b>. Teremos duas soluções: <b>O</b> e <b>O'</b>. Se as circunferências ficarem tangentes, temos apenas 1 solução; e no caso em que as circunferências não se interceptam, não temos solução.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="027" name="sl">
@@ -212,7 +212,7 @@
 			   <input type="radio" id="029" name="sl">
 			   <label for="029"></label>
 			   <img src="parte1/04_01_07.png"/>
-			   <figcaption>Escolhemos uma solução para ficar com linha contínua e a outra com linhas tracejadas.</figcaption>
+			   <figcaption>Escolhemos uma solução para ficar com linha contínua e a outra com linha tracejada.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte1/04_01_00.png" class="fundo" />
@@ -417,19 +417,19 @@
 			   <input type="radio" id="053" name="sl">
 			   <label for="053"></label>
 			   <img src="parte1/07_03_03.png"/>
-			   <figcaption>Usando a régua ou um dos esquadros, construa a mediatriz de <b>BC</b> unindo <b>P</b> e <b>P'</b>.</figcaption>
+			   <figcaption>Usando a régua ou um dos esquadros, construa a mediatriz de <b>BC</b> unindo os pontos <b>P</b> e <b>P'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="054" name="sl">
 			   <label for="054"></label>
 			   <img src="parte1/07_03_04.png"/>
-			   <figcaption>Como o vértice <b>A</b> pertence à circunferência <b>&lambda;</b>, as interseções de <b>&lambda;</b> com a <b>med<sub>BC</sub></b> definem os vértices do triângulo isósceles.</figcaption>
+			   <figcaption>Como o vértice <b>A</b> pertence à circunferência <b>&lambda;</b>, as interseções de <b>&lambda;</b> com a <b>med<sub>BC</sub></b> definem os vértices do triângulo isósceles. Teremos 2 soluções para este problema, pois a mediatriz intercepta a circunferência em 2 pontos.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="055" name="sl">
 			   <label for="055"></label>
 			   <img src="parte1/07_03_05.png"/>
-			   <figcaption>Escolha uma solução para construir o triângulo com linhas contínuas e o outro com linhas tracejadas.</figcaption>
+			   <figcaption>Escolha uma solução para construir o triângulo com linha contínua e o outro com linha tracejada.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte1/07_03_00.png" class="fundo" />
@@ -799,7 +799,7 @@
 			   <input type="radio" id="100" name="sl">
 			   <label for="100"></label>
 			   <img src="parte2/12_02_09.png"/>
-			   <figcaption>Agora vamos construi a reta paralela a <b>t</b> que passa por <b>P</b> usando outro raciocínio. Construa um arco de circunferência de raio <b>PQ</b>, onde <b>Q &isin; t</b>.</figcaption>
+			   <figcaption>Agora vamos construi a reta paralela a <b>t</b> que passa por <b>P</b> usando outro raciocínio. Construa um arco de circunferência de raio qualquer <b>PQ</b>, onde <b>Q &isin; t</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="101" name="sl">
@@ -946,16 +946,390 @@
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0013.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos os esquadros e o compasso para resolver este exercício. Lembrando que para construir uma circunferência tangente a uma reta, o raio deve ser perpendicular à reta no ponto de tangência.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="122" name="sl" checked>
+			   <label for="122"></label>
+			   <img src="parte2/13_01_01.png"/>
+			   <figcaption>Primeiro vamos construir a reta paralela ao segmento <b>AB</b>, com distância <b>r</b>. Podemos construir a reta perpendicular a <b>AB</b> que passa pelo ponto <b>A</b> com os esquadros. Alinhando um cateto do esquadro de 45, e apoiando a hipotenusa no outro esquadro...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="123" name="sl">
+			   <label for="123"></label>
+			   <img src="parte2/13_01_02.png"/>
+			   <figcaption>... deslizamos o esquadro de 45 até chegar no ponto <b>A</b>, deixando fixo o outro esquadro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="124" name="sl">
+			   <label for="124"></label>
+			   <img src="parte2/13_01_03.png"/>
+			   <figcaption>Usando o compasso, "pegamos" a medida do raio <b>r</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="125" name="sl">
+			   <label for="125"></label>
+			   <img src="parte2/13_01_04.png"/>
+			   <figcaption>... e marcamos a partir do ponto <b>A</b> na reta perpendicular que construímos: logo, temos que <b>AD &perp; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="126" name="sl">
+			   <label for="126"></label>
+			   <img src="parte2/13_01_05.png"/>
+			   <figcaption>Podemos alinhar a hipotenusa do esquadro de 45 com <b>AB</b>, deixando o outro esquadro apoiado em um cateto do esquadro de 45.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="127" name="sl">
+			   <label for="127"></label>
+			   <img src="parte2/13_01_06.png"/>
+			   <figcaption>Deslizando o esquadro de 45 até chegar em <b>D</b>, deixando fixo o outro esquadro, construímos a reta <b>s // AB</b> com distância <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="128" name="sl">
+			   <label for="128"></label>
+			   <img src="parte2/13_01_07.png"/>
+			   <figcaption>Agora podemos construir a reta perpendicular ao segmento <b>BC</b> que passa pelo ponto <b>C</b>. Podemos alinhar um cateto do esquadro de 60 com <b>BC</b>, deixando o outro esquadro apoiado na hipotenusa do esquadro de 60.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="129" name="sl">
+			   <label for="129"></label>
+			   <img src="parte2/13_01_08.png"/>
+			   <figcaption>Deixando fixo o esquadro de 45, deslizamos o esquadro de 60 até chegar em <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="130" name="sl">
+			   <label for="130"></label>
+			   <img src="parte2/13_01_09.png"/>
+			   <figcaption>Com o compasso, "pegamos" a distância <b>r</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="131" name="sl">
+			   <label for="131"></label>
+			   <img src="parte2/13_01_10.png"/>
+			   <figcaption>... e marcamos esta distância a partir de <b>C</b>, encontrando <b>CE &perp; BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="132" name="sl">
+			   <label for="132"></label>
+			   <img src="parte2/13_01_11.png"/>
+			   <figcaption>Agora podemos alinhar a hipotenusa do esquadro de 45 com <b>BC</b>, deixando um cateto apoiado com o outro esquadro...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="133" name="sl">
+			   <label for="133"></label>
+			   <img src="parte2/13_01_12.png"/>
+			   <figcaption>... e deixamos fixo o esquadro de 60 para deslizar o esquadro de 45 até chegar em <b>E</b>. Logo, temos a reta <b>t // BC</b> com distância <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="134" name="sl">
+			   <label for="134"></label>
+			   <img src="parte2/13_01_13.png"/>
+			   <figcaption>A interseção entre <b>s</b> e <b>t</b> é o centro da circunferência tangente aos segmentos <b>AB</b> e <b>BC</b> com raio <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/13_01_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0013a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>No exercício anterior, construímos as retas perpendiculares e paralelas com os esquadros. Neste exercício, vamos utilizar a régua e o compasso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="135" name="sl" checked>
+			   <label for="135"></label>
+			   <img src="parte2/13_02_01.png"/>
+			   <figcaption>Como vamos construir uma circunferência tangente à reta <b>t</b>, dado o raio <b>r</b>, construiremos a reta perpendicular a <b>t</b> por um ponto qualquer <b>B &isin; t</b>. Com centro em <b>B</b>, defina um raio qualquer para marcar o ponto <b>C &isin; t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="136" name="sl">
+			   <label for="136"></label>
+			   <img src="parte2/13_02_02.png"/>
+			   <figcaption>Usando o mesmo raio <b>BC</b>, encontre o ponto <b>D &isin; t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="137" name="sl">
+			   <label for="137"></label>
+			   <img src="parte2/13_02_03.png"/>
+			   <figcaption>Construindo a mediatriz de <b>CD</b>, teremos a reta perpendicular a <b>t</b> que passa por <b>B</b>. Com centro em <b>D</b>, defina um arco com raio maior do que <b>BC</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="138" name="sl">
+			   <label for="138"></label>
+			   <img src="parte2/13_02_04.png"/>
+			   <figcaption>... e com centro em <b>C</b> e mesmo raio, encontramos o ponto <b>E</b> tal que <b>s &equiv; BE &perp; t &equiv; BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="139" name="sl">
+			   <label for="139"></label>
+			   <img src="parte2/13_02_05.png"/>
+			   <figcaption>Com o compasso, "pegue" a medida <b>r</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="140" name="sl">
+			   <label for="140"></label>
+			   <img src="parte2/13_02_06.png"/>
+			   <figcaption>... e marque esta distância <b>r</b> a partir de <b>B</b> na reta <b>s</b>. Assim, encontramos o ponto <b>F</b>. Neste ponto, podemos construir a reta paralela a <b>t</b> com distância <b>r</b>. Já vimos 3 construções diferentes para usar de retas paralelas. Neste exemplo, vamos fazer esta reta paralela usando a construção do losango.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="141" name="sl">
+			   <label for="141"></label>
+			   <img src="parte2/13_02_07.png"/>
+			   <figcaption>Com centro em <b>F</b>, construímos um arco de medida qualquer que intercepte <b>t</b> em <b>G</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="142" name="sl">
+			   <label for="142"></label>
+			   <img src="parte2/13_02_08.png"/>
+			   <figcaption>Com a mesma medida <b>FG</b>, encontramos <b>H &isin; t</b> e <b>GH = FG</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="143" name="sl">
+			   <label for="143"></label>
+			   <img src="parte2/13_02_09.png"/>
+			   <figcaption>Com a mesma medida, construimos o arco com centro em <b>H</b>, interceptando o primeiro arco que construimos com centro em <b>F</b> no ponto <b>I</b>. A reta <b>FI</b> é paralela à reta <b>t</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="144" name="sl">
+			   <label for="144"></label>
+			   <img src="parte2/13_02_10.png"/>
+			   <figcaption>Agora podemos "pegar" a medida do raio <b>r</b> para definir a distância do centro da circunferência procurada com o ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="145" name="sl">
+			   <label for="145"></label>
+			   <img src="parte2/13_02_11.png"/>
+			   <figcaption>Este é o segundo lugar geométrico do centro da circunferência tangente: uma circunferência com centro em A e raio <b>r</b>. Esta circunferência intercepta a reta <b>u // t</b> nos pontos <b>O</b> e <b>O'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="146" name="sl">
+			   <label for="146"></label>
+			   <img src="parte2/13_02_12.png"/>
+			   <figcaption>Construimos uma solução com linha contínua e outra com linha tracejada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="147" name="sl">
+			   <label for="147"></label>
+			   <img src="parte2/13_02_13.png"/>
+			   <figcaption>Neste exemplo, temos 2 soluções. Caso a <b>Circunf(A,r)</b> não intercepte a reta <b>u // t</b>, não temos solução. E caso a <b>Circunf(A,r) </b> seja tangente à reta <b>u // t</b>, temos apenas 1 solução.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/13_02_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0013b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Neste exercício, vamos utilizar o par de esquadros e o compasso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="148" name="sl" checked>
+			   <label for="148"></label>
+			   <img src="parte2/13_03_01.png"/>
+			   <figcaption>Vamos construir uma reta perpendicular a um dos segmentos, escolhendo um ponto <b>A</b> pertencente ao primeiro segmento. Com um cateto alinhado com o segmento e o esquadro de 60 apoiado na hipotenusa...<b>t</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="149" name="sl">
+			   <label for="149"></label>
+			   <img src="parte2/13_03_02.png"/>
+			   <figcaption>... deslizamos o esquadro de 45 até chegar em <b>A</b>, deixando o esquadro de 60 fixo. Logo, temos a perpendicular ao segmento que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="150" name="sl">
+			   <label for="150"></label>
+			   <img src="parte2/13_03_03.png"/>
+			   <figcaption>Agora "pegamos" a medida do raio <b>d</b> com o compasso...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="151" name="sl">
+			   <label for="151"></label>
+			   <img src="parte2/13_03_04.png"/>
+			   <figcaption>... e com centro em <b>A</b>, construímos o arco com raio <b>d</b>, definindo o segmento <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="152" name="sl">
+			   <label for="152"></label>
+			   <img src="parte2/13_03_05.png"/>
+			   <figcaption>Agora podemos construir a reta paralela ao segmento que passa por <b>B</b>. Alinhando a hipotenusa do esquadro de 60 no segmento, e deixando um cateto apoiado com o outro esquadro...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="153" name="sl">
+			   <label for="153"></label>
+			   <img src="parte2/13_03_06.png"/>
+			   <figcaption>... deslizamos o esquadro de 60 até chegar em <b>B</b> com o esquadro de 45 fixo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="154" name="sl">
+			   <label for="154"></label>
+			   <img src="parte2/13_03_07.png"/>
+			   <figcaption>Podemos fazer a mesma construção no outro segmento, com um ponto <b>C</b> em qualquer posição deste segundo segmento.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="155" name="sl">
+			   <label for="155"></label>
+			   <img src="parte2/13_03_08.png"/>
+			   <figcaption>Alinhando um cateto do esquadro de 45 e deslizando até chegar em <b>C</b>, temos a reta perpendicular construída.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="156" name="sl">
+			   <label for="156"></label>
+			   <img src="parte2/13_03_09.png"/>
+			   <figcaption>Podemos "pegar" a medida do raio <b>d</b> com o compasso...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="157" name="sl">
+			   <label for="157"></label>
+			   <img src="parte2/13_03_10.png"/>
+			   <figcaption>... e marcá-la na perpendicular a partir do ponto <b>C</b>, encontrando o ponto <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="158" name="sl">
+			   <label for="158"></label>
+			   <img src="parte2/13_03_11.png"/>
+			   <figcaption>Alinhamos a hipotenusa do esquadro de 60 com o segmento...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="159" name="sl">
+			   <label for="159"></label>
+			   <img src="parte2/13_03_12.png"/>
+			   <figcaption>... e deslizamos este esquadro até chegar em <b>D</b>, deixando o outro esquadro fixo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="160" name="sl">
+			   <label for="160"></label>
+			   <img src="parte2/13_03_13.png"/>
+			   <figcaption>A interseção das retas paralelas aos segmentos é o centro <b>O</b> da circunferência de raio <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/13_03_00.png" class="fundo" />
+  </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0014.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Você pode fazer a construção da reta paralela com régua e compasso ou com esquadros.</p>
+	<img src="parte2/14_01_00.png" />
+	<figcaption>Como a circunferência deve passar por <b>A</b> e <b>B</b>, o centro estará na mediatriz de <b>AB</b>.</figcaption>
+  </details></div>
   <img src="parte2/apos_dg_0014a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Você pode fazer a construção da reta paralela com régua e compasso ou com esquadros.</p>
+	<img src="parte2/14_02_00.png" />
+	<figcaption>Antes de construir a circunferência, lembre-se de determinar o raio <b>OT</b> por meio de uma perpendicular à reta <b>t</b>.</figcaption>
+  </details></div>
   <img src="parte2/apos_dg_0014b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
+	<img src="parte2/14_02_00.png" />
+	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>BC &perp; r</b> para marcar o segmento <b>n</b>.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0015.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
+	<img src="parte2/14_02_00.png" />
+	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>CD &perp; r</b> para marcar o segmento <b>d</b>.</figcaption>
+  </details></div>
   <img src="parte2/apos_dg_0015a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Neste exercício, você pode usar a régua e o compasso para construir as retas perpendiculares e paralelas ou o par de esquadros com o compasso. Vamos ver como fica a construção com os esquadros e o compasso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="161" name="sl" checked>
+			   <label for="161"></label>
+			   <img src="parte2/15_02_01.png"/>
+			   <figcaption>Podemos escolher um ponto qualquer <b>A &isin; b</b> para construir a reta perpendicular à reta <b>b</b>. Alinhando um cateto do esquadro de 45 com a reta <b>b</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="162" name="sl">
+			   <label for="162"></label>
+			   <img src="parte2/15_02_02.png"/>
+			   <figcaption>... deixando o outro esquadro fixo, deslizamos o esquadro de 45 até chegar em <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="163" name="sl">
+			   <label for="163"></label>
+			   <img src="parte2/15_02_03.png"/>
+			   <figcaption>Podemos usar o compasso para "pegar" a media <b>r</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="164" name="sl">
+			   <label for="164"></label>
+			   <img src="parte2/15_02_04.png"/>
+			   <figcaption>... e marcá-la na reta perpendicular à reta <b>b</b> a partir do ponto <b>A</b>, definindo o segmento <b>AB &perp; b</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="165" name="sl">
+			   <label for="165"></label>
+			   <img src="parte2/15_02_05.png"/>
+			   <figcaption>No prolongamento de <b>AB</b>, marcamos o raio <b>r</b> para encontrar a outra reta paralela à reta <b>b</b>, definindo <b>BC &perp; b</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="166" name="sl">
+			   <label for="166"></label>
+			   <img src="parte2/15_02_06.png"/>
+			   <figcaption>Alinhando a hipotenusa do esquadro de 45 com a reta <b>b</b>, deixando o esquadro de 60 como apoio fixo...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="167" name="sl">
+			   <label for="167"></label>
+			   <img src="parte2/15_02_07.png"/>
+			   <figcaption>... deslizamos o esquadro de 45 até chegar em <b>B</b>, definindo a primeira paralela, e...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="168" name="sl">
+			   <label for="168"></label>
+			   <img src="parte2/15_02_08.png"/>
+			   <figcaption>... deslizamos este esquadro até chegar em <b>C</b>, definindo a segunda paralela à reta <b>b</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="169" name="sl">
+			   <label for="169"></label>
+			   <img src="parte2/15_02_09.png"/>
+			   <figcaption>Como o centro da solução pertence à reta <b>a</b>, teremos 2 soluções: <b>O &equiv; s &cap; a</b> e <b>O' &equiv; t &cap; a</b>.Construímos estas circunferências com raios de medida <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/15_02_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0015b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="171" name="sl" checked>
+			   <label for="171"></label>
+			   <img src="parte2/15_03_01.png"/>
+			   <figcaption>Considere as bissetrizes <b>b<sub>1</sub></b> e <b>b<sub>s</sub></b> dos ângulos formados entre as retas <b>r</b> e <b>s</b>, com vértice <b>O</b>. Escolha um ponto <b>Q &isin; b<sub>2</sub></b>. O ponto <b>P &isin; b<sub>1</sub></b> é equidistante das retas <b>r</b> e <b>s</b>, ou seja, <b>PP' = PP''</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="172" name="sl">
+			   <label for="172"></label>
+			   <img src="parte2/15_03_02.png"/>
+			   <figcaption>Se construirmos o segmento <b>QQ'' &perp; s</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="173" name="sl">
+			   <label for="173"></label>
+			   <img src="parte2/15_03_03.png"/>
+			   <figcaption>... e <b>QQ' &perp; r</b>, teremos a mesma medida <b>QQ' = QQ''</b>. Esta é uma das propriedades da bissetriz: lugar geométrico dos pontos equidistantes de duas retas. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="174" name="sl">
+			   <label for="174"></label>
+			   <img src="parte2/15_03_04.png"/>
+			   <figcaption>Temos o caso de congruência LLAr (lado, lado, ângulo reto): <b>&#9651;OPP' = &#9651;OPP''</b>, pois <b>OP</b> é lado comum, <b>PP' = PP''</b> e <b>&angsph;P' = &angsph;P'' = 90&deg;</b>. Logo, os ângulos <b>&angsph;POP'</b> e <b>&angsph;POP''</b> são iguais. O mesmo vale para a congruência de <b>&#9651;OQQ' = &#9651;OQQ''</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="175" name="sl">
+			   <label for="175"></label>
+			   <img src="parte2/15_03_05.png"/>
+			   <figcaption>Portanto, temos os ângulos <b>&alpha;</b> e <b>&beta;</b> que definem outra propriedade da bissetriz: ela divide os ângulos formados entre<b>r</b> e <b>s</b> ao meio.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="176" name="sl">
+			   <label for="176"></label>
+			   <img src="parte2/15_03_05.png"/>
+			   <figcaption>O ângulo formado entre as bissetrizes <b>b<sub>1</sub></b> e <b>b<sub>s</sub></b> mede <b>&alpha; + &beta;</b>. Como <b>&alpha; + &alpha; + &beta; + &beta; = 180&deg;</b>, temos que <b>&alpha; + &beta; = 90&deg;</b>, ou seja, as bissetrizes dos ângulos suplementares são perpendiculares.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/15_03_00.png" class="fundo" />
+  </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0016.png" />
   <img src="parte2/apos_dg_0016a.png" />
