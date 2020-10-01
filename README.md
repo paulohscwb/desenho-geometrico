@@ -1448,7 +1448,7 @@
 		<img src="parte2/16_02_00.png" class="fundo" />
   </details></div>
   <img src="parte2/apos_dg_0016b.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
 	  <ul class="slider">
 		  <li>
