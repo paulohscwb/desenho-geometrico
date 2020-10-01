@@ -1363,7 +1363,7 @@
 			   <input type="radio" id="180" name="sl">
 			   <label for="180"></label>
 			   <img src="parte2/16_01_05.png"/>
-			   <figcaption>Esta semi-reta é a bissetriz do ângulo <b>&anglesph;A</b>.</figcaption>
+			   <figcaption>Esta semi-reta é a bissetriz do ângulo <b>&angsph;A</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/16_01_00.png" class="fundo" />
