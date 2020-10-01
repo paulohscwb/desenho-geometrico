@@ -1899,6 +1899,7 @@
 			   <img src="parte2/19_03_10.png"/>
 			   <figcaption>Vamos desenhar outra reta no espaço abaixo para construir os outros ângulos.</figcaption>
 		   </li>
+		</ul>
 		<img src="parte2/19_03_00.png" class="fundo" />
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
