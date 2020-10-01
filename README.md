@@ -1442,7 +1442,7 @@
 			   <input type="radio" id="192" name="sl">
 			   <label for="192"></label>
 			   <img src="parte2/16_02_12.png"/>
-			   <figcaption>Logo, a mediatriz da base <b>BD</b> do <b>&#9651;</b> será a bissetriz do ângulo formado entre <b>r</b> e <b>s</b>. Esta mediatriz será paralela à bissetriz do <b>&angsph;BAC</b>.</figcaption>
+			   <figcaption>Logo, a mediatriz da base <b>BD</b> do <b>&#9651;VDB</b> será a bissetriz do ângulo formado entre <b>r</b> e <b>s</b>. Esta mediatriz será paralela à bissetriz do <b>&angsph;BAC</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/16_02_00.png" class="fundo" />
