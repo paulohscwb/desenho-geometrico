@@ -1449,7 +1449,7 @@
   </details></div>
   <img src="parte2/apos_dg_0016b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
+	<p>Vamos usar a régua e o compasso neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="193" name="sl" checked>
@@ -1487,13 +1487,231 @@
   <img src="parte2/apos_dg_0016c.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0017.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Neste exercício, vamos utilizar a régua e o compasso. Vamos determinar o centro da circunferência inscrita, que fica tangente aos 3 lados do triângulo.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="198" name="sl" checked>
+			   <label for="198"></label>
+			   <img src="parte2/17_01_01.png"/>
+			   <figcaption>O incentro do triângulo está no encontro das 3 bissetrizes dos ângulos internos do triângulo. Como precisamos da interseção de 2 retas para determinar o ponto, vamos construir apenas 2 bissetrizes. Com centro em <b>A</b>, determine um arco com raio qualquer que intercepte os lados <b>AC</b> e <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="199" name="sl">
+			   <label for="199"></label>
+			   <img src="parte2/17_01_02.png"/>
+			   <figcaption>Com centro em <b>D</b> e em <b>E</b>, construímos os arcos com mesma medida de raio, que seja maior do que a metade de <b>DE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="200" name="sl">
+			   <label for="200"></label>
+			   <img src="parte2/17_01_03.png"/>
+			   <figcaption>A semi-reta <b>AF</b> é a bissetriz do <b>&angsph;A</b>, relativa ao lado <b>a</b>, que podemos nomear como <b>b<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="201" name="sl">
+			   <label for="201"></label>
+			   <img src="parte2/17_01_04.png"/>
+			   <figcaption>Com centro em <b>B</b>, definimos um arco com raio de medida qualquer que intercepte os lados <b>AB</b> e <b>BC</b> do triângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="202" name="sl">
+			   <label for="202"></label>
+			   <img src="parte2/17_01_05.png"/>
+			   <figcaption>Com centros em <b>G</b> e em <b>H</b> e raios iguais a uma medida maior do que a metade de <b>GH</b>, definimos os arcos que se cortam em <b>J</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="203" name="sl">
+			   <label for="203"></label>
+			   <img src="parte2/17_01_06.png"/>
+			   <figcaption>A semi-reta <b>AJ</b> é a bissetriz do <b>&angsph;B</b>, relativa ao lado <b>b</b>, que podemos nomear como <b>b<sub>b</sub></b>. A interseção das bissetrizes construídas é o incentro <b>I</b> do triângulo. Não é necessária a construção da bissetriz do <b>&angsph;C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="204" name="sl">
+			   <label for="204"></label>
+			   <img src="parte2/17_01_07.png"/>
+			   <figcaption>Para determinarmos o raio da circunferência inscrita, podemos usar os esquadros, ou o compasso. Se construirmos um arco com centro em <b>I</b>, que intercepte um dos lados do triângulo nos pontos <b>K</b> e <b>L</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="205" name="sl">
+			   <label for="205"></label>
+			   <img src="parte2/17_01_08.png"/>
+			   <figcaption>... construímos a mediatriz de <b>KL</b> com arcos centrados em <b>K</b> e <b>L</b>, com mesmo raio, de medida maior do que a metade de <b>KL</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="206" name="sl">
+			   <label for="206"></label>
+			   <img src="parte2/17_01_09.png"/>
+			   <figcaption>Definimos então o segmento <b>IM &perp; BC</b>. A distância <b>IT<sub>a</sub></b> é o raio da circunferência inscrita.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="207" name="sl">
+			   <label for="207"></label>
+			   <img src="parte2/17_01_10.png"/>
+			   <figcaption>Esta é a solução do problema. Se você quiser, pode construir a reta perpendicular <b>IM</b> com os esquadros. Note que fizemos esta perpendicular ao lado <b>BC</b>, mas ela pode ser feita em qualquer um dos lados do triângulo.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/17_01_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0017a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. As retas perpendiculares podem ser construídas com os esquadros ou com a régua e o compasso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="208" name="sl" checked>
+			   <label for="208"></label>
+			   <img src="parte2/17_02_01.png"/>
+			   <figcaption>O centro de uma circunferência ex-inscrita é determinado pelo encontro de duas bissetrizes dos ângulos externos do triângulo com a bissetriz de um ângulo interno. Vamos começar definindo as bissetrizes dos ângulos externos relativos aos lados <b>AB</b> e <b>BC</b>. Prolongue estes lados.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="209" name="sl">
+			   <label for="209"></label>
+			   <img src="parte2/17_02_02.png"/>
+			   <figcaption>Construa a bissetriz do <b>&ang;DAE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="210" name="sl">
+			   <label for="210"></label>
+			   <img src="parte2/17_02_03.png"/>
+			   <figcaption>Vamos chamar esta bissetriz de <b>biss<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="211" name="sl">
+			   <label for="211"></label>
+			   <img src="parte2/17_02_04.png"/>
+			   <figcaption>Agora vamos construir a bissetriz do <b>&ang;GCH</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="212" name="sl">
+			   <label for="212"></label>
+			   <img src="parte2/17_02_05.png"/>
+			   <figcaption>A semi-reta <b>CJ</b> define esta bissetriz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="213" name="sl">
+			   <label for="213"></label>
+			   <img src="parte2/17_02_06.png"/>
+			   <figcaption>Vamos nomear esta semi-reta de <b>biss<sub>2</sub></b>. O encontro destas bissetrizes é o primeiro ex-incentro, relativo ao lado <b>AC = b</b>, que nomeamos como <b>I<sub>b</sub></b>. Se construirmos a bissetriz do <b>&ang;B</b>, ela passa pelo ex-incentro <b>I<sub>b</sub></b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="214" name="sl">
+			   <label for="214"></label>
+			   <img src="parte2/17_02_07.png"/>
+			   <figcaption>Agora vamos encontrar o raio desta circunferência. No exercício anterior, vimos como encontrar o raio da circunferência inscrita com o compasso. Com os esquadros, temos que alinhar o cateto de um esquadro com um lado (por exemplo, <b>AB</b>), deixando o outro apoiado na hipotenusa e fixo...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="215" name="sl">
+			   <label for="215"></label>
+			   <img src="parte2/17_02_08.png"/>
+			   <figcaption>E deslizamos o esquadro alinhado até chegar em <b>I<sub>b</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="216" name="sl">
+			   <label for="216"></label>
+			   <img src="parte2/17_02_09.png"/>
+			   <figcaption>O raio da circunferência ex-inscrita mede <b>I<sub>b</sub>T<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="217" name="sl">
+			   <label for="217"></label>
+			   <img src="parte2/17_02_10.png"/>
+			   <figcaption>Agora vamos prolongar os lados <b>AC</b> e <b>BC</b> para encontrar a outra circunferência ex-inscrita. Uma das bissetrizes não precisa ser construída (<b>biss<sub>3</sub></b>), pois os ângulos com vértice em <b>A</b> têm mesma medida: são opostos pelo vértice. Logo, podemos apenas prolongar a <b>biss<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="218" name="sl">
+			   <label for="218"></label>
+			   <img src="parte2/17_02_11.png"/>
+			   <figcaption>Construa a bissetriz do <b>&ang;KBL</b>, que define a <b>biss<sub>4</sub></b>. Logo, temos que <b>I<sub>c</sub> &equiv; biss<sub>3</sub> &cup; biss<sub>4</sub></b>. Defina o raio <b>I<sub>c</sub>T<sub>2</sub> &perp; AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="219" name="sl">
+			   <label for="219"></label>
+			   <img src="parte2/17_02_12.png"/>
+			   <figcaption>A última circunferência ex-inscrita é a mais fácil de fazer, pois as bissetrizes <b>biss<sub>5</sub></b> e <b>biss<sub>6</sub></b> são os prolongamentos de <b>biss<sub>4</sub></b> e de <b>biss<sub>2</sub></b>. Logo, temos o ex-incentro <b>I<sub>a</sub></b> e podemos construir a terceira circunferência ex-inscrita.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="220" name="sl">
+			   <label for="220"></label>
+			   <img src="parte2/17_02_13.png"/>
+			   <figcaption>Construa <b>I<sub>a</sub>T<sub>3</sub> &perp; AB</b> e construa a circunferência ex-inscrita relativa ao lado <b>a</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/17_02_00.png" class="fundo" />
+  </details></div>
   <img src="parte2/apos_dg_0017b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
+	<img src="parte2/17_03_00.png" />
+	<figcaption>Lembre-se de construir o segmento <b>r</b> perpendicular a um dos lados do triângulo.</figcaption>
+  </details></div>
   <img src="parte2/apos_dg_0017c.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
+	<img src="parte2/17_04_00.png" />
+	<figcaption>Lembre-se de construir o segmento <b>r</b> perpendicular a um dos lados do triângulo. Este segmento tem medida aproximada de 1,4cm.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0018.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
+	<img src="parte2/18_01_00.png" />
+	<figcaption>Este exercício admite 4 soluções.</figcaption>
+  </details></div>
   <img src="parte2/apos_dg_0018a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
+	<img src="parte2/18_02_00.png" />
+	<figcaption>Você pode construir a bissetriz do <b>&ang;BAC</b> ou a mediatriz de <b>BC</b>.</figcaption>
+  </details></div>
   <img src="parte2/apos_dg_0018b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Você pode usar a régua e o compasso ou os esquadros e o compasso para resolver este exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="221" name="sl" checked>
+			   <label for="221"></label>
+			   <img src="parte2/18_03_01.png"/>
+			   <figcaption>Considere os segmentos <b>s</b> e <b>t</b>. Vamos encontrar a bissetriz do ângulo formado entre <b>s</b> e <b>t</b> sem usar o vértice.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="222" name="sl">
+			   <label for="222"></label>
+			   <img src="parte2/18_03_02.png"/>
+			   <figcaption>Construa a reta <b>u // s</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="223" name="sl">
+			   <label for="223"></label>
+			   <img src="parte2/18_03_03.png"/>
+			   <figcaption>Defina o arco com centro em <b>A</b>, que intercepta <b>u</b> e <b>t</b> em <b>C</b> e <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="224" name="sl">
+			   <label for="224"></label>
+			   <img src="parte2/18_03_04.png"/>
+			   <figcaption>Prolongando o segmento <b>CD</b>, encontramos <b>E &isin; s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="225" name="sl">
+			   <label for="225"></label>
+			   <img src="parte2/18_03_05.png"/>
+			   <figcaption>A bissetriz do ângulo formado entre <b>s</b> e <b>t</b> é a mediatriz de <b>DE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="226" name="sl">
+			   <label for="226"></label>
+			   <img src="parte2/18_03_06.png"/>
+			   <figcaption>Com a circunferência de centro em <b>A</b> e raio <b>d</b>, encontramos o ponto <b>B &isin; biss(s,t)</b>. Note que usamos apenas uma das interseções: a que está proxima da reta <b>u</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="227" name="sl">
+			   <label for="227"></label>
+			   <img src="parte2/18_03_07.png"/>
+			   <figcaption>Agora você pode construir a circunferência com centro em <b>B</b> e raio <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/18_03_00.png" class="fundo" />
+  </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0019.png" />
   <img src="parte2/apos_dg_0019a.png" />
