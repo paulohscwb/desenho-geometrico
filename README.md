@@ -725,22 +725,260 @@
 <details>
   <summary id="parte2">Retas paralelas e bissetriz: pág. 12-20</summary>
   <img src="parte2/apos_dg_0012.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<p>Agora vamos estudar o terceiro lugar geométrico: retas paralelas. Vamos ver algumas propriedades.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="090" name="sl" checked>
+			   <label for="090"></label>
+			   <img src="parte2/12_01_01.png"/>
+			   <figcaption>Fixando a reta <b>r</b>, as retas paralelas <b>s<sub>1</sub></b> e <b>s<sub>2</sub></b> formam o conjunto de pontos com distância <b>d</b> até a reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="091" name="sl">
+			   <label for="091"></label>
+			   <img src="parte2/12_01_02.png"/>
+			   <figcaption>Para medir a distância de um ponto <b>P</b> qualquer, pertencente a <b>s<sub>1</sub></b>, até a reta <b>r</b> basta construir a reta perpendicular a <b>r</b> que passa por <b>P</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/12_01_00.png" class="fundo" />
+  </details></div>
+  <img src="parte2/apos_dg_0012a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua e o compasso para resolver os dois primeiros casos nesta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="092" name="sl" checked>
+			   <label for="092"></label>
+			   <img src="parte2/12_02_01.png"/>
+			   <figcaption>Vamos usar a ideia de mediatriz para a primeira construção. Primeiro, vamos construir a reta perpendicular a <b>t</b> que passa por <b>P</b>. Com centro em <b>P</b>, construa o arco que intercepta <b>t</b> nos pontos <b>A</b> e <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="093" name="sl">
+			   <label for="093"></label>
+			   <img src="parte2/12_02_02.png"/>
+			   <figcaption>Com centro em <b>B</b>, construa um arco com medida do raio maior do que a metade de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="094" name="sl">
+			   <label for="094"></label>
+			   <img src="parte2/12_02_03.png"/>
+			   <figcaption>Com centro em <b>A</b>, construa o arco com mesmo raio usado em <b>B</b>. A interseção é o ponto <b>C</b> que define a reta <b>PC &perp; r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="095" name="sl">
+			   <label for="095"></label>
+			   <img src="parte2/12_02_04.png"/>
+			   <figcaption>Agora vamos construir a reta perpendicular à reta <b>PC</b> que passa por <b>P</b>. Com centro em <b>P</b>, defina um arco qualquer que intercepte <b>PC</b> em <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="096" name="sl">
+			   <label for="096"></label>
+			   <img src="parte2/12_02_05.png"/>
+			   <figcaption>Encontre o ponto <b>E</b>, tal que <b>PE = PD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="097" name="sl">
+			   <label for="097"></label>
+			   <img src="parte2/12_02_06.png"/>
+			   <figcaption>Agora vamos construir a mediatriz de <b>ED</b>. Com centro em <b>D</b>, construa um arco com raio maior do que <b>PD</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="098" name="sl">
+			   <label for="098"></label>
+			   <img src="parte2/12_02_07.png"/>
+			   <figcaption>... e use o mesmo raio para construir o arco com centro em <b>E</b>. Desta forma, encontramos o ponto <b>F</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="099" name="sl">
+			   <label for="099"></label>
+			   <img src="parte2/12_02_08.png"/>
+			   <figcaption>A reta <b>PF &perp; PD</b> é paralela à reta <b>t</b>, pois os ângulos alternos internos são iguais a 90 &deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="100" name="sl">
+			   <label for="100"></label>
+			   <img src="parte2/12_02_09.png"/>
+			   <figcaption>Agora vamos construi a reta paralela a <b>t</b> que passa por <b>P</b> usando outro raciocínio. Construa um arco de circunferência de raio <b>PQ</b>, onde <b>Q &isin; t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="101" name="sl">
+			   <label for="101"></label>
+			   <img src="parte2/12_02_10.png"/>
+			   <figcaption>Com a mesma medida do raio, encontre o ponto <b>R &isin; t</b>, ou seja, <b>QR = PQ</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="102" name="sl">
+			   <label for="102"></label>
+			   <img src="parte2/12_02_11.png"/>
+			   <figcaption>Com centro em <b>R</b>, determine o arco com mesmo raio que usamos para achar <b>Q</b> e <b>R</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="103" name="sl">
+			   <label for="103"></label>
+			   <img src="parte2/12_02_12.png"/>
+			   <figcaption>Na interseção do terceiro arco que construímos com o arco de centro <b>P</b>, encontramos o ponto <b>S</b>, tal que <b>PS // t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="104" name="sl">
+			   <label for="104"></label>
+			   <img src="parte2/12_02_13.png"/>
+			   <figcaption>De fato, <b>PS // t</b> pois construímos um losango <b>PQRS</b>, e os lados opostos de um losango são paralelos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/12_02_00.png" class="fundo" />
+  </details></div>
+  <img src="parte2/apos_dg_0012b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua e o compasso para resolver o terceiro caso desta construção, e o par de esquadros no quarto caso.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="105" name="sl" checked>
+			   <label for="105"></label>
+			   <img src="parte2/12_03_01.png"/>
+			   <figcaption>Vamos usar outro raciocínio para construir a reta paralela a <b>t</b> que passa por <b>P</b>. Determine um ponto <b>A</b> sobre a reta, de tal forma que <b>A</b> não esteja na direção da reta perpendicular a <b>t</b> que passa por <b>P</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="106" name="sl">
+			   <label for="106"></label>
+			   <img src="parte2/12_03_02.png"/>
+			   <figcaption>Com centro em <b>A</b>, construa um arco com medida do raio igual a <b>AP</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="107" name="sl">
+			   <label for="107"></label>
+			   <img src="parte2/12_03_03.png"/>
+			   <figcaption>Este arco deve formar uma semi-circunferência, interceptando <b>t</b> em <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="108" name="sl">
+			   <label for="108"></label>
+			   <img src="parte2/12_03_04.png"/>
+			   <figcaption>Com o compasso, "pegue" a medida <b>BP</b> e...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="109" name="sl">
+			   <label for="109"></label>
+			   <img src="parte2/12_03_05.png"/>
+			   <figcaption>... construa o arco com raio <b>BP</b> e centro em <b>C</b>, determinando <b>D</b> na semi-circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="110" name="sl">
+			   <label for="110"></label>
+			   <img src="parte2/12_03_06.png"/>
+			   <figcaption>A reta <b>PD</b> será paralela a <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="111" name="sl">
+			   <label for="111"></label>
+			   <img src="parte2/12_03_07.png"/>
+			   <figcaption>De fato, esta construção dá certo pois construímos um trapézio iscósceles; as retas <b>PD</b> e <b>t</b> formam as bases do trapézio, que são paralelas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="112" name="sl">
+			   <label for="112"></label>
+			   <img src="parte2/12_03_08.png"/>
+			   <figcaption>Agora, com o uso dos esquadros, podemos alinhar com a reta <b>t</b> a hipotenusa de um dos esquadros: neste exemplo, alinhamos a hipotenusa do esquadro de 45. Coloque o outro esquadro ou a régua como apoio em um dos catetos do esquadro de 45.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="113" name="sl">
+			   <label for="113"></label>
+			   <img src="parte2/12_03_09.png"/>
+			   <figcaption>Deixando fixo o esquadro de 60, deslize o esquadro de 45 até chegar no ponto <b>P</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="114" name="sl">
+			   <label for="114"></label>
+			   <img src="parte2/12_03_10.png"/>
+			   <figcaption>Desta forma temos a reta <b>p // t</b> construída com esquadros.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/12_03_00.png" class="fundo" />
+  </details></div>
+  <img src="parte2/apos_dg_0012c.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Podemos utilizar a régua e o compasso ou o par de esquadros para resolver este exercício. Vamos usar os esquadros para construção e a régua para marcamos a medida de 2cm.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="115" name="sl" checked>
+			   <label for="115"></label>
+			   <img src="parte2/12_04_01.png"/>
+			   <figcaption>Defina um ponto <b>A &isin; t</b>. Para definir o LG de todos os pontos com distância 2cm até a reta <b>t</b>, vamos construir uma reta perpendicular a <b>t</b> passando por <b>A</b>. Alinhando um cateto do esquadro de 45 e apoiando a hipotenusa com o outro esquadro...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="116" name="sl">
+			   <label for="116"></label>
+			   <img src="parte2/12_04_02.png"/>
+			   <figcaption>... deixamos fixo o esquadro de 60 e deslizamos o esquadro de 45 até chegar em <b>A</b>. Desta forma, temos a reta <b>a &perp; t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="117" name="sl">
+			   <label for="117"></label>
+			   <img src="parte2/12_04_03.png"/>
+			   <figcaption>Podemos usar a régua para medir a distância de 2cm nos dois semi-planos definidos pela reta <b>t</b>, definindo os pontos <b>B</b> e <b>C</b> pertencentes à reta <b>a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="118" name="sl">
+			   <label for="118"></label>
+			   <img src="parte2/12_04_04.png"/>
+			   <figcaption>Agora podemos construir as retas paralelas à reta <b>t</b> que passam por <b>B</b> e <b>C</b>. Alinhando a hipotenusa de um dos esquadros com a reta <b>t</b>, e deixando o outro esquadro como apoio... </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="119" name="sl">
+			   <label for="119"></label>
+			   <img src="parte2/12_04_05.png"/>
+			   <figcaption>... deslizamos o esquadro de 60 até chegam em <b>C</b>, deixando fixo o esquadro de 45.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="120" name="sl">
+			   <label for="120"></label>
+			   <img src="parte2/12_04_06.png"/>
+			   <figcaption>Aproveitando o alinhamento, podemos deslizar o esquadro de 60 até chegar em <b>B</b>. Logo, construímos as retas <b>p<sub>1</sub></b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="121" name="sl">
+			   <label for="121"></label>
+			   <img src="parte2/12_04_07.png"/>
+			   <figcaption>... e <b>p<sub>2</sub></b>, que definem o lugar geométrico dos pontos com distância 2cm à reta <b>t</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte2/12_04_00.png" class="fundo" />
+  </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0013.png" />
+  <img src="parte2/apos_dg_0013a.png" />
+  <img src="parte2/apos_dg_0013b.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0014.png" />
+  <img src="parte2/apos_dg_0014a.png" />
+  <img src="parte2/apos_dg_0014b.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0015.png" />
+  <img src="parte2/apos_dg_0015a.png" />
+  <img src="parte2/apos_dg_0015b.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0016.png" />
+  <img src="parte2/apos_dg_0016a.png" />
+  <img src="parte2/apos_dg_0016b.png" />
+  <img src="parte2/apos_dg_0016c.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0017.png" />
+  <img src="parte2/apos_dg_0017a.png" />
+  <img src="parte2/apos_dg_0017b.png" />
+  <img src="parte2/apos_dg_0017c.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0018.png" />
+  <img src="parte2/apos_dg_0018a.png" />
+  <img src="parte2/apos_dg_0018b.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0019.png" />
+  <img src="parte2/apos_dg_0019a.png" />
+  <img src="parte2/apos_dg_0019b.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0020.png" />
+  <img src="parte2/apos_dg_0020a.png" />
+  <img src="parte2/apos_dg_0020b.png" />
+  <img src="parte2/apos_dg_0020c.png" />
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
 </details>
 
