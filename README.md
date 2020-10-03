@@ -1,8 +1,14 @@
 <head>
   <link rel="stylesheet" href="imagens/style.css">
-<script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-</script>
-<script> MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; </script> 
+<script type="text/x-mathjax-config">
+         MathJax.Hub.Config({
+           tex2jax: {
+             inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+             processEscapes: true
+           }
+         });
+       </script>
+       <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 </head>
 
 <h2 id="inicio">Construções Geométricas</h2>
