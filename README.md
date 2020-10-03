@@ -1,5 +1,4 @@
-<head>
-  <link rel="stylesheet" href="imagens/style.css">
+<link rel="stylesheet" href="imagens/style.css">
 <script type="text/x-mathjax-config">
          MathJax.Hub.Config({
            tex2jax: {
@@ -7,9 +6,8 @@
              processEscapes: true
            }
          });
-       </script>
-       <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-</head>
+</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 <h2 id="inicio">Construções Geométricas</h2>
 
