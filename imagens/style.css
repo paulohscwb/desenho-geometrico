@@ -50,14 +50,14 @@ details {
   border-bottom: none;
   padding: 3px;
   border-radius: 7px;
-  width:105%;
+  width:100%;
 }
 
 .combo {
 	display:block;
 	box-shadow: 0px 1px 1px 0px rgba(21,153,87,0.2);
 	margin: 0 -3px 30px -3px;
-	width:100%;
+	width:101%;
 }
 
 .sub {
