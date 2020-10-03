@@ -1,6 +1,10 @@
-<head>
 <link rel="stylesheet" href="imagens/style.css">
-</head>
+<script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
 <h2 id="inicio">Construções Geométricas</h2>
 
@@ -2036,18 +2040,168 @@
 <details>
   <summary id="parte3">Arco capaz: pág. 21-29</summary>
   <img src="parte3/apos_dg_0021.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<p>Vamos ver alguns elementos para o próximo Lugar geométrico.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="272" name="sl" checked>
+			   <label for="272"></label>
+			   <img src="parte3/21_01_01.png"/>
+			   <figcaption>Unindo dois pontos quaisquer <b>A</b> e <b>B</b> de uma circunferência, definimos uma <b>corda</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="273" name="sl">
+			   <label for="273"></label>
+			   <img src="parte3/21_01_02.png"/>
+			   <figcaption>Quando a corda contém o centro da circunferência, temos um <b>diâmetro</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/21_01_00.png" class="fundo" />
+  </details></div>
+  <img src="parte3/apos_dg_0021a.png" />
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0022.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Demonstração</summary>
+	<p>Vamos demonstrar a Propriedade 1. Vamos considerar os 3 casos possíveis: quando um lado do ângulo inscrito define um diâmetro; quando o centro está no interior do ângulo inscrito; e quando o centro está na região externa definida pelo ângulo inscrito.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="274" name="sl" checked>
+			   <label for="274"></label>
+			   <img src="parte3/22_01_01.png"/>
+			   <figcaption>Vamos considerar o vértice <b>P</b> e os lados <b>PA</b> e <b>PB</b>. No primeiro caso, o lado <b>PB</b> define um diâmetro da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="275" name="sl">
+			   <label for="275"></label>
+			   <img src="parte3/22_01_02.png"/>
+			   <figcaption>Temos que <b>OP = OA = r</b>, onde <b>r</b> é o raio da circunferência. Logo, o &angsph;<b>OAP = &alpha;</b>, pois o <b>&#9651;AOP</b> é isósceles de base <b>AP</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="276" name="sl" checked>
+			   <label for="276"></label>
+			   <img src="parte3/22_01_03.png"/>
+			   <figcaption>O &angsph;<b>AOB = &beta;</b> é o ângulo central correspondente de <b>&alpha;</b>. Temos que <b>&beta;</b> e <b>&delta;</b> são suplementares, ou seja, <b>&beta; + &delta; = 180&deg;</b>. Temos também que <b>2&alpha; + &delta; = 180&deg;</b>, pois são ângulos internos do <b>&#9651;AOP</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="276a" name="sl" checked>
+			   <label for="276a"></label>
+			   <img src="parte3/22_01_03.png"/>
+			   <figcaption>Logo, temos que <b>2&alpha; + &delta; = &beta; + &delta;</b>, ou seja, <b>2&alpha; = &beta;</b>. Portanto, <b>$\alpha = {\beta \over 2}$</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="277" name="sl">
+			   <label for="277"></label>
+			   <img src="parte3/22_01_04.png"/>
+			   <figcaption>No segundo caso, considere o diâmetro <b>PC</b>, que divide o ângulo <b>&alpha;</b> em <b>&alpha;<sub>1</sub></b> e <b>&alpha;<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="278" name="sl" checked>
+			   <label for="278"></label>
+			   <img src="parte3/22_01_05.png"/>
+			   <figcaption>Unindo os pontos <b>A</b> e <b>B</b> com o centro da circunferência, determinamos o ângulo central <b>&beta; = &angsph; AOB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="279" name="sl">
+			   <label for="279"></label>
+			   <img src="parte3/22_01_06.png"/>
+			   <figcaption>O ângulo central está dividido nos ângulos centrais correspondentes de <b>&alpha;<sub>1</sub></b> e <b>&alpha;<sub>2</sub></b>, que são <b>&beta;<sub>1</sub></b> e <b>&beta;<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="279a" name="sl">
+			   <label for="279a"></label>
+			   <img src="parte3/22_01_06.png"/>
+			   <figcaption>De acordo com o caso anterior, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 + \alpha_2 = {\beta_1 \over 2} + {\beta_2 \over 2} = {{\beta_1 + \beta_2} \over 2} = {\beta \over 2} $</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="280" name="sl" checked>
+			   <label for="280"></label>
+			   <img src="parte3/22_01_07.png"/>
+			   <figcaption>No terceiro caso, considere o diâmetro <b>PC</b>, que define o ângulo <b>&alpha;</b> como <b>&alpha;<sub>1</sub> - &alpha;<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="281" name="sl" checked>
+			   <label for="281"></label>
+			   <img src="parte3/22_01_08.png"/>
+			   <figcaption>Unindo os pontos <b>A</b> e <b>B</b> com o centro da circunferência, determinamos o ângulo central <b>&beta; = &angsph; AOB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="282" name="sl">
+			   <label for="282"></label>
+			   <img src="parte3/22_01_09.png"/>
+			   <figcaption>O ângulo central tem a seguinte relação com os ângulos centrais correspondentes de <b>&alpha;<sub>1</sub></b> e <b>&alpha;<sub>2</sub></b>: <b>&beta; = &beta;<sub>1</sub> - &beta;<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="282a" name="sl">
+			   <label for="282a"></label>
+			   <img src="parte3/22_01_09.png"/>
+			   <figcaption>De acordo com o primeiro caso provado, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 - \alpha_2 = {\beta_1 \over 2} - {\beta_2 \over 2} = {{\beta_1 - \beta_2} \over 2} = {\beta \over 2} $</b>. Portanto, a propriedade vale em todos os casos, ou seja, o ângulo inscrito sempre vale a metade da medida do ângulo central correspondente.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/22_01_00.png" class="fundo" />
+  </details></div>
+  <img src="parte3/apos_dg_0022a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<p>Vamos ver alguns do ângulo de segmento.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="283" name="sl" checked>
+			   <label for="283"></label>
+			   <img src="parte3/22_02_01.png"/>
+			   <figcaption>Vamos definir as extremidades <b>A</b> e <b>B</b> da corda e a reta tangente <b>t</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="284" name="sl">
+			   <label for="284"></label>
+			   <img src="parte3/22_02_02.png"/>
+			   <figcaption>Quando unimos <b>A</b> e <b>B</b> com o centro da circunferência, temos o ângulo central correspondente <b>&beta;</b> do ângulo de segmento.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/22_02_00.png" class="fundo" />
+  </details></div>
+  <img src="parte3/apos_dg_0022b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Demonstração</summary>
+	<p>Vamos demonstrar a Propriedade 2, que relaciona o ângulo de segmento com o ângulo central correspondente.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="285" name="sl" checked>
+			   <label for="285"></label>
+			   <img src="parte3/22_03_01.png"/>
+			   <figcaption>Vamos considerar a reta tangente à circunferência <b>t</b> no ponto <b>A</b> e o raio com medida <b>r</b>. Logo, temos o <b>&#9651;AOB</b> isósceles de base <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="286" name="sl">
+			   <label for="286"></label>
+			   <img src="parte3/22_03_02.png"/>
+			   <figcaption>Logo, temos os ângulos da base iguais a <b>&delta;</b>. Temos também que <b>&theta; + &delta; = 90&deg;</b>, pois a reta <b>t</b> é tangente e <b>2&delta; + &beta; = 180&deg;</b> pois são ângulos internos do <b>&#9651;AOB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="287" name="sl">
+			   <label for="287"></label>
+			   <img src="parte3/22_03_02.png"/>
+			   <figcaption>Da relação de <b>&delta;</b> e <b>&theta;</b>, podemos concluir que <b>2&delta; + 2&theta; = 180&deg;</b>. Temos que <b>2&delta; + 2&theta; = 2&delta; + &beta;</b>, ou seja <b>2&theta; = &beta;</b>. Portanto, <b>$\theta = {\beta \over 2}$</b>, que é a mesma relação que provamos entre o ângulo inscrito e o central correspondente.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/22_03_00.png" class="fundo" />
+  </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0023.png" />
+  <img src="parte3/apos_dg_0023a.png" />
+  <img src="parte3/apos_dg_0023b.png" />
+  <img src="parte3/apos_dg_0023c.png" />
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0024.png" />
+  <img src="parte3/apos_dg_0024a.png" />
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0025.png" />
+  <img src="parte3/apos_dg_0025a.png" />
+  <img src="parte3/apos_dg_0025b.png" />
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0026.png" />
+  <img src="parte3/apos_dg_0026a.png" />
+  <img src="parte3/apos_dg_0026b.png" />
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0027.png" />
+  <img src="parte3/apos_dg_0027a.png" />
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0028.png" />
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
