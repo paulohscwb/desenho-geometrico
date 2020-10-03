@@ -2115,7 +2115,7 @@
 			   <input type="radio" id="279a" name="sl">
 			   <label for="279a"></label>
 			   <img src="parte3/22_01_06.png"/>
-			   <figcaption>De acordo com o caso anterior, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 + \alpha_2 = {\beta_1 \over 2} + {\beta_2 \over 2} = { {\beta_1 + \beta_2} \over 2} = {\beta \over 2}$</b>.</figcaption>
+			   <figcaption>De acordo com o caso anterior, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e $\alpha_2 = {\beta_2 \over 2}$. Logo, $\alpha = \alpha_1 + \alpha_2 = {\beta_1 \over 2} + {\beta_2 \over 2} = { {\beta_1 + \beta_2} \over 2} = {\beta \over 2}$</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="280" name="sl" checked>
@@ -2139,7 +2139,7 @@
 			   <input type="radio" id="282a" name="sl">
 			   <label for="282a"></label>
 			   <img src="parte3/22_01_09.png"/>
-			   <figcaption>De acordo com o primeiro caso provado, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 - \alpha_2 = {\beta_1 \over 2} - {\beta_2 \over 2} = { {\beta_1 - \beta_2} \over 2} = {\beta \over 2}$</b>. Portanto, a propriedade vale em todos os casos, ou seja, o ângulo inscrito sempre vale a metade da medida do ângulo central correspondente.</figcaption>
+			   <figcaption>De acordo com o primeiro caso provado, temos que $\mathsf{\mathbf{\alpha_1 = {\beta_1 \over 2}}}$ e $\mathsf{\mathbf{ \alpha_2 = {\beta_2 \over 2}}}$. Logo, $\mathsf{\mathbf{\alpha = \alpha_1 - \alpha_2 = {\beta_1 \over 2} - {\beta_2 \over 2} = { {\beta_1 - \beta_2} \over 2} = {\beta \over 2}}}$. Portanto, a propriedade vale em todos os casos, ou seja, o ângulo inscrito sempre vale a metade da medida do ângulo central correspondente.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte3/22_01_00.png" class="fundo" />
