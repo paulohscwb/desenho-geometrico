@@ -1,18 +1,10 @@
 <head>
   <link rel="stylesheet" href="imagens/style.css">
-<<<<<<< HEAD
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
 </script>
 <script> MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} }; </script> 
-=======
-  <script>
-  MathJax = {
-    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
-  };
-  </script>
->>>>>>> a77696e143d9180cb9d39b0bef7d7441eb6b0b89
 </head>
 
 <h2 id="inicio">Construções Geométricas</h2>
