@@ -2178,7 +2178,7 @@
 			   <input type="radio" id="287" name="sl">
 			   <label for="287"></label>
 			   <img src="parte3/22_03_02.png"/>
-			   <figcaption>Da relação de <b>&delta;</b> e <b>&theta;</b>, podemos concluir que <b>2&delta; + 2&theta; = 180&deg;</b>. Temos que <b>2&delta; + 2&theta; = 2&delta; + &beta;</b>, ou seja <b>2&theta; = &beta;</b>. Portanto, <b>$\theta = {\beta \over 2}$</b>, que é a mesma relação que provamos entre o ângulo inscrito e o central correspondente.</figcaption>
+			   <figcaption>Da relação de <b>&delta;</b> e <b>&theta;</b>, podemos concluir que <b>2&delta; + 2&theta; = 180&deg;</b>. Temos que <b>2&delta; + 2&theta; = 2&delta; + &beta;</b>, ou seja <b>2&theta; = &beta;</b>. Portanto, <b>$\theta = {\beta \over 2}$</b>, que é a mesma relação que provamos entre o ângulo inscrito e o central correspondente. </figcaption>
 		   </li>
 		</ul>
 		<img src="parte3/22_03_00.png" class="fundo" />
