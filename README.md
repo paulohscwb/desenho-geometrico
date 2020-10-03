@@ -2079,13 +2079,13 @@
 			   <input type="radio" id="275" name="sl">
 			   <label for="275"></label>
 			   <img src="parte3/22_01_02.png"/>
-			   <figcaption>Temos que <b>OP = OA = r</b>, onde <b>r</b> é o raio da circunferência. Logo, o &angsph;<b>OAP = &alpha;</b>, pois o <b>&#9651;AOP</b> é isósceles de base <b>AP</b>.</figcaption>
+			   <figcaption>Temos que <b>OP = OA = r</b>, onde <b>r</b> é o raio da circunferência. Logo, o <b>&angsph;OAP = &alpha;</b>, pois o <b>&#9651;AOP</b> é isósceles de base <b>AP</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="276" name="sl" checked>
 			   <label for="276"></label>
 			   <img src="parte3/22_01_03.png"/>
-			   <figcaption>O &angsph;<b>AOB = &beta;</b> é o ângulo central correspondente de <b>&alpha;</b>. Temos que <b>&beta;</b> e <b>&delta;</b> são suplementares, ou seja, <b>&beta; + &delta; = 180&deg;</b>. Temos também que <b>2&alpha; + &delta; = 180&deg;</b>, pois são ângulos internos do <b>&#9651;AOP</b>.</figcaption>
+			   <figcaption>O <b>&angsph;AOB = &beta;</b> é o ângulo central correspondente de <b>&alpha;</b>. Temos que <b>&beta;</b> e <b>&delta;</b> são suplementares, ou seja, <b>&beta; + &delta; = 180&deg;</b>. Temos também que <b>2&alpha; + &delta; = 180&deg;</b>, pois são ângulos internos do <b>&#9651;AOP</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="276a" name="sl" checked>
@@ -2115,13 +2115,13 @@
 			   <input type="radio" id="279a" name="sl">
 			   <label for="279a"></label>
 			   <img src="parte3/22_01_06.png"/>
-			   <figcaption>De acordo com o caso anterior, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 + \alpha_2 = {\beta_1 \over 2} + {\beta_2 \over 2} = {\beta_1+\beta_2}\over 2 = {\beta \over 2}$</b>.</figcaption>
+			   <figcaption>De acordo com o caso anterior, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 + \alpha_2 = {\beta_1 \over 2} + {\beta_2 \over 2} = { {\beta_1 + \beta_2}\over 2 = {\beta \over 2}$</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="280" name="sl" checked>
 			   <label for="280"></label>
 			   <img src="parte3/22_01_07.png"/>
-			   <figcaption>No terceiro caso, considere o diâmetro <b>PC</b>, que define o ângulo <b>&alpha;</b> como <b>&alpha;<sub>1</sub> - &alpha;<sub>2</sub></b>.</figcaption>
+			   <figcaption>No terceiro caso, considere o diâmetro <b>PC</b>, que define o ângulo <b>&alpha;</b> como <b>&alpha;<sub>1</sub> &minus; &alpha;<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="281" name="sl" checked>
@@ -2133,13 +2133,13 @@
 			   <input type="radio" id="282" name="sl">
 			   <label for="282"></label>
 			   <img src="parte3/22_01_09.png"/>
-			   <figcaption>O ângulo central tem a seguinte relação com os ângulos centrais correspondentes de <b>&alpha;<sub>1</sub></b> e <b>&alpha;<sub>2</sub></b>: <b>&beta; = &beta;<sub>1</sub> - &beta;<sub>2</sub></b>.</figcaption>
+			   <figcaption>O ângulo central tem a seguinte relação com os ângulos centrais correspondentes de <b>&alpha;<sub>1</sub></b> e <b>&alpha;<sub>2</sub></b>: <b>&beta; = &beta;<sub>1</sub> &minus; &beta;<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="282a" name="sl">
 			   <label for="282a"></label>
 			   <img src="parte3/22_01_09.png"/>
-			   <figcaption>De acordo com o primeiro caso provado, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 - \alpha_2 = {\beta_1 \over 2} - {\beta_2 \over 2} = {\beta_1 - \beta_2} \over 2} = {\beta \over 2}$</b>. Portanto, a propriedade vale em todos os casos, ou seja, o ângulo inscrito sempre vale a metade da medida do ângulo central correspondente.</figcaption>
+			   <figcaption>De acordo com o primeiro caso provado, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 - \alpha_2 = {\beta_1 \over 2} - {\beta_2 \over 2} = { {\beta_1 - \beta_2} \over 2} = {\beta \over 2}$</b>. Portanto, a propriedade vale em todos os casos, ou seja, o ângulo inscrito sempre vale a metade da medida do ângulo central correspondente.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte3/22_01_00.png" class="fundo" />
