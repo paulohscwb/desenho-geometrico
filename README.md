@@ -2110,7 +2110,7 @@
 			   <input type="radio" id="279a" name="sl">
 			   <label for="279a"></label>
 			   <img src="parte3/22_01_06.png"/>
-			   <figcaption>De acordo com o caso anterior, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 + \alpha_2 = {\beta_1 \over 2} + {\beta_2 \over 2} = {{\beta_1 + \beta_2}  \over 2} = {\beta \over 2} $</b>.</figcaption>
+			   <figcaption>De acordo com o caso anterior, temos que <b>$\alpha_1 = {\beta_1 \over 2}$</b> e <b>$\alpha_2 = {\beta_2 \over 2}$</b>. Logo, <b>$\alpha = \alpha_1 + \alpha_2 = {\beta_1 \over 2} + {\beta_2 \over 2} = {{\beta_1 + \beta_2}  \over 2} = {\beta \over 2}$</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="280" name="sl" checked>
