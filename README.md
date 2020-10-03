@@ -1,11 +1,11 @@
 <head>
   <link rel="stylesheet" href="imagens/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
   <script>
   MathJax = {
     tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
   };
   </script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 </head>
 
 <h2 id="inicio">Construções Geométricas</h2>
