@@ -2181,7 +2181,7 @@
 			   <input type="radio" id="287" name="sl">
 			   <label for="287"></label>
 			   <img src="parte3/22_03_02.png"/>
-			   <figcaption>Da relação de <b>&delta;</b> e <b>&theta;</b>, podemos concluir que <b>2&delta; + 2&theta; = 180&deg;</b>. Temos que <b>2&delta; + 2&theta; = 2&delta; + &beta;</b>, ou seja <b>2&theta; = &beta;</b>. Portanto, <b>$\theta = {\beta \over 2}$</b>, que é a mesma relação que provamos entre o ângulo inscrito e o central correspondente. </figcaption>
+			   <figcaption>Da relação de <b>&delta;</b> e <b>&theta;</b>, podemos concluir que <b>2&delta; + 2&theta; = 180&deg;</b>. Temos que <b>2&delta; + 2&theta; = 2&delta; + &beta;</b>, ou seja <b>2&theta; = &beta;</b>. Portanto, $\mathsf{\theta = {\beta \over 2} }$, que é a mesma relação que provamos entre o ângulo inscrito e o central correspondente. </figcaption>
 		   </li>
 		</ul>
 		<img src="parte3/22_03_00.png" class="fundo" />
@@ -2361,8 +2361,122 @@
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0025.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Neste exercício, vamos construir os arcos capazes dos ângulos conhecendo os valores de suas medidas.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="310" name="sl" checked>
+			   <label for="310"></label>
+			   <img src="parte3/25_01_01.png"/>
+			   <figcaption>Vamos começar construindo o ângulo de segmento de 60&deg; com vértice em <b>A</b>. Com centro em <b>A</b>, construa um arco que intercepte <b>AB</b> em <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="311" name="sl">
+			   <label for="311"></label>
+			   <img src="parte3/25_01_02.png"/>
+			   <figcaption>Com a mesma medida de raio, construa o arco com centro em <b>C</b>, encontrando o ponto <b>D</b> no arco que construimos no passo anterior. Assim, temos a reta tangente ao arco: <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="312" name="sl">
+			   <label for="312"></label>
+			   <img src="parte3/25_01_03.png"/>
+			   <figcaption>Com os esquadros ou a régua e o compasso, construa a reta perpendicular a <b>t</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="313" name="sl">
+			   <label for="313"></label>
+			   <img src="parte3/25_01_04.png"/>
+			   <figcaption>O centro do arco capaz de 60&deg; está na interseção da reta peropendicular a <b>t</b> com a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="314" name="sl" checked>
+			   <label for="314"></label>
+			   <img src="parte3/25_01_05.png"/>
+			   <figcaption>Com centro em <b>O</b> e raio <b>OA = OB</b>, construa o arco capaz de 60&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="315" name="sl">
+			   <label for="315"></label>
+			   <img src="parte3/25_01_06.png"/>
+			   <figcaption>Com centro em <b>A</b> ou <b>B</b>, construa o arco com raio <b>OA</b>. A interseção deste arco com a <b>med<sub>AB</sub></b> é o centro do arco simétrico.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="316" name="sl">
+			   <label for="316"></label>
+			   <img src="parte3/25_01_07.png"/>
+			   <figcaption>Pronto! Temos os 2 arcos que definem o arco capaz de 60&deg; segundo o segmento <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="317" name="sl">
+			   <label for="317"></label>
+			   <img src="parte3/25_01_08.png"/>
+			   <figcaption>Para construir o arco capaz de 120&deg;, podemos construir o suplementar de 60&deg; no prolongamento de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="318" name="sl" checked>
+			   <label for="318"></label>
+			   <img src="parte3/25_01_09.png"/>
+			   <figcaption>Logo, temos que o <b>&angsph;FAB</b> = 120&deg;. Podemos construir a reta perpendicular a <b>t</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="319" name="sl">
+			   <label for="319"></label>
+			   <img src="parte3/25_01_10.png"/>
+			   <figcaption>O encontro da mediatriz de <b>AB</b> com a reta perpendicular que construímos é o centro do arco capaz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="320" name="sl">
+			   <label for="320"></label>
+			   <img src="parte3/25_01_11.png"/>
+			   <figcaption>Com o centro em <b>O</b> e raio <b>OA = OB</b>, construa o primeiro arco.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="321" name="sl">
+			   <label for="321"></label>
+			   <img src="parte3/25_01_12.png"/>
+			   <figcaption>Construindo o arco com centro em <b>A</b> e raio <b>OA = OB</b>, econtramos o centro <b>O'</b> do segundo arco. Note que <b>O'</b> pertence ao arco capaz que acabamos de construir.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="322" name="sl">
+			   <label for="322"></label>
+			   <img src="parte3/25_01_13.png"/>
+			   <figcaption>Com centro em <b>O'</b>, construimos o arco simétrico do primeiro. Os centros pertencem aos arcos simétricos, pois <b>&angsph;AOB</b> &angsph;AO'B = 120&deg;, que é a medida do ângulo inscrito que define este arco capaz.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/25_01_00.png" class="fundo" />
+  </details></div>
   <img src="parte3/apos_dg_0025a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>De forma genérica, vamos encontrar a relação existente entre os ângulos opostos <b>&alpha;</b> e <b>&beta;</b> que formam um quadrilátro inscrito em uma circunferência.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="323" name="sl" checked>
+			   <label for="323"></label>
+			   <img src="parte3/25_02_01.png"/>
+			   <figcaption>Considerando o ângulo inscrito <b>&alpha;</b>, o central correspondente será o ângulo <b>&delta;</b>. Sabemos que $\mathsf{\alpha = {\delta \over 2} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="324" name="sl">
+			   <label for="324"></label>
+			   <img src="parte3/25_02_02.png"/>
+			   <figcaption>O ângulo central correspondente de <b>&beta;</b> é o ângulo <b>&theta;</b>. Temos a relação $\mathsf{\beta = {\theta \over 2} }$. Como <b>&delta; + &theta;</b> = 360&deg;, temos que $\mathsf{\alpha + \beta = {\delta \over 2} + {\theta \over 2} = { {\delta + \theta} \over 2} = 180^o }$. Logo, <b>&alpha;</b> e <b>&beta;</b> são suplementares.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/25_02_00.png" class="fundo" />
+  </details></div>
   <img src="parte3/apos_dg_0025b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos encontrar a medida de um ângulo insrito em uma semi-circunferência. Note que o ângulo central correspondente vale 180&deg;</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="325" name="sl" checked>
+			   <label for="325"></label>
+			   <img src="parte3/25_03_01.png"/>
+			   <figcaption>Como o ângulo central <b>&theta;</b> mede 180&deg;, o ângulo inscrito correspondente vale a metade, ou seja, <b>&gamma;</b> = 90&deg;. Logo, a construção de um arco capaz de 90&deg; é mais simples: o centro será o ponto médio do segmento.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/25_03_00.png" class="fundo" />
+  </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0026.png" />
   <img src="parte3/apos_dg_0026a.png" />
