@@ -2479,8 +2479,110 @@
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0026.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos o conceito da construção de um arco capaz de <b>90&deg;</b> para resolver este exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="326" name="sl" checked>
+			   <label for="326"></label>
+			   <img src="parte3/26_01_01.png"/>
+			   <figcaption>Escolha um ponto <b>O &notin; r</b>, que não esteja próximo da região onde construiremos a reta perpendicular à reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="327" name="sl">
+			   <label for="327"></label>
+			   <img src="parte3/26_01_02.png"/>
+			   <figcaption>Com centro em <b>O</b>, construa a circunferência com raio <b>OP</b>, encontrando o ponto <b>Q &equiv; r &cap; Circunf(O,OP)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="328" name="sl">
+			   <label for="328"></label>
+			   <img src="parte3/26_01_03.png"/>
+			   <figcaption>Construa o diâmetro <b>QR</b>. Como uma semi-circunferência é o arco capaz de <b>90&deg;</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="329" name="sl">
+			   <label for="329"></label>
+			   <img src="parte3/26_01_04.png"/>
+			   <figcaption>... então a reta <b>PR</b> formará <b>90&deg;</b> com a reta <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/26_01_00.png" class="fundo" />
+  </details></div>
   <img src="parte3/apos_dg_0026a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos o conceito da construção de um arco capaz de <b>90&deg;</b> para resolver este exercício. O ponto de tangência "enxerga" o segmento <b>OP</b> segundo <b>90&deg;</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="330" name="sl" checked>
+			   <label for="330"></label>
+			   <img src="parte3/26_02_01.png"/>
+			   <figcaption>Vamos construir o arco capaz de <b>90&deg;</b> segundo segmento <b>OP</b>. Construa a mediatriz de <b>PO</b>, encontrando o ponto <b>M</b> médio deste segmento.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="331" name="sl">
+			   <label for="331"></label>
+			   <img src="parte3/26_02_02.png"/>
+			   <figcaption>Com centro em <b>M</b>, construa o par de arcos capazes de <b>90&deg;</b> com raio <b>MP = MO</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="332" name="sl">
+			   <label for="332"></label>
+			   <img src="parte3/26_02_03.png"/>
+			   <figcaption>As interseções destes arcos capazes com a circunferência <b>&lambda;</b> definem os pontos de tangência <b>T</b> e <b>T'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="333" name="sl">
+			   <label for="333"></label>
+			   <img src="parte3/26_02_04.png"/>
+			   <figcaption>As retas <b>t &equiv; PT</b> e <b>t' &equiv; PT'</b> são as retas tangentes à circunferência <b>&lambda;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="334" name="sl">
+			   <label for="334"></label>
+			   <img src="parte3/26_02_05.png"/>
+			   <figcaption>Se unirmos os pontos de tangência com o centro <b>O</b>, podemos verificar que <b>&angsph;PTO = &angsph;PT'O = 90&deg;</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/26_02_00.png" class="fundo" />
+  </details></div>
   <img src="parte3/apos_dg_0026b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos o conceito entre o ângulo central de <b>90&deg;</b>, e o inscrito correspondente que mede <b>45&deg;</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="335" name="sl" checked>
+			   <label for="335"></label>
+			   <img src="parte3/26_03_01.png"/>
+			   <figcaption>Como o ponto <b>B</b> "enxerga" o segmento <b>AC</b> segundo <b>45&deg;</b>, vamos usar o arco capaz para resolver este exercício. Podemos construir o arco capaz de <b>45&deg;</b> de uma forma mais simples: primeiro construimos o arco capaz de <b>90&deg;</b>, cujo centro é o ponto médio de <b>AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="336" name="sl">
+			   <label for="336"></label>
+			   <img src="parte3/26_03_02.png"/>
+			   <figcaption>Com centro em <b>M</b>, construa o arco capaz de <b>90&deg;</b> com raio <b>MA = MC</b>. Não precisamos construir o arco da esquerda, pois não será usado no desenho da peça.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="337" name="sl">
+			   <label for="337"></label>
+			   <img src="parte3/26_03_03.png"/>
+			   <figcaption>A interseção da mediatriz de <b>AC</b> com o arco capaz de <b>90&deg;</b> é o centro do arco capaz de <b>45&deg;</b>, pois o ângulo inscrito mede a metade do central correspondente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="338" name="sl">
+			   <label for="338"></label>
+			   <img src="parte3/26_03_04.png"/>
+			   <figcaption>O ponto <b>B</b> pode ser encontrado na interseção da <b>Circunf(A,AB)</b> com o arco capaz de <b>45&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="339" name="sl">
+			   <label for="339"></label>
+			   <img src="parte3/26_03_05.png"/>
+			   <figcaption>Para finalizar, construímos as retas perpendiculares a <b>AB</b> que passam por <b>A</b> e <b>B</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/26_03_00.png" class="fundo" />
+  </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0027.png" />
   <img src="parte3/apos_dg_0027a.png" />
