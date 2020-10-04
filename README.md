@@ -264,7 +264,7 @@
 			   <input type="radio" id="030" name="sl" checked>
 			   <label for="030"></label>
 			   <img src="parte1/06_01_01.png"/>
-			   <figcaption>Lembrando da propriedade: se duas circunferências são tangentes em um ponto <b>T</b>, elas admitem a reta tangente <b>t</b> comum; como a reta tangente forma 90&deg; com o raio em <b>T</b>, os raios <b>OT</b> e <b>AT</b> formam 180&deg;, ou seja, <b>O</b>, <b>T</b> e <b>A</b> serão colineares.</figcaption>
+			   <figcaption>Lembrando da propriedade: se duas circunferências são tangentes em um ponto <b>T</b>, elas admitem a reta tangente <b>t</b> comum; como a reta tangente forma <b>90&deg;</b> com o raio em <b>T</b>, os raios <b>OT</b> e <b>AT</b> formam <b>180&deg;</b>, ou seja, <b>O</b>, <b>T</b> e <b>A</b> serão colineares.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="031" name="sl">
@@ -331,7 +331,7 @@
 			   <input type="radio" id="040" name="sl">
 			   <label for="040"></label>
 			   <img src="parte1/06_02_04.png"/>
-			   <figcaption>Logo, temos que <b>&angsph;AMX</b> = 90&deg;. Portanto, a mediatriz passa pelo ponto médio e forma 90&deg; com este segmento.</figcaption>
+			   <figcaption>Logo, temos que <b>&angsph;AMX = 90&deg;</b>. Portanto, a mediatriz passa pelo ponto médio e forma <b>90&deg;</b> com este segmento.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte1/06_02_00.png" class="fundo" />
@@ -800,7 +800,7 @@
 			   <input type="radio" id="099" name="sl">
 			   <label for="099"></label>
 			   <img src="parte2/12_02_08.png"/>
-			   <figcaption>A reta <b>PF &perp; PD</b> é paralela à reta <b>t</b>, pois os ângulos alternos internos são iguais a 90 &deg;.</figcaption>
+			   <figcaption>A reta <b>PF &perp; PD</b> é paralela à reta <b>t</b>, pois os ângulos alternos internos são iguais a <b>90&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="100" name="sl">
@@ -1486,7 +1486,7 @@
 			   <input type="radio" id="197" name="sl">
 			   <label for="197"></label>
 			   <img src="parte2/16_03_05.png"/>
-			   <figcaption>A semi-reta <b>AD</b> será a bissetriz de 180&deg;.</figcaption>
+			   <figcaption>A semi-reta <b>AD</b> será a bissetriz de <b>180&deg;</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/16_03_00.png" class="fundo" />
@@ -1789,7 +1789,7 @@
 			   <input type="radio" id="237" name="sl">
 			   <label for="237"></label>
 			   <img src="parte2/19_02_05.png"/>
-			   <figcaption>A semi-reta <b>AD</b> forma 90&deg; com a reta. A construção com os esquadros já foi feita anteriormente, e você pode fazê-la como exercício. Agora vamos escolher um ponto <b>E</b> sobre a reta.</figcaption>
+			   <figcaption>A semi-reta <b>AD</b> forma <b>90&deg;</b> com a reta. A construção com os esquadros já foi feita anteriormente, e você pode fazê-la como exercício. Agora vamos escolher um ponto <b>E</b> sobre a reta.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="238" name="sl">
@@ -1801,43 +1801,43 @@
 			   <input type="radio" id="239" name="sl">
 			   <label for="239"></label>
 			   <img src="parte2/19_02_07.png"/>
-			   <figcaption>... e com centro em <b>F</b>, construa o arco com mesmo raio <b>EF</b>, encontrando a interseção <b>G</b>. Unindo <b>E</b> com <b>G</b>, temos a semi-reta que forma 60&deg; com a reta.</figcaption>
+			   <figcaption>... e com centro em <b>F</b>, construa o arco com mesmo raio <b>EF</b>, encontrando a interseção <b>G</b>. Unindo <b>E</b> com <b>G</b>, temos a semi-reta que forma <b>60&deg;</b> com a reta.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="240" name="sl">
 			   <label for="240"></label>
 			   <img src="parte2/19_02_08.png"/>
-			   <figcaption>Esta construção funciona, pois construímos um triângulo equilátero de lado <b>EF</b>. Agora vamos ver como construir o ângulo de 60 &deg; com os esquadros.</figcaption>
+			   <figcaption>Esta construção funciona, pois construímos um triângulo equilátero de lado <b>EF</b>. Agora vamos ver como construir o ângulo de <b>60&deg;</b> com os esquadros.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="241" name="sl">
 			   <label for="241"></label>
 			   <img src="parte2/19_02_09.png"/>
-			   <figcaption>Escolha um ponto <b>H</b> sobre a reta, e alinhe a hipotenusa do esquadro de 60 com a reta, apoiando o cateto do ângulo de 30&deg; com o outro esquadro fixo, ou seja, deixaremos livre o lado do esquadro de 60&deg; para transferí-lo na reta.</figcaption>
+			   <figcaption>Escolha um ponto <b>H</b> sobre a reta, e alinhe a hipotenusa do esquadro de 60 com a reta, apoiando o cateto do ângulo de <b>30&deg;</b> com o outro esquadro fixo, ou seja, deixaremos livre o lado do esquadro de <b>60&deg;</b> para transferí-lo na reta.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="242" name="sl">
 			   <label for="242"></label>
 			   <img src="parte2/19_02_10.png"/>
-			   <figcaption>Deslizando o esquadro de 60 até chegar em <b>H</b>, você consegue construir o ângulo de 60&deg; com vértice <b>H</b>. Este ângulo ficou virado para a direita da folha.</figcaption>
+			   <figcaption>Deslizando o esquadro de 60 até chegar em <b>H</b>, você consegue construir o ângulo de <b>60&deg;</b> com vértice <b>H</b>. Este ângulo ficou virado para a direita da folha.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="243" name="sl">
 			   <label for="243"></label>
 			   <img src="parte2/19_02_11.png"/>
-			   <figcaption>Se você quiser o ângulo de 60&deg; virado para a esquerda, basta mudar o lado de alinhamento do esquadro de 60. O importante é lembrar sempre de deisar o ângulo de 60&deg; livre, sem apoio.</figcaption>
+			   <figcaption>Se você quiser o ângulo de <b>60&deg;</b> virado para a esquerda, basta mudar o lado de alinhamento do esquadro de 60. O importante é lembrar sempre de deisar o ângulo de <b>60&deg;</b> livre, sem apoio.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="244" name="sl">
 			   <label for="244"></label>
 			   <img src="parte2/19_02_12.png"/>
-			   <figcaption>Deslizando o esquadro do outro lado, você consegue construir o ângulo de 60&deg; do outro lado.</figcaption>
+			   <figcaption>Deslizando o esquadro do outro lado, você consegue construir o ângulo de <b>60&deg;</b> do outro lado.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="245" name="sl">
 			   <label for="245"></label>
 			   <img src="parte2/19_02_13.png"/>
-			   <figcaption>Assim ficam definidas as duas opções de construção de 60&deg;: com o compasso e com os esquadros.</figcaption>
+			   <figcaption>Assim ficam definidas as duas opções de construção de <b>60&deg;</b>: com o compasso e com os esquadros.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/19_02_00.png" class="fundo" />
@@ -1850,7 +1850,7 @@
 			   <input type="radio" id="246" name="sl" checked>
 			   <label for="246"></label>
 			   <img src="parte2/19_03_01.png"/>
-			   <figcaption>Começamos construindo o ângulo de 90&deg;, como fizemos no exercício anterior. Podemos prolongar o arco com centro em <b>C</b> para fazer a bissetriz de 90&deg;.</figcaption>
+			   <figcaption>Começamos construindo o ângulo de <b>90&deg;</b>, como fizemos no exercício anterior. Podemos prolongar o arco com centro em <b>C</b> para fazer a bissetriz de <b>90&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="247" name="sl">
@@ -1868,19 +1868,19 @@
 			   <input type="radio" id="249" name="sl">
 			   <label for="249"></label>
 			   <img src="parte2/19_03_04.png"/>
-			   <figcaption>A semi-reta <b>AF</b> forma 45&deg; com a reta.</figcaption>
+			   <figcaption>A semi-reta <b>AF</b> forma <b>45&deg;</b> com a reta.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="250" name="sl">
 			   <label for="250"></label>
 			   <img src="parte2/19_03_05.png"/>
-			   <figcaption>Ao construir a bissetriz dos 45&deg;, temos o ângulo de 22,5&deg; = 22&deg;30'.</figcaption>
+			   <figcaption>Ao construir a bissetriz dos <b>45&deg;</b>, temos o ângulo de <b>22,5&deg; = 22&deg;30'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="251" name="sl">
 			   <label for="251"></label>
 			   <img src="parte2/19_03_06.png"/>
-			   <figcaption>E a bissetriz de 22,5&deg; fornece o ângulo de 11,15&deg;. Para construir o ângulo de 45&deg; com os esquadros, alinhamos a hipotenusa do esquadro de 45 com a reta, e apoiamos um cateto com o outro esquadro que ficará fixo.</figcaption>
+			   <figcaption>E a bissetriz de <b>22,5&deg;</b> fornece o ângulo de <b>11,15&deg;</b>. Para construir o ângulo de <b>45&deg;</b> com os esquadros, alinhamos a hipotenusa do esquadro de 45 com a reta, e apoiamos um cateto com o outro esquadro que ficará fixo.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="252" name="sl">
@@ -1892,7 +1892,7 @@
 			   <input type="radio" id="253" name="sl">
 			   <label for="253"></label>
 			   <img src="parte2/19_03_08.png"/>
-			   <figcaption>Note que encontramos o ângulo de 135&deg;, que é o suplementar de 45&deg;. Se você quiser o ângulo de 45&deg; virado à esquerda, basta mudar o lado do apoio do esquadro de 60...</figcaption>
+			   <figcaption>Note que encontramos o ângulo de <b>135&deg;</b>, que é o suplementar de <b>45&deg;</b>. Se você quiser o ângulo de <b>45&deg;</b> virado à esquerda, basta mudar o lado do apoio do esquadro de 60...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="254" name="sl">
@@ -1922,55 +1922,55 @@
 			   <input type="radio" id="257" name="sl">
 			   <label for="257"></label>
 			   <img src="parte2/19_03_12.png"/>
-			   <figcaption>Com mesmo raio, construa o arco com centro em <b>M</b>, definindo a semi-reta <b>LN</b> que forma 60&deg; com a reta.</figcaption>
+			   <figcaption>Com mesmo raio, construa o arco com centro em <b>M</b>, definindo a semi-reta <b>LN</b> que forma <b>60&deg;</b> com a reta.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="258" name="sl">
 			   <label for="258"></label>
 			   <img src="parte2/19_03_13.png"/>
-			   <figcaption>Construindo a bissetriz dos 60&deg;, temos o ângulo de 30&deg; construído com régua e compasso.</figcaption>
+			   <figcaption>Construindo a bissetriz dos <b>60&deg;</b>, temos o ângulo de <b>30&deg;</b> construído com régua e compasso.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="259" name="sl">
 			   <label for="259"></label>
 			   <img src="parte2/19_03_14.png"/>
-			   <figcaption>Com a bissetriz de 30&deg;, temos o ângulo de 15&deg;.</figcaption>
+			   <figcaption>Com a bissetriz de <b>30&deg;</b>, temos o ângulo de <b>15&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="260" name="sl">
 			   <label for="260"></label>
 			   <img src="parte2/19_03_15.png"/>
-			   <figcaption>Quando construímos o ângulo de 60&deg;, definimos o suplementar de 120&deg;.</figcaption>
+			   <figcaption>Quando construímos o ângulo de <b>60&deg;</b>, definimos o suplementar de <b>120&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="261" name="sl">
 			   <label for="261"></label>
 			   <img src="parte2/19_03_16.png"/>
-			   <figcaption>Também temos o ângulo de 150&deg;, que é o suplementar de 30&deg;.</figcaption>
+			   <figcaption>Também temos o ângulo de <b>150&deg;</b>, que é o suplementar de <b>30&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="262" name="sl">
 			   <label for="262"></label>
 			   <img src="parte2/19_03_17.png"/>
-			   <figcaption>Se construirmos a bissetriz do ângulo de 150&deg;, temos o ângulo de 75&deg; com régua e compasso.</figcaption>
+			   <figcaption>Se construirmos a bissetriz do ângulo de <b>150&deg;</b>, temos o ângulo de <b>75&deg;</b> com régua e compasso.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="263" name="sl">
 			   <label for="263"></label>
 			   <img src="parte2/19_03_18.png"/>
-			   <figcaption>Agora vamos construir alguns ângulos com os esquadros. Escolha um ponto <b>R</b> sobre a reta e alinhe o cateto de 30&deg; com a reta. Coloque o cateto de 60&deg; com o apoio fixo do esquadro de 45...</figcaption>
+			   <figcaption>Agora vamos construir alguns ângulos com os esquadros. Escolha um ponto <b>R</b> sobre a reta e alinhe o cateto de <b>30&deg;</b> com a reta. Coloque o cateto de <b>60&deg;</b> com o apoio fixo do esquadro de 45...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="264" name="sl">
 			   <label for="264"></label>
 			   <img src="parte2/19_03_19.png"/>
-			   <figcaption>... e deslize o esquadro de 60 até chegar no ponto <b>R</b>. Assim, temos os ângulos de 30&deg; e 150&deg; construídos com os esquadros. Se você quiser o ângulo de 30&deg; virado para o outro lado, basta inverter as posições dos esquadros, como fizemos anteriormente com os ângulos de 45&deg; e 60&deg;.</figcaption>
+			   <figcaption>... e deslize o esquadro de 60 até chegar no ponto <b>R</b>. Assim, temos os ângulos de <b>30&deg;</b> e <b>150&deg;</b> construídos com os esquadros. Se você quiser o ângulo de <b>30&deg;</b> virado para o outro lado, basta inverter as posições dos esquadros, como fizemos anteriormente com os ângulos de <b>45&deg;</b> e <b>60&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="265" name="sl">
 			   <label for="265"></label>
 			   <img src="parte2/19_03_20.png"/>
-			   <figcaption>Escolha um ponto <b>S</b> sobre a reta, e apoie os esquadros assim: o de 45 com o cateto alinhado na reta, e o de 60 com o vértice de 30&deg; junto com o vértice de 45&deg;. Somando os ângulos, temos 75&deg;, então deixaremos fixo o esquadro de 45&deg;, deslizando o esquadro de 60...</figcaption>
+			   <figcaption>Escolha um ponto <b>S</b> sobre a reta, e apoie os esquadros assim: o de 45 com o cateto alinhado na reta, e o de 60 com o vértice de <b>30&deg;</b> junto com o vértice de <b>45&deg;</b>. Somando os ângulos, temos <b>75&deg;</b>, então deixaremos fixo o esquadro de <b>45&deg;</b>, deslizando o esquadro de 60...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="266" name="sl">
@@ -1982,7 +1982,7 @@
 			   <input type="radio" id="267" name="sl">
 			   <label for="267"></label>
 			   <img src="parte2/19_03_22.png"/>
-			   <figcaption>Desta maneira, temos a construção do ângulo de 75&deg; com os esquadros. Conseguimos também o suplementar de 105&deg; com esta construção. Então, ficam as opções para você construir nos próximos exercícios: com os esquadros ou com régua e compasso.</figcaption>
+			   <figcaption>Desta maneira, temos a construção do ângulo de <b>75&deg;</b> com os esquadros. Conseguimos também o suplementar de <b>105&deg;</b> com esta construção. Então, ficam as opções para você construir nos próximos exercícios: com os esquadros ou com régua e compasso.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/19_03_10.png" class="fundo" />
@@ -2258,19 +2258,19 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Utilizando as definições dos ângulos inscrito, central e de segmento, conseguimos deduzir os valores do ângulo <b>x</b> indicados.</p>
 	<img src="parte3/23_02_00.png" />
-	<figcaption>No item <b>a</b>, o ângulo <b>x</b> é inscrito. Logo, <b>x</b> mede a metade do central correspondente, indicado por 90&deg;. Determine as justificativas das medidas dos outros itens.</figcaption>
+	<figcaption>No item <b>a</b>, o ângulo <b>x</b> é inscrito. Logo, <b>x</b> mede a metade do central correspondente, indicado por <b>90&deg;</b>. Determine as justificativas das medidas dos outros itens.</figcaption>
   </details></div>
   <img src="parte3/apos_dg_0023b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Utilizando as definições dos ângulos inscrito, central e de segmento, conseguimos deduzir os valores do ângulo <b>x</b> indicados.</p>
 	<img src="parte3/23_03_00.png" />
-	<figcaption>No item <b>d</b>, o ângulo <b>x</b> é inscrito, e "enxerga" a mesma corda que o ângulo de 45&deg; indicado. Logo, o ângulo mede 45&deg;. Determine as justificativas das medidas dos outros itens.</figcaption>
+	<figcaption>No item <b>d</b>, o ângulo <b>x</b> é inscrito, e "enxerga" a mesma corda que o ângulo de <b>45&deg;</b> indicado. Logo, <b>x = 45&deg;</b>. Determine as justificativas das medidas dos outros itens.</figcaption>
   </details></div>
   <img src="parte3/apos_dg_0023c.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Utilizando as definições dos ângulos inscrito, central e de segmento, conseguimos deduzir os valores do ângulo <b>x</b> indicados.</p>
 	<img src="parte3/23_04_00.png" />
-	<figcaption>No item <b>g</b>, o ângulo <b>x</b> é de segmento, correspondente ao ângulo central indicado de 120&deg;. Logo, <b>x</b> mede 60&deg;, metade da medida do ângulo central correspondente. Determine as justificativas das medidas dos outros itens.</figcaption>
+	<figcaption>No item <b>g</b>, o ângulo <b>x</b> é de segmento, correspondente ao ângulo central indicado de <b>120&deg;</b>. Logo, <b>x = 60&deg;</b>, metade da medida do ângulo central correspondente. Determine as justificativas das medidas dos outros itens.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0024.png" />
@@ -2368,7 +2368,7 @@
 			   <input type="radio" id="310" name="sl" checked>
 			   <label for="310"></label>
 			   <img src="parte3/25_01_01.png"/>
-			   <figcaption>Vamos começar construindo o ângulo de segmento de 60&deg; com vértice em <b>A</b>. Com centro em <b>A</b>, construa um arco que intercepte <b>AB</b> em <b>C</b>.</figcaption>
+			   <figcaption>Vamos começar construindo o ângulo de segmento de <b>60&deg;</b> com vértice em <b>A</b>. Com centro em <b>A</b>, construa um arco que intercepte <b>AB</b> em <b>C</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="311" name="sl">
@@ -2386,13 +2386,13 @@
 			   <input type="radio" id="313" name="sl">
 			   <label for="313"></label>
 			   <img src="parte3/25_01_04.png"/>
-			   <figcaption>O centro do arco capaz de 60&deg; está na interseção da reta peropendicular a <b>t</b> com a mediatriz de <b>AB</b>.</figcaption>
+			   <figcaption>O centro do arco capaz de <b>60&deg;</b> está na interseção da reta peropendicular a <b>t</b> com a mediatriz de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="314" name="sl" checked>
 			   <label for="314"></label>
 			   <img src="parte3/25_01_05.png"/>
-			   <figcaption>Com centro em <b>O</b> e raio <b>OA = OB</b>, construa o arco capaz de 60&deg;.</figcaption>
+			   <figcaption>Com centro em <b>O</b> e raio <b>OA = OB</b>, construa o arco capaz de <b>60&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="315" name="sl">
@@ -2404,19 +2404,19 @@
 			   <input type="radio" id="316" name="sl">
 			   <label for="316"></label>
 			   <img src="parte3/25_01_07.png"/>
-			   <figcaption>Pronto! Temos os 2 arcos que definem o arco capaz de 60&deg; segundo o segmento <b>AB</b>.</figcaption>
+			   <figcaption>Pronto! Temos os 2 arcos que definem o arco capaz de <b>60&deg;</b> segundo o segmento <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="317" name="sl">
 			   <label for="317"></label>
 			   <img src="parte3/25_01_08.png"/>
-			   <figcaption>Para construir o arco capaz de 120&deg;, podemos construir o suplementar de 60&deg; no prolongamento de <b>AB</b>.</figcaption>
+			   <figcaption>Para construir o arco capaz de <b>120&deg;</b>, podemos construir o suplementar de <b>60&deg;</b> no prolongamento de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="318" name="sl" checked>
 			   <label for="318"></label>
 			   <img src="parte3/25_01_09.png"/>
-			   <figcaption>Logo, temos que o <b>&angsph;FAB</b> = 120&deg;. Podemos construir a reta perpendicular a <b>t</b> que passa por <b>A</b>.</figcaption>
+			   <figcaption>Logo, temos que o <b>&angsph;FAB = 120&deg;</b>. Podemos construir a reta perpendicular a <b>t</b> que passa por <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="319" name="sl">
@@ -2440,7 +2440,7 @@
 			   <input type="radio" id="322" name="sl">
 			   <label for="322"></label>
 			   <img src="parte3/25_01_13.png"/>
-			   <figcaption>Com centro em <b>O'</b>, construimos o arco simétrico do primeiro. Os centros pertencem aos arcos simétricos, pois <b>&angsph;AOB</b> &angsph;AO'B = 120&deg;, que é a medida do ângulo inscrito que define este arco capaz.</figcaption>
+			   <figcaption>Com centro em <b>O'</b>, construimos o arco simétrico do primeiro. Os centros pertencem aos arcos simétricos, pois <b>&angsph;AOB =  &angsph;AO'B = 120&deg;</b>, que é a medida do ângulo inscrito que define este arco capaz.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte3/25_01_00.png" class="fundo" />
@@ -2459,7 +2459,7 @@
 			   <input type="radio" id="324" name="sl">
 			   <label for="324"></label>
 			   <img src="parte3/25_02_02.png"/>
-			   <figcaption>O ângulo central correspondente de <b>&beta;</b> é o ângulo <b>&theta;</b>. Temos a relação $\mathsf{\beta = {\theta \over 2} }$. Como <b>&delta; + &theta;</b> = 360&deg;, temos que $\mathsf{\alpha + \beta = {\delta \over 2} + {\theta \over 2} = { {\delta + \theta} \over 2} = 180^o }$. Logo, <b>&alpha;</b> e <b>&beta;</b> são suplementares.</figcaption>
+			   <figcaption>O ângulo central correspondente de <b>&beta;</b> é o ângulo <b>&theta;</b>. Temos a relação $\mathsf{\beta = {\theta \over 2} }$. Como <b>&delta; + &theta; = 360&deg;</b>, temos que $\mathsf{\alpha + \beta = {\delta \over 2} + {\theta \over 2} = { {\delta + \theta} \over 2} = 180^o }$. Logo, <b>&alpha;</b> e <b>&beta;</b> são suplementares.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte3/25_02_00.png" class="fundo" />
@@ -2472,7 +2472,7 @@
 			   <input type="radio" id="325" name="sl" checked>
 			   <label for="325"></label>
 			   <img src="parte3/25_03_01.png"/>
-			   <figcaption>Como o ângulo central <b>&theta;</b> mede 180&deg;, o ângulo inscrito correspondente vale a metade, ou seja, <b>&gamma;</b> = 90&deg;. Logo, a construção de um arco capaz de 90&deg; é mais simples: o centro será o ponto médio do segmento.</figcaption>
+			   <figcaption>Como o ângulo central <b>&theta;</b> mede <b>180&deg;</b>, o ângulo inscrito correspondente vale a metade, ou seja, <b>&gamma; = 90&deg;</b>. Logo, a construção de um arco capaz de <b>90&deg;</b> é mais simples: o centro será o ponto médio do segmento.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte3/25_03_00.png" class="fundo" />
