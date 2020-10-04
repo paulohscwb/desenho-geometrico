@@ -2585,11 +2585,49 @@
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0027.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Exercício simples, de aplicação dos conceitos que envolvem arco capaz.</p>
+	<img src="parte3/27_01_00.png" />
+	<figcaption></figcaption>
+  </details></div>
   <img src="parte3/apos_dg_0027a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Construindo os arcos capazes de <b>30&deg;</b> e de <b>45&deg;</b>, encontramos os arcos capazes dos ângulos suplementares.</p>
+	<img src="parte3/27_02_00.png" />
+	<figcaption>O mesmo vale se você construir os arcos capazes de <b>150&deg;</b> e de <b>135&deg;</b>.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0028.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>O vértice <b>C</b>, oposto de <b>AB</b>, enxerga o segmento segundo ângulo de <b>60&deg;</b>.</p>
+	<img src="parte3/28_01_00.png" />
+	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
+  </details></div>
+  <img src="parte3/apos_dg_0028a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Como os lados do triângulo são tangentes à circunferência inscrita, temos que construir os arcos capazes de <b>90&deg;</b>.</p>
+	<img src="parte3/28_02_00.png" />
+	<figcaption>Depois de encontrar a reta <b>BC</b>, o lado <b>AC</b> será tangente à circunferência inscrita, ou seja, construímos outro arco capaz de <b>90&deg;</b> para determinar a posição de <b>AC</b>.</figcaption>
+  </details></div>
+  <img src="parte3/apos_dg_0028b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>O vértice <b>C</b>, oposto de <b>AB</b>, enxerga o segmento segundo ângulo de <b>60&deg;</b>.</p>
+	<img src="parte3/28_03_00.png" />
+	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0029.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Como o ponto <b>X</b> é equidistante de <b>P</b> e <b>Q</b>, pertence à <b>med<sub>PQ</sub></b>.</p>
+	<img src="parte3/29_01_00.png" />
+	<figcaption>A construção envolve o arco capaz de <b>30&deg;</b>.</figcaption>
+  </details></div>
+  <img src="parte3/apos_dg_0029a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Como o ponto <b>P</b> tem distância <b>d</b> até o ponto <b>A</b>, temos que <b>P &isin; Circunf(A,d)</b>.</p>
+	<img src="parte3/29_02_00.png" />
+	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
 </details>
 
