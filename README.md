@@ -306,7 +306,7 @@
 		<img src="parte1/06_01_00.png" class="fundo" />
   </details></div>
   <img src="parte1/apos_dg_0006a.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dt; Propriedades</summary>
 	<p>Neste segundo lugar geométrico, usamos a régua e o compasso como instrumentos auxiliares para sua construção.</p>
 	  <ul class="slider">
 		  <li>
