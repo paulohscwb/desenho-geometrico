@@ -306,7 +306,7 @@
 		<img src="parte1/06_01_00.png" class="fundo" />
   </details></div>
   <img src="parte1/apos_dg_0006a.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4dt; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Neste segundo lugar geométrico, usamos a régua e o compasso como instrumentos auxiliares para sua construção.</p>
 	  <ul class="slider">
 		  <li>
@@ -1295,7 +1295,7 @@
 		<img src="parte2/15_02_00.png" class="fundo" />
   </details></div>
   <img src="parte2/apos_dg_0015b.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4dt; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
 	  <ul class="slider">
 		  <li>
@@ -2043,7 +2043,7 @@
 <details>
   <summary id="parte3">Arco capaz: pág. 21-29</summary>
   <img src="parte3/apos_dg_0021.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4dt; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Vamos ver alguns elementos para o próximo Lugar geométrico.</p>
 	  <ul class="slider">
 		  <li>
@@ -2064,7 +2064,7 @@
   <img src="parte3/apos_dg_0021a.png" />
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0022.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4dt; Demonstração</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
 	<p>Vamos demonstrar a Propriedade 1. Vamos considerar os 3 casos possíveis: quando um lado do ângulo inscrito define um diâmetro; quando o centro está no interior do ângulo inscrito; e quando o centro está na região externa definida pelo ângulo inscrito.</p>
 	  <ul class="slider">
 		  <li>
@@ -2143,7 +2143,7 @@
 		<img src="parte3/22_01_00.png" class="fundo" />
   </details></div>
   <img src="parte3/apos_dg_0022a.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4dt; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Vamos ver alguns do ângulo de segmento.</p>
 	  <ul class="slider">
 		  <li>
@@ -2162,7 +2162,7 @@
 		<img src="parte3/22_02_00.png" class="fundo" />
   </details></div>
   <img src="parte3/apos_dg_0022b.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4dt; Demonstração</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
 	<p>Vamos demonstrar a Propriedade 2, que relaciona o ângulo de segmento com o ângulo central correspondente.</p>
 	  <ul class="slider">
 		  <li>
@@ -2274,7 +2274,7 @@
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0024.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4dt; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
 	  <ul class="slider">
 		  <li>
