@@ -17,7 +17,7 @@ img{image-rendering: auto;}
 }
 
 figcaption {
-  padding: 5px;
+  padding: 5px 0 5px 0;
   font-size: 14px;
   color: rgb(21,153,87);
   margin: 0 0 5px 0;
