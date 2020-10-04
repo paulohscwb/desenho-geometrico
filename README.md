@@ -2188,12 +2188,177 @@
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0023.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos usar os conceitos dos ângulos de segmento e inscrito para encontrar o centro da circunferência. Utilizaremos os esquadros e o compasso neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="288" name="sl" checked>
+			   <label for="288"></label>
+			   <img src="parte3/23_01_01.png"/>
+			   <figcaption>Determine os vértices de um <b>&#9651;PAB</b> inscrito na circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="289" name="sl">
+			   <label for="289"></label>
+			   <img src="parte3/23_01_02.png"/>
+			   <figcaption>Neste caso, <b>AB</b> será a corda do ângulo inscrito <b>&angsph;APB</b>. Vamos transportá-lo na extermidade <b>A</b> da corda. Com centro em <b>P</b> e um raio <b>PC</b> qualquer, determine o arco que intercepta <b>PB</b> em <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="290" name="sl" checked>
+			   <label for="290"></label>
+			   <img src="parte3/23_01_03.png"/>
+			   <figcaption>Com centro em <b>A</b>, determine o arco com mesmo raio <b>PC</b>, encontrando <b>E &isin; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="291" name="sl" checked>
+			   <label for="291"></label>
+			   <img src="parte3/23_01_04.png"/>
+			   <figcaption>Com o compasso, "pegue" a medida <b>CD</b> e...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="292" name="sl">
+			   <label for="292"></label>
+			   <img src="parte3/23_01_05.png"/>
+			   <figcaption>... com centro em <b>E</b>, determine o arco com raio <b>CD</b> para encontrar <b>F</b> na interseção com o outro arco que construímos centrado em <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="293" name="sl" checked>
+			   <label for="293"></label>
+			   <img src="parte3/23_01_06.png"/>
+			   <figcaption>Desta forma, conseguimos construir o ângulo de segmento com mesma medida do ângulo inscrito correspondente <b>&alpha;</b>. Portanto, a reta <b>t &equiv; AF</b> é tangente à circunferência no ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="294" name="sl">
+			   <label for="294"></label>
+			   <img src="parte3/23_01_07.png"/>
+			   <figcaption>Vamos construir uma reta perpendicular a <b>t</b> passando por <b>A</b>, pois a reta tangente é perpendicular ao raio da circunferência em <b>A</b>. Alinhando um cateto do esquadro de 45 com <b>t</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="295" name="sl">
+			   <label for="295"></label>
+			   <img src="parte3/23_01_08.png"/>
+			   <figcaption>... deixamos fixo o esquadro de 60 e deslizamos o esquadro de 45 até chegar em <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="296" name="sl" checked>
+			   <label for="296"></label>
+			   <img src="parte3/23_01_09.png"/>
+			   <figcaption>Desta forma, temos definido o diâmetro <b>AG</b> da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="297" name="sl" checked>
+			   <label for="297"></label>
+			   <img src="parte3/23_01_10.png"/>
+			   <figcaption>Construindo a mediatriz de <b>AG</b>, temos o centro da circunferência <b>O</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/23_01_00.png" class="fundo" />
+  </details></div>
   <img src="parte3/apos_dg_0023a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Utilizando as definições dos ângulos inscrito, central e de segmento, conseguimos deduzir os valores do ângulo <b>x</b> indicados.</p>
+	<img src="parte3/23_02_00.png" />
+	<figcaption>No item <b>a</b>, o ângulo <b>x</b> é inscrito. Logo, <b>x</b> mede a metade do central correspondente, indicado por 90&deg;. Determine as justificativas das medidas dos outros itens.</figcaption>
+  </details></div>
   <img src="parte3/apos_dg_0023b.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Utilizando as definições dos ângulos inscrito, central e de segmento, conseguimos deduzir os valores do ângulo <b>x</b> indicados.</p>
+	<img src="parte3/23_03_00.png" />
+	<figcaption>No item <b>d</b>, o ângulo <b>x</b> é inscrito, e "enxerga" a mesma corda que o ângulo de 45&deg; indicado. Logo, o ângulo mede 45&deg;. Determine as justificativas das medidas dos outros itens.</figcaption>
+  </details></div>
   <img src="parte3/apos_dg_0023c.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Utilizando as definições dos ângulos inscrito, central e de segmento, conseguimos deduzir os valores do ângulo <b>x</b> indicados.</p>
+	<img src="parte3/23_04_00.png" />
+	<figcaption>No item <b>g</b>, o ângulo <b>x</b> é de segmento, correspondente ao ângulo central indicado de 120&deg;. Logo, <b>x</b> mede 60&deg;, metade da medida do ângulo central correspondente. Determine as justificativas das medidas dos outros itens.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0024.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="298" name="sl" checked>
+			   <label for="298"></label>
+			   <img src="parte3/24_01_01.png"/>
+			   <figcaption>Ao determinar um ponto <b>P</b> no arco capaz, unindo este ponto à extremidades da corda <b>AB</b>, temos sempre a mesma medida <b>&alpha;</b> do ângulo inscrito (que mede a metade da medida do ângulo central correspondente).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="299" name="sl">
+			   <label for="299"></label>
+			   <img src="parte3/24_01_02.png"/>
+			   <figcaption>A mesma propriedade vale se escolhermos um ponto <b>Q</b> do arco simétrico em relação à corda <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="300" name="sl">
+			   <label for="300"></label>
+			   <img src="parte3/24_01_03.png"/>
+			   <figcaption>Considere o ponto <b>Q'</b> no prolongamento de <b>BQ</b>, fora do arco capaz, que forma <b>&angsph; AQ'B = &alpha;'</b>. De acordo com o Teorema do Ângulo Externo, temos que <b>&alpha; > &alpha;'</b>, ou seja, <b>Q'</b> não possui a propriedade de "enxergar" o segmento <b>AB</b> segundo ângulo <b>&alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="301" name="sl">
+			   <label for="301"></label>
+			   <img src="parte3/24_01_04.png"/>
+			   <figcaption>Agora considere o ponto <b>Q'' &isin; BQ</b>, dentro da região formada pelo arco capaz, formando <b>&angsph; AQ''B = &alpha;''</b>. De acordo com o Teorema do Ângulo Externo, temos que <b>&alpha;'' > &alpha;</b>, ou seja, <b>Q''</b> não possui a propriedade de "enxergar" o segmento <b>AB</b> segundo ângulo <b>&alpha;</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/24_01_00.png" class="fundo" />
+  </details></div>
   <img src="parte3/apos_dg_0024a.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos as propriedades dos ângulos inscrito, central e de segmento para construir o arco capaz.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="302" name="sl" checked>
+			   <label for="302"></label>
+			   <img src="parte3/24_02_01.png"/>
+			   <figcaption>Vamos transportar o ângulo <b>&alpha;</b> no segmento <b>AB</b>, com vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="303" name="sl">
+			   <label for="303"></label>
+			   <img src="parte3/24_02_02.png"/>
+			   <figcaption>Desta forma, temos o ângulo de segmento <b>&alpha;</b>, que determina a reta tangente <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="304" name="sl">
+			   <label for="304"></label>
+			   <img src="parte3/24_02_03.png"/>
+			   <figcaption>Construa com régua e compasso ou com os esquadros a reta perpendicular a <b>t</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="305" name="sl">
+			   <label for="305"></label>
+			   <img src="parte3/24_02_04.png"/>
+			   <figcaption>Construa a mediatriz de <b>AB</b>. A interseção da <b>med<sub>AB</sub></b> com a reta perpendicular é o centro <b>O</b> de um dos arcos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="306" name="sl" checked>
+			   <label for="306"></label>
+			   <img src="parte3/24_02_05.png"/>
+			   <figcaption>Com o centro em <b>O</b> e raio <b>OA = OB</b>, construa o arco capaz de <b>&alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="307" name="sl">
+			   <label for="307"></label>
+			   <img src="parte3/24_02_06.png"/>
+			   <figcaption>O arco simétrico pode ser construído com centro em <b>A</b> ou <b>B</b>, e raio <b>OA</b>. Temos que <b>O' &isin; med<sub>AB</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="308" name="sl">
+			   <label for="308"></label>
+			   <img src="parte3/24_02_07.png"/>
+			   <figcaption>Com centro em <b>O'</b> e raio <b>O'A = O'B</b>, construa o arco simétrico.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="309" name="sl">
+			   <label for="309"></label>
+			   <img src="parte3/24_02_08.png"/>
+			   <figcaption>Esta é a construção do arco capaz de um ângulo <b>&alpha;</b> segundo segmento <b>AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte3/24_02_00.png" class="fundo" />
+  </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0025.png" />
   <img src="parte3/apos_dg_0025a.png" />
