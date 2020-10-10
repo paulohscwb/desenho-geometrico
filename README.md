@@ -251,11 +251,7 @@
 	<figcaption>Lembrando que o lado <b>b</b> é o lado <b>AC</b> do triângulo, usamos a circunferência com centro em <b>C</b> e raio <b>b</b>.</figcaption>
   </details></div>
   <img src="parte1/apos_dg_0005b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício.</p>
-	<img src="parte1/05_03_00.png"/>
-	<figcaption>Como a circunferência passa por <b>P</b>, construímos a circunferência de centro em <b>P</b> e raio <b>r</b> para encontrar o centro da solução.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -722,11 +718,7 @@
 		<img src="parte1/11_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte1/apos_dg_0011b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Problema similar ao anterior. Você pode construir a reta <b>t</b> perpendicular ao segmento <b>OT</b> usando régua e compasso, ou o par de esquadros.</p>
-	<img src="parte1/11_03_00.png"/>
-	<figcaption></figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -1223,11 +1215,7 @@
 	<figcaption>Antes de construir a circunferência, lembre-se de determinar o raio <b>OT</b> por meio de uma perpendicular à reta <b>t</b>.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0014b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
-	<img src="parte2/14_03_00.png"/>
-	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>BC &perp; r</b> para marcar o segmento <b>n</b>.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0015.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -1667,11 +1655,7 @@
 	<figcaption>Este exercício admite 4 soluções.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0018a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
-	<img src="parte2/18_02_00.png"/>
-	<figcaption>Você pode construir a bissetriz do <b>&angsph;BAC</b> ou a mediatriz de <b>BC</b>.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4</span></div>
   <img src="parte2/apos_dg_0018b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Você pode usar a régua e o compasso ou os esquadros e o compasso para resolver este exercício.</p>
@@ -2028,11 +2012,7 @@
 	<figcaption>Basta lembrar da construção que fizemos para transportar ângulos. Lembre-se que os arcos com centros nos vértices devem ter mesma medida de raio.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0020b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
-	<img src="parte2/20_03_00.png"/>
-	<figcaption>Lembre-se da construção que fizemos para transportar ângulos.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5</span></div>
   <img src="parte2/apos_dg_0020c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
