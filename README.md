@@ -2587,11 +2587,7 @@
 	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
   </details></div>
   <img src="parte3/apos_dg_0028a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Como os lados do triângulo são tangentes à circunferência inscrita, temos que construir os arcos capazes de <b>90&deg;</b>.</p>
-	<img src="parte3/28_02_00.png"/>
-	<figcaption>Depois de encontrar a reta <b>BC</b>, o lado <b>AC</b> será tangente à circunferência inscrita, ou seja, construímos outro arco capaz de <b>90&deg;</b> para determinar a posição de <b>AC</b>.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
   <img src="parte3/apos_dg_0028b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O vértice <b>C</b>, oposto de <b>AB</b>, enxerga o segmento segundo ângulo de <b>60&deg;</b>.</p>
@@ -2606,11 +2602,7 @@
 	<figcaption>A construção envolve o arco capaz de <b>30&deg;</b>.</figcaption>
   </details></div>
   <img src="parte3/apos_dg_0029a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Como o ponto <b>P</b> tem distância <b>d</b> até o ponto <b>A</b>, temos que <b>P &isin; Circunf(A,d)</b>.</p>
-	<img src="parte3/29_02_00.png"/>
-	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -2992,7 +2984,7 @@
 	<figcaption></figcaption>
   </details></div>
   <img src="parte4/apos_dg_0032a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
 	<p>Vamos ver o conceito e as propriedades da Divisão Harmônica.</p>
 	  <ul class="slider">
 		  <li>
@@ -3196,7 +3188,7 @@
 		<img src="parte4/33_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte4/apos_dg_0033b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
 	<p>Vamos ver qual é a propriedade deste lugar geométrico. Neste exemplo, a razão considerada é  $\mathsf{ k = {5 \over 3} }$</p>
 	  <ul class="slider">
 		  <li>
