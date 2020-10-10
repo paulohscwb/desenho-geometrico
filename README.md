@@ -1220,7 +1220,7 @@
   <img src="parte2/apos_dg_0015.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
-	<img src="parte2/14_02_00.png"/>
+	<img src="parte2/15_01_00.png"/>
 	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>CD &perp; r</b> para marcar o segmento <b>d</b>.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0015a.png"/>

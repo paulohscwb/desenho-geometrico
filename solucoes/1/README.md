@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../../scripts/style.css">
+<link rel="stylesheet" href="../../imagens/style.css">
 
 <h2 id="inicio">Respostas do Módulo 1. Circunferência, Mediatriz, Retas Paralelas e Bissetriz</h2> 
   <details open><summary>Atividade 1: exercício 5 da pág. 5</summary>
