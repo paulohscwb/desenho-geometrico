@@ -2986,13 +2986,234 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0032.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, podemos aplicar do Teorema de Tales para encontrar o segmento <b>x</b>.</p>
+	<img src="parte4/32_01_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <img src="parte4/apos_dg_0032a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Propriedade</summary>
+	<p>Vamos ver o conceito e as propriedades da Divisão Harmônica.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="393" name="sl" checked>
+			   <label for="393"></label>
+			   <img src="parte4/32_02_01.png"/>
+			   <figcaption>Considere o segmento <b>AB</b>. Vamos encontrar o 3&ordm; e o 4&ordm; harmônicos, ou simplesmente os conjugados harmônicos de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="394" name="sl">
+			   <label for="394"></label>
+			   <img src="parte4/32_02_02.png"/>
+			   <figcaption>O ponto interno <b>M</b>, tal que $\mathsf{ {AM \over BM} = -{p \over q} }$ é chamado de 3&ordm; conjugado harmônico. O sinal negativo apenas indica a direção oposta, considerando que os segmentos começam pelas extremidades de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="395" name="sl">
+			   <label for="395"></label>
+			   <img src="parte4/32_02_03.png"/>
+			   <figcaption>O ponto externo <b>N</b>, tal que $\mathsf{ {AN \over BN} = +{p \over q} }$ é chamado de 4&ordm; conjugado harmônico. O sinal positivo apenas indica a mesma direção, considerando que os segmentos começam pelas extremidades de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="396" name="sl">
+			   <label for="396"></label>
+			   <img src="parte4/32_02_04.png"/>
+			   <figcaption>Desta forma, temos os pontos <b>M</b> e <b>N</b> dividem harmonicamente o segmento <b>AB</b>. Vamos ver a seguir como é a construção da Divisão Harmônica de um segmento.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/32_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0032b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="397" name="sl" checked>
+			   <label for="397"></label>
+			   <img src="parte4/32_03_01.png"/>
+			   <figcaption>Construa o segmento <b>AB</b> = 7cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="398" name="sl">
+			   <label for="398"></label>
+			   <img src="parte4/32_03_02.png"/>
+			   <figcaption>Com a extremidade em <b>A</b>, construa uma reta com inclinação qualquer e marque com a régua <b>A7</b> = 7cm, correspondente ao numerador da razão <b>k</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="399" name="sl">
+			   <label for="399"></label>
+			   <img src="parte4/32_03_03.png"/>
+			   <figcaption>Usando os esquadros, construa a reta paralela a <b>A7</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="400" name="sl">
+			   <label for="400"></label>
+			   <img src="parte4/32_03_04.png"/>
+			   <figcaption>Construa os segmentos <b>B2</b> e <b>B2'</b> com medidas iguais a 2cm, correspondente ao denominador da razão <b>k</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="401" name="sl">
+			   <label for="401"></label>
+			   <img src="parte4/32_03_05.png"/>
+			   <figcaption>Unindo os pontos <b>2</b> e <b>7</b>, encontramos o 3&ordm; conjugado harmônico de <b>AB</b> na razão <b>k</b>. Temos que $\mathsf{ {AM \over BM} = -{7 \over 2} }$ por causa da semelhança dos triângulos <b>&#9651;AM7</b> e <b>&#9651;BM2</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="402" name="sl">
+			   <label for="402"></label>
+			   <img src="parte4/32_03_06.png"/>
+			   <figcaption>Unindo os pontos <b>2'</b> e <b>7</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b> na razão <b>k</b>. Temos que $\mathsf{ {AN \over BN} = +{7 \over 2} }$ por causa da semelhança dos triângulos <b>&#9651;AN7</b> e <b>&#9651;BN2'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/32_03_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0032c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="403" name="sl" checked>
+			   <label for="403"></label>
+			   <img src="parte4/32_04_01.png"/>
+			   <figcaption>Construa o segmento <b>AB</b> = 7cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="404" name="sl">
+			   <label for="404"></label>
+			   <img src="parte4/32_04_02.png"/>
+			   <figcaption>Com a extremidade em <b>A</b>, construa uma reta com inclinação qualquer e marque com a régua <b>A2</b> = 2cm, correspondente ao numerador da razão <b>k</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="405" name="sl">
+			   <label for="405"></label>
+			   <img src="parte4/32_04_03.png"/>
+			   <figcaption>Usando os esquadros, construa a reta paralela a <b>A2</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="406" name="sl">
+			   <label for="406"></label>
+			   <img src="parte4/32_04_04.png"/>
+			   <figcaption>Construa os segmentos <b>B5</b> e <b>B5'</b> com medidas iguais a 5cm, correspondente ao denominador da razão <b>k</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="407" name="sl">
+			   <label for="407"></label>
+			   <img src="parte4/32_04_05.png"/>
+			   <figcaption>Unindo os pontos <b>2</b> e <b>5</b>, encontramos o 3&ordm; conjugado harmônico de <b>AB</b> na razão <b>k</b>. Temos que $\mathsf{ {AM \over BM} = -{2 \over 5} }$ por causa da semelhança dos triângulos <b>&#9651;AM2</b> e <b>&#9651;BM5</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="408" name="sl">
+			   <label for="408"></label>
+			   <img src="parte4/32_04_06.png"/>
+			   <figcaption>Unindo os pontos <b>2</b> e <b>5'</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b> na razão <b>k</b>. Temos que $\mathsf{ {AN \over BN} = +{2 \over 5} }$ por causa da semelhança dos triângulos <b>&#9651;AN2</b> e <b>&#9651;BN5'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/32_04_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0033.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. </p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="409" name="sl" checked>
+			   <label for="409"></label>
+			   <img src="parte4/33_01_01.png"/>
+			   <figcaption>Construa o segmento <b>AB</b> = 7cm. Como os números 3 e 5 são "próximos", o ponto externo da razão harmônica ficará mais distante de <b>AB</b>. Por isso, construa o segmento <b>AB</b> próximo da margem esquerda ou direita da folha.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="410" name="sl">
+			   <label for="410"></label>
+			   <img src="parte4/33_01_02.png"/>
+			   <figcaption>Com a extremidade em <b>A</b>, construa uma reta com inclinação qualquer e marque com a régua <b>A3</b> = <b>A3'</b> = 3cm, correspondentes ao numerador da razão <b>k</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="411" name="sl">
+			   <label for="411"></label>
+			   <img src="parte4/33_01_03.png"/>
+			   <figcaption>Usando os esquadros, construa a reta paralela a <b>A3</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="412" name="sl">
+			   <label for="412"></label>
+			   <img src="parte4/33_01_04.png"/>
+			   <figcaption>Construa o segmento <b>B5</b> com medida igual a 5cm, correspondente ao denominador da razão <b>k</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="413" name="sl">
+			   <label for="413"></label>
+			   <img src="parte4/33_01_05.png"/>
+			   <figcaption>Unindo os pontos <b>3</b> e <b>5</b>, encontramos o 3&ordm; conjugado harmônico de <b>AB</b> na razão <b>k</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="414" name="sl">
+			   <label for="414"></label>
+			   <img src="parte4/33_01_06.png"/>
+			   <figcaption>Unindo os pontos <b>3'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b> na razão <b>k</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/33_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0033a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar o compasso e os esquadros para fazer esta construção. </p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="415" name="sl" checked>
+			   <label for="415"></label>
+			   <img src="parte4/33_02_01.png"/>
+			   <figcaption>Construa o segmento <b>AP</b> com medida <b>p</b> qualquer, com inclinação também qualquer. Vamos encontrar o segmento correspondente <b>q</b> que "gerou" o 3&ordm; harmônico <b>M</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="416" name="sl">
+			   <label for="416"></label>
+			   <img src="parte4/33_02_02.png"/>
+			   <figcaption>Construa com os esquadros a reta paralela a <b>AP</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="417" name="sl">
+			   <label for="417"></label>
+			   <img src="parte4/33_02_03.png"/>
+			   <figcaption>Se unirmos <b>P</b> e <b>M</b>, encontramos o ponto <b>Q</b> na reta paralela que construímos. Este é o segmento correspondente <b>q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="418" name="sl">
+			   <label for="418"></label>
+			   <img src="parte4/33_02_04.png"/>
+			   <figcaption>Usando o compasso, "pegue" a medida <b>BQ</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="419" name="sl">
+			   <label for="419"></label>
+			   <img src="parte4/33_02_05.png"/>
+			   <figcaption>E construa o segmento <b>BR = BQ</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="420" name="sl">
+			   <label for="420"></label>
+			   <img src="parte4/33_02_06.png"/>
+			   <figcaption>Unindo os pontos <b>P</b> e <b>R</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b> na razão $\mathsf{ k = +{AP \over BQ} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/33_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0033b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Propriedade</summary>
+	<p>Vamos ver qual é a propriedade deste lugar geométrico. Neste exemplo, a razão considerada é  $\mathsf{ k = {5 \over 3} }$</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="421" name="sl" checked>
+			   <label for="421"></label>
+			   <img src="parte4/33_03_01.png"/>
+			   <figcaption>Se considerarmos o ponto <b>P</b> pertencente à Circunferência de Apolônio construída, a razão entre as medidas dos segmentos <b>AP</b> e <b>BP</b> será igual à razão da Divisão Harmônica $\mathsf{ k = {5 \over 3} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="422" name="sl">
+			   <label for="422"></label>
+			   <img src="parte4/33_03_01.png"/>
+			   <figcaption>O centro desta circunferência é encontrado com a mediatriz de <b>MN</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/33_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0034.png"/>
   <img src="parte4/apos_dg_0034a.png"/>
