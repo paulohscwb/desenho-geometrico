@@ -15,7 +15,7 @@
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/apos_dg.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
 <details>
-  <summary id="parte1">1. Circunferência e Mediatriz</summary>
+  <summary id="parte1">1.1. Circunferência e Mediatriz</summary>
   <p>Material da página 1 até a página 11.</p>
    <img src="parte1/apos_dg_0001.png"/>
    <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
@@ -731,7 +731,7 @@
 </details>
 
 <details>
-  <summary id="parte2">2. Retas paralelas e bissetriz</summary>
+  <summary id="parte2">1.2. Retas paralelas e bissetriz</summary>
   <p>Material da página 12 até a página 20.</p>
   <img src="parte2/apos_dg_0012.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
@@ -1225,7 +1225,7 @@
   <img src="parte2/apos_dg_0014b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
-	<img src="parte2/14_02_00.png"/>
+	<img src="parte2/14_03_00.png"/>
 	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>BC &perp; r</b> para marcar o segmento <b>n</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
@@ -2043,7 +2043,7 @@
 </details>
 
 <details>
-  <summary id="parte3">3. Arco capaz</summary>
+  <summary id="parte3">2.1. Arco capaz</summary>
   <p>Material da página 21 até a página 29.</p>
   <img src="parte3/apos_dg_0021.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
@@ -2635,7 +2635,7 @@
 </details>
 
 <details>
-  <summary id="parte4">4. Operações com segmentos</summary>
+  <summary id="parte4">2.2. Operações com segmentos</summary>
   <p>Material da página 30 até a página 48.</p>
   <img src="parte4/apos_dg_0030.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
@@ -2901,13 +2901,13 @@
 		   <li>
 			   <input type="radio" id="378" name="sl">
 			   <label for="378"></label>
-			   <img src="parte4/31_02_08.png"/>
+			   <img src="parte4/31_02_10.png"/>
 			   <figcaption>O segundo lugar geométrico de <b>B</b> é a Circunf(A,c).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="379" name="sl">
 			   <label for="379"></label>
-			   <img src="parte4/31_02_09.png"/>
+			   <img src="parte4/31_02_11.png"/>
 			   <figcaption>Logo, temos as duas soluções deste exercício: <b>&#9651;ABC</b> e <b>&#9651;AB'C</b>.</figcaption>
 		   </li>
 		</ul>
@@ -3078,7 +3078,7 @@
 </details>
 
 <details>
-  <summary id="parte5">5. Triângulos e quadriláteros</summary>
+  <summary id="parte5">3. Triângulos e quadriláteros</summary>
   <p>Material da página 49 até a página 64.</p>
   <img src="parte5/apos_dg_0049.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
@@ -3115,7 +3115,7 @@
 </details>
 
 <details>
-  <summary id="parte6">6. Tangência e concordância</summary>
+  <summary id="parte6">4. Tangência e concordância</summary>
   <p>Material da página 65 até a página 78.</p>
   <img src="parte6/apos_dg_0065.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
@@ -3148,7 +3148,7 @@
 </details>
 
 <details>
-  <summary id="parte7">7. Polígonos regulares</summary>
+  <summary id="parte7">5. Polígonos regulares</summary>
   <p>Material da página 79 até a página 89.</p>
   <img src="parte7/apos_dg_0079.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
@@ -3175,7 +3175,7 @@
 </details>
 
 <details>
-  <summary id="parte8">8. Retificação de circunferência</summary>
+  <summary id="parte8">6.1. Retificação de circunferência</summary>
   <p>Material da página 89 até a página 93.</p>
   <img src="parte8/apos_dg_0089.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
@@ -3190,7 +3190,7 @@
 </details>
 
 <details style="border-bottom: 1px solid #a2dec0;">
-  <summary id="parte9">9. Equivalência de áreas</summary>
+  <summary id="parte9">6.2. Equivalência de áreas</summary>
   <p>Material da página 94 até a página 103.</p>
   <img src="parte9/apos_dg_0094.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
