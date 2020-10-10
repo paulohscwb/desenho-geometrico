@@ -15,10 +15,11 @@
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/apos_dg.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
 <details>
-  <summary id="parte1">Circunferência e Mediatriz: pág. 1-11</summary>
-   <img src="parte1/apos_dg_0001.png" />
+  <summary id="parte1">1. Circunferência e Mediatriz</summary>
+  <p>Material da página 1 até a página 11.</p>
+   <img src="parte1/apos_dg_0001.png"/>
    <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-   <img src="parte1/apos_dg_0002.png" />
+   <img src="parte1/apos_dg_0002.png"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
 	<p>Utilizaremos o compasso para construir a primeira circunferência. Lembre-se sempre de deixá-lo com o grafite apontado para desenhar com maior precisão.</p>
 	  <ul class="slider">
@@ -47,9 +48,9 @@
 			   <figcaption>Qualquer ponto <b>P</b> pertencente à <b>Circunf(O,r)</b> tem a distância fixa <b>r</b> até o ponto fixo <b>O</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/02_01_00.png" class="fundo" />
+		<img src="parte1/02_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0002a.png" />
+  <img src="parte1/apos_dg_0002a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. Usaremos o compasso como instrumento auxiliar.</p>
 	  <ul class="slider">
@@ -72,10 +73,10 @@
 			   <figcaption>Como o ponto <b>X</b> está na reta <b>t</b>, teremos duas soluções para este problema, encontradas na interseção da <b>Circunf(P,d)</b> com a reta <b>t</b>. Se a <b>Circunf(P,d)</b> não interceptar a reta <b>t</b>, não temos solução. No caso em que a <b>Circunf(P,d)</b> for tangente à reta <b>t</b>, teremos apenas 1 solução.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/02_02_00.png" class="fundo" />
+		<img src="parte1/02_02_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-  <img src="parte1/apos_dg_0003.png" />
+  <img src="parte1/apos_dg_0003.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para resolver este problema. Usaremos o compasso como instrumento auxiliar.</p>
 	  <ul class="slider">
@@ -110,9 +111,9 @@
 			   <figcaption>Temos duas soluções, encontradas nas interseções das circunferências construídas. Se as circunferências ficarem tangentes, teremos apenas 1 solução. E no caso em que as circunferências não se cortam, não teremos solução neste problema.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/03_01_00.png" class="fundo" />
+		<img src="parte1/03_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0003a.png" />
+  <img src="parte1/apos_dg_0003a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer a construção deste triângulo. Usaremos a régua e o compasso como instrumentos auxiliares.</p>
 	  <ul class="slider">
@@ -177,11 +178,11 @@
 			   <figcaption>Nas interseções das circunferências construídas, podemos escolher o vértice <b>C</b> e "passar a limpo" o triângulo <b>ABC</b> unindo as extremidades <b>A</b> com <b>C</b> e <b>B</b> com <b>C</b>. O triângulo <b>ABC'</b> pode ser desenhado com linha tracejada.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/03_02_00.png" class="fundo" />
+		<img src="parte1/03_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0003b.png" />
+  <img src="parte1/apos_dg_0003b.png"/>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-  <img src="parte1/apos_dg_0004.png" />
+  <img src="parte1/apos_dg_0004.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. O compasso será usado como instrumento auxiliar.</p>
 	  <ul class="slider">
@@ -222,41 +223,41 @@
 			   <figcaption>Escolhemos uma solução para ficar com linha contínua e a outra com linha tracejada.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/04_01_00.png" class="fundo" />
+		<img src="parte1/04_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0004a.png" />
+  <img src="parte1/apos_dg_0004a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício proposto.</p>
-	<img src="parte1/04_02_00.png" />
+	<img src="parte1/04_02_00.png"/>
 	<figcaption>Encontramos duas soluções na resolução deste problema.</figcaption>
   </details></div>
-  <img src="parte1/apos_dg_0004b.png" />
+  <img src="parte1/apos_dg_0004b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Use o conceito do lugar geométrico circunferência para resolver este exercício.</p>
-	<img src="parte1/04_03_00.png" />
+	<img src="parte1/04_03_00.png"/>
 	<figcaption>Encontramos duas soluções na resolução deste problema: os triângulos <b>ABC</b> e <b>A'BC</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-  <img src="parte1/apos_dg_0005.png" />
+  <img src="parte1/apos_dg_0005.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício.</p>
-	<img src="parte1/05_01_00.png" />
+	<img src="parte1/05_01_00.png"/>
 	<figcaption>Como as laterais do triângulo isósceles medem <b>d</b>, usamos uma circunferência para encontrar os vértices <b>B</b> e <b>C</b>.</figcaption>
   </details></div>
-  <img src="parte1/apos_dg_0005a.png" />
+  <img src="parte1/apos_dg_0005a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Use o conceito do lugar geométrico circunferência para resolver este exercício.</p>
-	<img src="parte1/05_02_00.png" />
+	<img src="parte1/05_02_00.png"/>
 	<figcaption>Lembrando que o lado <b>b</b> é o lado <b>AC</b> do triângulo, usamos a circunferência com centro em <b>C</b> e raio <b>b</b>.</figcaption>
   </details></div>
-  <img src="parte1/apos_dg_0005b.png" />
+  <img src="parte1/apos_dg_0005b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício.</p>
-	<img src="parte1/05_03_00.png" />
+	<img src="parte1/05_03_00.png"/>
 	<figcaption>Como a circunferência passa por <b>P</b>, construímos a circunferência de centro em <b>P</b> e raio <b>r</b> para encontrar o centro da solução.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-  <img src="parte1/apos_dg_0006.png" />
+  <img src="parte1/apos_dg_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. Usaremos a régua e o compasso como instrumentos auxiliares.</p>
 	  <ul class="slider">
@@ -303,9 +304,9 @@
 			   <figcaption>Estas são as duas soluções do problema proposto.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/06_01_00.png" class="fundo" />
+		<img src="parte1/06_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0006a.png" />
+  <img src="parte1/apos_dg_0006a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Neste segundo lugar geométrico, usamos a régua e o compasso como instrumentos auxiliares para sua construção.</p>
 	  <ul class="slider">
@@ -334,10 +335,10 @@
 			   <figcaption>Logo, temos que <b>&angsph;AMX = 90&deg;</b>. Portanto, a mediatriz passa pelo ponto médio e forma <b>90&deg;</b> com este segmento.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/06_02_00.png" class="fundo" />
+		<img src="parte1/06_02_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-  <img src="parte1/apos_dg_0007.png" />
+  <img src="parte1/apos_dg_0007.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares para sua construção da mediatriz.</p>
 	  <ul class="slider">
@@ -396,15 +397,15 @@
 			   <figcaption>A mediatriz de <b>AB</b> está construída com o segmento próximo da margem da folha.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/07_01_00.png" class="fundo" />
+		<img src="parte1/07_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0007a.png" />
+  <img src="parte1/apos_dg_0007a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Constuindo a mediatriz de <b>AB</b>, determinamos o ponto médio deste segmento.</p>
-	<img src="parte1/07_02_00.png" />
+	<img src="parte1/07_02_00.png"/>
 	<figcaption>Utilize os mesmos passos usados na construção anterior.</figcaption>
   </details></div>
-  <img src="parte1/apos_dg_0007b.png" />
+  <img src="parte1/apos_dg_0007b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Usaremos a régua e o compasso como instrumentos auxiliares nesta construção.</p>
 	  <ul class="slider">
@@ -439,10 +440,10 @@
 			   <figcaption>Escolha uma solução para construir o triângulo com linha contínua e o outro com linha tracejada.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/07_03_00.png" class="fundo" />
+		<img src="parte1/07_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-  <img src="parte1/apos_dg_0008.png" />
+  <img src="parte1/apos_dg_0008.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar a régua e o compasso como instrumentos auxiliares para resolver este problema.</p>
 	  <ul class="slider">
@@ -501,9 +502,9 @@
 			   <figcaption>Esta é a única solução deste problema.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/08_01_00.png" class="fundo" />
+		<img src="parte1/08_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0008a.png" />
+  <img src="parte1/apos_dg_0008a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar a régua, o compasso e os esquadros como instrumentos auxiliares para resolver este problema. Vamos começar usando a régua e o compasso.</p>
 	  <ul class="slider">
@@ -562,9 +563,9 @@
 			   <figcaption>Esta é a solução do problema com o uso de esquadros. Você pode usar o esquadro de 60 alinhado e o outro fixo. O importante é lembrar de apoiar sempre a hipotenusa deste esquadro que irá deslizar com o outro esquadro.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/08_02_00.png" class="fundo" />
+		<img src="parte1/08_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0008b.png" />
+  <img src="parte1/apos_dg_0008b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar a régua, o compasso e os esquadros como instrumentos auxiliares para resolver este problema. Vamos começar usando a régua e o compasso.</p>
 	  <ul class="slider">
@@ -617,48 +618,48 @@
 			   <figcaption>Esta é a solução do problema com o uso de esquadros. Você pode usar o esquadro de 45 alinhado e o outro fixo. O importante é lembrar de apoiar sempre a hipotenusa deste esquadro que irá deslizar com o outro esquadro.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/08_03_00.png" class="fundo" />
+		<img src="parte1/08_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-  <img src="parte1/apos_dg_0009.png" />
+  <img src="parte1/apos_dg_0009.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Constuindo a mediatriz de <b>AB</b>, determinamos o ponto médio <b>M</b>deste segmento.</p>
-	<img src="parte1/09_01_00.png" />
+	<img src="parte1/09_01_00.png"/>
 	<figcaption>Usando as mediatrizes das metades do segmento <b>AB</b>, dividimos este segmento em 4 partes iguais.</figcaption>
   </details></div>
-  <img src="parte1/apos_dg_0009a.png" />
+  <img src="parte1/apos_dg_0009a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como <b>P</b> é esquidistante de <b>B</b> e de <b>C</b>, pertence à <b>med<sub>BC</sub></b>.</p>
-	<img src="parte1/09_02_00.png" />
+	<img src="parte1/09_02_00.png"/>
 	<figcaption></figcaption>
   </details></div>
-  <img src="parte1/apos_dg_0009b.png" />
+  <img src="parte1/apos_dg_0009b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como <b>X</b> é esquidistante de <b>A</b> e de <b>C</b>, pertence à <b>med<sub>AC</sub></b>.</p>
-	<img src="parte1/09_03_00.png" />
+	<img src="parte1/09_03_00.png"/>
 	<figcaption>Como a distância de <b>X</b> até <b>B</b> é igual a <b>r</b>, pertence à <b>Circunf(B,r)</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-  <img src="parte1/apos_dg_0010.png" />
+  <img src="parte1/apos_dg_0010.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como <b>X</b> é esquidistante de <b>A</b> e de <b>B</b>, pertence à <b>med<sub>AB</sub></b>.</p>
-	<img src="parte1/10_01_00.png" />
+	<img src="parte1/10_01_00.png"/>
 	<figcaption>Como <b>X</b> é esquidistante de <b>C</b> e de <b>D</b>, pertence à <b>med<sub>CD</sub></b>.</figcaption>
   </details></div>
-  <img src="parte1/apos_dg_0010a.png" />
+  <img src="parte1/apos_dg_0010a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste caso, o centro será o ponto médio do diâmetro <b>AB</b>.</p>
-	<img src="parte1/10_02_00.png" />
+	<img src="parte1/10_02_00.png"/>
 	<figcaption></figcaption>
   </details></div>
-  <img src="parte1/apos_dg_0010b.png" />
+  <img src="parte1/apos_dg_0010b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como a circunferência procurada passa por <b>P</b> e <b>Q</b>, seu centro pertence à <b>med<sub>PQ</sub></b>.</p>
-	<img src="parte1/10_03_00.png" />
+	<img src="parte1/10_03_00.png"/>
 	<figcaption>Depois de achar o centro <b>O</b>, o raio será <b>OP = OQ</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
-  <img src="parte1/apos_dg_0011.png" />
+  <img src="parte1/apos_dg_0011.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar a régua e o compasso como instrumentos auxiliares para resolver este problema.</p>
 	  <ul class="slider">
@@ -687,9 +688,9 @@
 			   <figcaption>Construindo a mediatriz de <b>med<sub>BC</sub></b>, temos que a interseção da <b>med<sub>AB</sub></b> com a <b>med<sub>BC</sub></b> será o ponto equidistante de <b>A</b>, <b>B</b> e <b>C</b>. Logo, este ponto é o centro da circunferência.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/11_01_00.png" class="fundo" />
+		<img src="parte1/11_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0011a.png" />
+  <img src="parte1/apos_dg_0011a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar os esquadros e o compasso como instrumentos auxiliares para resolver este problema. Como a reta <b>t</b> é tangente à circunferência de centro <b>O</b>, o raio <b>OT</b> será perpendicular a <b>t</b>.</p>
 	  <ul class="slider">
@@ -718,20 +719,21 @@
 			   <figcaption>Se você preferir, pode fazer a construção da reta perpendicular a <b>t</b> que passa por <b>O</b> usando régua e compasso.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte1/11_02_00.png" class="fundo" />
+		<img src="parte1/11_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte1/apos_dg_0011b.png" />
+  <img src="parte1/apos_dg_0011b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Problema similar ao anterior. Você pode construir a reta <b>t</b> perpendicular ao segmento <b>OT</b> usando régua e compasso, ou o par de esquadros.</p>
-	<img src="parte1/11_03_00.png" />
+	<img src="parte1/11_03_00.png"/>
 	<figcaption></figcaption>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
-  <summary id="parte2">Retas paralelas e bissetriz: pág. 12-20</summary>
-  <img src="parte2/apos_dg_0012.png" />
+  <summary id="parte2">2. Retas paralelas e bissetriz</summary>
+  <p>Material da página 12 até a página 20.</p>
+  <img src="parte2/apos_dg_0012.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
 	<p>Agora vamos estudar o terceiro lugar geométrico: retas paralelas. Vamos ver algumas propriedades.</p>
 	  <ul class="slider">
@@ -748,9 +750,9 @@
 			   <figcaption>Para medir a distância de um ponto <b>P</b> qualquer, pertencente a <b>s<sub>1</sub></b>, até a reta <b>r</b> basta construir a reta perpendicular a <b>r</b> que passa por <b>P</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/12_01_00.png" class="fundo" />
+		<img src="parte2/12_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0012a.png" />
+  <img src="parte2/apos_dg_0012a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e o compasso para resolver os dois primeiros casos nesta construção.</p>
 	  <ul class="slider">
@@ -833,9 +835,9 @@
 			   <figcaption>De fato, <b>PS // t</b> pois construímos um losango <b>PQRS</b>, e os lados opostos de um losango são paralelos.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/12_02_00.png" class="fundo" />
+		<img src="parte2/12_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0012b.png" />
+  <img src="parte2/apos_dg_0012b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e o compasso para resolver o terceiro caso desta construção, e o par de esquadros no quarto caso.</p>
 	  <ul class="slider">
@@ -900,9 +902,9 @@
 			   <figcaption>Desta forma temos a reta <b>p // t</b> construída com esquadros.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/12_03_00.png" class="fundo" />
+		<img src="parte2/12_03_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0012c.png" />
+  <img src="parte2/apos_dg_0012c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Podemos utilizar a régua e o compasso ou o par de esquadros para resolver este exercício. Vamos usar os esquadros para construção e a régua para marcamos a medida de 2cm.</p>
 	  <ul class="slider">
@@ -949,10 +951,10 @@
 			   <figcaption>... e <b>p<sub>2</sub></b>, que definem o lugar geométrico dos pontos com distância 2cm à reta <b>t</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/12_04_00.png" class="fundo" />
+		<img src="parte2/12_04_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
-  <img src="parte2/apos_dg_0013.png" />
+  <img src="parte2/apos_dg_0013.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos os esquadros e o compasso para resolver este exercício. Lembrando que para construir uma circunferência tangente a uma reta, o raio deve ser perpendicular à reta no ponto de tangência.</p>
 	  <ul class="slider">
@@ -1035,9 +1037,9 @@
 			   <figcaption>A interseção entre <b>s</b> e <b>t</b> é o centro da circunferência tangente aos segmentos <b>AB</b> e <b>BC</b> com raio <b>r</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/13_01_00.png" class="fundo" />
+		<img src="parte2/13_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0013a.png" />
+  <img src="parte2/apos_dg_0013a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>No exercício anterior, construímos as retas perpendiculares e paralelas com os esquadros. Neste exercício, vamos utilizar a régua e o compasso.</p>
 	  <ul class="slider">
@@ -1120,9 +1122,9 @@
 			   <figcaption>Neste exemplo, temos 2 soluções. Caso a <b>Circunf(A,r)</b> não intercepte a reta <b>u // t</b>, não temos solução. E caso a <b>Circunf(A,r) </b> seja tangente à reta <b>u // t</b>, temos apenas 1 solução.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/13_02_00.png" class="fundo" />
+		<img src="parte2/13_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0013b.png" />
+  <img src="parte2/apos_dg_0013b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Neste exercício, vamos utilizar o par de esquadros e o compasso.</p>
 	  <ul class="slider">
@@ -1205,35 +1207,35 @@
 			   <figcaption>A interseção das retas paralelas aos segmentos é o centro <b>O</b> da circunferência de raio <b>r</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/13_03_00.png" class="fundo" />
+		<img src="parte2/13_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
-  <img src="parte2/apos_dg_0014.png" />
+  <img src="parte2/apos_dg_0014.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer a construção da reta paralela com régua e compasso ou com esquadros.</p>
-	<img src="parte2/14_01_00.png" />
+	<img src="parte2/14_01_00.png"/>
 	<figcaption>Como a circunferência deve passar por <b>A</b> e <b>B</b>, o centro estará na mediatriz de <b>AB</b>.</figcaption>
   </details></div>
-  <img src="parte2/apos_dg_0014a.png" />
+  <img src="parte2/apos_dg_0014a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer a construção da reta paralela com régua e compasso ou com esquadros.</p>
-	<img src="parte2/14_02_00.png" />
+	<img src="parte2/14_02_00.png"/>
 	<figcaption>Antes de construir a circunferência, lembre-se de determinar o raio <b>OT</b> por meio de uma perpendicular à reta <b>t</b>.</figcaption>
   </details></div>
-  <img src="parte2/apos_dg_0014b.png" />
+  <img src="parte2/apos_dg_0014b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
-	<img src="parte2/14_02_00.png" />
+	<img src="parte2/14_02_00.png"/>
 	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>BC &perp; r</b> para marcar o segmento <b>n</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
-  <img src="parte2/apos_dg_0015.png" />
+  <img src="parte2/apos_dg_0015.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
-	<img src="parte2/14_02_00.png" />
+	<img src="parte2/14_02_00.png"/>
 	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>CD &perp; r</b> para marcar o segmento <b>d</b>.</figcaption>
   </details></div>
-  <img src="parte2/apos_dg_0015a.png" />
+  <img src="parte2/apos_dg_0015a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso para construir as retas perpendiculares e paralelas ou o par de esquadros com o compasso. Vamos ver como fica a construção com os esquadros e o compasso.</p>
 	  <ul class="slider">
@@ -1292,9 +1294,9 @@
 			   <figcaption>Como o centro da solução pertence à reta <b>a</b>, teremos 2 soluções: <b>O &equiv; s &cap; a</b> e <b>O' &equiv; t &cap; a</b>.Construímos estas circunferências com raios de medida <b>r</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/15_02_00.png" class="fundo" />
+		<img src="parte2/15_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0015b.png" />
+  <img src="parte2/apos_dg_0015b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
 	  <ul class="slider">
@@ -1335,10 +1337,10 @@
 			   <figcaption>O ângulo formado entre as bissetrizes <b>b<sub>1</sub></b> e <b>b<sub>2</sub></b> mede <b>&alpha; + &beta;</b>. Como <b>&alpha; + &alpha; + &beta; + &beta; = 180&deg;</b>, temos que <b>&alpha; + &beta; = 90&deg;</b>, ou seja, as bissetrizes dos ângulos suplementares são perpendiculares.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/15_03_00.png" class="fundo" />
+		<img src="parte2/15_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
-  <img src="parte2/apos_dg_0016.png" />
+  <img src="parte2/apos_dg_0016.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e o compasso para construir a bissetriz.</p>
 	  <ul class="slider">
@@ -1373,9 +1375,9 @@
 			   <figcaption>Esta semi-reta é a bissetriz do ângulo <b>&angsph;A</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/16_01_00.png" class="fundo" />
+		<img src="parte2/16_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0016a.png" />
+  <img src="parte2/apos_dg_0016a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. A ideia é não usar a interseção das retas para construir a bissetriz.</p>
 	  <ul class="slider">
@@ -1452,9 +1454,9 @@
 			   <figcaption>Logo, a mediatriz da base <b>BD</b> do <b>&#9651;VDB</b> será a bissetriz do ângulo formado entre <b>r</b> e <b>s</b>. Esta mediatriz será paralela à bissetriz do <b>&angsph;BAC</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/16_02_00.png" class="fundo" />
+		<img src="parte2/16_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0016b.png" />
+  <img src="parte2/apos_dg_0016b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar a régua e o compasso neste exercício.</p>
 	  <ul class="slider">
@@ -1489,11 +1491,11 @@
 			   <figcaption>A semi-reta <b>AD</b> será a bissetriz de <b>180&deg;</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/16_03_00.png" class="fundo" />
+		<img src="parte2/16_03_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0016c.png" />
+  <img src="parte2/apos_dg_0016c.png"/>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
-  <img src="parte2/apos_dg_0017.png" />
+  <img src="parte2/apos_dg_0017.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Neste exercício, vamos utilizar a régua e o compasso. Vamos determinar o centro da circunferência inscrita, que fica tangente aos 3 lados do triângulo.</p>
 	  <ul class="slider">
@@ -1558,9 +1560,9 @@
 			   <figcaption>Esta é a solução do problema. Se você quiser, pode construir a reta perpendicular <b>IM</b> com os esquadros. Note que fizemos esta perpendicular ao lado <b>BC</b>, mas ela pode ser feita em qualquer um dos lados do triângulo.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/17_01_00.png" class="fundo" />
+		<img src="parte2/17_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0017a.png" />
+  <img src="parte2/apos_dg_0017a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. As retas perpendiculares podem ser construídas com os esquadros ou com a régua e o compasso.</p>
 	  <ul class="slider">
@@ -1643,34 +1645,34 @@
 			   <figcaption>Construa <b>I<sub>a</sub>T<sub>3</sub> &perp; AB</b> e construa a circunferência ex-inscrita relativa ao lado <b>a</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/17_02_00.png" class="fundo" />
+		<img src="parte2/17_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0017b.png" />
+  <img src="parte2/apos_dg_0017b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
-	<img src="parte2/17_03_00.png" />
+	<img src="parte2/17_03_00.png"/>
 	<figcaption>Lembre-se de construir o segmento <b>r</b> perpendicular a um dos lados do triângulo.</figcaption>
   </details></div>
-  <img src="parte2/apos_dg_0017c.png" />
+  <img src="parte2/apos_dg_0017c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
-	<img src="parte2/17_04_00.png" />
+	<img src="parte2/17_04_00.png"/>
 	<figcaption>Lembre-se de construir o segmento <b>r</b> perpendicular a um dos lados do triângulo. Este segmento tem medida aproximada de 1,4cm.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
-  <img src="parte2/apos_dg_0018.png" />
+  <img src="parte2/apos_dg_0018.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
-	<img src="parte2/18_01_00.png" />
+	<img src="parte2/18_01_00.png"/>
 	<figcaption>Este exercício admite 4 soluções.</figcaption>
   </details></div>
-  <img src="parte2/apos_dg_0018a.png" />
+  <img src="parte2/apos_dg_0018a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
-	<img src="parte2/18_02_00.png" />
+	<img src="parte2/18_02_00.png"/>
 	<figcaption>Você pode construir a bissetriz do <b>&angsph;BAC</b> ou a mediatriz de <b>BC</b>.</figcaption>
   </details></div>
-  <img src="parte2/apos_dg_0018b.png" />
+  <img src="parte2/apos_dg_0018b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Você pode usar a régua e o compasso ou os esquadros e o compasso para resolver este exercício.</p>
 	  <ul class="slider">
@@ -1717,10 +1719,10 @@
 			   <figcaption>Agora você pode construir a circunferência com centro em <b>B</b> e raio <b>r</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/18_03_00.png" class="fundo" />
+		<img src="parte2/18_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
-  <img src="parte2/apos_dg_0019.png" />
+  <img src="parte2/apos_dg_0019.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Neste exercício, vamos utilizar a régua e o compasso.</p>
 	  <ul class="slider">
@@ -1755,9 +1757,9 @@
 			   <figcaption>Note que esta construção funciona, pois construímos os triângulos congruentes.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/19_01_00.png" class="fundo" />
+		<img src="parte2/19_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0019a.png" />
+  <img src="parte2/apos_dg_0019a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. Vamos começar com a régua e o compasso.</p>
 	  <ul class="slider">
@@ -1840,9 +1842,9 @@
 			   <figcaption>Assim ficam definidas as duas opções de construção de <b>60&deg;</b>: com o compasso e com os esquadros.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/19_02_00.png" class="fundo" />
+		<img src="parte2/19_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0019b.png" />
+  <img src="parte2/apos_dg_0019b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. Vamos começar com a régua e o compasso.</p>
 	  <ul class="slider">
@@ -1907,7 +1909,7 @@
 			   <figcaption>Vamos desenhar outra reta no espaço abaixo para construir os outros ângulos.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/19_03_00.png" class="fundo" />
+		<img src="parte2/19_03_00.png" class="fundo"/>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. Vamos começar com a régua e o compasso.</p>
@@ -1985,10 +1987,10 @@
 			   <figcaption>Desta maneira, temos a construção do ângulo de <b>75&deg;</b> com os esquadros. Conseguimos também o suplementar de <b>105&deg;</b> com esta construção. Então, ficam as opções para você construir nos próximos exercícios: com os esquadros ou com régua e compasso.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/19_03_10.png" class="fundo" />
+		<img src="parte2/19_03_10.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
-  <img src="parte2/apos_dg_0020.png" />
+  <img src="parte2/apos_dg_0020.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Neste exercício, vamos utilizar a régua e o compasso.</p>
 	  <ul class="slider">
@@ -2017,32 +2019,33 @@
 			   <figcaption>A semi-reta <b>OB</b> define o <b>&angsph;AOB</b>, com bissetriz <b>OC</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte2/20_01_00.png" class="fundo" />
+		<img src="parte2/20_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte2/apos_dg_0020a.png" />
+  <img src="parte2/apos_dg_0020a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
-	<img src="parte2/20_02_00.png" />
+	<img src="parte2/20_02_00.png"/>
 	<figcaption>Basta lembrar da construção que fizemos para transportar ângulos. Lembre-se que os arcos com centros nos vértices devem ter mesma medida de raio.</figcaption>
   </details></div>
-  <img src="parte2/apos_dg_0020b.png" />
+  <img src="parte2/apos_dg_0020b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
-	<img src="parte2/20_03_00.png" />
+	<img src="parte2/20_03_00.png"/>
 	<figcaption>Lembre-se da construção que fizemos para transportar ângulos.</figcaption>
   </details></div>
-  <img src="parte2/apos_dg_0020c.png" />
+  <img src="parte2/apos_dg_0020c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
-	<img src="parte2/20_04_00.png" />
+	<img src="parte2/20_04_00.png"/>
 	<figcaption>Lembre-se da construção que fizemos para transportar ângulos.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
-  <summary id="parte3">Arco capaz: pág. 21-29</summary>
-  <img src="parte3/apos_dg_0021.png" />
+  <summary id="parte3">3. Arco capaz</summary>
+  <p>Material da página 21 até a página 29.</p>
+  <img src="parte3/apos_dg_0021.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Vamos ver alguns elementos para o próximo Lugar geométrico.</p>
 	  <ul class="slider">
@@ -2059,11 +2062,11 @@
 			   <figcaption>Quando a corda contém o centro da circunferência, temos um <b>diâmetro</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/21_01_00.png" class="fundo" />
+		<img src="parte3/21_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte3/apos_dg_0021a.png" />
+  <img src="parte3/apos_dg_0021a.png"/>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
-  <img src="parte3/apos_dg_0022.png" />
+  <img src="parte3/apos_dg_0022.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
 	<p>Vamos demonstrar a Propriedade 1. Vamos considerar os 3 casos possíveis: quando um lado do ângulo inscrito define um diâmetro; quando o centro está no interior do ângulo inscrito; e quando o centro está na região externa definida pelo ângulo inscrito.</p>
 	  <ul class="slider">
@@ -2140,9 +2143,9 @@
 			   <figcaption>De acordo com o primeiro caso provado, temos que $\mathsf{\alpha_1 = {\beta_1 \over 2}}$ e $\mathsf{\alpha_2 = {\beta_2 \over 2}}$. Logo, $\mathsf{\alpha = \alpha_1 - \alpha_2 = {\beta_1 \over 2} - {\beta_2 \over 2} = { {\beta_1 - \beta_2} \over 2} = {\beta \over 2}}$. Portanto, a propriedade vale em todos os casos, ou seja, o ângulo inscrito sempre vale a metade da medida do ângulo central correspondente.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/22_01_00.png" class="fundo" />
+		<img src="parte3/22_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte3/apos_dg_0022a.png" />
+  <img src="parte3/apos_dg_0022a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Vamos ver alguns do ângulo de segmento.</p>
 	  <ul class="slider">
@@ -2159,9 +2162,9 @@
 			   <figcaption>Quando unimos <b>A</b> e <b>B</b> com o centro da circunferência, temos o ângulo central correspondente <b>&beta;</b> do ângulo de segmento.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/22_02_00.png" class="fundo" />
+		<img src="parte3/22_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte3/apos_dg_0022b.png" />
+  <img src="parte3/apos_dg_0022b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
 	<p>Vamos demonstrar a Propriedade 2, que relaciona o ângulo de segmento com o ângulo central correspondente.</p>
 	  <ul class="slider">
@@ -2184,10 +2187,10 @@
 			   <figcaption>Da relação de <b>&delta;</b> e <b>&theta;</b>, podemos concluir que <b>2&delta; + 2&theta; = 180&deg;</b>. Temos que <b>2&delta; + 2&theta; = 2&delta; + &beta;</b>, ou seja <b>2&theta; = &beta;</b>. Portanto, $\mathsf{\theta = {\beta \over 2} }$, que é a mesma relação que provamos entre o ângulo inscrito e o central correspondente. </figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/22_03_00.png" class="fundo" />
+		<img src="parte3/22_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
-  <img src="parte3/apos_dg_0023.png" />
+  <img src="parte3/apos_dg_0023.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos usar os conceitos dos ângulos de segmento e inscrito para encontrar o centro da circunferência. Utilizaremos os esquadros e o compasso neste exercício.</p>
 	  <ul class="slider">
@@ -2252,28 +2255,28 @@
 			   <figcaption>Construindo a mediatriz de <b>AG</b>, temos o centro da circunferência <b>O</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/23_01_00.png" class="fundo" />
+		<img src="parte3/23_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte3/apos_dg_0023a.png" />
+  <img src="parte3/apos_dg_0023a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Utilizando as definições dos ângulos inscrito, central e de segmento, conseguimos deduzir os valores do ângulo <b>x</b> indicados.</p>
-	<img src="parte3/23_02_00.png" />
+	<img src="parte3/23_02_00.png"/>
 	<figcaption>No item <b>a</b>, o ângulo <b>x</b> é inscrito. Logo, <b>x</b> mede a metade do central correspondente, indicado por <b>90&deg;</b>. Determine as justificativas das medidas dos outros itens.</figcaption>
   </details></div>
-  <img src="parte3/apos_dg_0023b.png" />
+  <img src="parte3/apos_dg_0023b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Utilizando as definições dos ângulos inscrito, central e de segmento, conseguimos deduzir os valores do ângulo <b>x</b> indicados.</p>
-	<img src="parte3/23_03_00.png" />
+	<img src="parte3/23_03_00.png"/>
 	<figcaption>No item <b>d</b>, o ângulo <b>x</b> é inscrito, e "enxerga" a mesma corda que o ângulo de <b>45&deg;</b> indicado. Logo, <b>x = 45&deg;</b>. Determine as justificativas das medidas dos outros itens.</figcaption>
   </details></div>
-  <img src="parte3/apos_dg_0023c.png" />
+  <img src="parte3/apos_dg_0023c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Utilizando as definições dos ângulos inscrito, central e de segmento, conseguimos deduzir os valores do ângulo <b>x</b> indicados.</p>
-	<img src="parte3/23_04_00.png" />
+	<img src="parte3/23_04_00.png"/>
 	<figcaption>No item <b>g</b>, o ângulo <b>x</b> é de segmento, correspondente ao ângulo central indicado de <b>120&deg;</b>. Logo, <b>x = 60&deg;</b>, metade da medida do ângulo central correspondente. Determine as justificativas das medidas dos outros itens.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
-  <img src="parte3/apos_dg_0024.png" />
+  <img src="parte3/apos_dg_0024.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
 	  <ul class="slider">
@@ -2302,9 +2305,9 @@
 			   <figcaption>Agora considere o ponto <b>Q'' &isin; BQ</b>, dentro da região formada pelo arco capaz, formando <b>&angsph; AQ''B = &alpha;''</b>. De acordo com o Teorema do Ângulo Externo, temos que <b>&alpha;'' > &alpha;</b>, ou seja, <b>Q''</b> não possui a propriedade de "enxergar" o segmento <b>AB</b> segundo ângulo <b>&alpha;</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/24_01_00.png" class="fundo" />
+		<img src="parte3/24_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte3/apos_dg_0024a.png" />
+  <img src="parte3/apos_dg_0024a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos as propriedades dos ângulos inscrito, central e de segmento para construir o arco capaz.</p>
 	  <ul class="slider">
@@ -2357,10 +2360,10 @@
 			   <figcaption>Esta é a construção do arco capaz de um ângulo <b>&alpha;</b> segundo segmento <b>AB</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/24_02_00.png" class="fundo" />
+		<img src="parte3/24_02_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
-  <img src="parte3/apos_dg_0025.png" />
+  <img src="parte3/apos_dg_0025.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Neste exercício, vamos construir os arcos capazes dos ângulos conhecendo os valores de suas medidas.</p>
 	  <ul class="slider">
@@ -2443,9 +2446,9 @@
 			   <figcaption>Com centro em <b>O'</b>, construimos o arco simétrico do primeiro. Os centros pertencem aos arcos simétricos, pois <b>&angsph;AOB =  &angsph;AO'B = 120&deg;</b>, que é a medida do ângulo inscrito que define este arco capaz.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/25_01_00.png" class="fundo" />
+		<img src="parte3/25_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte3/apos_dg_0025a.png" />
+  <img src="parte3/apos_dg_0025a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>De forma genérica, vamos encontrar a relação existente entre os ângulos opostos <b>&alpha;</b> e <b>&beta;</b> que formam um quadrilátro inscrito em uma circunferência.</p>
 	  <ul class="slider">
@@ -2462,9 +2465,9 @@
 			   <figcaption>O ângulo central correspondente de <b>&beta;</b> é o ângulo <b>&theta;</b>. Temos a relação $\mathsf{\beta = {\theta \over 2} }$. Como <b>&delta; + &theta; = 360&deg;</b>, temos que $\mathsf{\alpha + \beta = {\delta \over 2} + {\theta \over 2} = { {\delta + \theta} \over 2} = 180^o }$. Logo, <b>&alpha;</b> e <b>&beta;</b> são suplementares.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/25_02_00.png" class="fundo" />
+		<img src="parte3/25_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte3/apos_dg_0025b.png" />
+  <img src="parte3/apos_dg_0025b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos encontrar a medida de um ângulo insrito em uma semi-circunferência. Note que o ângulo central correspondente vale 180&deg;</p>
 	  <ul class="slider">
@@ -2475,10 +2478,10 @@
 			   <figcaption>Como o ângulo central <b>&theta;</b> mede <b>180&deg;</b>, o ângulo inscrito correspondente vale a metade, ou seja, <b>&gamma; = 90&deg;</b>. Logo, a construção de um arco capaz de <b>90&deg;</b> é mais simples: o centro será o ponto médio do segmento.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/25_03_00.png" class="fundo" />
+		<img src="parte3/25_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
-  <img src="parte3/apos_dg_0026.png" />
+  <img src="parte3/apos_dg_0026.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito da construção de um arco capaz de <b>90&deg;</b> para resolver este exercício.</p>
 	  <ul class="slider">
@@ -2507,9 +2510,9 @@
 			   <figcaption>... então a reta <b>PR</b> formará <b>90&deg;</b> com a reta <b>r</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/26_01_00.png" class="fundo" />
+		<img src="parte3/26_01_00.png" class="fundo"/>
   </details></div>
-  <img src="parte3/apos_dg_0026a.png" />
+  <img src="parte3/apos_dg_0026a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito da construção de um arco capaz de <b>90&deg;</b> para resolver este exercício. O ponto de tangência "enxerga" o segmento <b>OP</b> segundo <b>90&deg;</b>.</p>
 	  <ul class="slider">
@@ -2544,9 +2547,9 @@
 			   <figcaption>Se unirmos os pontos de tangência com o centro <b>O</b>, podemos verificar que <b>&angsph;PTO = &angsph;PT'O = 90&deg;</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/26_02_00.png" class="fundo" />
+		<img src="parte3/26_02_00.png" class="fundo"/>
   </details></div>
-  <img src="parte3/apos_dg_0026b.png" />
+  <img src="parte3/apos_dg_0026b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito entre o ângulo central de <b>90&deg;</b>, e o inscrito correspondente que mede <b>45&deg;</b>.</p>
 	  <ul class="slider">
@@ -2581,227 +2584,633 @@
 			   <figcaption>Para finalizar, construímos as retas perpendiculares a <b>AB</b> que passam por <b>A</b> e <b>B</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte3/26_03_00.png" class="fundo" />
+		<img src="parte3/26_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
-  <img src="parte3/apos_dg_0027.png" />
+  <img src="parte3/apos_dg_0027.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Exercício simples, de aplicação dos conceitos que envolvem arco capaz.</p>
-	<img src="parte3/27_01_00.png" />
+	<img src="parte3/27_01_00.png"/>
 	<figcaption></figcaption>
   </details></div>
-  <img src="parte3/apos_dg_0027a.png" />
+  <img src="parte3/apos_dg_0027a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Construindo os arcos capazes de <b>30&deg;</b> e de <b>45&deg;</b>, encontramos os arcos capazes dos ângulos suplementares.</p>
-	<img src="parte3/27_02_00.png" />
+	<img src="parte3/27_02_00.png"/>
 	<figcaption>O mesmo vale se você construir os arcos capazes de <b>150&deg;</b> e de <b>135&deg;</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
-  <img src="parte3/apos_dg_0028.png" />
+  <img src="parte3/apos_dg_0028.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O vértice <b>C</b>, oposto de <b>AB</b>, enxerga o segmento segundo ângulo de <b>60&deg;</b>.</p>
-	<img src="parte3/28_01_00.png" />
+	<img src="parte3/28_01_00.png"/>
 	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
   </details></div>
-  <img src="parte3/apos_dg_0028a.png" />
+  <img src="parte3/apos_dg_0028a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como os lados do triângulo são tangentes à circunferência inscrita, temos que construir os arcos capazes de <b>90&deg;</b>.</p>
-	<img src="parte3/28_02_00.png" />
+	<img src="parte3/28_02_00.png"/>
 	<figcaption>Depois de encontrar a reta <b>BC</b>, o lado <b>AC</b> será tangente à circunferência inscrita, ou seja, construímos outro arco capaz de <b>90&deg;</b> para determinar a posição de <b>AC</b>.</figcaption>
   </details></div>
-  <img src="parte3/apos_dg_0028b.png" />
+  <img src="parte3/apos_dg_0028b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O vértice <b>C</b>, oposto de <b>AB</b>, enxerga o segmento segundo ângulo de <b>60&deg;</b>.</p>
-	<img src="parte3/28_03_00.png" />
+	<img src="parte3/28_03_00.png"/>
 	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
-  <img src="parte3/apos_dg_0029.png" />
+  <img src="parte3/apos_dg_0029.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como o ponto <b>X</b> é equidistante de <b>P</b> e <b>Q</b>, pertence à <b>med<sub>PQ</sub></b>.</p>
-	<img src="parte3/29_01_00.png" />
+	<img src="parte3/29_01_00.png"/>
 	<figcaption>A construção envolve o arco capaz de <b>30&deg;</b>.</figcaption>
   </details></div>
-  <img src="parte3/apos_dg_0029a.png" />
+  <img src="parte3/apos_dg_0029a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como o ponto <b>P</b> tem distância <b>d</b> até o ponto <b>A</b>, temos que <b>P &isin; Circunf(A,d)</b>.</p>
-	<img src="parte3/29_02_00.png" />
+	<img src="parte3/29_02_00.png"/>
 	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
-  <summary id="parte4">Operações com segmentos: pág. 30-48</summary>
-  <img src="parte4/apos_dg_0030.png" />
+  <summary id="parte4">4. Operações com segmentos</summary>
+  <p>Material da página 30 até a página 48.</p>
+  <img src="parte4/apos_dg_0030.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+	<p>Vamos verificar as propriedades do Teorema de Tales.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="340" name="sl" checked>
+			   <label for="340"></label>
+			   <img src="parte4/30_01_01.png"/>
+			   <figcaption>Considere as retas paralelas <b>a</b>, <b>b</b> e <b>c</b> que interceptam a reta <b>r</b> nos pontos <b>A</b>, <b>B</b> e <b>C</b>, respectivamente. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="341" name="sl">
+			   <label for="341"></label>
+			   <img src="parte4/30_01_02.png"/>
+			   <figcaption>Considere a reta <b>s</b>, que intercepta o feixe de paralelas <b>a</b>, <b>b</b> e <b>c</b> nos pontos <b>A'</b>, <b>B'</b> e <b>C'</b>, respectivamente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="342" name="sl">
+			   <label for="342"></label>
+			   <img src="parte4/30_01_03.png"/>
+			   <figcaption>A razão entre os segmentos <b>AB</b> e <b>BC</b> da reta <b>r</b> e a razão entre os segmentos correspondentes <b>A'B'</b> e <b>B'C'</b> da reta <b>s</b> têm mesmo valor: $\mathsf{ {AB \over BC} = {A'B' \over B'C'} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="343" name="sl">
+			   <label for="343"></label>
+			   <img src="parte4/30_01_04.png"/>
+			   <figcaption>Utilizando a correspondência de outra maneira, temos a relação entre as razões entre os segmentos <b>AB</b> e <b>AC</b> e seus correspondentes: $\mathsf{ {AB \over AC} = {A'B' \over A'C'} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/30_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte4/apos_dg_0030a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, o compasso e os esquadros para resolver este exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="344" name="sl" checked>
+			   <label for="344"></label>
+			   <img src="parte4/30_02_01.png"/>
+			   <figcaption>Podemos construir o segmento <b>AB</b> com a medida de 11cm diretamente com a régua. Na extremidade <b>A</b>, podemos construir uma reta com inclinação qualquer. A reta suporte de <b>AB</b> e a reta qualquer formam o feixe de retas concorrentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="345" name="sl">
+			   <label for="345"></label>
+			   <img src="parte4/30_02_02.png"/>
+			   <figcaption>Podemos construir um segmento com medida qualquer <b>A1</b> com o compasso, e repetí-la consecutivamente...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="346" name="sl">
+			   <label for="346"></label>
+			   <img src="parte4/30_02_03.png"/>
+			   <figcaption>... encontrando os segmentos com mesma medida: <b>12 = 23 = ... = 67 = A1</b>. Outra maneira de encontrar estes pontos é marcando diretamente com a régua uma medida qualquer (por exemplo, 1cm) e repetindo-a até chegar na 7&ordf; unidade.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="347" name="sl">
+			   <label for="347"></label>
+			   <img src="parte4/30_02_04.png"/>
+			   <figcaption>Unindo as extremidades <b>B</b> e <b>7</b>, podemos alinhar um dos esquadros para definir o feixe das 6 retas que dividem <b>AB</b> em 7 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="348" name="sl" checked>
+			   <label for="348"></label>
+			   <img src="parte4/30_02_05.png"/>
+			   <figcaption>Deslizamos o esquadro no ponto <b>6</b> paralelamente ao segmento <b>B7</b>, depois no ponto <b>5</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="349" name="sl">
+			   <label for="349"></label>
+			   <img src="parte4/30_02_06.png"/>
+			   <figcaption>... até chegarmos no ponto <b>1</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="350" name="sl">
+			   <label for="350"></label>
+			   <img src="parte4/30_02_07.png"/>
+			   <figcaption>Logo, temos os segmentos <b>AA<sub>1</sub> = A<sub>1</sub>A<sub>2</sub> = ... = A<sub>6</sub>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="351" name="sl">
+			   <label for="351"></label>
+			   <img src="parte4/30_02_08.png"/>
+			   <figcaption>De acordo com o Teorema de Tales, temos que $\mathsf{ {AA_1 \over A1} = {AB \over A7} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="352" name="sl">
+			   <label for="352"></label>
+			   <img src="parte4/30_02_09.png"/>
+			   <figcaption>Ou seja, temos que $\mathsf{ {A1 \over A7} = {1 \over 7} = {AA_1 \over AB}}$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/30_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte4/apos_dg_0030b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, o compasso e os esquadros para resolver este exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="353" name="sl" checked>
+			   <label for="353"></label>
+			   <img src="parte4/30_03_01.png"/>
+			   <figcaption>Podemos construir o segmento <b>AB</b> com a medida de 12cm diretamente com a régua. Na extremidade <b>A</b>, podemos construir uma reta com inclinação qualquer. A reta suporte de <b>AB</b> e a reta qualquer formam o feixe de retas concorrentes. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="354" name="sl">
+			   <label for="354"></label>
+			   <img src="parte4/30_03_02.png"/>
+			   <figcaption>Com o compasso, "pegue" a medida do segmento <b>m</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="355" name="sl">
+			   <label for="355"></label>
+			   <img src="parte4/30_03_03.png"/>
+			   <figcaption>... e marque esta medida a partir do ponto <b>A</b> na reta qualquer, encontrando o ponto <b>M</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="356" name="sl">
+			   <label for="356"></label>
+			   <img src="parte4/30_03_04.png"/>
+			   <figcaption>Faça o mesmo com o segmento <b>n</b>, marcando esta medida a partir da extremidade de <b>m</b>, ou seja, <b>MN = n</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="357" name="sl" checked>
+			   <label for="357"></label>
+			   <img src="parte4/30_03_05.png"/>
+			   <figcaption>Na sequência, marque a medida do último segmento, <b>p</b>, obtendo-se <b>NP = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="358" name="sl">
+			   <label for="358"></label>
+			   <img src="parte4/30_03_06.png"/>
+			   <figcaption>Agora podemos unir a extremidade <b>P</b> com <b>B</b> e construir as paralelas a <b>BP</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="359" name="sl">
+			   <label for="359"></label>
+			   <img src="parte4/30_03_07.png"/>
+			   <figcaption>... deslizando um esquadro até o ponto <b>N</b>, obtendo-se <b>N' &isin; AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="360" name="sl">
+			   <label for="360"></label>
+			   <img src="parte4/30_03_08.png"/>
+			   <figcaption>... e até o ponto <b>M</b>, definindo <b>M' &isin; AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="361" name="sl">
+			   <label for="361"></label>
+			   <img src="parte4/30_03_09.png"/>
+			   <figcaption>De acordo com o Teorema de Tales, os segmentos <b>m'</b>, <b>n'</b> e <b>p'</b> são proporcionais aos segmentos <b>m</b>, <b>n</b> e <b>p</b>, respectivamente.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/30_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0031.png" />
+  <img src="parte4/apos_dg_0031.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua e os esquadros para resolver este exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="362" name="sl" checked>
+			   <label for="362"></label>
+			   <img src="parte4/31_01_01.png"/>
+			   <figcaption>Podemos construir o segmento <b>AB</b> com a medida de 13cm diretamente com a régua. Na extremidade <b>A</b>, podemos construir uma reta com inclinação qualquer. A reta suporte de <b>AB</b> e a reta qualquer formam o feixe de retas concorrentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="363" name="sl">
+			   <label for="363"></label>
+			   <img src="parte4/31_01_02.png"/>
+			   <figcaption>Podemos construir o segmento <b>m</b> com o compasso, ou diretamente com a régua, marcando <b>m = 2cm</b> a partir de <b>A</b> na reta qualquer.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="364" name="sl">
+			   <label for="364"></label>
+			   <img src="parte4/31_01_03.png"/>
+			   <figcaption>Na sequência, a partir de <b>C</b> marcamos <b>n = 4,2cm</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="365" name="sl">
+			   <label for="365"></label>
+			   <img src="parte4/31_01_04.png"/>
+			   <figcaption>E a partir de <b>D</b>, marcamos <b>p = 5,3cm</b>. Conseguimos marcar com a régua, pois sabemos as medidas. No exercício anterior, só tínhamos os segmentos. Se medíssemos estes segmentos com a régua, poderíamos cometer erros de arredondamento.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="366" name="sl" checked>
+			   <label for="366"></label>
+			   <img src="parte4/31_01_05.png"/>
+			   <figcaption>Agora basta construir as retas paralelas a <b>EB</b> com os esquadros...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="367" name="sl">
+			   <label for="367"></label>
+			   <img src="parte4/31_01_06.png"/>
+			   <figcaption>... obtendo-se os pontos <b>D' &isin; AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="368" name="sl">
+			   <label for="368"></label>
+			   <img src="parte4/31_01_07.png"/>
+			   <figcaption>... e <b>C' &isin; AB</b>. De acordo com o Teorema de Tales, o segmento <b>AB</b> está dividido em partes proporcionais aos números <b>m</b>, <b>n</b> e <b>p</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/31_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte4/apos_dg_0031a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, o compasso e os esquadros para resolver este exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="369" name="sl" checked>
+			   <label for="369"></label>
+			   <img src="parte4/31_02_01.png"/>
+			   <figcaption>Podemos construir o segmento <b>AB</b> com a medida de 15cm diretamente com a régua. Na extremidade <b>A</b>, podemos construir uma reta com inclinação qualquer. Vamos dividir o perímetro em partes proporcionais aos segmentos <b>q</b>, <b>r</b> e <b>s</b>, encontrando os lados <b>a</b>, <b>b</b> e <b>c</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="370" name="sl">
+			   <label for="370"></label>
+			   <img src="parte4/31_02_02.png"/>
+			   <figcaption>Podemos marcar com a régua, na reta qualquer e partir de <b>A</b> o segmento <b>q = 5cm</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="371" name="sl">
+			   <label for="371"></label>
+			   <img src="parte4/31_02_03.png"/>
+			   <figcaption>Na sequência, marcamos <b>r = 3,5cm</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="372" name="sl">
+			   <label for="372"></label>
+			   <img src="parte4/31_02_04.png"/>
+			   <figcaption>... e <b>s = 4cm</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="373" name="sl" checked>
+			   <label for="373"></label>
+			   <img src="parte4/31_02_05.png"/>
+			   <figcaption>Agora podemos construir as retas paralelas ao segmento que une a extremidade de <b>s</b> com <b>Q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="374" name="sl">
+			   <label for="374"></label>
+			   <img src="parte4/31_02_06.png"/>
+			   <figcaption>Deslizamos um dos esquadros até chegar na extremidade de <b>r</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="375" name="sl">
+			   <label for="375"></label>
+			   <img src="parte4/31_02_07.png"/>
+			   <figcaption>... e depois na extremidade de <b>q</b>. Desta forma, temos os lados <b>a</b>, <b>b</b> e <b>c</b> sobre o perímetro que marcamos <b>PQ = 15cm</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="376" name="sl">
+			   <label for="376"></label>
+			   <img src="parte4/31_02_08.png"/>
+			   <figcaption>Podemos manter um dos lados e usar circunferências para encontrar o terceiro vértice do triângulo. Se mantivermos o lado <b>b = AC</b>, temos as relações dos segmentos: <b>AQ = c = AB</b> e <b>PC = a = BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="377" name="sl">
+			   <label for="377"></label>
+			   <img src="parte4/31_02_09.png"/>
+			   <figcaption>Construindo a Circunf(C,a), temos o primeiro lugar geométrico do ponto <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="378" name="sl">
+			   <label for="378"></label>
+			   <img src="parte4/31_02_08.png"/>
+			   <figcaption>O segundo lugar geométrico de <b>B</b> é a Circunf(A,c).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="379" name="sl">
+			   <label for="379"></label>
+			   <img src="parte4/31_02_09.png"/>
+			   <figcaption>Logo, temos as duas soluções deste exercício: <b>&#9651;ABC</b> e <b>&#9651;AB'C</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/31_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte4/apos_dg_0031b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, o compasso e os esquadros para resolver este exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="380" name="sl" checked>
+			   <label for="380"></label>
+			   <img src="parte4/31_03_01.png"/>
+			   <figcaption>Vamos construir a divisão dos segmentos de uma só vez. Para funcionar esta "tática", construa uma reta qualquer, e determine um ponto  <b>A</b> que tenha a distância até a reta um pouco menor do que o menor dos segmentos que queremos dividir: ou seja, a distância de <b>A</b> até a reta será um pouco menor do que 3cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="381" name="sl">
+			   <label for="381"></label>
+			   <img src="parte4/31_03_02.png"/>
+			   <figcaption>Agora construa a reta paralela à reta qualquer que construímos que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="382" name="sl">
+			   <label for="382"></label>
+			   <img src="parte4/31_03_03.png"/>
+			   <figcaption>Logo, temos 2 retas paralelas com distância menor do que 3cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="383" name="sl">
+			   <label for="383"></label>
+			   <img src="parte4/31_03_04.png"/>
+			   <figcaption>Agora "pegue" a medida 3cm na régua, usando o compasso...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="384" name="sl" checked>
+			   <label for="384"></label>
+			   <img src="parte4/31_03_05.png"/>
+			   <figcaption>... e construa a Circunf(A,a), encontrando o ponto <b>B</b> na primeira reta construída.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="385" name="sl">
+			   <label for="385"></label>
+			   <img src="parte4/31_03_06.png"/>
+			   <figcaption>Podemos dividir este segmento <b>AB = a</b> usando como reta suporte uma das retas paralelas. Marque 5 unidades a partir de <b>A</b> ou de <b>B</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="386" name="sl">
+			   <label for="386"></label>
+			   <img src="parte4/31_03_07.png"/>
+			   <figcaption>... e construa as retas paralelas a <b>A5</b> ou <b>B5</b>, dividindo <b>AB</b> em 5 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="387" name="sl">
+			   <label for="387"></label>
+			   <img src="parte4/31_03_08.png"/>
+			   <figcaption>Em cada ponto da divisão de <b>AB</b>, construa as retas paralelas às retas iniciais que construímos. Elas funcionam como um feixe para dividirmos os outros segmentos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="388" name="sl">
+			   <label for="388"></label>
+			   <img src="parte4/31_03_09.png"/>
+			   <figcaption>Agora basta escolher um ponto <b>C</b> em uma das retas paralelas iniciais que construímos, e construir a Circunf(C,b). Na outra paralela, temos o ponto <b>D</b> e o segmento já aparece dividido em 5 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="389" name="sl">
+			   <label for="389"></label>
+			   <img src="parte4/31_03_10.png"/>
+			   <figcaption>Fazemos o mesmo com o ponto <b>E</b>, construindo a Circunf(E,c).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="390" name="sl">
+			   <label for="390"></label>
+			   <img src="parte4/31_03_11.png"/>
+			   <figcaption>Fazemos o mesmo para dividir o segmento <b>d</b>, construindo a Circunf(G,d).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="391" name="sl">
+			   <label for="391"></label>
+			   <img src="parte4/31_03_12.png"/>
+			   <figcaption>Fazemos o mesmo com o ponto <b>I</b>, construindo a Circunf(I,e).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="392" name="sl">
+			   <label for="392"></label>
+			   <img src="parte4/31_03_13.png"/>
+			   <figcaption>E finalmente temos a Circunf(K,f), que divide o segmento <b>f</b>em 5 partes iguais. Esta construção é bem menos trabalhosa do que fazer a divisão separada de cada segmento em 5 partes iguais.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/31_03_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte4/apos_dg_0031c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, temos a aplicação do Teorema de Tales para encontrar os lados do triângulo.</p>
+	<img src="parte4/31_04_00.png"/>
+	<figcaption>Temos 2 soluções possíveis.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0032.png" />
+  <img src="parte4/apos_dg_0032.png"/>
+  <img src="parte4/apos_dg_0032a.png"/>
+  <img src="parte4/apos_dg_0032b.png"/>
+  <img src="parte4/apos_dg_0032c.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0033.png" />
+  <img src="parte4/apos_dg_0033.png"/>
+  <img src="parte4/apos_dg_0033a.png"/>
+  <img src="parte4/apos_dg_0033b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0034.png" />
+  <img src="parte4/apos_dg_0034.png"/>
+  <img src="parte4/apos_dg_0034a.png"/>
+  <img src="parte4/apos_dg_0034b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0035.png" />
+  <img src="parte4/apos_dg_0035.png"/>
+  <img src="parte4/apos_dg_0035a.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0036.png" />
+  <img src="parte4/apos_dg_0036.png"/>
+  <figcaption>Podemos escrever a relação de quarta proporcional de outras maneiras:
+  <br>$\mathsf{ax = bc}$ ou $\mathsf{ {a \over c} = {b \over x} }$.</figcaption>
+  <img src="parte4/apos_dg_0036a.png"/>
+  <img src="parte4/apos_dg_0036b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0037.png" />
+  <img src="parte4/apos_dg_0037.png"/>
+  <figcaption>Podemos escrever a relação de terceira proporcional de outras maneiras:
+  <br>$\mathsf{ax = b^2}$ ou $\mathsf{b = \sqrt{ax} }$.</figcaption>
+  <img src="parte4/apos_dg_0037a.png"/>
+  <img src="parte4/apos_dg_0037b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0038.png" />
+  <img src="parte4/apos_dg_0038.png"/>
+  <img src="parte4/apos_dg_0038a.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0039.png" />
+  <img src="parte4/apos_dg_0039.png"/>
+  <img src="parte4/apos_dg_0039a.png"/>
+  <img src="parte4/apos_dg_0039b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0040.png" />
+  <img src="parte4/apos_dg_0040.png"/>
+  <img src="parte4/apos_dg_0040a.png"/>
+  <img src="parte4/apos_dg_0040b.png"/>
+  <figcaption>Equações da resolução:
+  <br>$\mathsf{\frac{z}{\sqrt{4}}=\frac{p}{\sqrt{5}}}$ ou $\mathsf{z=\frac{p\sqrt{4}}{\sqrt{5}} }$ ou $\mathsf{z=p\sqrt{\frac{4}{5}} }$ ou $\mathsf{z=\sqrt{\frac{4}{5}p.p} }$.</figcaption>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0041.png" />
+  <img src="parte4/apos_dg_0041.png"/>
+  <img src="parte4/apos_dg_0041a.png"/>
+  <img src="parte4/apos_dg_0041b.png"/>
+  <img src="parte4/apos_dg_0041c.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0042.png" />
+  <img src="parte4/apos_dg_0042.png"/>
+  <figcaption>Colocar demonstração do Teo Pitágoras.</figcaption>
+  <img src="parte4/apos_dg_0042a.png"/>
+  <img src="parte4/apos_dg_0042b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0043.png" />
+  <img src="parte4/apos_dg_0043.png"/>
+  <img src="parte4/apos_dg_0043a.png"/>
+  <img src="parte4/apos_dg_0043b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0044.png" />
+  <img src="parte4/apos_dg_0044.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0045.png" />
+  <img src="parte4/apos_dg_0045.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0046.png" />
+  <img src="parte4/apos_dg_0046.png"/>
+  <img src="parte4/apos_dg_0046a.png"/>
+  <img src="parte4/apos_dg_0046b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0047.png" />
+  <img src="parte4/apos_dg_0047.png"/>
+  <img src="parte4/apos_dg_0047a.png"/>
+  <img src="parte4/apos_dg_0047b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
-  <img src="parte4/apos_dg_0048.png" />
+  <img src="parte4/apos_dg_0048.png"/>
+  <img src="parte4/apos_dg_0048a.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
-  <summary id="parte5">Triângulos e quadriláteros: pág. 49-64</summary>
-  <img src="parte5/apos_dg_0049.png" />
+  <summary id="parte5">5. Triângulos e quadriláteros</summary>
+  <p>Material da página 49 até a página 64.</p>
+  <img src="parte5/apos_dg_0049.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0050.png" />
+  <img src="parte5/apos_dg_0050.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0051.png" />
+  <img src="parte5/apos_dg_0051.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0052.png" />
+  <img src="parte5/apos_dg_0052.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0053.png" />
+  <img src="parte5/apos_dg_0053.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0054.png" />
+  <img src="parte5/apos_dg_0054.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0055.png" />
+  <img src="parte5/apos_dg_0055.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0056.png" />
+  <img src="parte5/apos_dg_0056.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0057.png" />
+  <img src="parte5/apos_dg_0057.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0058.png" />
+  <img src="parte5/apos_dg_0058.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0059.png" />
+  <img src="parte5/apos_dg_0059.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0060.png" />
+  <img src="parte5/apos_dg_0060.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0061.png" />
+  <img src="parte5/apos_dg_0061.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0062.png" />
+  <img src="parte5/apos_dg_0062.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0063.png" />
+  <img src="parte5/apos_dg_0063.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
-  <img src="parte5/apos_dg_0064.png" />
+  <img src="parte5/apos_dg_0064.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
-  <summary id="parte6">Tangência e concordância: pág. 65-78</summary>
-  <img src="parte6/apos_dg_0065.png" />
+  <summary id="parte6">6. Tangência e concordância</summary>
+  <p>Material da página 65 até a página 78.</p>
+  <img src="parte6/apos_dg_0065.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0066.png" />
+  <img src="parte6/apos_dg_0066.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0067.png" />
+  <img src="parte6/apos_dg_0067.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0068.png" />
+  <img src="parte6/apos_dg_0068.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0069.png" />
+  <img src="parte6/apos_dg_0069.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0070.png" />
+  <img src="parte6/apos_dg_0070.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0071.png" />
+  <img src="parte6/apos_dg_0071.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0072.png" />
+  <img src="parte6/apos_dg_0072.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0073.png" />
+  <img src="parte6/apos_dg_0073.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0074.png" />
+  <img src="parte6/apos_dg_0074.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0075.png" />
+  <img src="parte6/apos_dg_0075.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0076.png" />
+  <img src="parte6/apos_dg_0076.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0077.png" />
+  <img src="parte6/apos_dg_0077.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0078.png" />
+  <img src="parte6/apos_dg_0078.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
-  <summary id="parte7">Polígonos regulares: pág. 79-89</summary>
-  <img src="parte7/apos_dg_0079.png" />
+  <summary id="parte7">7. Polígonos regulares</summary>
+  <p>Material da página 79 até a página 89.</p>
+  <img src="parte7/apos_dg_0079.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0080.png" />
+  <img src="parte7/apos_dg_0080.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0081.png" />
+  <img src="parte7/apos_dg_0081.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0082.png" />
+  <img src="parte7/apos_dg_0082.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0083.png" />
+  <img src="parte7/apos_dg_0083.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0084.png" />
+  <img src="parte7/apos_dg_0084.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0085.png" />
+  <img src="parte7/apos_dg_0085.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0086.png" />
+  <img src="parte7/apos_dg_0086.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0087.png" />
+  <img src="parte7/apos_dg_0087.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0088.png" />
+  <img src="parte7/apos_dg_0088.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
-  <img src="parte7/apos_dg_0089.png" />
+  <img src="parte7/apos_dg_0089.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
-  <summary id="parte8">Retificação de circunferência: pág. 89-93</summary>
-  <img src="parte8/apos_dg_0089.png" />
+  <summary id="parte8">8. Retificação de circunferência</summary>
+  <p>Material da página 89 até a página 93.</p>
+  <img src="parte8/apos_dg_0089.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
-  <img src="parte8/apos_dg_0090.png" />
+  <img src="parte8/apos_dg_0090.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
-  <img src="parte8/apos_dg_0091.png" />
+  <img src="parte8/apos_dg_0091.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
-  <img src="parte8/apos_dg_0092.png" />
+  <img src="parte8/apos_dg_0092.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
-  <img src="parte8/apos_dg_0093.png" />
+  <img src="parte8/apos_dg_0093.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
 </details>
 
 <details style="border-bottom: 1px solid #a2dec0;">
-  <summary id="parte9">Equivalência de áreas: pág. 94-103</summary>
-  <img src="parte9/apos_dg_0094.png" />
+  <summary id="parte9">9. Equivalência de áreas</summary>
+  <p>Material da página 94 até a página 103.</p>
+  <img src="parte9/apos_dg_0094.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0095.png" />
+  <img src="parte9/apos_dg_0095.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0096.png" />
+  <img src="parte9/apos_dg_0096.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0097.png" />
+  <img src="parte9/apos_dg_0097.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0098.png" />
+  <img src="parte9/apos_dg_0098.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0099.png" />
+  <img src="parte9/apos_dg_0099.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0100.png" />
+  <img src="parte9/apos_dg_0100.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0101.png" />
+  <img src="parte9/apos_dg_0101.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0102.png" />
+  <img src="parte9/apos_dg_0102.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0103.png" />
+  <img src="parte9/apos_dg_0103.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -2812,7 +3221,7 @@
 
 <h4>O desenvolvimento deste material de construções geométricas faz parte do Grupo de Estudos em Expressão Gráfica (GEEGRAF) da Universidade Federal do Paraná (UFPR)</h4>  
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Desenho Geométrico</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/desenho-geometrico/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Desenho Geométrico</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/desenho-geometrico/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
 
 <h4>Como citar este trabalho:</h4> 
 <p>Siqueira, P.H., "Desenho Geométrico". Disponível em: <https://paulohscwb.github.io/desenho-geometrico/>, Setembro de 2020.</p>
