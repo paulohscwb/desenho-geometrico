@@ -3208,23 +3208,283 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0034.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção. </p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="423" name="sl" checked>
+			   <label for="423"></label>
+			   <img src="parte4/34_01_01.png"/>
+			   <figcaption>Vamos encontrar os conjugados harmônicos de <b>AB</b> na razão $\mathsf{ 5 \over 2 }$. Na extremidade <b>A</b>, construa o segmento <b>A5</b> = 5cm com inclinação qualquer.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="424" name="sl">
+			   <label for="424"></label>
+			   <img src="parte4/34_01_02.png"/>
+			   <figcaption>Usando os esquadros, construa a reta paralela a <b>A5</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="425" name="sl">
+			   <label for="425"></label>
+			   <img src="parte4/34_01_03.png"/>
+			   <figcaption>Construa os segmentos <b>B2</b> e <b>B2'</b> com medidas iguais a 2cm, correspondente ao denominador da razão.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="426" name="sl">
+			   <label for="426"></label>
+			   <img src="parte4/34_01_04.png"/>
+			   <figcaption>Unindo os pontos <b>2</b> e <b>5</b>, encontramos o 3&ordm; conjugado harmônico de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="427" name="sl">
+			   <label for="427"></label>
+			   <img src="parte4/34_01_05.png"/>
+			   <figcaption>>Unindo os pontos <b>2'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="428" name="sl">
+			   <label for="428"></label>
+			   <img src="parte4/34_01_06.png"/>
+			   <figcaption>Agora podemos construir a mediatriz de <b>MN</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="429" name="sl">
+			   <label for="429"></label>
+			   <img src="parte4/34_01_07.png"/>
+			   <figcaption>Com centro no ponto médio de <b>MN</b>, construa a circunferência de raio <b>OM = ON</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="430" name="sl">
+			   <label for="430"></label>
+			   <img src="parte4/34_01_08.png"/>
+			   <figcaption>A construção é similar para a razão $\mathsf{ 1 \over 4 }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="431" name="sl">
+			   <label for="431"></label>
+			   <img src="parte4/34_01_09.png"/>
+			   <figcaption>Com centro no ponto médio de <b>MN</b>, construa a circunferência de raio <b>OM = ON</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/34_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0034a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção. Como temos a medida do lado <b>a</b> e a razão dos outros lados, precisamos utilizar a Circunferência de Apolônio de <b>a</b> com a razão $\mathsf{ b \over c }$</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="432" name="sl" checked>
+			   <label for="432"></label>
+			   <img src="parte4/34_02_01.png"/>
+			   <figcaption>Na extremidade <b>B</b>, construa o segmento <b>B5</b> = 5cm com inclinação qualquer, correspondente ao lado <b>c</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="433" name="sl">
+			   <label for="433"></label>
+			   <img src="parte4/34_02_02.png"/>
+			   <figcaption>Usando os esquadros, construa a reta paralela a <b>B5</b> que passa por <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="434" name="sl">
+			   <label for="434"></label>
+			   <img src="parte4/34_02_03.png"/>
+			   <figcaption>Construa os segmentos <b>C3</b> e <b>C3'</b> com medidas iguais a 3cm, correspondente ao lado <b>b</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="435" name="sl">
+			   <label for="435"></label>
+			   <img src="parte4/34_02_04.png"/>
+			   <figcaption>Unindo os pontos <b>3</b> e <b>5</b>, encontramos o 3&ordm; conjugado harmônico de <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="436" name="sl">
+			   <label for="436"></label>
+			   <img src="parte4/34_02_05.png"/>
+			   <figcaption>>Unindo os pontos <b>3'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="437" name="sl">
+			   <label for="437"></label>
+			   <img src="parte4/34_02_06.png"/>
+			   <figcaption>Agora podemos construir a mediatriz de <b>MN</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="438" name="sl">
+			   <label for="438"></label>
+			   <img src="parte4/34_02_07.png"/>
+			   <figcaption>Com centro no ponto médio de <b>MN</b>, construa a circunferência de raio <b>OM = ON</b>. A Circunferência de Apolônio é o primeiro lugar geométrico do vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="439" name="sl">
+			   <label for="439"></label>
+			   <img src="parte4/34_02_08.png"/>
+			   <figcaption>Como temos a medida da altura <b>h<sub>a</sub></b>, devemos construir a reta paralela a <b>BC</b> com distância <b>h<sub>a</sub></b> = 4cm. Podemos usar a mediatriz para marcar esta distância, pois ela é perpendicular a <b>BC</b>: logo, encontramos os pontos <b>P</b> e <b>Q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="440" name="sl">
+			   <label for="440"></label>
+			   <img src="parte4/34_02_09.png"/>
+			   <figcaption>Usando os esquadros, construa as retas paralelas a <b>BC</b> que passam por <b>P</b> e <b>Q</b>. Temos 4 soluções para este exercício.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="441" name="sl">
+			   <label for="441"></label>
+			   <img src="parte4/34_02_10.png"/>
+			   <figcaption>Escolha uma das interseções para formar o <b>&#9651;ABC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/34_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0034b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="442" name="sl" checked>
+			   <label for="442"></label>
+			   <img src="parte4/34_03_01.png"/>
+			   <figcaption>Construa o segmento <b>AB</b> = 3,5cm, e na extremidade <b>A</b>, construa o segmento <b>A5</b> = 5cm com inclinação qualquer, correspondente ao denominador da razão <b>&lambda;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="443" name="sl">
+			   <label for="443"></label>
+			   <img src="parte4/34_03_02.png"/>
+			   <figcaption>Usando os esquadros, construa a reta paralela a <b>A5</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="444" name="sl">
+			   <label for="444"></label>
+			   <img src="parte4/34_03_03.png"/>
+			   <figcaption>Construa os segmentos <b>B2</b> e <b>B2'</b> com medidas iguais a 2cm, correspondente ao numerador da razão <b>&lambda;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="445" name="sl">
+			   <label for="445"></label>
+			   <img src="parte4/34_03_04.png"/>
+			   <figcaption>Unindo os pontos <b>2</b> e <b>5</b>, encontramos o 3&ordm; conjugado harmônico de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="446" name="sl">
+			   <label for="446"></label>
+			   <img src="parte4/34_03_05.png"/>
+			   <figcaption>>Unindo os pontos <b>2'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="447" name="sl">
+			   <label for="447"></label>
+			   <img src="parte4/34_03_06.png"/>
+			   <figcaption>Agora podemos construir a mediatriz de <b>MN</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="448" name="sl">
+			   <label for="448"></label>
+			   <img src="parte4/34_03_07.png"/>
+			   <figcaption>Com centro no ponto médio de <b>MN</b>, construa a circunferência de raio <b>OM = ON</b>. A Circunferência de Apolônio é o primeiro lugar geométrico do ponto procurado <b>S</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="449" name="sl">
+			   <label for="449"></label>
+			   <img src="parte4/34_03_08.png"/>
+			   <figcaption>Como o ponto "enxerga" <b>AB</b> segundo ângulo de 45&deg;, vamos construir o arco capaz deste ângulo. Podemos construí-lo de maneira mais simples construindo primeiro o arco capaz de 90&deg;...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="450" name="sl">
+			   <label for="450"></label>
+			   <img src="parte4/34_03_09.png"/>
+			   <figcaption>E o centro do arco capaz de 45&deg; será a interseção do arco capaz de 90&deg; com a mediatriz de <b>AB</b>. O ponto <b>S</b> estará na interseção do arco capaz de 45&deg; com a Circunferência de Apolônio.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/34_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0035.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, utilizamos a Circunferência de Apolônio com a razão $\mathsf{ 2 \over 3 }$.</p>
+	<img src="parte4/35_01_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <img src="parte4/apos_dg_0035a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, utilizamos a Circunferência de Apolônio com a razão $\mathsf{ 7 \over 4 }$.</p>
+	<img src="parte4/35_02_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
+  <img src="parte4/apos_dg_0035b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, utilizamos a Circunferência de Apolônio com a razão $\mathsf{ 1 \over 3 }$.</p>
+	<img src="parte4/35_03_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0036.png"/>
   <figcaption>Podemos escrever a relação de quarta proporcional de outras maneiras:
   <br>$\mathsf{ax = bc}$ ou $\mathsf{ {a \over c} = {b \over x} }$.</figcaption>
   <img src="parte4/apos_dg_0036a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. Aplicaremos o teorema de Tales para encontrar o segmento <b>x</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="451" name="sl" checked>
+			   <label for="451"></label>
+			   <img src="parte4/36_01_01.png"/>
+			   <figcaption>Vamos encontrar o segmento <b>x</b> tal que $\mathsf{ {a \over b} = {c \over x} }$. Podemos construir os segmentos <b>a</b> e <b>b</b>, que são o numerador e o denominador da primeira fração, em uma mesma reta. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="452" name="sl">
+			   <label for="452"></label>
+			   <img src="parte4/36_01_02.png"/>
+			   <figcaption>Construindo uma reta com inclinação qualquer, que passa pela extremidade <b>A</b>, podemos construir o segmento correspondente ao numerador da outra fração: <b>c</b>. Usando os esquadros, determine a reta paralela a <b>BD</b> que passa pelo ponto <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="453" name="sl">
+			   <label for="453"></label>
+			   <img src="parte4/36_01_03.png"/>
+			   <figcaption>De acordo com o Teorema de Tales, os segmentos correspondentes são proporcionais, ou seja, $\mathsf{ {a \over b} = {c \over x} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/36_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0036b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, utilizamos o Teorema de Tales com as razões nas ordens especificadas em cada item.</p>
+	<img src="parte4/36_02_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0037.png"/>
   <figcaption>Podemos escrever a relação de terceira proporcional de outras maneiras:
   <br>$\mathsf{ax = b^2}$ ou $\mathsf{b = \sqrt{ax} }$.</figcaption>
   <img src="parte4/apos_dg_0037a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. Aplicaremos o teorema de Tales para encontrar o segmento <b>x</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="451" name="sl" checked>
+			   <label for="451"></label>
+			   <img src="parte4/36_01_01.png"/>
+			   <figcaption>Vamos encontrar o segmento <b>x</b> tal que $\mathsf{ {a \over b} = {b \over x} }$. Podemos construir os segmentos <b>a</b> e <b>b</b>, que são o numerador e o denominador da primeira fração, em uma mesma reta. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="452" name="sl">
+			   <label for="452"></label>
+			   <img src="parte4/36_01_02.png"/>
+			   <figcaption>Construindo uma reta com inclinação qualquer, que passa pela extremidade <b>A</b>, podemos construir o segmento correspondente ao numerador da outra fração: <b>b</b>. Usando os esquadros, determine a reta paralela a <b>BD</b> que passa pelo ponto <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="453" name="sl">
+			   <label for="453"></label>
+			   <img src="parte4/36_01_03.png"/>
+			   <figcaption>De acordo com o Teorema de Tales, os segmentos correspondentes são proporcionais, ou seja, $\mathsf{ {a \over b} = {b \over x} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/36_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0037b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, utilizamos o Teorema de Tales com as razões nas ordens especificadas em cada item.</p>
+	<img src="parte4/37_02_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0038.png"/>
   <img src="parte4/apos_dg_0038a.png"/>
