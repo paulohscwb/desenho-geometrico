@@ -2696,7 +2696,7 @@
 			   <input type="radio" id="352" name="sl">
 			   <label for="352"></label>
 			   <img src="parte4/30_02_09.png"/>
-			   <figcaption>Ou seja, temos que $\mathsf{ {A1 \over A7} = {1 \over 7} = {AA_1 \over AB}}$.</figcaption>
+			   <figcaption>Ou seja, temos que $\mathsf{ {A1 \over A7} = {1 \over 7} = {AA_1 \over AB} }$.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte4/30_02_00.png" class="fundo"/>
@@ -3453,7 +3453,7 @@
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0037.png"/>
   <p align="center">Podemos escrever a relação de terceira proporcional de outras maneiras:
-  <br>$\mathsf{ {a \cdot x} = b^2}$ ou $\mathsf{b = \sqrt{a \cdot x} }$.</p>
+  <br>$\mathsf{ {a \cdot x} = b^2 }$ ou $\mathsf{ b = \sqrt{a \cdot x} }$.</p>
   <img src="parte4/apos_dg_0037a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. Aplicaremos o teorema de Tales para encontrar o segmento <b>x</b>.</p>
