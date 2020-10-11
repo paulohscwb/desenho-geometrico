@@ -3418,7 +3418,7 @@
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0036.png"/>
   <p align="center">Podemos escrever a relação de quarta proporcional de outras maneiras:
-  <br>$\mathsf{ax = bc}$ ou $\mathsf{ {a \over c} = {b \over x} }$.</p>
+  <br>$\mathsf{ {a \cdot x} = {b \cdot c} }$ ou $\mathsf{ {a \over c} = {b \over x} }$.</p>
   <img src="parte4/apos_dg_0036a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. Aplicaremos o teorema de Tales para encontrar o segmento <b>x</b>.</p>
@@ -3453,7 +3453,7 @@
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0037.png"/>
   <p align="center">Podemos escrever a relação de terceira proporcional de outras maneiras:
-  <br>$\mathsf{ax = b^2}$ ou $\mathsf{b = \sqrt{ax} }$.</p>
+  <br>$\mathsf{{a \cdot x} = b^2}$ ou $\mathsf{b = \sqrt{a \cdot x} }$.</p>
   <img src="parte4/apos_dg_0037a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. Aplicaremos o teorema de Tales para encontrar o segmento <b>x</b>.</p>
