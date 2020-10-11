@@ -3644,26 +3644,218 @@
 			   <img src="parte4/39_03_03.png"/>
 			   <figcaption>Considere o ângulo <b>&angsph;B = &beta;</b>. Temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;ABC</b> são semelhantes (ângulos correspondentes iguais). Logo, os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over b} = {c \over a} = {n \over c} }$. Da última igualdade, podemos concluir que $\mathsf{ c^2 = {a \cdot n} }$.</figcaption>
 		   </li>
-		   <li>
-			   <input type="radio" id="478" name="sl" checked>
-			   <label for="478"></label>
-			   <img src="parte4/39_03_04.png"/>
-			   <figcaption>Temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;H<sub>a</sub>AC</b> são semelhantes (ângulos correspondentes iguais). Logo, temos a proporcionalidade dos lados na mesma razão, ou seja,  $\mathsf{ {c \over b} = {h \over m} = {n \over h} }$. Da última igualdade, podemos concluir que $\mathsf{ h^2 = {m \cdot n} }$.</figcaption>
-		   </li>
 		</ul>
 		<img src="parte4/39_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0040.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="479" name="sl" checked>
+			   <label for="479"></label>
+			   <img src="parte4/40_01_01.png"/>
+			   <figcaption>No item 1.1, vamos usar o fato de que a altura é média geométrica entre as projeções dos catetos sobre a hipotenusa. Logo, os segmentos <b>p</b> e <b>q</b> são marcados como sendo as projeções dos catetos sobre a hipotenusa.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="480" name="sl">
+			   <label for="480"></label>
+			   <img src="parte4/40_01_02.png"/>
+			   <figcaption>O segmento <b>AB</b> será a hipotenusa do triângulo retângulo que vamos construir. Construa a mediatriz de <b>AB</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="481" name="sl">
+			   <label for="481"></label>
+			   <img src="parte4/40_01_03.png"/>
+			   <figcaption>... e o arco capaz de 90&deg; segundo <b>AB</b>. No ponto <b>C</b>, construimos a reta perpendicular a <b>AB</b> com os esquadros.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="482" name="sl" checked>
+			   <label for="482"></label>
+			   <img src="parte4/40_01_04.png"/>
+			   <figcaption>O segmento <b>CD</b> será a média geométrica entre <b>p</b> e <b>q</b>, segundo a propriedade que provamos na página anterior. Logo, $\mathsf{ x = \sqrt{p \cdot q} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="483" name="sl">
+			   <label for="483"></label>
+			   <img src="parte4/40_01_05.png"/>
+			   <figcaption>Como os segmentos do item 1.2 são maiores, podemos usar a relação de que um cateto é média geométrica entre a hipotenusa e sua projeção sobre a hipotenusa. Desta forma, construimos o segmento menor "por dentro" do segmento maior.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="484" name="sl">
+			   <label for="484"></label>
+			   <img src="parte4/40_01_06.png"/>
+			   <figcaption>O segmento <b>p</b> será hipotenusa, e o segmento <b>q</b> será a projeção do cateto sobre a hipotenusa. Construa a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="485" name="sl">
+			   <label for="485"></label>
+			   <img src="parte4/40_01_07.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg; e a reta perpendicular a <b>AB</b> que passa por <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="486" name="sl">
+			   <label for="486"></label>
+			   <img src="parte4/40_01_08.png"/>
+			   <figcaption>De acordo com a propriedade que provamos na página anterior, o cateto <b>BD</b> é a média geométrica entre <b>p</b> e <b>q</b>, ou seja, $\mathsf{ x = \sqrt{p \cdot q} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/40_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0040a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="487" name="sl" checked>
+			   <label for="487"></label>
+			   <img src="parte4/40_02_01.png"/>
+			   <figcaption>No item 2.1, vamos usar o fato de que a altura é média geométrica entre as projeções dos catetos sobre a hipotenusa. Logo, os segmentos <b>2p</b> e <b>p</b> são marcados como sendo as projeções dos catetos sobre a hipotenusa.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="488" name="sl">
+			   <label for="488"></label>
+			   <img src="parte4/40_02_02.png"/>
+			   <figcaption>O segmento <b>2p + p</b> será a hipotenusa do triângulo retângulo que vamos construir. Construa a mediatriz deste segmento...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="489" name="sl">
+			   <label for="489"></label>
+			   <img src="parte4/40_02_03.png"/>
+			   <figcaption>... e o arco capaz de 90&deg;. Construa a reta perpendicular ao segmento que passa pela extremidade que divide <b>2p</b> e <b>p</b>. A altura do triângulo retângulo é a média geométrica $\mathsf{ x = \sqrt{2p \cdot p} = p \sqrt{2} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="490" name="sl" checked>
+			   <label for="490"></label>
+			   <img src="parte4/40_02_04.png"/>
+			   <figcaption>No item 2.2, podemos usar a relação entre o cateto e sua projeção sobre a hipotenusa. Logo, construimos o segmento <b>3p</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="491" name="sl">
+			   <label for="491"></label>
+			   <img src="parte4/40_02_05.png"/>
+			   <figcaption>... e o segmento <b>p</b> "por dentro" de <b>3p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="492" name="sl">
+			   <label for="492"></label>
+			   <img src="parte4/40_02_06.png"/>
+			   <figcaption>Construindo o arco capaz de 90&deg; e a reta perpendicular à hipotenusa que passa pela extremidade de <b>p</b>, temos que o cateto <b>y</b> será a média geométrica $\mathsf{ y = \sqrt{3p \cdot p} = p \sqrt{3} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="493" name="sl">
+			   <label for="493"></label>
+			   <img src="parte4/40_02_07.png"/>
+			   <figcaption>No item 2.3, usamos a relação entre o cateto e sua projeção sobre a hipotenusa.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="494" name="sl">
+			   <label for="494"></label>
+			   <img src="parte4/40_02_08.png"/>
+			   <figcaption>Logo, construimos o segmento <b>p</b> "por dentro" do segmento <b>5p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="495" name="sl">
+			   <label for="495"></label>
+			   <img src="parte4/40_02_09.png"/>
+			   <figcaption>Construindo o arco capaz de 90&deg; e a reta perpendicular à hipotenusa que passa pela extremidade de <b>p</b>, encontramos o cateto <b>z</b> que será a média geométrica  $\mathsf{ z = \sqrt{5p \cdot p} = p \sqrt{5} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="496" name="sl">
+			   <label for="496"></label>
+			   <img src="parte4/40_02_10.png"/>
+			   <figcaption>Se construirmos outro segmento <b>p</b> "por dentro" de <b>5p</b>, podemos encontrar a média geométrica entre <b>2p</b> e <b>5p</b>, que será o cateto $\mathsf{ t = \sqrt{2p \cdot 5p} = p \sqrt{10} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/40_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0040b.png"/>
-  <figcaption>Equações da resolução:
-  <br>$\mathsf{\frac{z}{\sqrt{4}}=\frac{p}{\sqrt{5}}}$ ou $\mathsf{z=\frac{p\sqrt{4}}{\sqrt{5}} }$ ou $\mathsf{z=p\sqrt{\frac{4}{5}} }$ ou $\mathsf{z=\sqrt{\frac{4}{5}p.p} }$.</figcaption>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="497" name="sl" checked>
+			   <label for="497"></label>
+			   <img src="parte4/40_03_01.png"/>
+			   <figcaption>Construa o segmento <b>p</b> e uma reta com qualquer inclinação que passa por <b>A</b>. Vamos dividir este segmento em 5 partes iguais usando o Teorema de Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="498" name="sl">
+			   <label for="498"></label>
+			   <img src="parte4/40_03_02.png"/>
+			   <figcaption>Construimos na reta qualquer 5 segmentos consecutivos, com distâncias iguais entre si, começando pelo ponto <b>A</b>. Unimos o ponto <b>5</b> com o ponto <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="499" name="sl">
+			   <label for="499"></label>
+			   <img src="parte4/40_03_03.png"/>
+			   <figcaption>Usando os esquadros, construa as retas paralelas a <b>5B</b> que passam pelos pontos <b>4</b>, <b>3</b>, <b>2</b> e <b>1</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="500" name="sl" checked>
+			   <label for="500"></label>
+			   <img src="parte4/40_03_04.png"/>
+			   <figcaption>Vamos construir a média geométrica entre o segmento com $\mathsf{ 4 \over 5 }$ de <b>AB</b> e o próprio <b>AB</b>. Construa o arco capaz de 90&deg; em relação a <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="501" name="sl">
+			   <label for="501"></label>
+			   <img src="parte4/40_03_05.png"/>
+			   <figcaption>No ponto <b>A<sub>4</sub></b>, construa a reta perpendicular a <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="502" name="sl">
+			   <label for="502"></label>
+			   <img src="parte4/40_03_06.png"/>
+			   <figcaption>A relação entre o segmento <b>z</b> e <b>p</b> é $\mathsf{ \frac{z}{\sqrt{4}}=\frac{p}{\sqrt{5}} }$ ou de outra forma, $\mathsf{z=\frac{p\sqrt{4}}{\sqrt{5}} }$, ou seja, $\mathsf{z=p\sqrt{\frac{4}{5}} }$. O cateto <b>AC<sub>4</sub></b> é a média geométrica $\mathsf{z=\sqrt{\frac{4}{5}p.p} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="503" name="sl">
+			   <label for="503"></label>
+			   <img src="parte4/40_03_07.png"/>
+			   <figcaption>Analogamente, temos que o cateto <b>AC<sub>3</sub></b> é a média geométrica $\mathsf{y=\sqrt{\frac{3}{5}p.p} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="504" name="sl">
+			   <label for="504"></label>
+			   <img src="parte4/40_03_08.png"/>
+			   <figcaption>Outro segmento que temos desta construção é o cateto <b>BC<sub>3</sub></b> que é a média geométrica $\mathsf{x=\sqrt{\frac{2}{5}p.p} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="505" name="sl">
+			   <label for="505"></label>
+			   <img src="parte4/40_03_09.png"/>
+			   <figcaption>E o último segmento que temos desta construção é o cateto <b>BC<sub>4</sub></b> que é a média geométrica $\mathsf{t=\sqrt{\frac{1}{5}p.p} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/40_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0041.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, temos a aplicação do conceito de média geométrica.</p>
+	<img src="parte4/41_01_00.png"/>
+	<figcaption>A construção pode ser feita marcando os segmentos como projeções dos catetos sobre a hipotenusa, conforme mostrado, ou então o segmento menor "por dentro" do maior.</figcaption>
+  </details></div>
   <img src="parte4/apos_dg_0041a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, temos a aplicação do conceito de média geométrica.</p>
+	<img src="parte4/41_02_00.png"/>
+	<figcaption>A construção pode ser feita marcando os segmentos como projeções dos catetos sobre a hipotenusa, conforme mostrado, ou então o segmento <b>c</b> "por dentro" do segmento <b>a + b</b>.</figcaption>
+  </details></div>
   <img src="parte4/apos_dg_0041b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, temos a aplicação do conceito de média geométrica além de terceira e quarta proporcionais.</p>
+	<img src="parte4/41_03_00.png"/>
+	<figcaption>Primeiro encontramos os segmentos <b>y</b> e <b>z</b> por meio de quarta e terceira proporcionais. O segmento <b>x</b> será a média geométrica entre <b>y</b> e <b>z</b>.</figcaption>
+  </details></div>
   <img src="parte4/apos_dg_0041c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, temos a aplicação do conceito de média geométrica além do Teorema de Tales.</p>
+	<img src="parte4/41_04_00.png"/>
+	<figcaption>Este exercício é similar ao exercício mostrado na página anterior.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0042.png"/>
   <figcaption>Colocar demonstração do Teo Pitágoras.</figcaption>
