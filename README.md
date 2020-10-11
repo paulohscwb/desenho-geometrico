@@ -3858,7 +3858,8 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0042.png"/>
-  <figcaption>Colocar demonstração do Teo Pitágoras.</figcaption>
+  <p>De acordo com a propriedade provada na página 39, temos que <b>b&sup2; = a &middot; m </b> <b>c&sup2; = a &middot; n </b>.
+  <br>Logo, <b>b&sup2; + c&sup2; = a &middot; m + a &middot; n = a &middot; (m + n) = a&sup2;</b></p>
   <img src="parte4/apos_dg_0042a.png"/>
   <img src="parte4/apos_dg_0042b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
