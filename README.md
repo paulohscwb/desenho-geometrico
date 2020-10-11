@@ -14,7 +14,6 @@
 <p>Este site contém os procedimentos para construções geométricas usadas na disciplina de Desenho Geométrico</p>
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/apos_dg.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
-<h3 id="inicio">Módulo 1</h3>
 <details>
   <summary id="parte1">1.1. Circunferência e Mediatriz</summary>
   <p>Material da página 1 até a página 11.</p>
@@ -2023,7 +2022,6 @@
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
 </details>
 
-<h3 id="inicio">Módulo 2</h3>
 <details>
   <summary id="parte3">2.1. Arco capaz</summary>
   <p>Material da página 21 até a página 29.</p>
@@ -3693,7 +3691,6 @@
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
 </details>
 
-<h3 id="inicio">Módulo 3</h3>
 <details>
   <summary id="parte5">3. Triângulos e quadriláteros</summary>
   <p>Material da página 49 até a página 64.</p>
@@ -3731,7 +3728,6 @@
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
 </details>
 
-<h3 id="inicio">Módulo 4</h3>
 <details>
   <summary id="parte6">4. Tangência e concordância</summary>
   <p>Material da página 65 até a página 78.</p>
@@ -3765,7 +3761,6 @@
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
 </details>
 
-<h3 id="inicio">Módulo 5</h3>
 <details>
   <summary id="parte7">5. Polígonos regulares</summary>
   <p>Material da página 79 até a página 89.</p>
@@ -3793,7 +3788,6 @@
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
 </details>
 
-<h3 id="inicio">Módulo 6</h3>
 <details>
   <summary id="parte8">6.1. Retificação de circunferência</summary>
   <p>Material da página 89 até a página 93.</p>
