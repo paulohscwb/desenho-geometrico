@@ -3391,7 +3391,7 @@
 			   <input type="radio" id="450" name="sl">
 			   <label for="450"></label>
 			   <img src="parte4/34_03_09.png"/>
-			   <figcaption>E o centro do arco capaz de 45&deg; será a interseção do arco capaz de 90&deg; com a mediatriz de <b>AB</b>. O ponto <b>S</b> estará na interseção do arco capaz de 45&deg; com a Circunferência de Apolônio.</figcaption>
+			   <figcaption>... e o centro do arco capaz de 45&deg; será a interseção do arco capaz de 90&deg; com a mediatriz de <b>AB</b>. O ponto <b>S</b> estará na interseção do arco capaz de 45&deg; com a Circunferência de Apolônio.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte4/34_03_00.png" class="fundo"/>
@@ -3417,8 +3417,8 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0036.png"/>
-  <figcaption>Podemos escrever a relação de quarta proporcional de outras maneiras:
-  <br>$\mathsf{ax = bc}$ ou $\mathsf{ {a \over c} = {b \over x} }$.</figcaption>
+  <p align="center">Podemos escrever a relação de quarta proporcional de outras maneiras:
+  <br>$\mathsf{ax = bc}$ ou $\mathsf{ {a \over c} = {b \over x} }$.</p>
   <img src="parte4/apos_dg_0036a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. Aplicaremos o teorema de Tales para encontrar o segmento <b>x</b>.</p>
@@ -3452,32 +3452,32 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0037.png"/>
-  <figcaption>Podemos escrever a relação de terceira proporcional de outras maneiras:
-  <br>$\mathsf{ax = b^2}$ ou $\mathsf{b = \sqrt{ax} }$.</figcaption>
+  <p align="center">Podemos escrever a relação de terceira proporcional de outras maneiras:
+  <br>$\mathsf{ax = b^2}$ ou $\mathsf{b = \sqrt{ax} }$.</p>
   <img src="parte4/apos_dg_0037a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. Aplicaremos o teorema de Tales para encontrar o segmento <b>x</b>.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="451" name="sl" checked>
-			   <label for="451"></label>
-			   <img src="parte4/36_01_01.png"/>
+			   <input type="radio" id="454" name="sl" checked>
+			   <label for="454"></label>
+			   <img src="parte4/37_01_01.png"/>
 			   <figcaption>Vamos encontrar o segmento <b>x</b> tal que $\mathsf{ {a \over b} = {b \over x} }$. Podemos construir os segmentos <b>a</b> e <b>b</b>, que são o numerador e o denominador da primeira fração, em uma mesma reta. </figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="452" name="sl">
-			   <label for="452"></label>
-			   <img src="parte4/36_01_02.png"/>
+			   <input type="radio" id="455" name="sl">
+			   <label for="455"></label>
+			   <img src="parte4/37_01_02.png"/>
 			   <figcaption>Construindo uma reta com inclinação qualquer, que passa pela extremidade <b>A</b>, podemos construir o segmento correspondente ao numerador da outra fração: <b>b</b>. Usando os esquadros, determine a reta paralela a <b>BD</b> que passa pelo ponto <b>C</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="453" name="sl">
-			   <label for="453"></label>
-			   <img src="parte4/36_01_03.png"/>
+			   <input type="radio" id="456" name="sl">
+			   <label for="456"></label>
+			   <img src="parte4/37_01_03.png"/>
 			   <figcaption>De acordo com o Teorema de Tales, os segmentos correspondentes são proporcionais, ou seja, $\mathsf{ {a \over b} = {b \over x} }$.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte4/36_01_00.png" class="fundo"/>
+		<img src="parte4/37_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte4/apos_dg_0037b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
