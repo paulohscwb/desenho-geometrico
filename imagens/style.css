@@ -58,7 +58,7 @@ details {
 	width:100.7%;
 }
 
-.sub p {color: rgb(21,153,87);}
+.sub p, details p {color: rgb(21,153,87);}
 
 .sub {
   border: none;
