@@ -3487,11 +3487,172 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0038.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="457" name="sl" checked>
+			   <label for="457"></label>
+			   <img src="parte4/38_01_01.png"/>
+			   <figcaption>Vamos encontrar o inverso de <b>a</b>, que será o segmento <b>x</b> tal que $\mathsf{ x = {1 \over a} }$ ou $\mathsf{ {x \over 1} = {1 \over a} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="458" name="sl">
+			   <label for="458"></label>
+			   <img src="parte4/38_01_02.png"/>
+			   <figcaption>Usando a terceira proporcional, com segmento de 1cm, encontramos o inverso <b>x</b> de <b>a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="459" name="sl">
+			   <label for="459"></label>
+			   <img src="parte4/38_01_03.png"/>
+			   <figcaption>Usando a terceira proporcional, com segmento de 1cm, encontramos o inverso <b>y</b> de <b>b</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="460" name="sl" checked>
+			   <label for="460"></label>
+			   <img src="parte4/38_01_04.png"/>
+			   <figcaption>Agora podemos dividir o segmento <b>AB</b> em partes proporcionais aos inversos. Construa o segmento <b>AB</b> e uma reta com inclinação qualquer que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="461" name="sl">
+			   <label for="461"></label>
+			   <img src="parte4/38_01_05.png"/>
+			   <figcaption>Construa nesta reta qualquer os segmentos <b>x</b> e <b>y</b> usando o compasso.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="462" name="sl">
+			   <label for="462"></label>
+			   <img src="parte4/38_01_06.png"/>
+			   <figcaption>Com os esquadros, construa a reta paralela que define <b>AP &isin; AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/38_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0038a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, podemos reescrever as relações que definem os segmentos  <b>a</b> e  <b>b</b>.</p>
+	<img src="parte4/38_02_00.png"/>
+	<figcaption>Estas relações são de uma quarta proporcional e uma terceira proporcional.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0039.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="463" name="sl" checked>
+			   <label for="463"></label>
+			   <img src="parte4/39_01_01.png"/>
+			   <figcaption>Vamos construir as projeções dos catetos sobre a hipotenusa. Começando com a projeção do cateto <b>c</b>, construimos o segmento <b>BH<sub>a</sub> = n</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="464" name="sl">
+			   <label for="464"></label>
+			   <img src="parte4/39_01_02.png"/>
+			   <figcaption>No prolongamento de <b>BH<sub>a</sub></b>, construimos o segmento <b>H<sub>a</sub>C = m</b>, que é a projeção do cateto <b>b</b> sobre a hipotenusa.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="465" name="sl">
+			   <label for="465"></label>
+			   <img src="parte4/39_01_03.png"/>
+			   <figcaption>Como o vértice <b>A</b> "enxerga" a hipotenusa segundo 90&deg;, vamos construir o arco capaz de 90&deg;. Construa a mediatriz de <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="466" name="sl" checked>
+			   <label for="466"></label>
+			   <img src="parte4/39_01_04.png"/>
+			   <figcaption>Com centro no ponto médio <b>M</b> e raio <b>MB = MC</b>, construa o arco capaz de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="467" name="sl">
+			   <label for="467"></label>
+			   <img src="parte4/39_01_05.png"/>
+			   <figcaption>Usando os esquadros, construa a reta perpendicular a <b>BC</b> que passa pelo ponto <b>H<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="468" name="sl">
+			   <label for="468"></label>
+			   <img src="parte4/39_01_06.png"/>
+			   <figcaption>A interseção da reta perpendicular a <b>BC</b> com o arco capaz é o vértice <b>A</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/39_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0039a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="469" name="sl" checked>
+			   <label for="469"></label>
+			   <img src="parte4/39_02_01.png"/>
+			   <figcaption>Vamos construir a hipotenusa <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="470" name="sl">
+			   <label for="470"></label>
+			   <img src="parte4/39_02_02.png"/>
+			   <figcaption>A projeção do cateto <b>b</b> sobre a hipotenusa é o segmento  <b>CH<sub>a</sub> = m</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="471" name="sl">
+			   <label for="471"></label>
+			   <img src="parte4/39_02_03.png"/>
+			   <figcaption>Como o vértice <b>A</b> "enxerga" a hipotenusa segundo 90&deg;, vamos construir o arco capaz de 90&deg;. Construa a mediatriz de <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="472" name="sl" checked>
+			   <label for="472"></label>
+			   <img src="parte4/39_02_04.png"/>
+			   <figcaption>Com centro no ponto médio <b>M</b> e raio <b>MB = MC</b>, construa o arco capaz de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="473" name="sl">
+			   <label for="473"></label>
+			   <img src="parte4/39_02_05.png"/>
+			   <figcaption>Usando os esquadros, construa a reta perpendicular a <b>BC</b> que passa pelo ponto <b>H<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="474" name="sl">
+			   <label for="474"></label>
+			   <img src="parte4/39_02_06.png"/>
+			   <figcaption>A interseção da reta perpendicular a <b>BC</b> com o arco capaz é o vértice <b>A</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/39_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0039b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Vamos mostrar as relações entre as medidas das projeções dos catetos sobre a hipotenusa e a altura de um triângulo retângulo <b>&#9651;ABC</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="475" name="sl" checked>
+			   <label for="475"></label>
+			   <img src="parte4/39_03_01.png"/>
+			   <figcaption>Vamos considerar a hipotenusa <b>BC = a</b> e o <b>&angsph;CH<sub>a</sub>A = 90&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="476" name="sl">
+			   <label for="476"></label>
+			   <img src="parte4/39_03_02.png"/>
+			   <figcaption>Considere o ângulo <b>&angsph;C = &gamma;</b>. Temos que os triângulos <b>&#9651;H<sub>a</sub>AC</b> e <b>&#9651;ABC</b> são semelhantes (ângulos correspondentes iguais). Logo, os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over c} = {b \over a} = {m \over b} }$. Da última igualdade, podemos concluir que $\mathsf{ b^2 = {a \cdot m} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="477" name="sl">
+			   <label for="477"></label>
+			   <img src="parte4/39_03_03.png"/>
+			   <figcaption>Considere o ângulo <b>&angsph;B = &beta;</b>. Temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;ABC</b> são semelhantes (ângulos correspondentes iguais). Logo, os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over b} = {c \over a} = {n \over c} }$. Da última igualdade, podemos concluir que $\mathsf{ c^2 = {a \cdot n} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="478" name="sl" checked>
+			   <label for="478"></label>
+			   <img src="parte4/39_03_04.png"/>
+			   <figcaption>Temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;H<sub>a</sub>AC</b> são semelhantes (ângulos correspondentes iguais). Logo, temos a proporcionalidade dos lados na mesma razão, ou seja,  $\mathsf{ {c \over b} = {h \over m} = {n \over h} }$. Da última igualdade, podemos concluir que $\mathsf{ h^2 = {m \cdot n} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/39_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0040.png"/>
   <img src="parte4/apos_dg_0040a.png"/>
