@@ -4107,7 +4107,7 @@
 			   <input type="radio" id="536" name="sl" checked>
 			   <label for="536"></label>
 			   <img src="parte4/46_02_01.png"/>
-			   <figcaption>Vamos construir o segmento áureo de <b>AB</b>. Construa a mediatriz de <b>AB</b>.<figcaption>
+			   <figcaption>Vamos construir o segmento áureo de <b>AB</b>. Construa a mediatriz de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="537" name="sl">
