@@ -17,7 +17,7 @@
 <details>
   <summary id="parte1">1.1. Circunferência e Mediatriz</summary>
   <p>Material da página 1 até a página 11.</p>
-	<div class="embed-container">
+	<div class="embed-container" style="visibility:visible">
 		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
    <img src="parte1/apos_dg_0001.png"/>
