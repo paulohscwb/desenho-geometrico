@@ -3989,17 +3989,207 @@
   <img src="parte4/apos_dg_0043b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Nestes exercícios propostos, temos aplicações do teorema de Pitágoras. São segmentos que podemos construir também com o conceito de média geométrica</p>
-	<img src="parte4/43_02_00.png"/>
+	<img src="parte4/43_03_00.png"/>
 	<figcaption>No exercício 3, a espiral pitagórica é feita com os os triângulos retângulos com um dos	catetos sempre igual a um segmento inicial <b>p</b>, obtendo-se na sequência: $\mathsf{ p \sqrt {2} }$, $\mathsf{ p \sqrt {3} }$, e a assim sucessivamente.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0044.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção. Vamos encontrar os segmentos $\mathsf{ a \over 2 }$ e $\mathsf{ \frac{a \sqrt {5}}{2} }$.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="522" name="sl" checked>
+			   <label for="522"></label>
+			   <img src="parte4/44_01_01.png"/>
+			   <figcaption>Vamos encontrar o segmento $\mathsf{ a \over 2 }$ construindo a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="523" name="sl">
+			   <label for="523"></label>
+			   <img src="parte4/44_01_02.png"/>
+			   <figcaption>Vamos construir o triângulo retângulo de catetos <b>a = AB</b> e <b>BC = BM = AM</b>. Construa a reta perpendicular a <b>AB</b> que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="524" name="sl">
+			   <label for="524"></label>
+			   <img src="parte4/44_01_03.png"/>
+			   <figcaption>Com o compasso, "pegue" a medida <b>BM</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="525" name="sl" checked>
+			   <label for="525"></label>
+			   <img src="parte4/44_01_04.png"/>
+			   <figcaption>... e marque esta medida na reta perpendicular. Logo, $\mathsf{ BC = \frac{a}{2} }$. Usando o teorema de Pitágoras, temos que $\mathsf{ AC^2 = AB^2 + BC^2 }$, ou seja, $\mathsf{ AC^2 = a^2 + {(\frac{a}{2})^2} }$. Logo, temos que $\mathsf{ AC^2 = a^2 + \frac{a^2}{4} = \frac{5a^2}{4} }$. Portanto, $\mathsf{ AC = \frac{ a\sqrt{5} }{2} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="526" name="sl">
+			   <label for="526"></label>
+			   <img src="parte4/44_01_05.png"/>
+			   <figcaption>Com o compasso centrado em <b>C</b>, construa o arco com raio <b>AC</b> até interceptar o prolongamento de <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="527" name="sl">
+			   <label for="527"></label>
+			   <img src="parte4/44_01_06.png"/>
+			   <figcaption>De acordo com a demonstração feita nesta página, o segmento <b>BD</b> é áureo de <b>AB</b>, pois $\mathsf{ BD = AC - BC = \frac{a\sqrt{5} }{2} - \frac{a}{2} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/44_01_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0045.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção. Vamos encontrar os segmentos $\mathsf{ a \over 2 }$ e $\mathsf{ \frac{a \sqrt {5}}{2} }$.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="528" name="sl" checked>
+			   <label for="528"></label>
+			   <img src="parte4/45_01_01.png"/>
+			   <figcaption>Vamos encontrar o segmento $\mathsf{ a \over 2 }$ construindo a mediatriz de <b>AP</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="529" name="sl">
+			   <label for="529"></label>
+			   <img src="parte4/45_01_02.png"/>
+			   <figcaption>Vamos construir o triângulo retângulo de catetos <b>a = AP</b> e <b>PC = PM = AM</b>. Construa a reta perpendicular a <b>AP</b> que passa por <b>P</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="530" name="sl">
+			   <label for="530"></label>
+			   <img src="parte4/45_01_03.png"/>
+			   <figcaption>Com o compasso, "pegue" a medida <b>PM</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="531" name="sl" checked>
+			   <label for="531"></label>
+			   <img src="parte4/45_01_04.png"/>
+			   <figcaption>... e marque esta medida na reta perpendicular. Logo, $\mathsf{ PC = \frac{a}{2} }$. Usando o teorema de Pitágoras, como fizemos na construção da página anterior, temos que $\mathsf{ AC = \frac{ a\sqrt{5} }{2} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="532" name="sl">
+			   <label for="532"></label>
+			   <img src="parte4/45_01_05.png"/>
+			   <figcaption>Com o compasso centrado em <b>C</b>, construa o arco com raio <b>PC</b> no prolongamento de <b>AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="533" name="sl">
+			   <label for="533"></label>
+			   <img src="parte4/45_01_06.png"/>
+			   <figcaption>De acordo com a demonstração feita nesta página, o segmento <b>AP</b> é áureo de <b>AD</b>, pois $\mathsf{ AD = AC + PC = \frac{a\sqrt{5} }{2} + \frac{a}{2} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="534" name="sl">
+			   <label for="534"></label>
+			   <img src="parte4/45_01_07.png"/>
+			   <figcaption>Podemos construir o arco com raio <b>AD</b> no prolongamento de <b>AP</b>, para encontrar o segmento <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="535" name="sl">
+			   <label for="535"></label>
+			   <img src="parte4/45_01_08.png"/>
+			   <figcaption>Logo, temos o segmento <b>AB</b>, sabendo-se que <b>AP</b> é áureo de <b>AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/45_01_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0046.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, temos a construção do segmento áureo de <b>AB</b>.</p>
+	<img src="parte4/46_01_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <img src="parte4/apos_dg_0046a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="536" name="sl" checked>
+			   <label for="536"></label>
+			   <img src="parte4/46_02_01.png"/>
+			   <figcaption>Vamos construir o segmento áureo de <b>AB</b>. Construa a mediatriz de <b>AB</b>.<figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="537" name="sl">
+			   <label for="537"></label>
+			   <img src="parte4/46_02_02.png"/>
+			   <figcaption>Na reta perpendicular a <b>AB</b> que passa por <b>B</b>, encontre o ponto <b>N</b> tal que <b>BN = BM = AM</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="538" name="sl">
+			   <label for="538"></label>
+			   <img src="parte4/46_02_03.png"/>
+			   <figcaption>Construa o arco com centro em <b>N</b> e raio <b>AN</b>. O segmento <b>BC</b> é áureo de <b>AB</b>. Já temos 2 lados do retângulo áureo: <b>AB</b> e <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="539" name="sl" checked>
+			   <label for="539"></label>
+			   <img src="parte4/46_02_04.png"/>
+			   <figcaption>Usando os esquadros, construa os lados <b>AD // BC</b> e <b>CD // AB</b>. Logo, temos o retângulo áureo <b>ABCD</b>: um lado é segmento áureo do outro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="540" name="sl">
+			   <label for="540"></label>
+			   <img src="parte4/46_02_05.png"/>
+			   <figcaption>Agora vamos construir a espiral áurea. Começando pelo vértice <b>B</b>, vamos construir um quadrado com lado <b>BE = BC</b> usando o compasso.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="541" name="sl">
+			   <label for="541"></label>
+			   <img src="parte4/46_02_06.png"/>
+			   <figcaption>Com os esquadros, construa o segmento <b>EF // BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="542" name="sl">
+			   <label for="542"></label>
+			   <img src="parte4/46_02_07.png"/>
+			   <figcaption>Com centro em <b>E</b>, construa o arco que começa em <b>B</b> e vai até o ponto <b>F</b>. Este é o primeiro arco da espiral.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="543" name="sl">
+			   <label for="543"></label>
+			   <img src="parte4/46_02_08.png"/>
+			   <figcaption>Para dar continuidade nos arcos, a próxima extremidade será com vértice em <b>D</b>. Vamos construir o quadrado com lado <b>DG = DF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="544" name="sl" checked>
+			   <label for="544"></label>
+			   <img src="parte4/46_02_09.png"/>
+			   <figcaption>Com os esquadros, construa o segmento <b>HG // DF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="545" name="sl">
+			   <label for="545"></label>
+			   <img src="parte4/46_02_10.png"/>
+			   <figcaption>Para dar continuidade na espiral o arco que construiremos terá centro em <b>H</b>, raio <b>HF</b>, começando em <b>F</b> e terminando em <b>G</b>. O próximo quadrado terá vertice em <b>A</b> e lado <b>AG</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="546" name="sl">
+			   <label for="546"></label>
+			   <img src="parte4/46_02_11.png"/>
+			   <figcaption>Analogamente ao que fizemos nos outros 2 arcos, construa o quadrado <b>AGJI</b>, com arco de centro em <b>J</b>, começando em <b>G</b> e terminando em <b>I</b>. O próximo quadrado terá lado <b>EI</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="547" name="sl">
+			   <label for="547"></label>
+			   <img src="parte4/46_02_12.png"/>
+			   <figcaption>Construa o quadrado <b>EIKL</b>, com arco de centro em <b>K</b>, começando em <b>I</b> e terminando em <b>L</b>. O próximo quadrado terá lado <b>HL</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="548" name="sl">
+			   <label for="548"></label>
+			   <img src="parte4/46_02_13.png"/>
+			   <figcaption>Construa o quadrado <b>HLPO</b>, com arco de centro em <b>P</b>, começando em <b>L</b> e terminando em <b>O</b>. O próximo quadrado terá lado <b>OJ</b>, e assim sucessivamente.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/46_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0046b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, temos construções de segmentos áureos "em cascata".</p>
+	<img src="parte4/46_03_00.png"/>
+	<figcaption>Na verdade, note que depois de construir o primeiro segmento áureo, <b>AP</b>, podemos "transportá-lo" para o segmento <b>AB</b>, encontrando o ponto <b>P</b>. Se construirmos o áureo de <b>AP</b>, temos a formação de triângulos semelhantes. O mesmo acontece com o áureo do áureo de <b>AP</b>. Construa as circunferências áureas com os raios encontrados em uma outra folha.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0047.png"/>
   <img src="parte4/apos_dg_0047a.png"/>
