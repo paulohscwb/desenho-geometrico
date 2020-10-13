@@ -4192,11 +4192,119 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0047.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
+	<p>Vamos demonstrar esta propriedade com os 3 casos possíveis.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="549" name="sl" checked>
+			   <label for="549"></label>
+			   <img src="parte4/47_01_01.png"/>
+			   <figcaption>No primeiro caso, quando P é externo à circunferência, vamos determinar os segmentos <b>BC</b>, <b>AD</b> e <b>AC</b>. Como os pontos <b>B</b> e <b>D</b> "enxergam" o segmento <b>AC</b> no mesmo arco...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="550" name="sl">
+			   <label for="550"></label>
+			   <img src="parte4/47_01_02.png"/>
+			   <figcaption>... temos que <b>&angsph;B = &angsph; D</b>, pois são ângulos inscritos relativos à mesma corda. Logo, temos que os triângulos <b>&#9651;PAD</b> e <b>&#9651;PCB</b> são semelhantes. Por isso, temos que $\mathsf{ \frac{PA}{PC}=\frac{PD}{PB} }$, ou seja, $\mathsf{ PA \cdot PB = PC \cdot PD }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="551" name="sl">
+			   <label for="551"></label>
+			   <img src="parte4/47_01_03.png"/>
+			   <figcaption>No segundo caso, quando P é interno à circunferência, vamos determinar os segmentos <b>BC</b>, <b>AD</b> e <b>AC</b>. Como os pontos <b>B</b> e <b>D</b> "enxergam" o segmento <b>AC</b> no mesmo arco...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="552" name="sl" checked>
+			   <label for="552"></label>
+			   <img src="parte4/47_01_04.png"/>
+			   <figcaption>... temos também a propriedade do arco capaz: <b>&angsph;B = &angsph; D</b>. Logo, temos que os triângulos <b>&#9651;PAD</b> e <b>&#9651;PCB</b> são semelhantes. Por isso, temos que $\mathsf{ \frac{PA}{PC}=\frac{PD}{PB} }$, ou seja, $\mathsf{ PA \cdot PB = PC \cdot PD }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/47_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0047a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
+	<p>Agora vamos ver como fica a demonstração do terceiro caso possível: quando um dos segmentos é tangente à circunferência.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="553" name="sl" checked>
+			   <label for="553"></label>
+			   <img src="parte4/47_02_01.png"/>
+			   <figcaption>Vamos determinar os segmentos <b>AT</b> e <b>BT</b>. Neste caso, o <b>&angsph;B</b> é inscrito e o <b>&angsph;PTA</b> é de segmento, ambos da mesma corda <b>AT</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="554" name="sl">
+			   <label for="554"></label>
+			   <img src="parte4/47_02_02.png"/>
+			   <figcaption>Conforme já provamos, estes ângulos são iguais. Logo, os triângulos <b>&#9651;PTA</b> e <b>&#9651;PBT</b> são semelhantes. Por isso, temos que $\mathsf{ \frac{PA}{PT}=\frac{PT}{PB} }$, ou seja, $\mathsf{ PT^2  = PA \cdot PB }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/47_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0047b.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0048.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar os casos que demonstramos na página anterior.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="555" name="sl" checked>
+			   <label for="555"></label>
+			   <img src="parte4/48_01_01.png"/>
+			   <figcaption>Usando o segundo caso da propriedade de potência de ponto, temos que $\mathsf{ PA \cdot PC = PB \cdot PD }$, ou seja, $\mathsf{ x \cdot 2 = 5 \cdot 1 }$. Logo, $\mathsf{ x = \frac{5}{2} = 2,5 }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="556" name="sl">
+			   <label for="556"></label>
+			   <img src="parte4/48_01_02.png"/>
+			   <figcaption>Usando o primeiro caso da propriedade de potência de ponto, temos que $\mathsf{ PA \cdot PB = x \cdot PC }$, ou seja, $\mathsf{ x \cdot 8 = 3 \cdot 6 }$. Logo, $\mathsf{ x = \frac{18}{8} = 2,25 }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="557" name="sl">
+			   <label for="557"></label>
+			   <img src="parte4/48_01_03.png"/>
+			   <figcaption>Usando o terceiro caso da propriedade de potência de ponto, temos que $\mathsf{ x^2 = PA \cdot PB }$, ou seja, $\mathsf{ x^2 = 3 \cdot 8 }$. Logo, $\mathsf{ x = \sqrt{24} = 4,89 }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/48_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0048a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar o terceiro caso da propriedade de potência de ponto.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="558" name="sl" checked>
+			   <label for="558"></label>
+			   <img src="parte4/48_02_01.png"/>
+			   <figcaption>Ao determinar uma reta secante qualquer que passar pelo ponto <b>P</b>, temos a propriedade válida: $\mathsf{ PT^2 = PA \cdot PB }$, ou seja, $\mathsf{ PT = \sqrt{PA \cdot PB} }$. Logo, <b>PT</b> será a média geométrica entre <b>PA</b> e <b>PB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="559" name="sl">
+			   <label for="559"></label>
+			   <img src="parte4/48_02_02.png"/>
+			   <figcaption>Construa a mediatriz de <b>PA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="560" name="sl">
+			   <label for="560"></label>
+			   <img src="parte4/48_02_03.png"/>
+			   <figcaption>Construa também o segmento <b>AC &perp; PA</b> e o arco capaz de 90&deg;. O segmento <b>PC</b> será a média geométrica entre <b>PA</b> (projeção do cateto <b>PC</b>) e <b>PB</b> (hipotenusa).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="561" name="sl">
+			   <label for="561"></label>
+			   <img src="parte4/48_02_04.png"/>
+			   <figcaption>Podemos "transferir" esta distância construindo o arco de circunferência com centro em <b>P</b> e raio <b>PC = PT</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="562" name="sl">
+			   <label for="562"></label>
+			   <img src="parte4/48_02_05.png"/>
+			   <figcaption>Nas interseções do arco com a circunferência dada, encontramos <b>T</b> e <b>T'</b>, que definem as tangentes <b>PT</b> e <b>PT'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/48_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
 </details>
 
