@@ -17,7 +17,7 @@
 <details>
   <summary id="parte1">1.1. Circunferência e Mediatriz</summary>
   <p>Material da página 1 até a página 11.</p>
-	<div class="embed-container" style="visibility:visible">
+	<div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
    <img src="parte1/apos_dg_0001.png"/>
@@ -3864,11 +3864,134 @@
   <p align="center">De acordo com a propriedade provada na página 39, temos as relações <b>b&sup2; = a &middot; m </b> e <b>c&sup2; = a &middot; n </b>.
   <br>Logo, <b>b&sup2; + c&sup2; = a &middot; m + a &middot; n = a &middot; (m + n) = a&sup2;</b>.</p>
   <img src="parte4/apos_dg_0042a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="506" name="sl" checked>
+			   <label for="506"></label>
+			   <img src="parte4/42_01_01.png"/>
+			   <figcaption>Construa o segmento <b>p</b>. Vamos utilizar o teorema de Pitágoras para encontrar o segmento <b>x</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="507" name="sl">
+			   <label for="507"></label>
+			   <img src="parte4/42_01_02.png"/>
+			   <figcaption>Alinhando os esquadros com o segmento <b>p</b>, podemos construir a reta perpendicular a <b>p</b> que passa por uma extremidade deste segmento.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="508" name="sl">
+			   <label for="508"></label>
+			   <img src="parte4/42_01_03.png"/>
+			   <figcaption>Na reta perpendicular, podemos construir o segmento <b>q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="510" name="sl" checked>
+			   <label for="510"></label>
+			   <img src="parte4/42_01_04.png"/>
+			   <figcaption>De acordo com o teorema de Pitágoras, temos que $\mathsf{ x^2 = p^2 + q^2 }$, onde <b>x</b> é a hipotenusa do triângulo retângulo de catetos <b>p</b> e <b>q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="511" name="sl">
+			   <label for="511"></label>
+			   <img src="parte4/42_01_05.png"/>
+			   <figcaption>No ponto item 2, podemos reescrever a equação como $\mathsf{ x^2 + q^2 = p^2 }$. Neste caso, a hipotenusa será o segmento <b>p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="512" name="sl">
+			   <label for="512"></label>
+			   <img src="parte4/42_01_06.png"/>
+			   <figcaption>O vértice reto do triângulo retângulo que vamos construir "enxerga" a hipotenusa segundo ângulo de 90&deg;. Logo, vamos construir o arco capaz de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="513" name="sl">
+			   <label for="513"></label>
+			   <img src="parte4/42_01_07.png"/>
+			   <figcaption>Com o centro no ponto médio de <b>p</b>, construa a semi-circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="514" name="sl">
+			   <label for="514"></label>
+			   <img src="parte4/42_01_08.png"/>
+			   <figcaption>Como temos a medida do cateto <b>q</b>, podemos construir a circunferência com centro em uma extremidade de <b>p</b>, com raio <b>q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="509" name="sl">
+			   <label for="509"></label>
+			   <img src="parte4/42_01_09.png"/>
+			   <figcaption>Logo, o cateto <b>x</b> está construído.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/42_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte4/apos_dg_0042b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="515" name="sl" checked>
+			   <label for="515"></label>
+			   <img src="parte4/42_02_01.png"/>
+			   <figcaption>Podemos reescrever a equação como $\mathsf{ x^2 = (p^2 + q^2) - r^2 }$, onde $\mathsf{ y^2 = p^2 + q^2 }$. Logo, vamos construir o segmento <b>y</b>, que terá dois "papéis".</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="516" name="sl">
+			   <label for="516"></label>
+			   <img src="parte4/42_02_02.png"/>
+			   <figcaption>O segmento <b>y</b> será a hipotenusa do triângulo retângulo de catetos <b>p</b> e <b>q</b>, além de ser a hipotenusa do triângulo retângulo de catetos <b>x</b> e <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="517" name="sl">
+			   <label for="517"></label>
+			   <img src="parte4/42_02_03.png"/>
+			   <figcaption>Logo, vamos construir o arco capaz de 90&deg; segundo segmento <b>y</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="518" name="sl" checked>
+			   <label for="518"></label>
+			   <img src="parte4/42_02_04.png"/>
+			   <figcaption>Com centro em uma das extremidades de <b>y</b>, construimos a circunferência de raio <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="519" name="sl">
+			   <label for="519"></label>
+			   <img src="parte4/42_02_05.png"/>
+			   <figcaption>Logo, temos o cateto <b>x</b> com uma das extremidades no arco capaz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="520" name="sl">
+			   <label for="520"></label>
+			   <img src="parte4/42_02_06.png"/>
+			   <figcaption>No item 4, podemos reescrever a equação como $\mathsf{ x^2 = (p^2 + q^2) + r^2 }$, onde $\mathsf{ y^2 = p^2 + q^2 }$. Logo, vamos construir o segmento <b>y</b>, que terá dois "papéis": será hipotenusa do triângulo retângulo de catetos <b>p</b> e <b>q</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="521" name="sl">
+			   <label for="521"></label>
+			   <img src="parte4/42_02_07.png"/>
+			   <figcaption>... e será um cateto do triângulo retângulo de cateto <b>r</b> e hipotenusa <b>x</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte4/42_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0043.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, temos a aplicação direta do Teorema de Pitágoras.</p>
+	<img src="parte4/43_01_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <img src="parte4/apos_dg_0043a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, temos aplicações do teorema de Pitágoras. São segmentos que podemos construir também com o conceito de média geométrica</p>
+	<img src="parte4/43_02_00.png"/>
+	<figcaption>Nestes exercícios propostos, note que devemos reescrever as equações até determinar quais são os catetos e qual será a hipotenusa. Por exemplo, no item 2.4, procuramos o quadrado perfeito mais próximo do número 15 para reescrever a expressão $\mathsf{ x^2 = 15p^2 }$ como $\mathsf{ x^2 = (4p)^2 - p^2 }$, onde <b>4p</b> será hipotenusa e <b>p</b> um dos catetos.</figcaption>
+  </details></div>
   <img src="parte4/apos_dg_0043b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Nestes exercícios propostos, temos aplicações do teorema de Pitágoras. São segmentos que podemos construir também com o conceito de média geométrica</p>
+	<img src="parte4/43_02_00.png"/>
+	<figcaption>No exercício 3, a espiral pitagórica é feita com os os triângulos retângulos com um dos	catetos sempre igual a um segmento inicial <b>p</b>, obtendo-se na sequência: $\mathsf{ p \sqrt {2} }$, $\mathsf{ p \sqrt {3} }$, e a assim sucessivamente.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0044.png"/>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
