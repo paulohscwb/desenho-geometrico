@@ -13,7 +13,7 @@
 <h3>Arco Capaz e Operações com segmentos</h3> 
   <details open><summary>Atividade 1: exercício 5 da pág. 28</summary>
   <img src="../../parte3/apos_dg_0028a.png" />
-  <div class="combo"><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como os lados do triângulo são tangentes à circunferência inscrita, temos que construir os arcos capazes de <b>90&deg;</b>.</p>
 	<img src="28_02_00.png"/>
 	<figcaption>Depois de encontrar a reta <b>BC</b>, o lado <b>AC</b> será tangente à circunferência inscrita, ou seja, construímos outro arco capaz de <b>90&deg;</b> para determinar a posição de <b>AC</b>.</figcaption>
