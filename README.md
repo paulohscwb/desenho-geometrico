@@ -2974,11 +2974,7 @@
 		<img src="parte4/31_03_00.png" class="fundo"/>
   </details></div>
   <img src="parte4/apos_dg_0031c.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Neste exercício proposto, temos a aplicação do Teorema de Tales para encontrar os lados do triângulo.</p>
-	<img src="parte4/31_04_00.png"/>
-	<figcaption>Temos 2 soluções possíveis.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0032.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -3407,11 +3403,7 @@
 	<figcaption></figcaption>
   </details></div>
   <img src="parte4/apos_dg_0035a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Neste exercício proposto, utilizamos a Circunferência de Apolônio com a razão $\mathsf{ 7 \over 4 }$.</p>
-	<img src="parte4/35_02_00.png"/>
-	<figcaption></figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4</span></div>
   <img src="parte4/apos_dg_0035b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício proposto, utilizamos a Circunferência de Apolônio com a razão $\mathsf{ 1 \over 3 }$.</p>
@@ -3848,11 +3840,7 @@
 	<figcaption>A construção pode ser feita marcando os segmentos como projeções dos catetos sobre a hipotenusa, conforme mostrado, ou então o segmento <b>c</b> "por dentro" do segmento <b>a + b</b>.</figcaption>
   </details></div>
   <img src="parte4/apos_dg_0041b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Neste exercício proposto, temos a aplicação do conceito de média geométrica além de terceira e quarta proporcionais.</p>
-	<img src="parte4/41_03_00.png"/>
-	<figcaption>Primeiro encontramos os segmentos <b>y</b> e <b>z</b> por meio de quarta e terceira proporcionais. O segmento <b>x</b> será a média geométrica entre <b>y</b> e <b>z</b>.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5</span></div>
   <img src="parte4/apos_dg_0041c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício proposto, temos a aplicação do conceito de média geométrica além do Teorema de Tales.</p>
@@ -4282,7 +4270,7 @@
 			   <input type="radio" id="559" name="sl">
 			   <label for="559"></label>
 			   <img src="parte4/48_02_02.png"/>
-			   <figcaption>Construa a mediatriz de <b>PA</b>.</figcaption>
+			   <figcaption>Construa a mediatriz de <b>PB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="560" name="sl">
