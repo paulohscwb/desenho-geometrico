@@ -4300,34 +4300,162 @@
   <summary id="parte5">3. Triângulos e quadriláteros</summary>
   <p>Material da página 49 até a página 64.</p>
   <img src="parte5/apos_dg_0049.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<p>Vamos construir as principais cevianas nos triângulos desta página. Para facilitar as construções, podemos utilizar os esquadros nas construções de retas perpendiculares.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="563" name="sl" checked>
+			   <label for="563"></label>
+			   <img src="parte5/49_01_01.png"/>
+			   <figcaption>Vamos nomear o triângulo como <b>&#9651;ABC</b>. Os nomes dos lados serão <b>a = BC</b>, <b>b = AC</b> e <b>c = AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="564" name="sl">
+			   <label for="564"></label>
+			   <img src="parte5/49_01_02.png"/>
+			   <figcaption>Construa as mediatrizes de dois lados. A mediatriz do terceiro lado passa pelo mesmo ponto de interseção <b>O</b>, chamado de circuncentro. O raio da circunferência circunscrita é a distância <b>R</b> do centro <b>O</b> até um dos vértices.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="565" name="sl">
+			   <label for="565"></label>
+			   <img src="parte5/49_01_03.png"/>
+			   <figcaption>Com centro em <b>O</b> e raio <b>R = OA</b>, construa a circunferência circunscrita do triângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="566" name="sl">
+			   <label for="566"></label>
+			   <img src="parte5/49_01_04.png"/>
+			   <figcaption>Unindo os pontos médios dos lados com os vértices opostos, temos as medianas do triângulo. Note que são bem diferentes de mediatrizes: as medianas são segmentos que unem um vértice ao ponto médio do lado oposto; já as mediatrizes são as retas que dividem o segmento ao meio.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="567" name="sl">
+			   <label for="567"></label>
+			   <img src="parte5/49_01_05.png"/>
+			   <figcaption>Os nomes das medianas são relativos aos lados opostos. Por exemplo, <b>BM<sub>b</sub> = m<sub>b</sub></b> é a mediana relativa ao lado <b>b</b>. O encontro das medianas é o baricentro, representado por <b>G</b>. Se construirmos a reta paralela à mediana <b>m<sub>b</sub></b> que passa por <b>M<sub>b</sub></b>, encontramos o ponto <b>M &isin; BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="568" name="sl">
+			   <label for="568"></label>
+			   <img src="parte5/49_01_06.png"/>
+			   <figcaption>De acordo com o teorema de Tales, temos que <b>AM<sub>b</sub> = M<sub>b</sub>C</b> implica que <b>M<sub>a</sub>M = MC</b>. Como <b>BM<sub>a</sub> = M<sub>a</sub>C</b>, temos a seguinte relação: $\mathsf{ \frac{BM_a}{MM_a} = \frac{BG}{GM_b} = \frac{2}{1} }$. Ou seja, o baricentro divide a mediana na razão <b> BG = </b> $\mathsf{ \frac{2}{3} m_b }$ e <b> GM<sub>b</sub> = </b> $\mathsf{ \frac{1}{3} m_b }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="569" name="sl">
+			   <label for="569"></label>
+			   <img src="parte5/49_01_06.png"/>
+			   <figcaption>O mesmo vale para as outras medianas: AG = </b> $\mathsf{ \frac{2}{3} m_a }$; <b> GM<sub>a</sub> = </b> $\mathsf{ \frac{1}{3} m_a }$; CG = </b> $\mathsf{ \frac{2}{3} m_c }$; <b> GM<sub>c</sub> = </b> $\mathsf{ \frac{1}{3} m_c }$;.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/49_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte5/apos_dg_0049a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+	<p>Vamos construir outras duas cevianas nos triângulos desta página.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="570" name="sl" checked>
+			   <label for="570"></label>
+			   <img src="parte5/49_02_01.png"/>
+			   <figcaption>Construa as bissetrizes dos ângulos internos de dois vértices do triângulo. A terceira bissetriz passa pelo ponto de interseção <b>I</b>, chamado de incentro do triângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="571" name="sl">
+			   <label for="571"></label>
+			   <img src="parte5/49_02_02.png"/>
+			   <figcaption>Construa a reta perpendicular a um dos lados do triângulo passando pelo incentro. Assim, encontramos o raio da circunferência inscrita <b>r = IT<sub>b</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="572" name="sl">
+			   <label for="572"></label>
+			   <img src="parte5/49_02_03.png"/>
+			   <figcaption>Com centro em <b>I</b> e raio <b>r</b>, construa a circunferência inscrita do triângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="573" name="sl">
+			   <label for="573"></label>
+			   <img src="parte5/49_02_04.png"/>
+			   <figcaption>Os nomes das bissetrizes são relativos aos lados opostos. Por exemplo, <b>AB<sub>a</sub> = b<sub>a</sub></b> é a bissetriz relativa ao lado <b>a</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="574" name="sl">
+			   <label for="574"></label>
+			   <img src="parte5/49_02_05.png"/>
+			   <figcaption>Construa as alturas relativas a dois lados do terceiro triângulo desta página. A terceira altura passa pelo mesmo ponto de interseção das outras. Este ponto é chamado de ortocentro do triângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="575" name="sl">
+			   <label for="575"></label>
+			   <img src="parte5/49_02_06.png"/>
+			   <figcaption>Se unirmos os pés das alturas, temos o <b>&#9651;H<sub>a</sub>H<sub>b</sub>H<sub>c</sub></b>, chamado de triângulo órtico.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="576" name="sl">
+			   <label for="576"></label>
+			   <img src="parte5/49_02_07.png"/>
+			   <figcaption>Os nomes das alturas são relativos aos lados opostos. Por exemplo, <b>CH<sub>c</sub> = h<sub>c</sub></b> é a altura relativa ao lado <b>c</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/49_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0050.png"/>
+  <img src="parte5/apos_dg_0050a.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0051.png"/>
+  <img src="parte5/apos_dg_0051a.png"/>
+  <img src="parte5/apos_dg_0051b.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0052.png"/>
+  <img src="parte5/apos_dg_0052a.png"/>
+  <img src="parte5/apos_dg_0052b.png"/>
+  <img src="parte5/apos_dg_0052c.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0053.png"/>
+  <img src="parte5/apos_dg_0053a.png"/>
+  <img src="parte5/apos_dg_0053b.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0054.png"/>
+  <img src="parte5/apos_dg_0054a.png"/>
+  <img src="parte5/apos_dg_0054b.png"/>
+  <img src="parte5/apos_dg_0054c.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0055.png"/>
+  <img src="parte5/apos_dg_0055a.png"/>
+  <img src="parte5/apos_dg_0055b.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0056.png"/>
+  <img src="parte5/apos_dg_0056a.png"/>
+  <img src="parte5/apos_dg_0056b.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0057.png"/>
+  <img src="parte5/apos_dg_0057a.png"/>
+  <img src="parte5/apos_dg_0057b.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0058.png"/>
+  <img src="parte5/apos_dg_0058a.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0059.png"/>
+  <img src="parte5/apos_dg_0059a.png"/>
+  <img src="parte5/apos_dg_0059b.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0060.png"/>
+  <img src="parte5/apos_dg_0060a.png"/>
+  <img src="parte5/apos_dg_0060b.png"/>
+  <img src="parte5/apos_dg_0060c.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0061.png"/>
+  <img src="parte5/apos_dg_0061a.png"/>
+  <img src="parte5/apos_dg_0061b.png"/>
+  <img src="parte5/apos_dg_0061c.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0062.png"/>
+  <img src="parte5/apos_dg_0062a.png"/>
+  <img src="parte5/apos_dg_0062b.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0063.png"/>
+  <img src="parte5/apos_dg_0063a.png"/>
+  <img src="parte5/apos_dg_0063b.png"/>
+  <img src="parte5/apos_dg_0063c.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0064.png"/>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
