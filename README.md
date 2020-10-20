@@ -4343,7 +4343,7 @@
 			   <input type="radio" id="569" name="sl">
 			   <label for="569"></label>
 			   <img src="parte5/49_01_06.png"/>
-			   <figcaption>O mesmo vale para as outras medianas: AG = </b> $\mathsf{ \frac{2}{3} m_a }$; <b> GM<sub>a</sub> = </b> $\mathsf{ \frac{1}{3} m_a }$; CG = </b> $\mathsf{ \frac{2}{3} m_c }$; <b> GM<sub>c</sub> = </b> $\mathsf{ \frac{1}{3} m_c }$;.</figcaption>
+			   <figcaption>O mesmo vale para as outras medianas: <b>AG = </b> $\mathsf{ \frac{2}{3} m_a }$; <b> GM<sub>a</sub> = </b> $\mathsf{ \frac{1}{3} m_a }$; <b>CG = </b> $\mathsf{ \frac{2}{3} m_c }$; <b> GM<sub>c</sub> = </b> $\mathsf{ \frac{1}{3} m_c }$;.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte5/49_01_00.png" class="fundo"/>
@@ -4399,11 +4399,232 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0050.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares nestes primeiros exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="577" name="sl" checked>
+			   <label for="577"></label>
+			   <img src="parte5/50_01_01.png"/>
+			   <figcaption>Podemos começar com qualquer lado. Neste exemplo, começamos pelo lado <b>a = BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="578" name="sl">
+			   <label for="578"></label>
+			   <img src="parte5/50_01_02.png"/>
+			   <figcaption>Como temos a medida do lado <b>c</b>, construimos a Circunf(B,c), que é o primeiro lugar geométrico do vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="579" name="sl">
+			   <label for="579"></label>
+			   <img src="parte5/50_01_03.png"/>
+			   <figcaption>Construindo a Circunf(C,b), temos o segundo lugar geométrico de <b>A</b>, e finalizamos o <b>&#9651;ABC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="580" name="sl">
+			   <label for="580"></label>
+			   <img src="parte5/50_01_04.png"/>
+			   <figcaption>No exercício 2, podemos começar com o lado <b>a</b> ou com o lado <b>b</b>. Considerando o lado <b>a</b> construído...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="581" name="sl">
+			   <label for="581"></label>
+			   <img src="parte5/50_01_05.png"/>
+			   <figcaption>... podemos construir o ângulo <b>B = 30&deg;</b>. Com centro em <b>B</b>, podemos construir um arco com raio qualquer.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="582" name="sl">
+			   <label for="582"></label>
+			   <img src="parte5/50_01_06.png"/>
+			   <figcaption>Com o mesmo raio, construimos outro arco de circunferência. Logo, temos o ângulo de 60&deg; com vértice em <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="583" name="sl">
+			   <label for="583"></label>
+			   <img src="parte5/50_01_07.png"/>
+			   <figcaption>Agora podemos construir a bissetriz deste ângulo. Com centro em uma das interseções, construimos um arco...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="584" name="sl">
+			   <label for="584"></label>
+			   <img src="parte5/50_01_08.png"/>
+			   <figcaption>... e com centro na outra interseção, construimos o arco com mesmo raio. Logo, temos o ângulo <b>B = 30&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="585" name="sl">
+			   <label for="585"></label>
+			   <img src="parte5/50_01_09.png"/>
+			   <figcaption>Agora podemos construir a Circunf(C,b), que será o segundo lugar geométrico de <b>A</b>. Escolha uma das interseções para construir o triângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="586" name="sl">
+			   <label for="586"></label>
+			   <img src="parte5/50_01_10.png"/>
+			   <figcaption>Pronto! O <b>&#9651;ABC</b> está construído. Poderíamos usar os esquadros para construir o ângulo de 30&deg;.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/50_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0050a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="587" name="sl" checked>
+			   <label for="587"></label>
+			   <img src="parte5/50_02_01.png"/>
+			   <figcaption>Devemos sempre começar com uma medida linear. Neste caso, temos apenas o lado <b>a = BC</b>. Vamos usar os esquadros para construir o ângulo de 30&deg; em <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="588" name="sl">
+			   <label for="588"></label>
+			   <img src="parte5/50_02_02.png"/>
+			   <figcaption>Deslizando o esquadro com o vértice de 30&deg; alinhado com <b>BC</b>, temos o ângulo <b>B = 30&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="589" name="sl">
+			   <label for="589"></label>
+			   <img src="parte5/50_02_03.png"/>
+			   <figcaption>Alinhando o esquadro de 45 com o vértice de 30 do outro esquadro, temos um ângulo de 75&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="590" name="sl">
+			   <label for="590"></label>
+			   <img src="parte5/50_02_04.png"/>
+			   <figcaption>Deslizando o esquadro de 30 até chegar em <b>C</b>, temos <b>C = 75&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="591" name="sl">
+			   <label for="591"></label>
+			   <img src="parte5/50_02_05.png"/>
+			   <figcaption>Pronto! Temos o <b>&#9651;ABC</b> construído. Você pode utilizar a régua e o compasso para construir estes ângulos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="592" name="sl">
+			   <label for="592"></label>
+			   <img src="parte5/50_02_06.png"/>
+			   <figcaption>No exercício 4, vamos construir o segmento <b>BC = a</b>. Como temos o ângulo oposto, vamos construir o arco capaz de 45&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="593" name="sl">
+			   <label for="593"></label>
+			   <img src="parte5/50_02_07.png"/>
+			   <figcaption>Construa a mediatriz de <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="594" name="sl">
+			   <label for="594"></label>
+			   <img src="parte5/50_02_08.png"/>
+			   <figcaption>Com centro em <b>M<sub>a</sub></b> e raio <b>BM<sub>a</sub></b>, temos o arco capaz de 90&deg;. O centro do arco capaz de 45&deg; está na interseção da mediatriz com o arco capaz de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="595" name="sl">
+			   <label for="595"></label>
+			   <img src="parte5/50_02_09.png"/>
+			   <figcaption>Construa o arco capaz de 45&deg;, com centro em <b>O</b> e raio <b>OB = OC</b>. Temos que o <b>&angsph;OBC = 45&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="596" name="sl">
+			   <label for="596"></label>
+			   <img src="parte5/50_02_10.png"/>
+			   <figcaption>Construindo a bissetriz do <b>&angsph;OBC</b>, temos o ângulo <b>B</b> construído e o segundo lugar geométrico de <b>A</b>. Na interseção da reta que forma 22,5&deg; com <b>BC</b> com o arco capaz de 45&deg;, temos o <b>&#9651;ABC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/50_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0051.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Este exercício é similar aos anteriores.</p>
+	<img src="parte5/51_01_00.png"/>
+	<figcaption>Você pode começar com a construção do lado <b>a</b> ou do lado <b>b</b>.</figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0051a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="597" name="sl" checked>
+			   <label for="597"></label>
+			   <img src="parte5/51_02_01.png"/>
+			   <figcaption>Começamos com o cateto <b>b = AC</b>. Com os esquadros ou régua e compasso, construa a reta perpendicular a <b>AC</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="598" name="sl">
+			   <label for="598"></label>
+			   <img src="parte5/51_02_02.png"/>
+			   <figcaption>Vamos construir o arco capaz de 30&deg; em <b>AC</b>. Construa a mediatriz de <b>AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="599" name="sl">
+			   <label for="599"></label>
+			   <img src="parte5/51_02_03.png"/>
+			   <figcaption>Construa o ângulo de 30&deg; com vértice em <b>A</b> ou em <b>C</b>. Esta é a reta tangente ao arco capaz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="600" name="sl">
+			   <label for="600"></label>
+			   <img src="parte5/51_02_04.png"/>
+			   <figcaption>Construa a reta perpendicular à reta tangente pelo ponto <b>A</b>. O centro do arco capaz é a interseção da mediatriz com a reta perpendicular.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="601" name="sl">
+			   <label for="601"></label>
+			   <img src="parte5/51_02_05.png"/>
+			   <figcaption>Com centro em <b>O</b> e raio <b>OA = OC</b>, construa o arco capaz de 30&deg;. A interseção deste arco com a reta perpendicular a <b>AC</b> que passa por <b>A</b> é o vértice <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="602" name="sl">
+			   <label for="602"></label>
+			   <img src="parte5/51_02_06.png"/>
+			   <figcaption>No exercício 7, construimos o arco capaz de 90&deg; em <b>BC</b> e a reta que forma 60&deg; com <b>BC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/51_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0051b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="603" name="sl" checked>
+			   <label for="603"></label>
+			   <img src="parte5/51_03_01.png"/>
+			   <figcaption>Começamos com o cateto <b>c = AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="604" name="sl">
+			   <label for="604"></label>
+			   <img src="parte5/51_03_02.png"/>
+			   <figcaption>Com os esquadros ou régua e compasso, construa a reta perpendicular a <b>AB</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="605" name="sl">
+			   <label for="605"></label>
+			   <img src="parte5/51_03_03.png"/>
+			   <figcaption>Podemos construir a Circunf(B,a), que é o segundo lugar geométrico do ponto <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="606" name="sl">
+			   <label for="606"></label>
+			   <img src="parte5/51_03_04.png"/>
+			   <figcaption>Começamos com o cateto <b>b = AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="607" name="sl">
+			   <label for="607"></label>
+			   <img src="parte5/51_03_05.png"/>
+			   <figcaption>Com os esquadros ou régua e compasso, construa a reta perpendicular a <b>AC</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="608" name="sl">
+			   <label for="608"></label>
+			   <img src="parte5/51_03_06.png"/>
+			   <figcaption>Construa a Circunf(A,c), que é o segundo lugar geométrico do ponto <b>B</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/51_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0052.png"/>
   <img src="parte5/apos_dg_0052a.png"/>
