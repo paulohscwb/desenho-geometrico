@@ -4707,13 +4707,13 @@
 			   <input type="radio" id="620" name="sl">
 			   <label for="620"></label>
 			   <img src="parte5/52_02_04.png"/>
-			   <figcaption>Construa a reta que passa por <b>P</b> e <b>O</b>, interceptando a circunferência em <b>Q</b> e <b>R</b>. Por potência de ponto, temos que $\mathsf{ PT^2 = PQ \cdot PR }$, ou seja, $\mathsf{ c^2 = PT^2 = PQ \cdot (PQ + m) }$;. </figcaption>
+			   <figcaption>Construa a reta que passa por <b>P</b> e <b>O</b>, interceptando a circunferência em <b>Q</b> e <b>R</b>. Por potência de ponto, temos que $\mathsf{ PT^2 = PQ \cdot PR }$, ou seja, $\mathsf{ c^2 = PT^2 = PQ \cdot (PQ + m) }$. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="620a" name="sl">
 			   <label for="620a"></label>
 			   <img src="parte5/52_02_04.png"/>
-			   <figcaption>Das relações de média geométrica, temos que $\mathsf{ c^2 = n \cdot a }$;, ou seja, $\mathsf{ c^2 = n \cdot (n + m) }$;. Esta é a mesma relação encontrada por meio de potência de ponto. Logo, temos que <b>PQ = n</b>.</figcaption>
+			   <figcaption>Das relações de média geométrica, temos que $\mathsf{ c^2 = n \cdot a }$, ou seja, $\mathsf{ c^2 = n \cdot (n + m) }$. Esta é a mesma relação encontrada por meio de potência de ponto. Logo, temos que <b>PQ = n</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="621" name="sl">
@@ -4854,8 +4854,85 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0053.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Este exercício é similar aos anteriores, com a construção feita por HOMOTETIA.</p>
+	<img src="parte5/53_01_00.png"/>
+	<figcaption>Você pode começar com a construção do <b>&#9651;A'B'C'</b>. Encontre o incentro e a circunferência inscrita para ampliar ou reduzir o triângulo até encontrar o <b>&#9651;ABC</b>.</figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0053a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Podemos usar a régua, os esquadors e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="641" name="sl" checked>
+			   <label for="641"></label>
+			   <img src="parte5/53_02_01.png"/>
+			   <figcaption>Usando a fórmula da área de um triângulo, temos a relação mostrada entre lados e alturas correspondentes: são relações de inversos proporcionais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="642" name="sl">
+			   <label for="642"></label>
+			   <img src="parte5/53_02_02.png"/>
+			   <figcaption>Logo, podemos construir o inverso do segmento <b>h<sub>a</sub></b>, como fizemos anteriormente usando Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="643" name="sl">
+			   <label for="643"></label>
+			   <img src="parte5/53_02_03.png"/>
+			   <figcaption>Fazemos o mesmo com os segmentos <b>h<sub>b</sub></b> e <b>h<sub>c</sub></b>. Estes segmentos inversos são proporcionais aos lados do <b>&#9651;ABC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="644" name="sl">
+			   <label for="644"></label>
+			   <img src="parte5/53_02_04.png"/>
+			   <figcaption>Logo, podemos construir o <b>&#9651;A'B'C'</b> com lados iguais aos inversos correspondentes: <b>a'</b> tem lado inverso de <b>h<sub>a</sub></b>, <b>b'</b> tem lado inverso de <b>h<sub>b</sub></b> e <b>c'</b> tem lado inverso de <b>h<sub>c</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="646" name="sl">
+			   <label for="646"></label>
+			   <img src="parte5/53_02_05.png"/>
+			   <figcaption>Como fizemos no exercício 13, consideramos os vértices <b>A' &equiv; A</b> e prolongamos o segmento <b>AH'<sub>a</sub></b> até que <b>AH'<sub>a</sub> = h<sub>a</sub></b>. Construindo a reta paralela a <b>B'C'</b>, encontramos os vértices <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/53_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0053b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="647" name="sl" checked>
+			   <label for="647"></label>
+			   <img src="parte5/53_03_01.png"/>
+			   <figcaption>Construa o lado <b>a</b> e a reta perpendicular a este lado por um ponto qualquer: pode ser pelo vértice <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="648" name="sl">
+			   <label for="648"></label>
+			   <img src="parte5/53_03_02.png"/>
+			   <figcaption>Construa a reta paralela a <b>BC</b> com distância igual à altura <b>h<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="649" name="sl">
+			   <label for="649"></label>
+			   <img src="parte5/53_03_03.png"/>
+			   <figcaption>Construa a Circunf(B,c). O vértice <b>A</b> está na interseção desta circunferência com a reta paralela.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="650" name="sl">
+			   <label for="650"></label>
+			   <img src="parte5/53_03_04.png"/>
+			   <figcaption>Escolha uma das soluções.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="651" name="sl">
+			   <label for="651"></label>
+			   <img src="parte5/53_03_05.png"/>
+			   <figcaption>O exercício 20 é similar ao exercício 19. O ângulo de 30&deg; pode ser construído com esquadros ou com régua e compasso.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/53_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0054.png"/>
   <img src="parte5/apos_dg_0054a.png"/>
