@@ -4627,9 +4627,231 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0052.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="609" name="sl" checked>
+			   <label for="609"></label>
+			   <img src="parte5/52_01_01.png"/>
+			   <figcaption>Podemos construir as projeções dos catetos <b>m</b> e <b>n</b> sobre a hipotenusa.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="610" name="sl">
+			   <label for="610"></label>
+			   <img src="parte5/52_01_02.png"/>
+			   <figcaption>Como o vértice <b>A</b> tem ângulo reto, vamos construir o arco capaz de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="611" name="sl">
+			   <label for="611"></label>
+			   <img src="parte5/52_01_03.png"/>
+			   <figcaption>Construa a perpendicular a <b>BC</b> que passa por <b>H<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="612" name="sl">
+			   <label for="612"></label>
+			   <img src="parte5/52_01_04.png"/>
+			   <figcaption>Na interseção do arco capaz de 90&deg; com a perpendicular, temos o vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="613" name="sl">
+			   <label for="613"></label>
+			   <img src="parte5/52_01_05.png"/>
+			   <figcaption>No exercício 11, podemos começar construindo a projeção do cateto <b>c</b> sobre a hipotenusa.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="614" name="sl">
+			   <label for="614"></label>
+			   <img src="parte5/52_01_06.png"/>
+			   <figcaption>Construa a perpendicular a <b>BH<sub>a</sub></b> pelo ponto <b>H<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="615" name="sl">
+			   <label for="615"></label>
+			   <img src="parte5/52_01_07.png"/>
+			   <figcaption>Construa a Circunf(B,c) para encontrar o vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="616" name="sl">
+			   <label for="616"></label>
+			   <img src="parte5/52_01_08.png"/>
+			   <figcaption>Construa a perpendicular a <b>AB</b> que passa por <b>A</b>. No prolongamento de <b>BH<sub>a</sub></b>, encontramos o vértice <b>C</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/52_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0052a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="617" name="sl" checked>
+			   <label for="617"></label>
+			   <img src="parte5/52_02_01.png"/>
+			   <figcaption>Vamos encontrar a projeção do cateto <b>c</b> sobre a hipotenusa. Construa a circunferência com centro  e diâmetro <b>m</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="618" name="sl">
+			   <label for="618"></label>
+			   <img src="parte5/52_02_02.png"/>
+			   <figcaption>No ponto <b>T</b>, construa a reta perpendicular ao raio <b>OT</b>. Esta é uma reta tangente à circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="619" name="sl">
+			   <label for="619"></label>
+			   <img src="parte5/52_02_03.png"/>
+			   <figcaption>Com o compasso, construa o segmento <b>PT = c</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="620" name="sl">
+			   <label for="620"></label>
+			   <img src="parte5/52_02_04.png"/>
+			   <figcaption>Construa a reta que passa por <b>P</b> e <b>O</b>, interceptando a circunferência em <b>Q</b> e <b>R</b>. Por potência de ponto, temos que $\mathsf{ PT^2 = PQ \cdot PR }$, ou seja, $\mathsf{ c^2 = PT^2 = PQ \cdot (PQ + m) }$;. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="620a" name="sl">
+			   <label for="620a"></label>
+			   <img src="parte5/52_02_04.png"/>
+			   <figcaption>Das relações de média geométrica, temos que $\mathsf{ c^2 = n \cdot a }$;, ou seja, $\mathsf{ c^2 = n \cdot (n + m) }$;. Esta é a mesma relação encontrada por meio de potência de ponto. Logo, temos que <b>PQ = n</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="621" name="sl">
+			   <label for="621"></label>
+			   <img src="parte5/52_02_05.png"/>
+			   <figcaption>Podemos então construir a reta perpendicular a <b>PQ</b> que passa por <b>Q</b>, que será o pé da altura do triângulo retângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="622" name="sl">
+			   <label for="622"></label>
+			   <img src="parte5/52_02_06.png"/>
+			   <figcaption>Construa a Circunf(P,c), que intercepta a reta perpendicular em <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="623" name="sl">
+			   <label for="623"></label>
+			   <img src="parte5/52_02_07.png"/>
+			   <figcaption>Unindo o vértice <b>A</b> com <b>R</b>, temos o <b>&#9651;ABC</b> construído. Os vértices <b>B</b> e <b>C</b> coincidem com <b>P</b> e <b>R</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/52_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0052b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios. Vamos utilizar a técnica de HOMOTETIA para resolver estes exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="624" name="sl" checked>
+			   <label for="624"></label>
+			   <img src="parte5/52_03_01.png"/>
+			   <figcaption>Nestes exercícios, não temos a medida de um dos lados. Então, vamos começar com um lado <b>B'C'</b> de medida qualquer.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="625" name="sl">
+			   <label for="625"></label>
+			   <img src="parte5/52_03_02.png"/>
+			   <figcaption>Construa os ângulos de 60&deg; e 45&deg; nos vértices <b>B'</b> e <b>C'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="626" name="sl">
+			   <label for="626"></label>
+			   <img src="parte5/52_03_03.png"/>
+			   <figcaption>Construa a altura do <b>&#9651;A'B'C'</b> relativa ao lado <b>a'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="627" name="sl">
+			   <label for="627"></label>
+			   <img src="parte5/52_03_04.png"/>
+			   <figcaption>Se a medida <b>A'H'<sub>a</sub></b> for igual à medida pedida de 5cm, o <b>&#9651;ABC</b> coincide com o <b>&#9651;A'B'C'</b>. Neste caso, a altura ficou menor: então, a partir de <b>A'</b> podemos marcar a medida <b>A'H<sub>a</sub> = h<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="628" name="sl">
+			   <label for="628"></label>
+			   <img src="parte5/52_03_05.png"/>
+			   <figcaption>Temos que <b>&#9651;ABC ~ &#9651;A'B'C'</b>. Logo, podemos construir a reta paralela a <b>B'C'</b> que passa por <b>H<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="629" name="sl">
+			   <label for="629"></label>
+			   <img src="parte5/52_03_06.png"/>
+			   <figcaption>As interseções da reta paralela com os prolongamentos dos lados <b>A'B'</b> e <b>A'C'</b> são os vértices <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="630" name="sl">
+			   <label for="630"></label>
+			   <img src="parte5/52_03_07.png"/>
+			   <figcaption>No exercício 14, vamos usar a mesma ideia. Primeiro, construimos o <b>&#9651;A'B'C'</b> com a medida <b>B'C'</b> qualquer e com as medidas indicadas dos ângulos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="631" name="sl">
+			   <label for="631"></label>
+			   <img src="parte5/52_03_08.png"/>
+			   <figcaption>Construa a mediatriz de <b>B'C'</b> e a mediana <b>m'<sub>a</sub></b>. Neste exemplo, a mediana tem medida maior do que a pedida, de 4,5cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="632" name="sl">
+			   <label for="632"></label>
+			   <img src="parte5/52_03_09.png"/>
+			   <figcaption>Logo, a partir de <b>A'</b> ou de <b>M'<sub>a</sub></b>, construa o segmento <b>AM<sub>a</sub> = m<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="633" name="sl">
+			   <label for="633"></label>
+			   <img src="parte5/52_03_10.png"/>
+			   <figcaption>Neste caso, encontramos a nova posição do vértice <b>A</b>. Construa as retas paralelas a <b>A'C'</b> e <b>B'A'</b> que passam por <b>A</b>, encontrando os vértices <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/52_03_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0052c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios. Vamos utilizar a técnica de HOMOTETIA para resolver estes exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="634" name="sl" checked>
+			   <label for="634"></label>
+			   <img src="parte5/52_04_01.png"/>
+			   <figcaption>O exercício 15 é similar aos anteriores. Neste caso, o <b>&#9651;A'B'C'</b> ficou menor do que o <b>&#9651;ABC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="635" name="sl">
+			   <label for="635"></label>
+			   <img src="parte5/52_04_02.png"/>
+			   <figcaption>No exercício 16, construa o triângulo auxiliar <b>&#9651;A'B'C'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="636" name="sl">
+			   <label for="636"></label>
+			   <img src="parte5/52_04_03.png"/>
+			   <figcaption>Vamos encontrar o circuncentro deste triângulo. Construa a mediatriz de um dos lados.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="637" name="sl">
+			   <label for="637"></label>
+			   <img src="parte5/52_04_04.png"/>
+			   <figcaption>A interseção de duas mediatrizes determina o circuncentro <b>O'</b> e o raio <b>O'B'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="638" name="sl">
+			   <label for="638"></label>
+			   <img src="parte5/52_04_05.png"/>
+			   <figcaption>Considerando que o centro do <b>&#9651;ABC</b> coincide com <b>O'</b>, construa a Circunf(O,R).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="639" name="sl">
+			   <label for="639"></label>
+			   <img src="parte5/52_04_06.png"/>
+			   <figcaption>Se prolongarmos os raios <b>OA'</b>, <b>OB'</b> e <b>OC'</b>, encontramos os vértices <b>A</b>, <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="640" name="sl">
+			   <label for="640"></label>
+			   <img src="parte5/52_04_07.png"/>
+			   <figcaption>Logo, temos o <b>&#9651;ABC ~&#9651;A'B'C'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/52_04_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0053.png"/>
   <img src="parte5/apos_dg_0053a.png"/>
