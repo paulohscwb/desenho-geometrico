@@ -5292,7 +5292,7 @@
 			   <input type="radio" id="702" name="sl">
 			   <label for="702"></label>
 			   <img src="parte5/56_01_03.png"/>
-			   <figcaption>Construa a Circunf(B,h<sub>b</b>), determinando o ponto <b>H<sub>b</sub></b> na interseção com o arco capaz de 90&deg;.</figcaption>
+			   <figcaption>Construa a Circunf(B,h<sub>b</sub>), determinando o ponto <b>H<sub>b</sub></b> na interseção com o arco capaz de 90&deg;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="703" name="sl">
