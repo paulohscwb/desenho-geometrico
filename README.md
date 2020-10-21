@@ -5059,8 +5059,218 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0055.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício. Temos apenas as medidas das 3 medianas, então vamos construir um triângulo auxiliar.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="668" name="sl" checked>
+			   <label for="668"></label>
+			   <img src="parte5/55_01_01.png"/>
+			   <figcaption>Vamos construir o triângulo auxiliar com as medidas <b>G'M<sub>a</sub> = GM<sub>a</sub></b>. Logo, temos um paralelogramo <b>BGCG'</b>, pois as diagonais interceptam-se em seus pontos médios. Portanto, $\mathsf{ GG' = \frac{2}{3} m_a }$, $\mathsf{ BG = \frac{2}{3} m_b }$ e $\mathsf{ BG' = \frac{2}{3} m_c }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="669" name="sl">
+			   <label for="669"></label>
+			   <img src="parte5/55_01_02.png"/>
+			   <figcaption>Vamos dividir as medianas em 3 partes iguais. Podemos fazer a construção parecida com a que fizemos anteriormente para dividir segmentos em 5 partes iguais. Construa duas retas paralelas, e a partir de um ponto <b>P</b>, construa com o compasso <b>PP' = m<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="670" name="sl">
+			   <label for="670"></label>
+			   <img src="parte5/55_01_03.png"/>
+			   <figcaption>Usando o teorema de Tales, divida <b>m<sub>a</sub></b> em 3 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="671" name="sl">
+			   <label for="671"></label>
+			   <img src="parte5/55_01_04.png"/>
+			   <figcaption>Nos pontos de divisão, construa as retas paralelas às duas retas iniciais que construímos. A partir de um ponto <b>Q</b> da mesma reta que colocamos o ponto <b>P</b>, construa o segmento <b>QQ' = m<sub>b</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="672" name="sl">
+			   <label for="672"></label>
+			   <img src="parte5/55_01_05.png"/>
+			   <figcaption>Faça o mesmo com a terceira mediana: <b>RR' = m<sub>c</sub></b>. Assim, temos as 3 medianas divididas em 3 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="673" name="sl" checked>
+			   <label for="673"></label>
+			   <img src="parte5/55_01_06.png"/>
+			   <figcaption>Com o compasso, construa o segmento $\mathsf{ GG' = \frac{2}{3} m_a }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="674" name="sl">
+			   <label for="674"></label>
+			   <img src="parte5/55_01_07.png"/>
+			   <figcaption>Construa as $\mathsf{ Circunf(G, \frac{2}{3} m_b) }$ e $\mathsf{ Circunf(G', \frac{2}{3} m_c }$. Na interseção destas circunferências, encontramos o vértice <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="675" name="sl">
+			   <label for="675"></label>
+			   <img src="parte5/55_01_08.png"/>
+			   <figcaption>Construa no prolongamento de <b>GG'</b> a $\mathsf{ Circunf(G, \frac{2}{3} m_a) }$, encontrando o vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="676" name="sl">
+			   <label for="676"></label>
+			   <img src="parte5/55_01_09.png"/>
+			   <figcaption>No prolongamento de <b>BG</b>, construa a $\mathsf{ Circunf(G, \frac{1}{3} m_b) }$, encontrando o ponto <b>M<sub>b</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="677" name="sl">
+			   <label for="677"></label>
+			   <img src="parte5/55_01_10.png"/>
+			   <figcaption>Para finalizar, construa a Circunf(G,AM<sub>b</sub>), encontrando o vértice <b>C</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/55_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0055a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="678" name="sl" checked>
+			   <label for="678"></label>
+			   <img src="parte5/55_02_01.png"/>
+			   <figcaption>Vamos construir a mediana na qual o vértice <b>A</b> "enxerga" segundo ângulo dado de 60&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="679" name="sl">
+			   <label for="679"></label>
+			   <img src="parte5/55_02_02.png"/>
+			   <figcaption>Construa o ângulo de segmento de 60&deg; em <b>M<sub>c</sub></b>, obtendo-se a reta tangente ao arco capaz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="680" name="sl">
+			   <label for="680"></label>
+			   <img src="parte5/55_02_03.png"/>
+			   <figcaption>Construa a reta perpendicular à reta tangente que passa por <b>M<sub>c</sub></b>. Na interseção desta reta com a mediatriz de <b>CM<sub>c</sub></b>, encontramos o centro do arco capaz de 60&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="681" name="sl">
+			   <label for="681"></label>
+			   <img src="parte5/55_02_04.png"/>
+			   <figcaption>Construa o arco capaz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="682" name="sl">
+			   <label for="682"></label>
+			   <img src="parte5/55_02_05.png"/>
+			   <figcaption>Vamos encontrar o baricentro. Como as medianas têm mesmas medidas do exercício anterior, podemos usar a divisão que fizemos para construir a $\mathsf{ Circunf(M_c, \frac{1}{3} m_c) }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="683" name="sl" checked>
+			   <label for="683"></label>
+			   <img src="parte5/55_02_06.png"/>
+			   <figcaption>A distância do baricentro ao vértice <b>A</b> é de $\mathsf{  \frac{2}{3} m_a) }$. Logo, construa a $\mathsf{ Circunf(G, \frac{2}{3} m_a) }$. Onde esta circunferência interceptar o arco capaz, temos o vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="684" name="sl">
+			   <label for="684"></label>
+			   <img src="parte5/55_02_07.png"/>
+			   <figcaption>No prolongamento de <b>AM<sub>c</sub></b>, construa a $\mathsf{ Circunf(M_c, AM_c) }$, encontrando o vértice <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="685" name="sl">
+			   <label for="685"></label>
+			   <img src="parte5/55_02_08.png"/>
+			   <figcaption>Finalizamos a construção do <b>&#9651;ABC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="686" name="sl">
+			   <label for="686"></label>
+			   <img src="parte5/55_02_09.png"/>
+			   <figcaption>No exercício 31, podemos construir uma reta qualquer e a altura perpendicular a esta reta, determinando o segmento <b>AH<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="687" name="sl">
+			   <label for="687"></label>
+			   <img src="parte5/55_02_10.png"/>
+			   <figcaption>Construa a Circunf(A,m<sub>a</sub>). Logo, temos a reta suporte do lado <b>BC</b> determinada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="688" name="sl">
+			   <label for="688"></label>
+			   <img src="parte5/55_02_11.png"/>
+			   <figcaption>Como a mediatriz é perpendicular ao lado e passa pelo ponto médio, construa a reta perpendicular a <b>H<sub>a</sub>M<sub>a</sub></b> pelo ponto <b>M<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="689" name="sl">
+			   <label for="689"></label>
+			   <img src="parte5/55_02_12.png"/>
+			   <figcaption>Como a circunferência circunscrita tem o centro na interseção das mediatrizes, construa a Circunf(A,R): na interseção desta circunferência com a mediatriz, encontramos o circuncentro.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="690" name="sl">
+			   <label for="690"></label>
+			   <img src="parte5/55_02_13.png"/>
+			   <figcaption>Construa a Circunf(O,R), determinando os vértices <b>B</b> e <b>C</b> na reta suporte construída.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/55_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0055b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="691" name="sl" checked>
+			   <label for="691"></label>
+			   <img src="parte5/55_03_01.png"/>
+			   <figcaption>Começamos com o lado <b>b</b> e a reta perpendicular a <b>b</b> que passa pelo ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="692" name="sl">
+			   <label for="692"></label>
+			   <img src="parte5/55_03_02.png"/>
+			   <figcaption>Construa a Circunf(A,r) e a reta paralela a <b>AC</b>. Este é o primeiro lugar geométrico do incentro do triângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="693" name="sl">
+			   <label for="693"></label>
+			   <img src="parte5/55_03_03.png"/>
+			   <figcaption>Construa a bissetriz do ângulo <b>Â</b>. Na interseção com a reta paralela, temos o incentro <b>I</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="694" name="sl">
+			   <label for="694"></label>
+			   <img src="parte5/55_03_04.png"/>
+			   <figcaption>Construa a circunferência inscrita. Para construir o lado <b>BC</b>, vamos encontrar o ponto de tangência usando o arco capaz de 90&deg; em <b>IC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="695" name="sl">
+			   <label for="695"></label>
+			   <img src="parte5/55_03_05.png"/>
+			   <figcaption>Com centro no ponto médio de <b>IC</b>, construa o arco capaz de 90&deg;: na interseção com a circunferência inscrita, temos o ponto <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="696" name="sl" checked>
+			   <label for="696"></label>
+			   <img src="parte5/55_03_06.png"/>
+			   <figcaption>Unindo os pontos <b>C</b> e <b>T</b>, encontramos o vértice <b>B</b> na reta perpendicular a <b>AC</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="697" name="sl">
+			   <label for="697"></label>
+			   <img src="parte5/55_03_07.png"/>
+			   <figcaption>No exercício 33, podemos usar a propriedade que usamos em exercícios anteriores: os segmentos que unem os pontos médios de dois lados são paralelos ao terceiro lado e têm a metade da medida do terceiro lado. Construa a reta paralela a <b>M<sub>b</sub>M<sub>c</sub></b> que passa por <b>M<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="698" name="sl">
+			   <label for="698"></label>
+			   <img src="parte5/55_03_08.png"/>
+			   <figcaption>Construimos a Circunf(M<sub>a</sub>,M<sub>b</sub>M<sub>c</sub>), determinando os vértices <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="699" name="sl">
+			   <label for="699"></label>
+			   <img src="parte5/55_03_09.png"/>
+			   <figcaption>Determine as retas <b>BM<sub>c</sub></b> e <b>CM<sub>b</sub></b>, encontrando o vértice <b>A</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/55_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0056.png"/>
   <img src="parte5/apos_dg_0056a.png"/>
