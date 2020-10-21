@@ -5329,7 +5329,7 @@
 			   <input type="radio" id="706" name="sl" checked>
 			   <label for="706"></label>
 			   <img src="parte5/56_03_01.png"/>
-			   <figcaption>Vamos imaginar o triângulo construído. Como temos o ângulo <b>Â = 75&deg;</b>, vamos imaginar que a diferença dos lados <b>a - c</b> está construída a partir de <b>A</b>. Logo, teremos o <b>&#9651;BCD</b> isósceles de base <b>CD</b>, pois <b>BC = BD</b>. Para encontrar o vértice <b>B</b>, vamos construir a mediatriz de <b>CD</b>.</figcaption>
+			   <figcaption>Vamos imaginar o triângulo construído. Como temos o ângulo <b>Â = 75&deg;</b>, vamos imaginar que a diferença dos lados <b>a &minus; c</b> está construída a partir de <b>A</b>. Logo, teremos o <b>&#9651;BCD</b> isósceles de base <b>CD</b>, pois <b>BC = BD</b>. Para encontrar o vértice <b>B</b>, vamos construir a mediatriz de <b>CD</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="707" name="sl">
@@ -5379,7 +5379,7 @@
 			   <input type="radio" id="712" name="sl" checked>
 			   <label for="712"></label>
 			   <img src="parte5/57_02_01.png"/>
-			   <figcaption>De acordo com o teorema do ângulo externo, temos que $\mathsf{ \alpha = \frac{B}{2}) }$ e $\mathsf{ \beta = \frac{C}{2}) }$. Portanto, podemos construir o <b>&#9651;ADE</b>.</figcaption>
+			   <figcaption>De acordo com o teorema do ângulo externo, temos que $\mathsf{ \alpha = \frac{B}{2} }$ e $\mathsf{ \beta = \frac{C}{2} }$. Portanto, podemos construir o <b>&#9651;ADE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="713" name="sl">
@@ -5427,8 +5427,8 @@
 		<img src="parte5/57_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte5/apos_dg_0057b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+	<p>Vamos ver algumas definições e propriedades sobre os quadriláteros.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="720" name="sl" checked>
@@ -5465,11 +5465,149 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0058.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+	<p>Vamos ver algumas definições e propriedades sobre os quadriláteros notáveis. Começando pelos trapézios</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="725" name="sl" checked>
+			   <label for="725"></label>
+			   <img src="parte5/58_01_01.png"/>
+			   <figcaption>As bases do trapézio são os segmentos <b>AB</b> e <b>CD</b>, e as laterais são <b>BC</b> e <b>AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="726" name="sl">
+			   <label for="726"></label>
+			   <img src="parte5/58_01_02.png"/>
+			   <figcaption>Somente no trapézio isósceles teremos os ângulos das bases iguais e as diagonais iguais. Neste trapézio, temos também uma circunferência circunscrita.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/58_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0058a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+	<p>Agora vamos ver as propriedades dos paralelogramos.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="727" name="sl" checked>
+			   <label for="727"></label>
+			   <img src="parte5/58_02_01.png"/>
+			   <figcaption>Em um paralelogramo, os ângulos opostos são iguais. Logo, não teremos a circunferência circunscrita. Como os lados opostos são iguais, também não conseguimos construir uma circunferência inscrita neste quadrilátero.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="728" name="sl">
+			   <label for="728"></label>
+			   <img src="parte5/58_02_02.png"/>
+			   <figcaption>Todas as recíprocas das propriedades mostradas dos paralelogramos são verdadeiras.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/58_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0059.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+	<p>Agora vamos ver as propriedades dos paralelogramos especiais: retângulo, losango e quadrado.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="729" name="sl" checked>
+			   <label for="729"></label>
+			   <img src="parte5/59_01_01.png"/>
+			   <figcaption>Vamos usar estas propriedades nas construções propostas a seguir.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="730" name="sl">
+			   <label for="730"></label>
+			   <img src="parte5/59_01_02.png"/>
+			   <figcaption>Nos casos de retângulos e quadrados, a circunferência circunscrita tem centro na interseção das diagonais. O losango não tem esta circunferência. No caso do quadrado, podemos construir a circunferência inscrita, que terá o raio igual à metade da medida do lado.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/59_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0059a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="731" name="sl" checked>
+			   <label for="731"></label>
+			   <img src="parte5/59_02_01.png"/>
+			   <figcaption>Vamos construir o segmento <b>AB</b> e a reta perpendicular a este segmento que passa por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="732" name="sl">
+			   <label for="732"></label>
+			   <img src="parte5/59_02_02.png"/>
+			   <figcaption>Construa a Circunf(A,AB), determinando o vértice <b>C</b> na reta perpendicular a <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="733" name="sl">
+			   <label for="733"></label>
+			   <img src="parte5/59_02_03.png"/>
+			   <figcaption>Construa a reta: paralela a <b>AB</b> que passa por <b>C</b> e a paralela a <b>BC</b> que passa por <b>A</b>, encontrando o vértice <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="734" name="sl">
+			   <label for="734"></label>
+			   <img src="parte5/59_02_04.png"/>
+			   <figcaption>No exercício 2, construa a diagonal <b>BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="735" name="sl">
+			   <label for="735"></label>
+			   <img src="parte5/59_02_05.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg; em <b>BD</b>, por os vértices <b>A</b> e <b>D</b> "enxergam" <b>BD</b> segundo 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="736" name="sl">
+			   <label for="736"></label>
+			   <img src="parte5/59_02_06.png"/>
+			   <figcaption>Na interseção da mediatriz de <b>BD</b> com o arco capaz, temos os vértices <b>A</b> e <b>D</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/59_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0059b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="737" name="sl" checked>
+			   <label for="737"></label>
+			   <img src="parte5/59_03_01.png"/>
+			   <figcaption>Construa a Circunf(M,r) e um diâmetro <b>T<sub>1</sub>T<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="738" name="sl">
+			   <label for="738"></label>
+			   <img src="parte5/59_03_02.png"/>
+			   <figcaption>Construa o diâmetro <b>T<sub>2</sub>T<sub>3</sub> &perp; T<sub>1</sub>T<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="739" name="sl">
+			   <label for="739"></label>
+			   <img src="parte5/59_03_03.png"/>
+			   <figcaption>Construa as retas <b>AT<sub>1</sub> // T<sub>3</sub>T<sub>4</sub></b> e <b>AT<sub>3</sub> // T<sub>1</sub>T<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="740" name="sl">
+			   <label for="740"></label>
+			   <img src="parte5/59_03_04.png"/>
+			   <figcaption>Construa a reta <b>BT<sub>4</sub> // T<sub>1</sub>T<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="741" name="sl">
+			   <label for="741"></label>
+			   <img src="parte5/59_03_05.png"/>
+			   <figcaption>E para finalizar o quadrado, construa a reta <b>DT<sub>1</sub> // T<sub>3</sub>T<sub>4</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="742" name="sl">
+			   <label for="742"></label>
+			   <img src="parte5/59_03_06.png"/>
+			   <figcaption>No exercício 4, o diâmetro da circunferência circunscrita tem a medida das diagonais do quadrado. Basta construir os diâmetros perpendiculares para encontrar os vértices do quadrado.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/59_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0060.png"/>
   <img src="parte5/apos_dg_0060a.png"/>
