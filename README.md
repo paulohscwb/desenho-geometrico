@@ -4935,9 +4935,128 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0054.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="652" name="sl" checked>
+			   <label for="652"></label>
+			   <img src="parte5/54_01_01.png"/>
+			   <figcaption>No exercício 21, utilizamos os seguintes lugares geométricos: a reta que forma 45&deg; com <b>BC</b> e a Circunf(M<sub>a</sub>,m<sub>a</sub>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="653" name="sl">
+			   <label for="653"></label>
+			   <img src="parte5/54_01_02.png"/>
+			   <figcaption>No exercício 22, começamos construindo o lado <b>AB = c</b>. O lugar geométrico para encontrarmos o pé da altura <b>H<sub>a</sub></b> é o arco capaz de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="654" name="sl">
+			   <label for="654"></label>
+			   <img src="parte5/54_01_03.png"/>
+			   <figcaption>Com o centro no ponto médio <b>M<sub>c</sub></b>, construa o arco capaz de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="655" name="sl">
+			   <label for="655"></label>
+			   <img src="parte5/54_01_04.png"/>
+			   <figcaption>Construa a Circunf(A,h<sub>a</sub>). A reta <b>BH<sub>a</sub></b> é o primeiro lugar geométrico do vértice <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="656" name="sl">
+			   <label for="656"></label>
+			   <img src="parte5/54_01_05.png"/>
+			   <figcaption>Construa a Circunf(A,b). Na interseção desta circunferência com a reta <b>BH<sub>a</sub></b>, temos o ponto <b>C</b>. Escolha uma das soluções.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/54_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0054a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="657" name="sl" checked>
+			   <label for="657"></label>
+			   <img src="parte5/54_02_01.png"/>
+			   <figcaption>Como temos um lado e o ângulo oposto, podemos construir o arco capaz deste ãngulo relativo a este lado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="658" name="sl">
+			   <label for="658"></label>
+			   <img src="parte5/54_02_02.png"/>
+			   <figcaption>Com o centro no ponto <b>M<sub>a</sub></b>, construa o arco capaz de 90&deg;. O centro do arco capaz de 45&deg; está na interseção da mediatriz de <b>BC</b> com o arco capaz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="659" name="sl">
+			   <label for="659"></label>
+			   <img src="parte5/54_02_03.png"/>
+			   <figcaption>Com o centro em <b>O</b>, construa o arco capaz de 45&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="660" name="sl">
+			   <label for="660"></label>
+			   <img src="parte5/54_02_04.png"/>
+			   <figcaption>Podemos aproveitar a mediatriz para construir o segmento para marcar a distância <b>h<sub>a</sub></b> a partir de <b>M<sub>a</sub></b>.   </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="661" name="sl">
+			   <label for="661"></label>
+			   <img src="parte5/54_02_05.png"/>
+			   <figcaption>Construa a reta paralela ao lado <b>BC</b> com a distância <b>h<sub>a</sub></b>. Na interseção desta paralela com o arco capaz de 45&deg;, temos o vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="662" name="sl">
+			   <label for="662"></label>
+			   <img src="parte5/54_02_06.png"/>
+			   <figcaption>O exercício 24 é parecido com o 23, mas temos que encontrar o ponto <b>H<sub>b</sub></b> usando o arco capaz de 90&deg;.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/54_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0054b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Os exercícios 25 e 26 são parecidos com os anteriores. Note que no 25, usamos o arco capaz para encontrar tanto <b>H<sub>b</sub></b> quanto <b>H<sub>c</sub></b>.</p>
+	<img src="parte5/54_03_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0054c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="663" name="sl" checked>
+			   <label for="663"></label>
+			   <img src="parte5/54_04_01.png"/>
+			   <figcaption>No exercício 27, encontramos o pé da altura <b>H<sub>b</sub></b> com o arco capaz de 90&deg; e usamos a Circunf(M<sub>a</sub>,m<sub>a</sub>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="664" name="sl">
+			   <label for="664"></label>
+			   <img src="parte5/54_04_02.png"/>
+			   <figcaption>No exercício 28, vamos imaginar a solução. Se unirmos os pontos médios dos lados, pelo teorema de Tales, estes segmentos terão medidas iguais à metade das medidas dos lados opostos correspondentes. Além disso, estes segmentos são paralelos aos lados correspontentes: <b>M<sub>b</sub>M<sub>c</sub> // BC</b> e <b>M<sub>b</sub>M<sub>a</sub> // AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="665" name="sl">
+			   <label for="665"></label>
+			   <img src="parte5/54_04_03.png"/>
+			   <figcaption>Começando pelo lado <b>BC</b>, vamos encontrar o ponto <b>M<sub>b</sub></b>. Encontre o ponto médio <b>M<sub>a</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="666" name="sl">
+			   <label for="666"></label>
+			   <img src="parte5/54_04_04.png"/>
+			   <figcaption>Como vimos anteriormente, temos que $\mathsf{ M_bM_a = \frac{c}{2} }$ e $\mathsf{ BM_b = m_b }$. Construa as Circunf(B,m<sub>b</sub>) e Circunf(M<sub>a</sub>,M<sub>a</sub>M<sub>b</sub>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="667" name="sl">
+			   <label for="667"></label>
+			   <img src="parte5/54_04_05.png"/>
+			   <figcaption>Construa a Circunf(M<sub>b</sub>,CM<sub>b</sub>) para finalizar o <b>&#9651;ABC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/54_04_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0055.png"/>
   <img src="parte5/apos_dg_0055a.png"/>
