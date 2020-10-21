@@ -6067,7 +6067,7 @@
   <img src="parte5/apos_dg_0063b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Use as propriedades de trapézio retângulo para resolver estes exercícios.</p>
-	<img src="parte5/63_01_00.png"/>
+	<img src="parte5/63_03_00.png"/>
 	<figcaption>Nestes exercícios, as construções começaram com a base maior.</figcaption>
   </details></div>
   <img src="parte5/apos_dg_0063c.png"/>
