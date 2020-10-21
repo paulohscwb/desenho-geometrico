@@ -254,7 +254,7 @@
 	<figcaption>Lembrando que o lado <b>b</b> é o lado <b>AC</b> do triângulo, usamos a circunferência com centro em <b>C</b> e raio <b>b</b>.</figcaption>
   </details></div>
   <img src="parte1/apos_dg_0005b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -721,7 +721,7 @@
 		<img src="parte1/11_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte1/apos_dg_0011b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -1218,7 +1218,7 @@
 	<figcaption>Antes de construir a circunferência, lembre-se de determinar o raio <b>OT</b> por meio de uma perpendicular à reta <b>t</b>.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0014b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0015.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -1658,7 +1658,7 @@
 	<figcaption>Este exercício admite 4 soluções.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0018a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
   <img src="parte2/apos_dg_0018b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Você pode usar a régua e o compasso ou os esquadros e o compasso para resolver este exercício.</p>
@@ -2015,7 +2015,7 @@
 	<figcaption>Basta lembrar da construção que fizemos para transportar ângulos. Lembre-se que os arcos com centros nos vértices devem ter mesma medida de raio.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0020b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.5</span></div>
   <img src="parte2/apos_dg_0020c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
@@ -2590,7 +2590,7 @@
 	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
   </details></div>
   <img src="parte3/apos_dg_0028a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
   <img src="parte3/apos_dg_0028b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O vértice <b>C</b>, oposto de <b>AB</b>, enxerga o segmento segundo ângulo de <b>60&deg;</b>.</p>
@@ -2605,7 +2605,7 @@
 	<figcaption>A construção envolve o arco capaz de <b>30&deg;</b>.</figcaption>
   </details></div>
   <img src="parte3/apos_dg_0029a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -2974,7 +2974,7 @@
 		<img src="parte4/31_03_00.png" class="fundo"/>
   </details></div>
   <img src="parte4/apos_dg_0031c.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0032.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -3403,7 +3403,7 @@
 	<figcaption></figcaption>
   </details></div>
   <img src="parte4/apos_dg_0035a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
   <img src="parte4/apos_dg_0035b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício proposto, utilizamos a Circunferência de Apolônio com a razão $\mathsf{ 1 \over 3 }$.</p>
@@ -3840,7 +3840,7 @@
 	<figcaption>A construção pode ser feita marcando os segmentos como projeções dos catetos sobre a hipotenusa, conforme mostrado, ou então o segmento <b>c</b> "por dentro" do segmento <b>a + b</b>.</figcaption>
   </details></div>
   <img src="parte4/apos_dg_0041b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.5</span></div>
   <img src="parte4/apos_dg_0041c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício proposto, temos a aplicação do conceito de média geométrica além do Teorema de Tales.</p>
@@ -5850,15 +5850,266 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0062.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="774" name="sl" checked>
+			   <label for="774"></label>
+			   <img src="parte5/62_01_01.png"/>
+			   <figcaption>Imaginando o paralelogramo pronto, temos que o segmento <b>BE = p</b> e pelo teorema do ângulo externo temos que o <b>&angsph;CED = 30&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="775" name="sl">
+			   <label for="775"></label>
+			   <img src="parte5/62_01_02.png"/>
+			   <figcaption>Construa o segmento <b>BE = p</b> e a reta que forma 45&deg; com <b>BE</b> e qua passa por <b>E</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="776" name="sl">
+			   <label for="776"></label>
+			   <img src="parte5/62_01_03.png"/>
+			   <figcaption>Construa a Circunf(B,BD) para encontrar na interseção com a reta <b>DE</b> o vértice <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="777" name="sl">
+			   <label for="777"></label>
+			   <img src="parte5/62_01_04.png"/>
+			   <figcaption>Escolha uma das interseções e construa a reta que forma 60&deg; com <b>BE</b> e passa por <b>D</b> ou que forma 30&deg; com <b>DE</b> e passa por <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="778" name="sl">
+			   <label for="778"></label>
+			   <img src="parte5/62_01_05.png"/>
+			   <figcaption>Construa as retas <b>AD // BC</b> e <b>AB // CD</b> para encontrar o vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="779" name="sl">
+			   <label for="779"></label>
+			   <img src="parte5/62_01_06.png"/>
+			   <figcaption>O exercício 21 é parecido com os anteriores.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/62_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0062a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="780" name="sl" checked>
+			   <label for="780"></label>
+			   <img src="parte5/62_02_01.png"/>
+			   <figcaption>Imaginando o trapézio construído, podemos construir um paralelogramo auxiliar da seguinte forma: como temos as medidas das bases, podemos construir a base menor por dentro da maior a partir de um dos vértices, ou seja, <b>AE = CD</b>. Logo, teremos que <b>CE = AD</b> e conseguiremos construir o <b>&#9651;BCE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="781" name="sl">
+			   <label for="781"></label>
+			   <img src="parte5/62_02_02.png"/>
+			   <figcaption>Construa a base maior <b>AB</b> e o segmento <b>AE = CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="782" name="sl">
+			   <label for="782"></label>
+			   <img src="parte5/62_02_03.png"/>
+			   <figcaption>Construa a Circunf(B,BC) e a Circunf(E,AD). A interseção destas circunferências será o vértice <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="783" name="sl">
+			   <label for="783"></label>
+			   <img src="parte5/62_02_04.png"/>
+			   <figcaption>Agora basta construir <b>CD // AB</b> e <b>AD // CE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="784" name="sl">
+			   <label for="784"></label>
+			   <img src="parte5/62_02_05.png"/>
+			   <figcaption>Imaginando que o trapézio do exercício 23 esteja construído, podemos usar a mesma ideia do exercício 22. Porém, como não temos as laterais, podemos construir a base menor no prolongamento da maior: <b>BE = CD</b>. Logo, podemos construir o <b>&#9651;AEC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="785" name="sl">
+			   <label for="785"></label>
+			   <img src="parte5/62_02_06.png"/>
+			   <figcaption>Construa a base maior <b>AB</b> e o segmento <b>BE = CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="786" name="sl">
+			   <label for="786"></label>
+			   <img src="parte5/62_02_07.png"/>
+			   <figcaption>Construa a Circunf(A,AC) e a Circunf(E,BD). A interseção destas circunferências será o vértice <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="787" name="sl">
+			   <label for="787"></label>
+			   <img src="parte5/62_02_08.png"/>
+			   <figcaption>Construa a reta paralela a <b>CE</b> que passa por <b>B</b> e a reta paralela a <b>AB</b> que passa por <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="788" name="sl">
+			   <label for="788"></label>
+			   <img src="parte5/62_02_09.png"/>
+			   <figcaption>A interseção das paralelas determina o vértice <b>D</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/62_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0062b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="789" name="sl" checked>
+			   <label for="789"></label>
+			   <img src="parte5/62_03_01.png"/>
+			   <figcaption>O exercício 24 é parecido com os anteriores, porém, sem a necessidade de construir uma base sobre a outra.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="790" name="sl">
+			   <label for="790"></label>
+			   <img src="parte5/62_03_02.png"/>
+			   <figcaption>Vamos imaginar o exercício 25 resolvido. Como temos a diagonal <b>AC</b> e o ângulo formado entre as diagonais, podemos construir o segmento <b>BE = CD</b> no prolongamento de <b>AB</b>. Logo, o vértice <b>C</b> "enxerga" <b>AE</b> segundo ângulo de 120&deg; e podemos construir o <b>&#9651;ACE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="791" name="sl">
+			   <label for="791"></label>
+			   <img src="parte5/62_03_03.png"/>
+			   <figcaption>Construa a base maior <b>AB</b> e o segmento <b>BE = CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="792" name="sl">
+			   <label for="792"></label>
+			   <img src="parte5/62_03_04.png"/>
+			   <figcaption>Construa o ângulo de segmento de 120&deg; com vértice <b>A</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="793" name="sl">
+			   <label for="793"></label>
+			   <img src="parte5/62_03_05.png"/>
+			   <figcaption>A interseção da mediatriz de <b>AE</b> com a reta perpendicular à reta tangente do ângulo de 120&deg; é o centro do arco capaz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="794" name="sl">
+			   <label for="794"></label>
+			   <img src="parte5/62_03_06.png"/>
+			   <figcaption>Construa o arco capaz de 120&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="795" name="sl">
+			   <label for="795"></label>
+			   <img src="parte5/62_03_07.png"/>
+			   <figcaption>Construa a Circunf(A,AC), encontrando o vértice <b>C</b> na interseção desta circunferência com o arco capaz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="796" name="sl">
+			   <label for="796"></label>
+			   <img src="parte5/62_03_08.png"/>
+			   <figcaption>Construa a reta paralela a <b>CE</b> que passa por <b>B</b> e a reta paralela a <b>AB</b> que passa por <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="797" name="sl">
+			   <label for="797"></label>
+			   <img src="parte5/62_03_09.png"/>
+			   <figcaption>A interseção das paralelas determina o vértice <b>D</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/62_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0063.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Use as propriedades de trapézio isósceles para resolver estes exercícios.</p>
+	<img src="parte5/63_01_00.png"/>
+	<figcaption>A mediatriz das bases funciona como eixo de simetria nestes trapézios.</figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0063a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="798" name="sl" checked>
+			   <label for="798"></label>
+			   <img src="parte5/63_02_01.png"/>
+			   <figcaption>Construa a circunferência circunscrita e escolha uma posição para o vértice <b>A</b> nesta circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="799" name="sl">
+			   <label for="799"></label>
+			   <img src="parte5/63_02_02.png"/>
+			   <figcaption>Construa a Circunf(A,AB), determinando o vértice <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="800" name="sl">
+			   <label for="800"></label>
+			   <img src="parte5/63_02_03.png"/>
+			   <figcaption>Construa a reta <b>OM &perp; AB</b>, que é a mediatriz das bases.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="801" name="sl">
+			   <label for="801"></label>
+			   <img src="parte5/63_02_04.png"/>
+			   <figcaption>Construa a Circunf(M,CD/2), determinando os vértices auxiliares <b>C'</b> e <b>D'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="802" name="sl">
+			   <label for="802"></label>
+			   <img src="parte5/63_02_05.png"/>
+			   <figcaption>Construa as retas <b>DD' // OM</b> e <b>CC' // OM</b>, encontrando os vértices <b>C</b> e <b>D</b> na circunferência circunscrita.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="803" name="sl">
+			   <label for="803"></label>
+			   <img src="parte5/63_02_06.png"/>
+			   <figcaption>Escolha uma das soluções.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/63_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0063b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Use as propriedades de trapézio retângulo para resolver estes exercícios.</p>
+	<img src="parte5/63_01_00.png"/>
+	<figcaption>Nestes exercícios, as construções começaram com a base maior.</figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0063c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="804" name="sl" checked>
+			   <label for="804"></label>
+			   <img src="parte5/63_04_01.png"/>
+			   <figcaption>Construa a base <b>AB</b> e a reta perpendicular a <b>AB</b> que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="805" name="sl">
+			   <label for="805"></label>
+			   <img src="parte5/63_04_02.png"/>
+			   <figcaption>Construa o segmento <b>AD = h</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="806" name="sl">
+			   <label for="806"></label>
+			   <img src="parte5/63_04_03.png"/>
+			   <figcaption>Construa o segmento <b>DE = s = BC + AD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="807" name="sl">
+			   <label for="807"></label>
+			   <img src="parte5/63_04_04.png"/>
+			   <figcaption>Como vimos anteriormente nos triângulos, quando marcamos a soma de segmentos, temos um triângulo isósceles determinado. Logo, podemos construir a mediatriz de <b>BE</b> para encontrar o vértice <b>C</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="808" name="sl">
+			   <label for="808"></label>
+			   <img src="parte5/63_04_05.png"/>
+			   <figcaption>Pronto! O trapézio retângulo está construído.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/63_04_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0064.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
 </details>
 
