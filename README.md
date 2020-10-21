@@ -5567,7 +5567,7 @@
   </details></div>
   <img src="parte5/apos_dg_0059b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="737" name="sl" checked>
@@ -5579,7 +5579,7 @@
 			   <input type="radio" id="738" name="sl">
 			   <label for="738"></label>
 			   <img src="parte5/59_03_02.png"/>
-			   <figcaption>Construa o diâmetro <b>T<sub>2</sub>T<sub>3</sub> &perp; T<sub>1</sub>T<sub>2</sub></b>.</figcaption>
+			   <figcaption>Construa o diâmetro <b>T<sub>3</sub>T<sub>4</sub> &perp; T<sub>1</sub>T<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="739" name="sl">
@@ -5597,7 +5597,7 @@
 			   <input type="radio" id="741" name="sl">
 			   <label for="741"></label>
 			   <img src="parte5/59_03_05.png"/>
-			   <figcaption>E para finalizar o quadrado, construa a reta <b>DT<sub>1</sub> // T<sub>3</sub>T<sub>4</sub></b>.</figcaption>
+			   <figcaption>E para finalizar o quadrado, construa a reta <b>DT<sub>2</sub> // T<sub>3</sub>T<sub>4</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="742" name="sl">
@@ -5610,14 +5610,244 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0060.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="743" name="sl" checked>
+			   <label for="743"></label>
+			   <img src="parte5/60_01_01.png"/>
+			   <figcaption>Vamos construir o lado <b>AB</b>, conhecendo-se o segmento áureo de <b>AB</b>. Construa o segmento <b>PQ = x</b> e sua mediatriz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="744" name="sl">
+			   <label for="744"></label>
+			   <img src="parte5/60_01_02.png"/>
+			   <figcaption>Construa a reta perpendicular a <b>PQ</b> em <b>Q</b> e a Circunferência com raio igual à metade de <b>x</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="745" name="sl">
+			   <label for="745"></label>
+			   <img src="parte5/60_01_03.png"/>
+			   <figcaption>No prolongamento de <b>PR</b>, construa o segmento <b>RS</b> com a metade da medida de <b>x</b>. O segmento <b>PS</b> tem a medida do lado <b>AB</b> procurado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="746" name="sl">
+			   <label for="746"></label>
+			   <img src="parte5/60_01_04.png"/>
+			   <figcaption>Você pode construir o quadrado usando a posição de <b>PS</b>, ou transportar a medida <b>AB = PS</b> ao lado, usando o compasso.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="747" name="sl">
+			   <label for="747"></label>
+			   <img src="parte5/60_01_05.png"/>
+			   <figcaption>Construa a reta perpendicular ao lado <b>AB</b> que passa por <b>A</b> e marque nesta perpendicular o segmento <b>AD = AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="748" name="sl">
+			   <label for="748"></label>
+			   <img src="parte5/60_01_06.png"/>
+			   <figcaption>Construa a reta <b>CD // AB</b> e a reta <b>BC // AD</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/60_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0060a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Estes exercícios são parecidos com os anteriores.</p>
+	<img src="parte5/60_02_00.png"/>
+	<figcaption>Note que no exercício 7, temos a diagonal construída com a Circunf(A,d).</figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0060b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="749" name="sl" checked>
+			   <label for="749"></label>
+			   <img src="parte5/60_03_01.png"/>
+			   <figcaption>Vamos construir a diagonal <b>AC = d</b> e sua mediatriz, encontrando o ponto <b>M</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="750" name="sl">
+			   <label for="750"></label>
+			   <img src="parte5/60_03_02.png"/>
+			   <figcaption>Construa a reta que forma 60&deg; com <b>AC</b> e passa por <b>M</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="751" name="sl">
+			   <label for="751"></label>
+			   <img src="parte5/60_03_03.png"/>
+			   <figcaption>Construa a Circunf(M,MC) para encontrar os vértices <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="752" name="sl">
+			   <label for="752"></label>
+			   <img src="parte5/60_03_04.png"/>
+			   <figcaption>Pronto! O retângulo está construído.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="753" name="sl">
+			   <label for="753"></label>
+			   <img src="parte5/60_03_05.png"/>
+			   <figcaption>Vamos imaginar o retângulo do exercício 9 construído. Se marcarmos o lado <b>CD</b> no prolongamento de <b>AD</b>, temos que o segmento <b>CE</b> formará 45&deg; com <b>AE</b> e <b>AE = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="754" name="sl">
+			   <label for="754"></label>
+			   <img src="parte5/60_03_06.png"/>
+			   <figcaption>Construa o segmento <b>AE = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="755" name="sl">
+			   <label for="755"></label>
+			   <img src="parte5/60_03_07.png"/>
+			   <figcaption>Construa a reta que forma 45&deg; com <b>AE</b> a partir de <b>E</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="756" name="sl">
+			   <label for="756"></label>
+			   <img src="parte5/60_03_08.png"/>
+			   <figcaption>Construa a Circunf(A,d), encontrando o vértice <b>C</b> na reta que forma 45&deg; com <b>AE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="757" name="sl">
+			   <label for="757"></label>
+			   <img src="parte5/60_03_09.png"/>
+			   <figcaption>Escolha uma das interseções e construa a reta perpendicular a <b>AD</b> que passa por <b>C</b>, encontrando o vértice <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="758" name="sl">
+			   <label for="758"></label>
+			   <img src="parte5/60_03_10.png"/>
+			   <figcaption>Construa as retas <b>BC // AD</b> e <b>AB // CD</b>, fechando o retângulo.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/60_03_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0060c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="759" name="sl" checked>
+			   <label for="759"></label>
+			   <img src="parte5/60_04_01.png"/>
+			   <figcaption>O exercício 10 é parecido com o anterior. Note que neste caso a solução será um quadrado, caso particular de um retângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="760" name="sl">
+			   <label for="760"></label>
+			   <img src="parte5/60_04_02.png"/>
+			   <figcaption>No exercício 11, construa o semi-perímetro <b>AE = p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="761" name="sl">
+			   <label for="761"></label>
+			   <img src="parte5/60_04_03.png"/>
+			   <figcaption>Vamos usar a construção de média geométrica. Como temos a medida <b>m</b>, construa a reta perpendicular a <b>AE</b> que passa por <b>A</b> e faça <b>AP = m</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="762" name="sl">
+			   <label for="762"></label>
+			   <img src="parte5/60_04_04.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg; em <b>AE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="763" name="sl">
+			   <label for="763"></label>
+			   <img src="parte5/60_04_05.png"/>
+			   <figcaption>Construa a reta <b>PQ // AE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="764" name="sl">
+			   <label for="764"></label>
+			   <img src="parte5/60_04_06.png"/>
+			   <figcaption>Escolha uma das interseções, e faça <b>QD &perp; AE</b>. Esta é a construção que vimos de média geométrica. Logo, o ponto <b>D</b> será vertice do retângulo, determinando os lados <b>AD</b> e <b>DE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="765" name="sl">
+			   <label for="765"></label>
+			   <img src="parte5/60_04_07.png"/>
+			   <figcaption>Construa a Circunf(D,DE) para determinar o vértice <b>C &isin; QD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="766" name="sl">
+			   <label for="766"></label>
+			   <img src="parte5/60_04_08.png"/>
+			   <figcaption>Agora basta construir a reta <b>BC // AD</b> para finalizar o retângulo.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/60_04_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0061.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Estes exercícios são parecidos com os anteriores.</p>
+	<img src="parte5/61_01_00.png"/>
+	<figcaption>Agora temos os exercícios de losango. Note que precisamos construir os 4 lados com mesma medida. As diagonais do losango são perpendiculares.</figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0061a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="767" name="sl" checked>
+			   <label for="767"></label>
+			   <img src="parte5/61_02_01.png"/>
+			   <figcaption>O exercício 14 é parecido com os anteriores.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="768" name="sl">
+			   <label for="768"></label>
+			   <img src="parte5/61_02_02.png"/>
+			   <figcaption>Imagine que o losango do exercício 15 está resolvido. Se construirmos a metade da soma das diagonais, teremos <b>ME = BM</b> no prolongamento de <b>AM</b>. Como as diagonais são perpendiculares, temos que o <b>&angsph;MEB = 45&deg;</b>. Logo, podemos construir o <b>&#9651;AEB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="769" name="sl">
+			   <label for="769"></label>
+			   <img src="parte5/61_02_03.png"/>
+			   <figcaption>Construa o segmento <b>AE</b> com medida igual à metade da soma das diagonais e a reta que forma 45&deg; com <b>AE</b> a partir de <b>E</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="770" name="sl">
+			   <label for="770"></label>
+			   <img src="parte5/61_02_04.png"/>
+			   <figcaption>Construa a Circunf(A,AB) para determinar o vertice <b>B</b> na reta <b>BE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="771" name="sl">
+			   <label for="771"></label>
+			   <img src="parte5/61_02_05.png"/>
+			   <figcaption>Construa a reta <b>BD &perp; AE</b>. Como os lados do losango são iguais, a perpendicular intercepta a Circunf(A,AB) no vértice <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="772" name="sl">
+			   <label for="772"></label>
+			   <img src="parte5/61_02_06.png"/>
+			   <figcaption>Construa a Circunf(B,AB) para encontrar o vértice <b>C</b> no prolongamento de <b>AE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="773" name="sl">
+			   <label for="773"></label>
+			   <img src="parte5/61_02_07.png"/>
+			   <figcaption>Pronto! O losango está construído.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/61_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0061b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Estes exercícios são parecidos com os anteriores.</p>
+	<img src="parte5/61_03_00.png"/>
+	<figcaption>Agora temos os exercícios de paralelogramos. Note que precisamos construir os lados opostos iguais.</figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0061c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Estes exercícios são parecidos com os anteriores.</p>
+	<img src="parte5/61_04_00.png"/>
+	<figcaption>Podemos usar a propriedade de que as diagonais dos paralelogramos interceptam-se em seus respectivos pontos médios.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0062.png"/>
   <img src="parte5/apos_dg_0062a.png"/>
