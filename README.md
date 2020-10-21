@@ -5102,7 +5102,7 @@
 			   <input type="radio" id="674" name="sl">
 			   <label for="674"></label>
 			   <img src="parte5/55_01_07.png"/>
-			   <figcaption>Construa as $\mathsf{ Circunf(G, \frac{2}{3} m_b) }$ e $\mathsf{ Circunf(G', \frac{2}{3} m_c }$. Na interseção destas circunferências, encontramos o vértice <b>B</b>.</figcaption>
+			   <figcaption>Construa as $\mathsf{ Circunf(G, \frac{2}{3} m_b) }$ e $\mathsf{ Circunf(G', \frac{2}{3} m_c) }$. Na interseção destas circunferências, encontramos o vértice <b>B</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="675" name="sl">
@@ -5163,7 +5163,7 @@
 			   <input type="radio" id="683" name="sl" checked>
 			   <label for="683"></label>
 			   <img src="parte5/55_02_06.png"/>
-			   <figcaption>A distância do baricentro ao vértice <b>A</b> é de $\mathsf{  \frac{2}{3} m_a) }$. Logo, construa a $\mathsf{ Circunf(G, \frac{2}{3} m_a) }$. Onde esta circunferência interceptar o arco capaz, temos o vértice <b>A</b>.</figcaption>
+			   <figcaption>A distância do baricentro ao vértice <b>A</b> é de $\mathsf{  \frac{2}{3} m_a }$. Logo, construa a $\mathsf{ Circunf(G, \frac{2}{3} m_a) }$. Onde esta circunferência interceptar o arco capaz, temos o vértice <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="684" name="sl">
@@ -5273,12 +5273,196 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0056.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="700" name="sl" checked>
+			   <label for="700"></label>
+			   <img src="parte5/56_01_01.png"/>
+			   <figcaption>Vamos imaginar o triângulo construído. Como temos a altura <b>H<sub>b</sub></b>, vamos imaginar que a soma dos lados <b>b + c</b> está construída a partir de <b>C</b>. Logo, teremos o <b>&#9651;ABD</b> isósceles de base <b>BD</b>, pois <b>BA = AD</b>. Para encontrar o vértice <b>A</b>, vamos construir a mediatriz de <b>BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701" name="sl">
+			   <label for="701"></label>
+			   <img src="parte5/56_01_02.png"/>
+			   <figcaption>Vamos começar pelo lado <b>a = BC</b> e o arco capaz de 90&deg; para fixar o pé da altura <b>H<sub>b</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702" name="sl">
+			   <label for="702"></label>
+			   <img src="parte5/56_01_03.png"/>
+			   <figcaption>Construa a Circunf(B,h<sub>b</b>), determinando o ponto <b>H<sub>b</sub></b> na interseção com o arco capaz de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="703" name="sl">
+			   <label for="703"></label>
+			   <img src="parte5/56_01_04.png"/>
+			   <figcaption>Unindo os pontos <b>H<sub>b</sub></b> e <b>C</b>, podemos construir a Circunf(C,b + c), encontrando o ponto <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704" name="sl">
+			   <label for="704"></label>
+			   <img src="parte5/56_01_05.png"/>
+			   <figcaption>Agora podemos construir a mediatriz de <b>BD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705" name="sl" checked>
+			   <label for="705"></label>
+			   <img src="parte5/56_01_06.png"/>
+			   <figcaption>Na interseção da mediatriz de <b>BD</b> com a reta <b>CD</b>, temos o vértice <b>A</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/56_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0056a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Este exercício é parecido com o anterior.</p>
+	<img src="parte5/56_02_00.png"/>
+	<figcaption>Note que a soma <b>a + b</b> foi construída na reta suporte do ângulo dado de 60&deg;.</figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0056b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="706" name="sl" checked>
+			   <label for="706"></label>
+			   <img src="parte5/56_03_01.png"/>
+			   <figcaption>Vamos imaginar o triângulo construído. Como temos o ângulo <b>Â = 75&deg;</b>, vamos imaginar que a diferença dos lados <b>a - c</b> está construída a partir de <b>A</b>. Logo, teremos o <b>&#9651;BCD</b> isósceles de base <b>CD</b>, pois <b>BC = BD</b>. Para encontrar o vértice <b>B</b>, vamos construir a mediatriz de <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="707" name="sl">
+			   <label for="707"></label>
+			   <img src="parte5/56_03_02.png"/>
+			   <figcaption>Construa o segmento <b>AC = b</b>. Com os esquadros ou régua e compasso, faça a construção do ângulo de 75&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="708" name="sl">
+			   <label for="708"></label>
+			   <img src="parte5/56_03_03.png"/>
+			   <figcaption>Na reta suporte do lado <b>AB</b>, construa a Circunf(A,a &minus; c), encontrando o ponto <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="709" name="sl">
+			   <label for="709"></label>
+			   <img src="parte5/56_03_04.png"/>
+			   <figcaption>Construa a mediatriz de <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="710" name="sl">
+			   <label for="710"></label>
+			   <img src="parte5/56_03_05.png"/>
+			   <figcaption>O vértice <b>B</b> está na interseção da mediatriz com a reta <b>AD</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/56_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0057.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Este exercício é parecido com o anterior.</p>
+	<img src="parte5/57_01_00.png"/>
+	<figcaption>Note que diferença <b>b &minus; c</b> foi construída na reta suporte do ângulo dado de 45&deg;.</figcaption>
+  </details></div>
   <img src="parte5/apos_dg_0057a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="711" name="sl" checked>
+			   <label for="711"></label>
+			   <img src="parte5/57_02_01.png"/>
+			   <figcaption>Vamos imaginar o triângulo construído. Se marcarmos as medidas dos lados <b>AB</b> e <b>AC</b> nos prolongamentos de <b>BC</b>, temos os <b>&#9651;ABD</b> e <b>&#9651;ECA</b> que são isósceles de bases <b>AD</b> e <b>AE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="712" name="sl" checked>
+			   <label for="712"></label>
+			   <img src="parte5/57_02_01.png"/>
+			   <figcaption>De acordo com o teorema do ângulo externo, temos que $\mathsf{ \alpha = \frac{B}{2}) }$ e $\mathsf{ \beta = \frac{C}{2}) }$. Portanto, podemos construir o <b>&#9651;ADE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="713" name="sl">
+			   <label for="713"></label>
+			   <img src="parte5/57_02_02.png"/>
+			   <figcaption>Construa o segmento <b>DE = 2p</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="714" name="sl">
+			   <label for="714"></label>
+			   <img src="parte5/57_02_03.png"/>
+			   <figcaption>No vértice <b>D</b>, construa o ângulo de 75&deg;...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="715" name="sl">
+			   <label for="715"></label>
+			   <img src="parte5/57_02_04.png"/>
+			   <figcaption>... e no vértice <b>E</b>, construa o ângulo de 45&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="716" name="sl">
+			   <label for="716"></label>
+			   <img src="parte5/57_02_05.png"/>
+			   <figcaption>Construa a bissetriz do ângulo de 75&deg;...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="717" name="sl">
+			   <label for="717"></label>
+			   <img src="parte5/57_02_06.png"/>
+			   <figcaption>... e a bissetriz do ângulo de 45&deg;, determinando o vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="718" name="sl">
+			   <label for="718"></label>
+			   <img src="parte5/57_02_07.png"/>
+			   <figcaption>Agora basta construir a paralela a <b>s</b> que passa por <b>A</b>, encontrando <b>B</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="719" name="sl">
+			   <label for="719"></label>
+			   <img src="parte5/57_02_08.png"/>
+			   <figcaption>... e a paralela a <b>r</b> que passa por <b>A</b>, encontrando o vértice <b>C</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/57_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte5/apos_dg_0057b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="720" name="sl" checked>
+			   <label for="720"></label>
+			   <img src="parte5/57_03_01.png"/>
+			   <figcaption>Construindo uma diagonal de um quadrilátero, temos 2 triângulos. Logo, a soma dos ângulos internos do quadrilátero será 360&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="721" name="sl">
+			   <label for="721"></label>
+			   <img src="parte5/57_03_02.png"/>
+			   <figcaption>Quando os 4 vértices pertencem a uma circunferência, o quadrilátero é chamado de inscritível.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="722" name="sl">
+			   <label for="722"></label>
+			   <img src="parte5/57_03_03.png"/>
+			   <figcaption>Provamos esta propriedades no conteúdo de arco capaz. Usamos os ângulos inscritos e centrais correspondentes, chegando à relação de que <b>&alpha; + &beta; = 180&deg;</b> e <b>&gamma; + &delta; = 180&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="723" name="sl">
+			   <label for="723"></label>
+			   <img src="parte5/57_03_04.png"/>
+			   <figcaption>Quando os lados do quadrilátero são tangentes a uma circunferência, ele é chamado de circunscritível.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="724" name="sl">
+			   <label for="724"></label>
+			   <img src="parte5/57_03_05.png"/>
+			   <figcaption>De acordo com a propriedade de potência de ponto, temos que <b>AT<sub>1</sub> = AT<sub>4</sub></b>, <b>BT<sub>1</sub> = BT<sub>2</sub></b>, <b>CT<sub>2</sub> = CT<sub>3</sub></b> e <b>DT<sub>3</sub> = DT<sub>4</sub></b>. Substituindo estas medidas na soma de dois lados opostos, temos a relação de que as somas dos lados opostos de quadriláteros circunscritíveis são iguais.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte5/57_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0058.png"/>
   <img src="parte5/apos_dg_0058a.png"/>
