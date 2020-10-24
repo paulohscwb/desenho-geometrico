@@ -6109,7 +6109,7 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0064.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.1</span></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -6119,30 +6119,336 @@
   <img src="parte6/apos_dg_0065.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0066.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="809" name="sl" checked>
+			   <label for="809"></label>
+			   <img src="parte6/66_01_01.png"/>
+			   <figcaption>Utilizando o centro, podemos construir o raio <b>CT</b>, e a reta tangente será a reta <b>t &perp; CT</b> que passa pelo ponto <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="810" name="sl">
+			   <label for="810"></label>
+			   <img src="parte6/66_01_02.png"/>
+			   <figcaption>Sem utilizar o centro, podemos construir um segmento <b>AB</b>, tal que <b>TA = TB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="810" name="sl">
+			   <label for="810"></label>
+			   <img src="parte6/66_01_03.png"/>
+			   <figcaption>Temos então o <b>&#9651;TAB</b> isósceles de base <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="811" name="sl">
+			   <label for="811"></label>
+			   <img src="parte6/66_01_04.png"/>
+			   <figcaption>A reta <b>AB</b> será paralela à reta tangente. Construa a reta <b>t // AB</b> com os esquadros ou com régua e compasso.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/66_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte6/apos_dg_0066a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="812" name="sl" checked>
+			   <label for="812"></label>
+			   <img src="parte6/66_02_01.png"/>
+			   <figcaption>Utilizando o centro, podemos construir a reta <b>r &perp; s</b> que passa pelo ponto <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="813" name="sl">
+			   <label for="813"></label>
+			   <img src="parte6/66_02_02.png"/>
+			   <figcaption>Os pontos de tangência <b>T</b> e <b>T'</b> são determinados pela interseção da reta <b>r</b> com a circunferência. Construa as retas <b>t</b> e <b>t'</b> paralelas à reta <b>s</b> que passam pelos pontos <b>T</b> e <b>T'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="814" name="sl">
+			   <label for="814"></label>
+			   <img src="parte6/66_02_03.png"/>
+			   <figcaption>Sem utilizar o centro, podemos construir uma reta paralela à reta <b>s</b>, que determina os pontos <b>A</b> e <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="815" name="sl">
+			   <label for="815"></label>
+			   <img src="parte6/66_02_04.png"/>
+			   <figcaption>Construa a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="816" name="sl">
+			   <label for="816"></label>
+			   <img src="parte6/66_02_04.png"/>
+			   <figcaption>Os pontos de tangência <b>T</b> e <b>T'</b> estão na interseção da mediatriz de <b>AB</b> com a circunferência. Construa as retas <b>t</b> e <b>t'</b> paralelas à reta <b>s</b> que passam por <b>T</b> e <b>T'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/66_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte6/apos_dg_0066b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="817" name="sl" checked>
+			   <label for="817"></label>
+			   <img src="parte6/66_03_01.png"/>
+			   <figcaption>Vamos começar transportando o ângulo <b>&alpha;</b>. Construa um arco com centro no vértice do ângulo...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="818" name="sl">
+			   <label for="818"></label>
+			   <img src="parte6/66_03_02.png"/>
+			   <figcaption>Escolha um ponto <b>A &isin; s</b> e faça a construção do ângulo <b>&alpha;</b> com vértice <b>A</b>. Podemos escolher uma das retas <b>r</b> ou <b>r'</b> para construir as retas tangentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="819" name="sl">
+			   <label for="819"></label>
+			   <img src="parte6/66_03_03.png"/>
+			   <figcaption>Construa a reta perpendicular a <b>r</b> que passa por <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="820" name="sl">
+			   <label for="820"></label>
+			   <img src="parte6/66_03_04.png"/>
+			   <figcaption>Na interseção da reta perpendicular com a circunferência, encontramos os pontos de tangência <b>T</b> e <b>T'</b>. Construa as retas paralelas a <b>r</b> que passam por <b>T</b> e <b>T'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/66_03_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte6/apos_dg_0066c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="821" name="sl" checked>
+			   <label for="821"></label>
+			   <img src="parte6/66_04_01.png"/>
+			   <figcaption>Vamos construir o arco capaz de 90&deg; em <b>PC</b>, pois o ponto de tangência "enxerga" <b>PC</b> segundo ângulo reto.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="822" name="sl">
+			   <label for="822"></label>
+			   <img src="parte6/66_04_02.png"/>
+			   <figcaption>Com centro no ponto médio <b>M</b>, construa a circunferência com raio <b>MC = MP</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="823" name="sl">
+			   <label for="823"></label>
+			   <img src="parte6/66_04_03.png"/>
+			   <figcaption>Na interseção do arco capaz de 90&deg; com a circunferência, temos os pontos de tangência. Determine as retas <b>PT</b> e <b>PT'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/66_04_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0067.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="824" name="sl" checked>
+			   <label for="824"></label>
+			   <img src="parte6/67_01_01.png"/>
+			   <figcaption>Vamos imaginar uma reta tangente exterior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Se reduzirmos os raios das circunferências até <b>&beta;</b> tornar-se um ponto, a circunferência <b>&alpha;</b> será contraída, ou seja, torna-se uma circunferência com raio <b>a &minus; b</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="824a" name="sl" checked>
+			   <label for="824a"></label>
+			   <img src="parte6/67_01_01.png"/>
+			   <figcaption>Logo, podemos construir a reta <b>t<sub>1</sub></b> tangente a <b>&alpha;'</b> que passa por <b>B</b>; depois, basta construir a reta <b>t</b> paralela a <b>t<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="825" name="sl">
+			   <label for="825"></label>
+			   <img src="parte6/67_01_02.png"/>
+			   <figcaption>Vamos começar "pegando" com o compasso a medida <b>b</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="826" name="sl">
+			   <label for="826"></label>
+			   <img src="parte6/67_01_03.png"/>
+			   <figcaption>... e construindo o segmento com medida <b>b</b> a partir de uma extremidade de um raio da circunferência <b>&alpha;</b>. Logo, podemos construir <b>&alpha;'(A,a &minus; b)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="827" name="sl">
+			   <label for="827"></label>
+			   <img src="parte6/67_01_04.png"/>
+			   <figcaption>Construa a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="828" name="sl">
+			   <label for="828"></label>
+			   <img src="parte6/67_01_05.png"/>
+			   <figcaption>O arco capaz de 90&deg; determina os pontos <b>T<sub>1</sub></b> e <b>T'<sub>1</sub></b> e as retas tangentes a <b>&alpha;'</b> que passam por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="829" name="sl">
+			   <label for="829"></label>
+			   <img src="parte6/67_01_06.png"/>
+			   <figcaption>Para encontrar os pontos de tangência <b>T</b> e <b>T'</b>, basta prolongar os segmentos <b>AT<sub>1</sub></b> e <b>AT'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="830" name="sl">
+			   <label for="830"></label>
+			   <img src="parte6/67_01_07.png"/>
+			   <figcaption>Construa as retas <b>t // t<sub>1</sub></b> e <b>t' // t'<sub>1</sub></b> que passam pelos pontos <b>T<sub>1</sub></b> e <b>T'<sub>1</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/67_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte6/apos_dg_0067a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="831" name="sl" checked>
+			   <label for="831"></label>
+			   <img src="parte6/67_02_01.png"/>
+			   <figcaption>Vamos imaginar uma reta tangente interior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Se aumentaros o raio da circunferência <b>&alpha;</b> e diminuirmos o raio de <b>&beta;</b> até tornar-se um ponto, a circunferência <b>&alpha;</b> será dilatada, ou seja, torna-se uma circunferência com raio <b>a + b</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="832" name="sl" checked>
+			   <label for="832"></label>
+			   <img src="parte6/67_02_01.png"/>
+			   <figcaption>Logo, podemos construir a reta <b>t<sub>1</sub></b> tangente a <b>&alpha;'</b> que passa por <b>B</b>; depois, basta construir a reta <b>t</b> paralela a <b>t<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="833" name="sl">
+			   <label for="833"></label>
+			   <img src="parte6/67_02_02.png"/>
+			   <figcaption>Vamos começar "pegando" com o compasso a medida <b>b</b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="834" name="sl">
+			   <label for="834"></label>
+			   <img src="parte6/67_02_03.png"/>
+			   <figcaption>... e construindo o segmento com medida <b>b</b> a partir de uma extremidade de um raio da circunferência <b>&alpha;</b>. Logo, podemos construir <b>&alpha;'(A,a + b)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="835" name="sl">
+			   <label for="835"></label>
+			   <img src="parte6/67_02_04.png"/>
+			   <figcaption>Construa a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="836" name="sl">
+			   <label for="836"></label>
+			   <img src="parte6/67_02_05.png"/>
+			   <figcaption>O arco capaz de 90&deg; determina os pontos <b>T<sub>1</sub></b> e <b>T'<sub>1</sub></b> e as retas tangentes a <b>&alpha;'</b> que passam por <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="837" name="sl">
+			   <label for="837"></label>
+			   <img src="parte6/67_02_06.png"/>
+			   <figcaption>Para encontrar os pontos de tangência <b>T</b> e <b>T'</b>, basta determinar os segmentos <b>AT<sub>1</sub></b> e <b>AT'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="838" name="sl">
+			   <label for="838"></label>
+			   <img src="parte6/67_02_07.png"/>
+			   <figcaption>Construa as retas <b>t // t<sub>1</sub></b> e <b>t' // t'<sub>1</sub></b> que passam pelos pontos <b>T<sub>1</sub></b> e <b>T'<sub>1</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/67_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte6/apos_dg_0067b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Para construir as tangentes exteriores, basta determinar as retas paralelas a <b>AB</b> com distância igual ao raio <b>a = b</b>.</p>
+	<img src="parte6/67_03_00.png"/>
+	<figcaption>As tangentes interiores passam pelo ponto médio de <b>AB</b>. Os pontos <b>T</b> e <b>T'</b> são encontrados com o arco capaz de 90&deg; em <b>AM</b>.</figcaption>
+  </details></div>
+  <img src="parte6/apos_dg_0067c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="831" name="sl" checked>
+			   <label for="831"></label>
+			   <img src="parte6/67_02_01.png"/>
+			   <figcaption>Vamos imaginar uma reta tangente exterior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Os raios raios <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> são paralelos e determinam os <b>&#9651;AT<sub>1</sub>H ~ &#9651;BT<sub>2</sub>H</b>. O ponto <b>H</b> é chamado de centro de semelhança ou de homotetia.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="833" name="sl">
+			   <label for="833"></label>
+			   <img src="parte6/67_02_02.png"/>
+			   <figcaption>Vamos encontrar o centro de homotetia. Prolongue o segmento <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="834" name="sl">
+			   <label for="834"></label>
+			   <img src="parte6/67_02_03.png"/>
+			   <figcaption>Determine os raios paralelos <b>a</b> e <b>b</b>, ambos no mesmo semi-plano definido pela reta <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="835" name="sl">
+			   <label for="835"></label>
+			   <img src="parte6/67_02_04.png"/>
+			   <figcaption>Unindo as extremidades dos raios paralelos, encontramos o centro de homotetia <b>H</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="836" name="sl">
+			   <label for="836"></label>
+			   <img src="parte6/67_02_05.png"/>
+			   <figcaption>Agora basta construir o arco capaz de 90&deg; em <b>AH</b> ou <b>BH</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="837" name="sl">
+			   <label for="837"></label>
+			   <img src="parte6/67_02_06.png"/>
+			   <figcaption>Unindo os pontos de tangência <b>T</b> e <b>T'</b> com o centro de homotetia <b>H</b>, encontramos as retas tangentes às circunferências <b>&alpha;</b> e <b>&beta;</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/67_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0068.png"/>
+  <img src="parte6/apos_dg_0068a.png"/>
+  <img src="parte6/apos_dg_0068b.png"/>
+  <img src="parte6/apos_dg_0068c.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0069.png"/>
+  <img src="parte6/apos_dg_0069a.png"/>
+  <img src="parte6/apos_dg_0069b.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0070.png"/>
+  <img src="parte6/apos_dg_0070a.png"/>
+  <img src="parte6/apos_dg_0070b.png"/>
+  <img src="parte6/apos_dg_0070c.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0071.png"/>
+  <img src="parte6/apos_dg_0071a.png"/>
+  <img src="parte6/apos_dg_0071b.png"/>
+  <img src="parte6/apos_dg_0071c.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0072.png"/>
+  <img src="parte6/apos_dg_0072a.png"/>
+  <img src="parte6/apos_dg_0072b.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0073.png"/>
+  <img src="parte6/apos_dg_0073a.png"/>
+  <img src="parte6/apos_dg_0073b.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0074.png"/>
+  <img src="parte6/apos_dg_0074a.png"/>
+  <img src="parte6/apos_dg_0074b.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0075.png"/>
+  <img src="parte6/apos_dg_0075a.png"/>
+  <img src="parte6/apos_dg_0075b.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0076.png"/>
+  <img src="parte6/apos_dg_0076a.png"/>
+  <img src="parte6/apos_dg_0076b.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0077.png"/>
+  <img src="parte6/apos_dg_0077a.png"/>
+  <img src="parte6/apos_dg_0077b.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0078.png"/>
+  <img src="parte6/apos_dg_0078a.png"/>
+  <img src="parte6/apos_dg_0078b.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
 </details>
 
