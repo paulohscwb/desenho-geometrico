@@ -6129,8 +6129,8 @@
 			   <figcaption>Utilizando o centro, podemos construir o raio <b>CT</b>, e a reta tangente será a reta <b>t &perp; CT</b> que passa pelo ponto <b>T</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="810" name="sl">
-			   <label for="810"></label>
+			   <input type="radio" id="810a" name="sl">
+			   <label for="810a"></label>
 			   <img src="parte6/66_01_02.png"/>
 			   <figcaption>Sem utilizar o centro, podemos construir um segmento <b>AB</b>, tal que <b>TA = TB</b>.</figcaption>
 		   </li>
@@ -6364,43 +6364,43 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="831" name="sl" checked>
-			   <label for="831"></label>
-			   <img src="parte6/67_02_01.png"/>
+			   <input type="radio" id="839" name="sl" checked>
+			   <label for="839"></label>
+			   <img src="parte6/67_04_01.png"/>
 			   <figcaption>Vamos imaginar uma reta tangente exterior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Os raios raios <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> são paralelos e determinam os <b>&#9651;AT<sub>1</sub>H ~ &#9651;BT<sub>2</sub>H</b>. O ponto <b>H</b> é chamado de centro de semelhança ou de homotetia.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="833" name="sl">
-			   <label for="833"></label>
-			   <img src="parte6/67_02_02.png"/>
+			   <input type="radio" id="840" name="sl">
+			   <label for="840"></label>
+			   <img src="parte6/67_04_02.png"/>
 			   <figcaption>Vamos encontrar o centro de homotetia. Prolongue o segmento <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="834" name="sl">
-			   <label for="834"></label>
-			   <img src="parte6/67_02_03.png"/>
+			   <input type="radio" id="841" name="sl">
+			   <label for="841"></label>
+			   <img src="parte6/67_04_03.png"/>
 			   <figcaption>Determine os raios paralelos <b>a</b> e <b>b</b>, ambos no mesmo semi-plano definido pela reta <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="835" name="sl">
-			   <label for="835"></label>
-			   <img src="parte6/67_02_04.png"/>
+			   <input type="radio" id="842" name="sl">
+			   <label for="842"></label>
+			   <img src="parte6/67_04_04.png"/>
 			   <figcaption>Unindo as extremidades dos raios paralelos, encontramos o centro de homotetia <b>H</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="836" name="sl">
-			   <label for="836"></label>
-			   <img src="parte6/67_02_05.png"/>
+			   <input type="radio" id="843" name="sl">
+			   <label for="843"></label>
+			   <img src="parte6/67_04_05.png"/>
 			   <figcaption>Agora basta construir o arco capaz de 90&deg; em <b>AH</b> ou <b>BH</b>. </figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="837" name="sl">
-			   <label for="837"></label>
-			   <img src="parte6/67_02_06.png"/>
+			   <input type="radio" id="844" name="sl">
+			   <label for="844"></label>
+			   <img src="parte6/67_04_06.png"/>
 			   <figcaption>Unindo os pontos de tangência <b>T</b> e <b>T'</b> com o centro de homotetia <b>H</b>, encontramos as retas tangentes às circunferências <b>&alpha;</b> e <b>&beta;</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte6/67_02_00.png" class="fundo"/>
+		<img src="parte6/67_04_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0068.png"/>
