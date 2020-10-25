@@ -6884,12 +6884,153 @@
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.8</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0074.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício usamos as bissetrizes dos ângulos formados entre as retas.</p>
+	<img src="parte6/74_01_00.png"/>
+	<figcaption>Você pode construir apenas uma bissetriz <b>b<sub>1</sub></b>: a bissetriz <b>b<sub>2</sub> &perp; b<sub>1</sub></b>. Como as retas <b>r</b> e <b>s</b> são paralelas, temos que <b>b<sub>3</sub>// b<sub>1</sub></b> e <b>b<sub>4</sub> // b<sub>2</sub></b>.</figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0074a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="905" name="sl" checked>
+			   <label for="905"></label>
+			   <img src="parte6/74_02_01.png"/>
+			   <figcaption>Como a circunferência é tangente à reta <b>t</b> em <b>T</b>, construa a reta perpendicular a reta <b>t</b> pelo ponto <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="906" name="sl">
+			   <label for="906"></label>
+			   <img src="parte6/74_02_02.png"/>
+			   <figcaption>Construa a reta <b>AB &perp; t</b> que passa pelo centro <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="907" name="sl">
+			   <label for="907"></label>
+			   <img src="parte6/74_02_03.png"/>
+			   <figcaption>No prolongamento do segmento <b>TA</b>, encontramos o ponto de tangência <b>T<sub>1</sub></b> da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="908" name="sl" checked>
+			   <label for="908"></label>
+			   <img src="parte6/74_02_04.png"/>
+			   <figcaption>Unindo os pontos <b>C</b> e <b>T<sub>1</sub></b>, encontramos o centro <b>O<sub>1</sub></b> na reta perpendicular que construímos. Esta construção usa o fato de que <b>&#9651;O<sub>1</sub>TT<sub>1</sub> ~ &#9651;CAT<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="909" name="sl">
+			   <label for="909"></label>
+			   <img src="parte6/74_02_05.png"/>
+			   <figcaption>Usando o mesmo raciocínio, unimos os pontos <b>B</b> e <b>T</b>, determinando o ponto de tangência <b>T<sub>2</sub></b> na circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="910" name="sl">
+			   <label for="910"></label>
+			   <img src="parte6/74_02_05.png"/>
+			   <figcaption>Unindo os pontos <b>C</b> e <b>T<sub>2</sub></b>, encontramos o centro <b>O<sub>2</sub></b> na reta perpendicular que construímos. Esta construção usa a propriedade que <b>&#9651;O<sub>2</sub>TT<sub>2</sub> ~ &#9651;CBT<sub>2</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/74_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0074b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="911" name="sl" checked>
+			   <label for="911"></label>
+			   <img src="parte6/74_03_01.png"/>
+			   <figcaption>Vamos usar propriedades parecidas com as que usamos no exercício anterior. Construa a reta <b>AB &perp; t</b> que passa pelo centro <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="912" name="sl">
+			   <label for="912"></label>
+			   <img src="parte6/74_03_02.png"/>
+			   <figcaption>No prolongamento do segmento <b>TA</b>, encontramos o ponto de tangência <b>T<sub>1</sub></b> da reta <b>t</b>. Construa a reta perpendicular a <b>t</b> que passa por <b>T<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="913" name="sl">
+			   <label for="913"></label>
+			   <img src="parte6/74_03_03.png"/>
+			   <figcaption>Unindo os pontos <b>C</b> e <b>T</b>, encontramos o centro <b>O<sub>1</sub></b> na reta perpendicular que construímos. Esta construção usa o fato de que <b>&#9651;O<sub>1</sub>TT<sub>1</sub> ~ &#9651;CTA</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="914" name="sl" checked>
+			   <label for="914"></label>
+			   <img src="parte6/74_03_04.png"/>
+			   <figcaption>Usando o mesmo raciocínio, unimos os pontos <b>B</b> e <b>T</b>, determinando o ponto de tangência <b>T<sub>2</sub></b> na reta <b>t</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="915" name="sl">
+			   <label for="915"></label>
+			   <img src="parte6/74_03_05.png"/>
+			   <figcaption>Construa a reta perpendicular a <b>t</b> que passa por <b>T<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="916" name="sl">
+			   <label for="916"></label>
+			   <img src="parte6/74_03_05.png"/>
+			   <figcaption>Unindo os pontos <b>C</b> e <b>T</b>, encontramos o centro <b>O<sub>2</sub></b> na reta perpendicular que construímos. Esta construção usa a propriedade que <b>&#9651;O<sub>2</sub>TT<sub>2</sub> ~ &#9651;CTB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/74_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0075.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="917" name="sl" checked>
+			   <label for="917"></label>
+			   <img src="parte6/75_01_01.png"/>
+			   <figcaption>Vamos usar propriedades parecidas com as que usamos nos exercícios anteriores. Construa a reta <b>t &perp; CT</b>. Logo, podemos construir a circunferência tangente à Circunf(D,n) e tangente à reta <b>t</b> em <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="918" name="sl">
+			   <label for="918"></label>
+			   <img src="parte6/75_01_02.png"/>
+			   <figcaption>Construa a reta <b>AB &perp; t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="919" name="sl">
+			   <label for="919"></label>
+			   <img src="parte6/75_01_03.png"/>
+			   <figcaption>No prolongamento de <b>TA</b>, encontramos o ponto de tangência <b>T<sub>1</sub></b> da Circunf(D,n).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="920" name="sl" checked>
+			   <label for="920"></label>
+			   <img src="parte6/75_01_04.png"/>
+			   <figcaption>Unindo os pontos <b>D</b> e <b>T<sub>1</sub></b>, encontramos o centro <b>O<sub>1</sub></b> na reta <b>CT</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="921" name="sl">
+			   <label for="921"></label>
+			   <img src="parte6/75_01_05.png"/>
+			   <figcaption>Unindo os pontos <b>B</b> e <b>T<sub>2</sub></b>, encontramos o ponto de tangência <b>T<sub>2</sub></b> da Circunf(D,n).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="922" name="sl">
+			   <label for="922"></label>
+			   <img src="parte6/75_01_05.png"/>
+			   <figcaption>Unindo os pontos <b>D</b> e <b>T<sub>2</sub></b>, encontramos o centro <b>O<sub>2</sub></b> na reta <b>CT</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/75_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0075a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício usamos as propriedades dos exercícios 1 e 2.</p>
+	<img src="parte6/75_02_00.png"/>
+	<figcaption>Começamos construindo um dos segmentos com 5cm. Note que os centros dos arcos devem estar na reta perpendicular aos segmentos de 5cm.</figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0075b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício usamos as propriedades dos exercícios 1, 2 e 22.</p>
+	<img src="parte6/75_03_00.png"/>
+	<figcaption>De acordo com a propriedade usada no exercício 22, o centro <b>O</b> está na interseção dos segmentos <b>PQ</b> e <b>OT</b>.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0076.png"/>
   <img src="parte6/apos_dg_0076a.png"/>
