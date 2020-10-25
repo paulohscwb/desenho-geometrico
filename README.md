@@ -6367,7 +6367,7 @@
 			   <input type="radio" id="839" name="sl" checked>
 			   <label for="839"></label>
 			   <img src="parte6/67_04_01.png"/>
-			   <figcaption>Vamos imaginar uma reta tangente exterior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Os raios raios <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> são paralelos e determinam os <b>&#9651;AT<sub>1</sub>H ~ &#9651;BT<sub>2</sub>H</b>. O ponto <b>H</b> é chamado de centro de semelhança ou de homotetia.</figcaption>
+			   <figcaption>Vamos imaginar uma reta tangente exterior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Os raios <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> são paralelos e determinam os <b>&#9651;AT<sub>1</sub>H ~ &#9651;BT<sub>2</sub>H</b>. O ponto <b>H</b> é chamado de centro de semelhança ou de homotetia.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="840" name="sl">
@@ -6404,15 +6404,80 @@
   </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0068.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="845" name="sl" checked>
+			   <label for="845"></label>
+			   <img src="parte6/68_01_01.png"/>
+			   <figcaption>Vamos imaginar uma reta tangente interior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Os raios <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> são paralelos e determinam os <b>&#9651;AT<sub>1</sub>I ~ &#9651;BT<sub>2</sub>I</b>. O ponto <b>I</b> é chamado de centro de semelhança ou de homotetia.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="846" name="sl">
+			   <label for="846"></label>
+			   <img src="parte6/68_01_02.png"/>
+			   <figcaption>Vamos encontrar o centro de homotetia. Construa o segmento <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="847" name="sl">
+			   <label for="847"></label>
+			   <img src="parte6/68_01_03.png"/>
+			   <figcaption>Determine os raios paralelos <b>a</b> e <b>b</b>, um em cada  semi-plano definido pela reta <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="848" name="sl">
+			   <label for="848"></label>
+			   <img src="parte6/68_01_04.png"/>
+			   <figcaption>Unindo as extremidades dos raios paralelos, encontramos o centro de homotetia <b>I</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="849" name="sl">
+			   <label for="849"></label>
+			   <img src="parte6/68_01_05.png"/>
+			   <figcaption>Agora basta construir o arco capaz de 90&deg; em <b>AI</b> ou <b>BI</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="850" name="sl">
+			   <label for="850"></label>
+			   <img src="parte6/68_01_06.png"/>
+			   <figcaption>Unindo os pontos de tangência <b>T</b> e <b>T'</b> com o centro de homotetia <b>I</b>, encontramos as retas tangentes às circunferências <b>&alpha;</b> e <b>&beta;</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/68_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0068a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, temos a aplicação da propriedade que o raio é perpendicular à reta tangente no ponto de tangência.</p>
+	<img src="parte6/68_02_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0068b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, temos a aplicação da propriedade que os centros e o ponto de tangência de duas circunferências tangentes estão alinhados.</p>
+	<img src="parte6/68_03_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0068c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Lembre-se de construir a reta perpendicular a <b>t</b> pelo ponto <b>T</b> neste exercício.</p>
+	<img src="parte6/68_03_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0069.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, prolongue o segmento <b>CT</b> para encontrar o centro da solução externa.</p>
+	<img src="parte6/69_01_00.png"/>
+	<figcaption>O centro da solução interna pertence ao segmento <b>CT</b></figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0069a.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
   <img src="parte6/apos_dg_0069b.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0070.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
   <img src="parte6/apos_dg_0070a.png"/>
   <img src="parte6/apos_dg_0070b.png"/>
   <img src="parte6/apos_dg_0070c.png"/>
