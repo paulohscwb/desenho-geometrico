@@ -73,7 +73,7 @@
 			   <input type="radio" id="007" name="sl">
 			   <label for="007"></label>
 			   <img src="parte1/02_02_03.png"/>
-			   <figcaption>Como o ponto <b>X</b> está na reta <b>t</b>, teremos duas soluções para este problema, encontradas na interseção da <b>Circunf(P,d)</b> com a reta <b>t</b>. Se a <b>Circunf(P,d)</b> não interceptar a reta <b>t</b>, não temos solução. No caso em que a <b>Circunf(P,d)</b> for tangente à reta <b>t</b>, teremos apenas 1 solução.</figcaption>
+			   <figcaption>Como o ponto <b>X</b> está na reta <b>t</b>, teremos duas soluções para este problema, encontradas na interseção da <b>Circunf(P,d)</b> com a reta <b>t</b>. Se a <b>Circunf(P,d)</b> não intercectar a reta <b>t</b>, não temos solução. No caso em que a <b>Circunf(P,d)</b> for tangente à reta <b>t</b>, teremos apenas 1 solução.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte1/02_02_00.png" class="fundo"/>
@@ -205,7 +205,7 @@
 			   <input type="radio" id="026" name="sl">
 			   <label for="026"></label>
 			   <img src="parte1/04_01_04.png"/>
-			   <figcaption>Com o mesmo raio, construímos a <b>Circunf(B,r)</b>, que é o segundo lugar geométrico de <b>O</b>. Teremos duas soluções: <b>O</b> e <b>O'</b>. Se as circunferências ficarem tangentes, temos apenas 1 solução; e no caso em que as circunferências não se interceptam, não temos solução.</figcaption>
+			   <figcaption>Com o mesmo raio, construímos a <b>Circunf(B,r)</b>, que é o segundo lugar geométrico de <b>O</b>. Teremos duas soluções: <b>O</b> e <b>O'</b>. Se as circunferências ficarem tangentes, temos apenas 1 solução; e no caso em que as circunferências não se intercectam, não temos solução.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="027" name="sl">
@@ -430,7 +430,7 @@
 			   <input type="radio" id="054" name="sl">
 			   <label for="054"></label>
 			   <img src="parte1/07_03_04.png"/>
-			   <figcaption>Como o vértice <b>A</b> pertence à circunferência <b>&lambda;</b>, as interseções de <b>&lambda;</b> com a <b>med<sub>BC</sub></b> definem os vértices do triângulo isósceles. Teremos 2 soluções para este problema, pois a mediatriz intercepta a circunferência em 2 pontos.</figcaption>
+			   <figcaption>Como o vértice <b>A</b> pertence à circunferência <b>&lambda;</b>, as interseções de <b>&lambda;</b> com a <b>med<sub>BC</sub></b> definem os vértices do triângulo isósceles. Teremos 2 soluções para este problema, pois a mediatriz intercecta a circunferência em 2 pontos.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="055" name="sl">
@@ -755,7 +755,7 @@
 			   <input type="radio" id="092" name="sl" checked>
 			   <label for="092"></label>
 			   <img src="parte2/12_02_01.png"/>
-			   <figcaption>Vamos usar a ideia de mediatriz para a primeira construção. Primeiro, vamos construir a reta perpendicular a <b>t</b> que passa por <b>P</b>. Com centro em <b>P</b>, construa o arco que intercepta <b>t</b> nos pontos <b>A</b> e <b>B</b>.</figcaption>
+			   <figcaption>Vamos usar a ideia de mediatriz para a primeira construção. Primeiro, vamos construir a reta perpendicular a <b>t</b> que passa por <b>P</b>. Com centro em <b>P</b>, construa o arco que intercecta <b>t</b> nos pontos <b>A</b> e <b>B</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="093" name="sl">
@@ -852,7 +852,7 @@
 			   <input type="radio" id="107" name="sl">
 			   <label for="107"></label>
 			   <img src="parte2/12_03_03.png"/>
-			   <figcaption>Este arco deve formar uma semi-circunferência, interceptando <b>t</b> em <b>B</b> e <b>C</b>.</figcaption>
+			   <figcaption>Este arco deve formar uma semi-circunferência, intercectando <b>t</b> em <b>B</b> e <b>C</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="108" name="sl">
@@ -1090,7 +1090,7 @@
 			   <input type="radio" id="143" name="sl">
 			   <label for="143"></label>
 			   <img src="parte2/13_02_09.png"/>
-			   <figcaption>Com a mesma medida, construimos o arco com centro em <b>H</b>, interceptando o primeiro arco que construimos com centro em <b>F</b> no ponto <b>I</b>. A reta <b>FI</b> é paralela à reta <b>t</b></figcaption>
+			   <figcaption>Com a mesma medida, construimos o arco com centro em <b>H</b>, intercectando o primeiro arco que construimos com centro em <b>F</b> no ponto <b>I</b>. A reta <b>FI</b> é paralela à reta <b>t</b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="144" name="sl">
@@ -1102,7 +1102,7 @@
 			   <input type="radio" id="145" name="sl">
 			   <label for="145"></label>
 			   <img src="parte2/13_02_11.png"/>
-			   <figcaption>Este é o segundo lugar geométrico do centro da circunferência tangente: uma circunferência com centro em A e raio <b>r</b>. Esta circunferência intercepta a reta <b>u // t</b> nos pontos <b>O</b> e <b>O'</b>.</figcaption>
+			   <figcaption>Este é o segundo lugar geométrico do centro da circunferência tangente: uma circunferência com centro em A e raio <b>r</b>. Esta circunferência intercecta a reta <b>u // t</b> nos pontos <b>O</b> e <b>O'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="146" name="sl">
@@ -1679,7 +1679,7 @@
 			   <input type="radio" id="223" name="sl">
 			   <label for="223"></label>
 			   <img src="parte2/18_03_03.png"/>
-			   <figcaption>Defina o arco com centro em <b>A</b>, que intercepta <b>u</b> e <b>t</b> em <b>C</b> e <b>D</b>.</figcaption>
+			   <figcaption>Defina o arco com centro em <b>A</b>, que intercecta <b>u</b> e <b>t</b> em <b>C</b> e <b>D</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="224" name="sl">
@@ -1905,7 +1905,7 @@
 			   <input type="radio" id="256" name="sl" checked>
 			   <label for="256"></label>
 			   <img src="parte2/19_03_11.png"/>
-			   <figcaption>Escolha um ponto <b>L</b> da reta, e construa um arco com raio qualquer, interceptando a reta em <b>M</b>.</figcaption>
+			   <figcaption>Escolha um ponto <b>L</b> da reta, e construa um arco com raio qualquer, intercectando a reta em <b>M</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="257" name="sl">
@@ -2187,7 +2187,7 @@
 			   <input type="radio" id="289" name="sl">
 			   <label for="289"></label>
 			   <img src="parte3/23_01_02.png"/>
-			   <figcaption>Neste caso, <b>AB</b> será a corda do ângulo inscrito <b>&angsph;APB</b>. Vamos transportá-lo na extermidade <b>A</b> da corda. Com centro em <b>P</b> e um raio <b>PC</b> qualquer, determine o arco que intercepta <b>PB</b> em <b>D</b>.</figcaption>
+			   <figcaption>Neste caso, <b>AB</b> será a corda do ângulo inscrito <b>&angsph;APB</b>. Vamos transportá-lo na extermidade <b>A</b> da corda. Com centro em <b>P</b> e um raio <b>PC</b> qualquer, determine o arco que intercecta <b>PB</b> em <b>D</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="290" name="sl" checked>
@@ -2620,13 +2620,13 @@
 			   <input type="radio" id="340" name="sl" checked>
 			   <label for="340"></label>
 			   <img src="parte4/30_01_01.png"/>
-			   <figcaption>Considere as retas paralelas <b>a</b>, <b>b</b> e <b>c</b> que interceptam a reta <b>r</b> nos pontos <b>A</b>, <b>B</b> e <b>C</b>, respectivamente. </figcaption>
+			   <figcaption>Considere as retas paralelas <b>a</b>, <b>b</b> e <b>c</b> que intercectam a reta <b>r</b> nos pontos <b>A</b>, <b>B</b> e <b>C</b>, respectivamente. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="341" name="sl">
 			   <label for="341"></label>
 			   <img src="parte4/30_01_02.png"/>
-			   <figcaption>Considere a reta <b>s</b>, que intercepta o feixe de paralelas <b>a</b>, <b>b</b> e <b>c</b> nos pontos <b>A'</b>, <b>B'</b> e <b>C'</b>, respectivamente.</figcaption>
+			   <figcaption>Considere a reta <b>s</b>, que intercecta o feixe de paralelas <b>a</b>, <b>b</b> e <b>c</b> nos pontos <b>A'</b>, <b>B'</b> e <b>C'</b>, respectivamente.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="342" name="sl">
@@ -4013,7 +4013,7 @@
 			   <input type="radio" id="526" name="sl">
 			   <label for="526"></label>
 			   <img src="parte4/44_01_05.png"/>
-			   <figcaption>Com o compasso centrado em <b>C</b>, construa o arco com raio <b>AC</b> até interceptar o prolongamento de <b>BC</b>.</figcaption>
+			   <figcaption>Com o compasso centrado em <b>C</b>, construa o arco com raio <b>AC</b> até intercectar o prolongamento de <b>BC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="527" name="sl">
@@ -4707,7 +4707,7 @@
 			   <input type="radio" id="620" name="sl">
 			   <label for="620"></label>
 			   <img src="parte5/52_02_04.png"/>
-			   <figcaption>Construa a reta que passa por <b>P</b> e <b>O</b>, interceptando a circunferência em <b>Q</b> e <b>R</b>. Por potência de ponto, temos que $\mathsf{ PT^2 = PQ \cdot PR }$, ou seja, $\mathsf{ c^2 = PT^2 = PQ \cdot (PQ + m) }$. </figcaption>
+			   <figcaption>Construa a reta que passa por <b>P</b> e <b>O</b>, intercectando a circunferência em <b>Q</b> e <b>R</b>. Por potência de ponto, temos que $\mathsf{ PT^2 = PQ \cdot PR }$, ou seja, $\mathsf{ c^2 = PT^2 = PQ \cdot (PQ + m) }$. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="620a" name="sl">
@@ -4725,7 +4725,7 @@
 			   <input type="radio" id="622" name="sl">
 			   <label for="622"></label>
 			   <img src="parte5/52_02_06.png"/>
-			   <figcaption>Construa a Circunf(P,c), que intercepta a reta perpendicular em <b>A</b>.</figcaption>
+			   <figcaption>Construa a Circunf(P,c), que intercecta a reta perpendicular em <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="623" name="sl">
@@ -5066,7 +5066,7 @@
 			   <input type="radio" id="668" name="sl" checked>
 			   <label for="668"></label>
 			   <img src="parte5/55_01_01.png"/>
-			   <figcaption>Vamos construir o triângulo auxiliar com as medidas <b>G'M<sub>a</sub> = GM<sub>a</sub></b>. Logo, temos um paralelogramo <b>BGCG'</b>, pois as diagonais interceptam-se em seus pontos médios. Portanto, $\mathsf{ GG' = \frac{2}{3} m_a }$, $\mathsf{ BG = \frac{2}{3} m_b }$ e $\mathsf{ BG' = \frac{2}{3} m_c }$.</figcaption>
+			   <figcaption>Vamos construir o triângulo auxiliar com as medidas <b>G'M<sub>a</sub> = GM<sub>a</sub></b>. Logo, temos um paralelogramo <b>BGCG'</b>, pois as diagonais intercectam-se em seus pontos médios. Portanto, $\mathsf{ GG' = \frac{2}{3} m_a }$, $\mathsf{ BG = \frac{2}{3} m_b }$ e $\mathsf{ BG' = \frac{2}{3} m_c }$.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="669" name="sl">
@@ -5163,7 +5163,7 @@
 			   <input type="radio" id="683" name="sl" checked>
 			   <label for="683"></label>
 			   <img src="parte5/55_02_06.png"/>
-			   <figcaption>A distância do baricentro ao vértice <b>A</b> é de $\mathsf{  \frac{2}{3} m_a }$. Logo, construa a $\mathsf{ Circunf(G, \frac{2}{3} m_a) }$. Onde esta circunferência interceptar o arco capaz, temos o vértice <b>A</b>.</figcaption>
+			   <figcaption>A distância do baricentro ao vértice <b>A</b> é de $\mathsf{  \frac{2}{3} m_a }$. Logo, construa a $\mathsf{ Circunf(G, \frac{2}{3} m_a) }$. Onde esta circunferência intercectar o arco capaz, temos o vértice <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="684" name="sl">
@@ -5819,7 +5819,7 @@
 			   <input type="radio" id="771" name="sl">
 			   <label for="771"></label>
 			   <img src="parte5/61_02_05.png"/>
-			   <figcaption>Construa a reta <b>BD &perp; AE</b>. Como os lados do losango são iguais, a perpendicular intercepta a Circunf(A,AB) no vértice <b>D</b>.</figcaption>
+			   <figcaption>Construa a reta <b>BD &perp; AE</b>. Como os lados do losango são iguais, a perpendicular intercecta a Circunf(A,AB) no vértice <b>D</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="772" name="sl">
@@ -5846,7 +5846,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Estes exercícios são parecidos com os anteriores.</p>
 	<img src="parte5/61_04_00.png"/>
-	<figcaption>Podemos usar a propriedade de que as diagonais dos paralelogramos interceptam-se em seus respectivos pontos médios.</figcaption>
+	<figcaption>Podemos usar a propriedade de que as diagonais dos paralelogramos intercectam-se em seus respectivos pontos médios.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0062.png"/>
@@ -6479,13 +6479,232 @@
   <img src="parte6/apos_dg_0070.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
   <img src="parte6/apos_dg_0070a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="851" name="sl" checked>
+			   <label for="851"></label>
+			   <img src="parte6/70_02_01.png"/>
+			   <figcaption>Vamos prolongar o segmento <b>CT</b>, pois o centro da circunferência tangente está alinhado com <b>C</b> e <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="852" name="sl">
+			   <label for="852"></label>
+			   <img src="parte6/70_02_02.png"/>
+			   <figcaption>Como a circunferência passa pelo ponto <b>P</b>, o centro pertence à mediatriz de <b>TP</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="853" name="sl">
+			   <label for="853"></label>
+			   <img src="parte6/70_02_03.png"/>
+			   <figcaption>Com centro em <b>O</b> e raio <b>OT = OP</b>, construa a circunferência tangente à Circunf(C,m).</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/70_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0070b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="854" name="sl" checked>
+			   <label for="854"></label>
+			   <img src="parte6/70_03_01.png"/>
+			   <figcaption>Construa a reta perpendicular a <b>t</b> pelo ponto <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="855" name="sl">
+			   <label for="855"></label>
+			   <img src="parte6/70_03_02.png"/>
+			   <figcaption>Como a circunferência passa pelo ponto <b>P</b>, o centro pertence à mediatriz de <b>TP</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="856" name="sl">
+			   <label for="856"></label>
+			   <img src="parte6/70_03_03.png"/>
+			   <figcaption>Com centro em <b>O</b> e raio <b>OT = OP</b>, construa a circunferência tangente à reta <b>t</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/70_03_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0070c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="857" name="sl" checked>
+			   <label for="857"></label>
+			   <img src="parte6/70_04_01.png"/>
+			   <figcaption>Construa a reta perpendicular a <b>s</b> pelo ponto <b>T</b>, encontrando o ponto <b>P &isin; r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="858" name="sl">
+			   <label for="858"></label>
+			   <img src="parte6/70_04_02.png"/>
+			   <figcaption>Como <b>r // s</b>, <b>P</b> também será ponto de tangência. Logo, o centro da circunferência pertence à mediatriz de <b>TP</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="859" name="sl">
+			   <label for="859"></label>
+			   <img src="parte6/70_04_03.png"/>
+			   <figcaption>Construa a Circunf(O,OP).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="860" name="sl" checked>
+			   <label for="860"></label>
+			   <img src="parte6/70_04_04.png"/>
+			   <figcaption>No item 14.2, construa a reta perpendicular a <b>s</b> pelo ponto <b>T</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="861" name="sl">
+			   <label for="861"></label>
+			   <img src="parte6/70_04_05.png"/>
+			   <figcaption>Como a circunferência é tangente a <b>r</b> e <b>s</b>, seu centro pertence à bissetriz do ângulo formado entre estas retas. Escolha um dos ângulos para construir a bissetriz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="862" name="sl">
+			   <label for="862"></label>
+			   <img src="parte6/70_04_06.png"/>
+			   <figcaption>Construa a perpendicular à bissetriz construída.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="863" name="sl">
+			   <label for="863"></label>
+			   <img src="parte6/70_04_07.png"/>
+			   <figcaption>As interseções das bissetrizes com a reta perpendicular a <b>s</b> determinam os centros <b>O</b> e <b>O'</b>. Construa as circunferências com raios <b>OT</b> e <b>OT'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/70_04_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0071.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="864" name="sl" checked>
+			   <label for="864"></label>
+			   <img src="parte6/71_01_01.png"/>
+			   <figcaption>Escolha um ponto <b>A</b> qualquer da circunferência, e "pegue" com o compasso a medida do raio <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="865" name="sl">
+			   <label for="865"></label>
+			   <img src="parte6/71_01_02.png"/>
+			   <figcaption>No prolongamento de <b>CA</b>, construa o segmento <b>AB = r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="866" name="sl">
+			   <label for="866"></label>
+			   <img src="parte6/71_01_03.png"/>
+			   <figcaption>Como a circunferência é tangente à Circunf(C,m), o centro da circunferência tangente pertence à Circunf(C,m + r).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="867" name="sl" checked>
+			   <label for="867"></label>
+			   <img src="parte6/71_01_04.png"/>
+			   <figcaption>Como a circunferência tangente passa pelo ponto <b>P</b>, o seu centro pertence à Circunf(P,r).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="868" name="sl">
+			   <label for="868"></label>
+			   <img src="parte6/71_01_05.png"/>
+			   <figcaption>Construa as circunferências com centros e <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/71_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0071a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="869" name="sl" checked>
+			   <label for="869"></label>
+			   <img src="parte6/71_02_01.png"/>
+			   <figcaption>Escolha um ponto <b>A</b> qualquer da reta <b>s</b>, e construa a reta perpendicular a <b>s</b>. "Pegue" com o compasso a medida do raio <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="870" name="sl">
+			   <label for="870"></label>
+			   <img src="parte6/71_02_02.png"/>
+			   <figcaption>Na reta perpendicular a <b>s</b>, construa o segmento <b>AB = r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="871" name="sl">
+			   <label for="871"></label>
+			   <img src="parte6/71_02_03.png"/>
+			   <figcaption>Construa a reta paralela a <b>s</b> que passa por <b>B</b>, lugar geométrico do centro da circunferência tangente a <b>s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="872" name="sl" checked>
+			   <label for="872"></label>
+			   <img src="parte6/71_02_04.png"/>
+			   <figcaption>Como a circunferência tangente passa pelo ponto <b>P</b>, o seu centro pertence à Circunf(P,r).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="873" name="sl">
+			   <label for="873"></label>
+			   <img src="parte6/71_02_05.png"/>
+		</ul>
+		<img src="parte6/71_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0071b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Este exercício é parecido com os anteriores.</p>
+	<img src="parte6/71_03_00.png"/>
+	<figcaption>Construa as retas <b>s<sub>1</sub> // s</b> e <b>s<sub>2</sub> // s</b> com distância <b>r</b>. Os centros das circunferências tangentes pertencem às bissetrizes dos ângulos formados entre <b>s</b> e <b>t</b>.</figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0071c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="874" name="sl" checked>
+			   <label for="874"></label>
+			   <img src="parte6/71_04_01.png"/>
+			   <figcaption>Escolha um ponto <b>A</b> qualquer da reta <b>t</b>, e construa a reta perpendicular a <b>t</b>. "Pegue" com o compasso a medida do raio <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="875" name="sl">
+			   <label for="875"></label>
+			   <img src="parte6/71_04_02.png"/>
+			   <figcaption>Na reta perpendicular a <b>t</b>, construa o segmento <b>AB = r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="876" name="sl">
+			   <label for="876"></label>
+			   <img src="parte6/71_04_03.png"/>
+			   <figcaption>Construa a reta <b>s // t</b> que passa por <b>B</b>, lugar geométrico do centro da circunferência tangente a <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="877" name="sl" checked>
+			   <label for="877"></label>
+			   <img src="parte6/71_04_04.png"/>
+			   <figcaption>Como a circunferência é tangente à Circunf(C,m), o seu centro pertence à Circunf(C,m + r). Construa um raio <b>CD</b> qualquer.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="878" name="sl">
+			   <label for="878"></label>
+			   <img src="parte6/71_4_05.png"/>
+			   <figcaption>No prolongamento de <b>CD</b>, construa o segmento <b>DE = r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="879" name="sl" checked>
+			   <label for="879"></label>
+			   <img src="parte6/71_04_06.png"/>
+			   <figcaption>Construa a Circunf(C,m + r).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="880" name="sl">
+			   <label for="880"></label>
+			   <img src="parte6/71_04_07.png"/>
+			   <figcaption>Construa as circunferências com centros em <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/71_04_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0072.png"/>
   <img src="parte6/apos_dg_0072a.png"/>
