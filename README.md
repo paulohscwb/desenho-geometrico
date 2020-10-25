@@ -5060,7 +5060,7 @@
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0055.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício. Temos apenas as medidas das 3 medianas, então vamos construir um triângulo auxiliar.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Temos apenas as medidas das 3 medianas, então vamos construir um triângulo auxiliar.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="668" name="sl" checked>
@@ -5127,7 +5127,7 @@
   </details></div>
   <img src="parte5/apos_dg_0055a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="678" name="sl" checked>
@@ -5212,7 +5212,7 @@
   </details></div>
   <img src="parte5/apos_dg_0055b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="691" name="sl" checked>
@@ -5274,7 +5274,7 @@
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0056.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="700" name="sl" checked>
@@ -5323,7 +5323,7 @@
   </details></div>
   <img src="parte5/apos_dg_0056b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="706" name="sl" checked>
@@ -5367,7 +5367,7 @@
   </details></div>
   <img src="parte5/apos_dg_0057a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="711" name="sl" checked>
@@ -5611,7 +5611,7 @@
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0060.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="743" name="sl" checked>
@@ -6023,7 +6023,7 @@
   </details></div>
   <img src="parte5/apos_dg_0063a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="798" name="sl" checked>
@@ -6072,7 +6072,7 @@
   </details></div>
   <img src="parte5/apos_dg_0063c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="804" name="sl" checked>
@@ -6120,7 +6120,7 @@
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0066.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="809" name="sl" checked>
@@ -6151,7 +6151,7 @@
   </details></div>
   <img src="parte6/apos_dg_0066a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="812" name="sl" checked>
@@ -6188,7 +6188,7 @@
   </details></div>
   <img src="parte6/apos_dg_0066b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="817" name="sl" checked>
@@ -6219,7 +6219,7 @@
   </details></div>
   <img src="parte6/apos_dg_0066c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="821" name="sl" checked>
@@ -6245,7 +6245,7 @@
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0067.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="824" name="sl" checked>
@@ -6300,7 +6300,7 @@
   </details></div>
   <img src="parte6/apos_dg_0067a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="831" name="sl" checked>
@@ -6361,7 +6361,7 @@
   </details></div>
   <img src="parte6/apos_dg_0067c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="839" name="sl" checked>
@@ -6405,7 +6405,7 @@
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0068.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="845" name="sl" checked>
@@ -6480,7 +6480,7 @@
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
   <img src="parte6/apos_dg_0070a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="851" name="sl" checked>
@@ -6505,7 +6505,7 @@
   </details></div>
   <img src="parte6/apos_dg_0070b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="854" name="sl" checked>
@@ -6530,7 +6530,7 @@
   </details></div>
   <img src="parte6/apos_dg_0070c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="857" name="sl" checked>
@@ -6580,7 +6580,7 @@
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0071.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="864" name="sl" checked>
@@ -6617,7 +6617,7 @@
   </details></div>
   <img src="parte6/apos_dg_0071a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="869" name="sl" checked>
@@ -6660,7 +6660,7 @@
   </details></div>
   <img src="parte6/apos_dg_0071c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste  exercício.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="874" name="sl" checked>
@@ -6709,12 +6709,179 @@
   </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0072.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="881" name="sl" checked>
+			   <label for="881"></label>
+			   <img src="parte6/72_01_01.png"/>
+			   <figcaption>Escolha um ponto <b>A</b> qualquer da Circunf(A,m), e construa o segmento <b>AB = r</b> no prolongamento de <b>CA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="882" name="sl">
+			   <label for="882"></label>
+			   <img src="parte6/72_01_02.png"/>
+			   <figcaption>Escolha um ponto <b>E</b> qualquer da Circunf(D,n), e construa o segmento <b>EF = r</b> no prolongamento de <b>DE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="883" name="sl">
+			   <label for="883"></label>
+			   <img src="parte6/72_01_03.png"/>
+			   <figcaption>Como a circunferência é tangente à Circunf(C,m), o seu centro pertence à Circunf(C,m + r).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="884" name="sl" checked>
+			   <label for="884"></label>
+			   <img src="parte6/72_01_04.png"/>
+			   <figcaption>Como a circunferência é tangente à Circunf(D,n), o seu centro pertence à Circunf(D,n + r).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="885" name="sl">
+			   <label for="885"></label>
+			   <img src="parte6/72_01_05.png"/>
+			   <figcaption>Os centros estão na interseção da Circunf(C,m + r) com a Circunf(D,n + r). Construa as circunferências com centros em <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/72_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0072a.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.4</span></div>
   <img src="parte6/apos_dg_0072b.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.5</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0073.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.6</span></div>
   <img src="parte6/apos_dg_0073a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.4: 1&ordf; parte</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="886" name="sl">
+			   <label for="886"></label>
+			   <img src="parte6/73_02_02.png"/>
+			   <figcaption>Começamos construindo o segmento <b>AB</b> e as Circunf(A,2) e Circunf(B,2).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="887" name="sl">
+			   <label for="887"></label>
+			   <img src="parte6/73_02_03.png"/>
+			   <figcaption>Aplicando o exercício 19, construimos as Circunf(A,5) e Circunf(B,5) para encontrar o centro da circunferência tangente com raio 3cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="888" name="sl" checked>
+			   <label for="888"></label>
+			   <img src="parte6/73_02_04.png"/>
+			   <figcaption>Construa o arco com raio 3cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="889" name="sl">
+			   <label for="889"></label>
+			   <img src="parte6/73_02_05.png"/>
+			   <figcaption>Construa o raio que forma 75&deg; no vértice <b>A</b>. No prolongamento deste raio, construa o segmento <b>AC</b> com 6,4cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="890" name="sl">
+			   <label for="890"></label>
+			   <img src="parte6/73_02_06.png"/>
+			   <figcaption>Construa o arco tangente à Circunf(A,2), determinando <b>CT // AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="891" name="sl">
+			   <label for="891"></label>
+			   <img src="parte6/73_02_07.png"/>
+			   <figcaption>Para encontrar o ponto <b>D</b>, construa a mediatriz de <b>CT</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="892" name="sl" checked>
+			   <label for="892"></label>
+			   <img src="parte6/73_02_08.png"/>
+			   <figcaption>Construa o <b>&angsph;TDT' = 75&deg;</b>, determinando mais um arco do contorno da maçã.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="893" name="sl">
+			   <label for="893"></label>
+			   <img src="parte6/73_02_09.png"/>
+			   <figcaption>Para encontrar o ponto <b>E</b>, construa a mediatriz de <b>DT'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="894" name="sl" checked>
+			   <label for="894"></label>
+			   <img src="parte6/73_02_10.png"/>
+			   <figcaption>Para encontrar o ponto <b>G</b>, construa as Circunf(D,4.6) e Circunf(E,5.3).</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/73_02_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.4: 2&ordf; parte</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="895" name="sl">
+			   <label for="895"></label>
+			   <img src="parte6/73_02_11.png"/>
+			   <figcaption>Vamos aplicar o exercício 19 para encontrar o ponto <b>F</b>. Determine um ponto <b>E' &isin; Circunf(E,ED)</b>, e marque no prolongamento do raio <b>EE'</b> o segmento <b>E'F'</b> com medida 2,4cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="896" name="sl">
+			   <label for="896"></label>
+			   <img src="parte6/73_02_12.png"/>
+			   <figcaption>Construa as Circunf(G,6) e Circunf(E,EF'), determinando o ponto <b>F</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="897" name="sl" checked>
+			   <label for="897"></label>
+			   <img src="parte6/73_02_13.png"/>
+			   <figcaption>Logo, determinamos os pontos de tangência nas Circunf(E,ED) e Circunf(G,GL). Construa mais dois arcos do contorno da maçã.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="898" name="sl">
+			   <label for="898"></label>
+			   <img src="parte6/73_02_14.png"/>
+			   <figcaption>Construa o segmento <b>CH = AB</b> e a Circunf(H,3), determinando mais um arco do contorno da maçã, com centro em <b>G</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="899" name="sl">
+			   <label for="899"></label>
+			   <img src="parte6/73_02_15.png"/>
+			   <figcaption>No prolongamento do segmento <b>DB</b>, encontramos um ponto de tangência na Circunf(B,2), determinando mais um arco do contorno da maçã.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="900" name="sl">
+			   <label for="900"></label>
+			   <img src="parte6/73_02_16.png"/>
+			   <figcaption>O arco com centro em <b>D</b> e raio até o ponto de tangência da Circunf(B,2) determina mais uma parte do contorno, que vai até a Circunf(H,3).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="901" name="sl" checked>
+			   <label for="901"></label>
+			   <img src="parte6/73_02_17.png"/>
+			   <figcaption>Construa o arco do contorno com centro em <b>H</b> e a reta que forma 45&deg; com <b>CH</b> e passa por <b>H</b>. O ponto de interseção desta reta com a Circunf(H,3) é o ponto <b>P</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="902" name="sl">
+			   <label for="902"></label>
+			   <img src="parte6/73_02_18.png"/>
+			   <figcaption>Construa a Circunf(N,3), sabendo-se que o ponto <b>N</b> pertence à reta que acabamos de construir.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="903" name="sl" checked>
+			   <label for="903"></label>
+			   <img src="parte6/73_02_19.png"/>
+			   <figcaption>Construa <b>MN = 4cm</b> e a Circunf(M,3).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="904" name="sl" checked>
+			   <label for="904"></label>
+			   <img src="parte6/73_02_20.png"/>
+			   <figcaption>Para finalizar, determine os arcos de centros em <b>M</b> e <b>N</b> para fazer a folha da maçã.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/73_02_10.png" class="fundo"/>
+  </details>
+  <br>&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.7</span></div>
   <img src="parte6/apos_dg_0073b.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.8</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0074.png"/>
   <img src="parte6/apos_dg_0074a.png"/>
