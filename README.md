@@ -7390,7 +7390,7 @@
   </details></div>
   <img src="parte6/apos_dg_0078b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Neste exercício usamos as propriedades de incentro. Se construirmos os pontos de tangência <b>T<sub>1</sub></b>, <b>T<sub>2</sub></b> e <b>T<sub>3</sub></b>, temos as distância iguais <b>AT<sub>2</sub> = AT<sub>3</sub></b> e <b>BT<sub>2</sub> = <b>BT<sub>1</sub></b> e <b>CT<sub>1</sub> = CT<sub>3</sub></b>.</p>
+	<p>Neste exercício usamos as propriedades de incentro. Se construirmos os pontos de tangência <b>T<sub>1</sub></b>, <b>T<sub>2</sub></b> e <b>T<sub>3</sub></b>, temos as distância iguais <b>AT<sub>2</sub> = AT<sub>3</sub></b> e <b>BT<sub>2</sub> = BT<sub>1</sub></b> e <b>CT<sub>1</sub> = CT<sub>3</sub></b>.</p>
 	<img src="parte6/78_03_00.png"/>
 	<figcaption>Construa o incentro do triângulo e encontre os pontos de tangência da circunferência inscrita nos lados do <b>&#9651;ABC</b>.</figcaption>
   </details></div>
