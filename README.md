@@ -6879,7 +6879,7 @@
 		</ul>
 		<img src="parte6/73_02_10.png" class="fundo"/>
   </details>
-  <br>&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.7</span></div>
+  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.7</span></div>
   <img src="parte6/apos_dg_0073b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.8</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
