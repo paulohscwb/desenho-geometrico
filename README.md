@@ -6461,7 +6461,7 @@
   <img src="parte6/apos_dg_0068c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Lembre-se de construir a reta perpendicular a <b>t</b> pelo ponto <b>T</b> neste exercício.</p>
-	<img src="parte6/68_03_00.png"/>
+	<img src="parte6/68_04_00.png"/>
 	<figcaption></figcaption>
   </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
