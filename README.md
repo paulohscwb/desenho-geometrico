@@ -6877,7 +6877,7 @@
 			   <figcaption>Para finalizar, determine os arcos de centros em <b>M</b> e <b>N</b> para fazer a folha da maçã.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte6/73_02_10.png" class="fundo"/>
+		<img src="parte6/73_02_00.png" class="fundo"/>
   </details>
   &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.7</span></div>
   <img src="parte6/apos_dg_0073b.png"/>
