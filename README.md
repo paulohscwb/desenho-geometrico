@@ -58,7 +58,7 @@
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. Usaremos o compasso como instrumento auxiliar.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="005" name="sl" checked>
+			   <input type="radio" id="005" name="sl">
 			   <label for="005"></label>
 			   <img src="parte1/02_02_01.png"/>
 			   <figcaption>Como a distância de <b>P</b> até <b>X</b> é igual a <b>d</b>, vamos construir a circunferência de centro em <b>P</b> e raio <b>d</b>. Logo, podemos usar o compasso com a ponta seca em uma extremidade de <b>d</b> e o grafite na outra extremidade para "pegarmos" a medida <b>d</b>.</figcaption>
@@ -84,7 +84,7 @@
 	<p>Utilizaremos o conceito de lugar geométrico para resolver este problema. Usaremos o compasso como instrumento auxiliar.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="008" name="sl" checked>
+			   <input type="radio" id="008" name="sl">
 			   <label for="008"></label>
 			   <img src="parte1/03_01_01.png"/>
 			   <figcaption>Como a distância de <b>X</b> até <b>A</b> é igual a <b>m</b>, vamos construir a circunferência de centro em <b>A</b> e raio <b>m</b>. Logo, podemos usar o compasso com a ponta seca em uma extremidade de <b>m</b> e o grafite na outra extremidade para "pegarmos" a medida <b>m</b>.</figcaption>
@@ -121,7 +121,7 @@
 	<p>Utilizaremos o conceito de lugar geométrico para fazer a construção deste triângulo. Usaremos a régua e o compasso como instrumentos auxiliares.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="013" name="sl" checked>
+			   <input type="radio" id="013" name="sl">
 			   <label for="013"></label>
 			   <img src="parte1/03_02_01.png"/>
 			   <figcaption>Vamos imaginar o triângulo <b>ABC</b> construído.</figcaption>
@@ -190,7 +190,7 @@
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. O compasso será usado como instrumento auxiliar.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="023" name="sl" checked>
+			   <input type="radio" id="023" name="sl">
 			   <label for="023"></label>
 			   <img src="parte1/04_01_01.png"/>
 			   <figcaption>Como a circunferência procurada passar pelos pontos <b>A</b> e <b>B</b>, as distâncias entre o centro <b>O</b> e os pontos <b>A</b> e <b>B</b> medem o raio <b>r</b>. Logo, podemos "pegar" a medida <b>r</b> com o compasso...</figcaption>
@@ -261,7 +261,7 @@
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. Usaremos a régua e o compasso como instrumentos auxiliares.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="030" name="sl" checked>
+			   <input type="radio" id="030" name="sl">
 			   <label for="030"></label>
 			   <img src="parte1/06_01_01.png"/>
 			   <figcaption>Lembrando da propriedade: se duas circunferências são tangentes em um ponto <b>T</b>, elas admitem a reta tangente <b>t</b> comum; como a reta tangente forma <b>90&deg;</b> com o raio em <b>T</b>, os raios <b>OT</b> e <b>AT</b> formam <b>180&deg;</b>, ou seja, <b>O</b>, <b>T</b> e <b>A</b> serão colineares.</figcaption>
@@ -310,7 +310,7 @@
 	<p>Neste segundo lugar geométrico, usamos a régua e o compasso como instrumentos auxiliares para sua construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="037" name="sl" checked>
+			   <input type="radio" id="037" name="sl">
 			   <label for="037"></label>
 			   <img src="parte1/06_02_01.png"/>
 			   <figcaption>Para encontrar a mediatriz de <b>AB</b>, construímos os arcos de circunferências de centros <b>A</b> e <b>B</b>, com a mesma medida dos raios. Esta medida precisa ser maior do que a metade de <b>AB</b>. As interseções destes arcos definem a reta <b>XX'</b> que é a mediatriz de <b>AB</b>. Usamos a notação <b>med<sub>AB</sub></b>.</figcaption>
@@ -342,7 +342,7 @@
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares para sua construção da mediatriz.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="041" name="sl" checked>
+			   <input type="radio" id="041" name="sl">
 			   <label for="041"></label>
 			   <img src="parte1/07_01_01.png"/>
 			   <figcaption>Vamos construir um arco de circunferência com centro em <b>A</b> e a medida do raio maior do que a metade de <b>AB</b>.</figcaption>
@@ -409,7 +409,7 @@
 	<p>Usaremos a régua e o compasso como instrumentos auxiliares nesta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="051" name="sl" checked>
+			   <input type="radio" id="051" name="sl">
 			   <label for="051"></label>
 			   <img src="parte1/07_03_01.png"/>
 			   <figcaption>Como o triângulo é isósceles de base <b>BC</b>, o vértice <b>A</b> é equidistante dos vértices <b>B</b> e <b>C</b>: logo, <b>A</b> pertence à mediatriz de <b>BC</b>. Com uma medida maior do que a metade de <b>BC</b>, construímos um arco com centro em <b>C</b>...</figcaption>
@@ -447,7 +447,7 @@
 	<p>Vamos usar a régua e o compasso como instrumentos auxiliares para resolver este problema.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="056" name="sl" checked>
+			   <input type="radio" id="056" name="sl">
 			   <label for="056"></label>
 			   <img src="parte1/08_01_01.png"/>
 			   <figcaption>Temos os três pontos pertencentes à circunferência de centro <b>O</b>.</figcaption>
@@ -508,7 +508,7 @@
 	<p>Vamos usar a régua, o compasso e os esquadros como instrumentos auxiliares para resolver este problema. Vamos começar usando a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="065" name="sl" checked>
+			   <input type="radio" id="065" name="sl">
 			   <label for="065"></label>
 			   <img src="parte1/08_02_01.png"/>
 			   <figcaption>Vamos usar o fato do que a mediatriz de um segmento é perpendicular ao segmento. Construa então um arco de circunferência de centro <b>P</b> e raio de medida qualquer, determinando o ponto <b>A</b> sobre a reta <b>r</b>, no lado direito.</figcaption>
@@ -569,7 +569,7 @@
 	<p>Vamos usar a régua, o compasso e os esquadros como instrumentos auxiliares para resolver este problema. Vamos começar usando a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="074" name="sl" checked>
+			   <input type="radio" id="074" name="sl">
 			   <label for="074"></label>
 			   <img src="parte1/08_03_01.png"/>
 			   <figcaption>Neste item, vamos novamente usar o fato do que a mediatriz de um segmento é perpendicular ao segmento. Construa então um arco de circunferência com raio de medida qualquer, que intercepte a reta <b>r</b> nos pontos <b>A</b> e <b>B</b>.</figcaption>
@@ -663,7 +663,7 @@
 	<p>Vamos usar a régua e o compasso como instrumentos auxiliares para resolver este problema.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="082" name="sl" checked>
+			   <input type="radio" id="082" name="sl">
 			   <label for="082"></label>
 			   <img src="parte1/11_01_01.png"/>
 			   <figcaption>Podemos definir dois pontos sobre a circunferência. Se construirmos a mediatriz deste segmento, o centro estará contido nesta reta. Logo, defina o arco com centro em <b>A</b> e um raio com medida maior do que a metade de <b>AB</b>.</figcaption>
@@ -694,7 +694,7 @@
 	<p>Vamos usar os esquadros e o compasso como instrumentos auxiliares para resolver este problema. Como a reta <b>t</b> é tangente à circunferência de centro <b>O</b>, o raio <b>OT</b> será perpendicular a <b>t</b>.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="086" name="sl" checked>
+			   <input type="radio" id="086" name="sl">
 			   <label for="086"></label>
 			   <img src="parte1/11_02_01.png"/>
 			   <figcaption>Podemos construir a reta perpendicular a <b>t</b> que passa por <b>O</b> com régua e compasso ou com os esquadros. Neste exemplo, vamos usar os esquadros: alinhe um cateto do esquadro de 45 com a reta <b>t</b>, e a hipotenusa deste esquadro fica apoiada com a régua ou com outro esquadro.</figcaption>
@@ -733,7 +733,7 @@
 	<p>Agora vamos estudar o terceiro lugar geométrico: retas paralelas. Vamos ver algumas propriedades.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="090" name="sl" checked>
+			   <input type="radio" id="090" name="sl">
 			   <label for="090"></label>
 			   <img src="parte2/12_01_01.png"/>
 			   <figcaption>Fixando a reta <b>r</b>, as retas paralelas <b>s<sub>1</sub></b> e <b>s<sub>2</sub></b> formam o conjunto de pontos com distância <b>d</b> até a reta <b>r</b>.</figcaption>
@@ -752,7 +752,7 @@
 	<p>Utilizaremos a régua e o compasso para resolver os dois primeiros casos nesta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="092" name="sl" checked>
+			   <input type="radio" id="092" name="sl">
 			   <label for="092"></label>
 			   <img src="parte2/12_02_01.png"/>
 			   <figcaption>Vamos usar a ideia de mediatriz para a primeira construção. Primeiro, vamos construir a reta perpendicular a <b>t</b> que passa por <b>P</b>. Com centro em <b>P</b>, construa o arco que intercecta <b>t</b> nos pontos <b>A</b> e <b>B</b>.</figcaption>
@@ -837,7 +837,7 @@
 	<p>Utilizaremos a régua e o compasso para resolver o terceiro caso desta construção, e o par de esquadros no quarto caso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="105" name="sl" checked>
+			   <input type="radio" id="105" name="sl">
 			   <label for="105"></label>
 			   <img src="parte2/12_03_01.png"/>
 			   <figcaption>Vamos usar outro raciocínio para construir a reta paralela a <b>t</b> que passa por <b>P</b>. Determine um ponto <b>A</b> sobre a reta, de tal forma que <b>A</b> não esteja na direção da reta perpendicular a <b>t</b> que passa por <b>P</b>.</figcaption>
@@ -904,7 +904,7 @@
 	<p>Podemos utilizar a régua e o compasso ou o par de esquadros para resolver este exercício. Vamos usar os esquadros para construção e a régua para marcamos a medida de 2cm.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="115" name="sl" checked>
+			   <input type="radio" id="115" name="sl">
 			   <label for="115"></label>
 			   <img src="parte2/12_04_01.png"/>
 			   <figcaption>Defina um ponto <b>A &isin; t</b>. Para definir o LG de todos os pontos com distância 2cm até a reta <b>t</b>, vamos construir uma reta perpendicular a <b>t</b> passando por <b>A</b>. Alinhando um cateto do esquadro de 45 e apoiando a hipotenusa com o outro esquadro...</figcaption>
@@ -954,7 +954,7 @@
 	<p>Utilizaremos os esquadros e o compasso para resolver este exercício. Lembrando que para construir uma circunferência tangente a uma reta, o raio deve ser perpendicular à reta no ponto de tangência.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="122" name="sl" checked>
+			   <input type="radio" id="122" name="sl">
 			   <label for="122"></label>
 			   <img src="parte2/13_01_01.png"/>
 			   <figcaption>Primeiro vamos construir a reta paralela ao segmento <b>AB</b>, com distância <b>r</b>. Podemos construir a reta perpendicular a <b>AB</b> que passa pelo ponto <b>A</b> com os esquadros. Alinhando um cateto do esquadro de 45, e apoiando a hipotenusa no outro esquadro...</figcaption>
@@ -1039,7 +1039,7 @@
 	<p>No exercício anterior, construímos as retas perpendiculares e paralelas com os esquadros. Neste exercício, vamos utilizar a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="135" name="sl" checked>
+			   <input type="radio" id="135" name="sl">
 			   <label for="135"></label>
 			   <img src="parte2/13_02_01.png"/>
 			   <figcaption>Como vamos construir uma circunferência tangente à reta <b>t</b>, dado o raio <b>r</b>, construiremos a reta perpendicular a <b>t</b> por um ponto qualquer <b>B &isin; t</b>. Com centro em <b>B</b>, defina um raio qualquer para marcar o ponto <b>C &isin; t</b>.</figcaption>
@@ -1124,7 +1124,7 @@
 	<p>Neste exercício, vamos utilizar o par de esquadros e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="148" name="sl" checked>
+			   <input type="radio" id="148" name="sl">
 			   <label for="148"></label>
 			   <img src="parte2/13_03_01.png"/>
 			   <figcaption>Vamos construir uma reta perpendicular a um dos segmentos, escolhendo um ponto <b>A</b> pertencente ao primeiro segmento. Com um cateto alinhado com o segmento e o esquadro de 60 apoiado na hipotenusa...<b>t</b></figcaption>
@@ -1231,7 +1231,7 @@
 	<p>Neste exercício, você pode usar a régua e o compasso para construir as retas perpendiculares e paralelas ou o par de esquadros com o compasso. Vamos ver como fica a construção com os esquadros e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="161" name="sl" checked>
+			   <input type="radio" id="161" name="sl">
 			   <label for="161"></label>
 			   <img src="parte2/15_02_01.png"/>
 			   <figcaption>Podemos escolher um ponto qualquer <b>A &isin; b</b> para construir a reta perpendicular à reta <b>b</b>. Alinhando um cateto do esquadro de 45 com a reta <b>b</b>...</figcaption>
@@ -1292,7 +1292,7 @@
 	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="171" name="sl" checked>
+			   <input type="radio" id="171" name="sl">
 			   <label for="171"></label>
 			   <img src="parte2/15_03_01.png"/>
 			   <figcaption>Considere as bissetrizes <b>b<sub>1</sub></b> e <b>b<sub>2</sub></b> dos ângulos formados entre as retas <b>r</b> e <b>s</b>, com vértice <b>O</b>. Escolha um ponto <b>Q &isin; b<sub>2</sub></b>. O ponto <b>P &isin; b<sub>1</sub></b> é equidistante das retas <b>r</b> e <b>s</b>, ou seja, <b>PP' = PP''</b>.</figcaption>
@@ -1336,7 +1336,7 @@
 	<p>Utilizaremos a régua e o compasso para construir a bissetriz.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="176" name="sl" checked>
+			   <input type="radio" id="176" name="sl">
 			   <label for="176"></label>
 			   <img src="parte2/16_01_01.png"/>
 			   <figcaption>Com centro no vértice <b>A</b>, construímos um arco de circunferência de raio qualquer que intercepte os lados do ângulo nos pontos <b>D</b> e <b>E</b>.</figcaption>
@@ -1373,7 +1373,7 @@
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. A ideia é não usar a interseção das retas para construir a bissetriz.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="181" name="sl" checked>
+			   <input type="radio" id="181" name="sl">
 			   <label for="181"></label>
 			   <img src="parte2/16_02_01.png"/>
 			   <figcaption>Vamos nomear as retas <b>r</b> e <b>s</b>. Neste primeiro exemplo, vamos usar a ideia de definir uma terceira reta <b>t</b>, concorrente com <b>r</b> e <b>s</b> nos pontos <b>A</b> e <b>B</b>.</figcaption>
@@ -1452,7 +1452,7 @@
 	<p>Vamos usar a régua e o compasso neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="193" name="sl" checked>
+			   <input type="radio" id="193" name="sl">
 			   <label for="193"></label>
 			   <img src="parte2/16_03_01.png"/>
 			   <figcaption>Considere uma reta <b>r</b> e um ponto qualquer <b>A &isin; r</b>.</figcaption>
@@ -1491,7 +1491,7 @@
 	<p>Neste exercício, vamos utilizar a régua e o compasso. Vamos determinar o centro da circunferência inscrita, que fica tangente aos 3 lados do triângulo.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="198" name="sl" checked>
+			   <input type="radio" id="198" name="sl">
 			   <label for="198"></label>
 			   <img src="parte2/17_01_01.png"/>
 			   <figcaption>O incentro do triângulo está no encontro das 3 bissetrizes dos ângulos internos do triângulo. Como precisamos da interseção de 2 retas para determinar o ponto, vamos construir apenas 2 bissetrizes. Com centro em <b>A</b>, determine um arco com raio qualquer que intercepte os lados <b>AC</b> e <b>AB</b>.</figcaption>
@@ -1558,7 +1558,7 @@
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. As retas perpendiculares podem ser construídas com os esquadros ou com a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="208" name="sl" checked>
+			   <input type="radio" id="208" name="sl">
 			   <label for="208"></label>
 			   <img src="parte2/17_02_01.png"/>
 			   <figcaption>O centro de uma circunferência ex-inscrita é determinado pelo encontro de duas bissetrizes dos ângulos externos do triângulo com a bissetriz de um ângulo interno. Vamos começar definindo as bissetrizes dos ângulos externos relativos aos lados <b>AB</b> e <b>BC</b>. Prolongue estes lados.</figcaption>
@@ -1664,7 +1664,7 @@
 	<p>Você pode usar a régua e o compasso ou os esquadros e o compasso para resolver este exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="221" name="sl" checked>
+			   <input type="radio" id="221" name="sl">
 			   <label for="221"></label>
 			   <img src="parte2/18_03_01.png"/>
 			   <figcaption>Considere os segmentos <b>s</b> e <b>t</b>. Vamos encontrar a bissetriz do ângulo formado entre <b>s</b> e <b>t</b> sem usar o vértice.</figcaption>
@@ -1714,7 +1714,7 @@
 	<p>Neste exercício, vamos utilizar a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="228" name="sl" checked>
+			   <input type="radio" id="228" name="sl">
 			   <label for="228"></label>
 			   <img src="parte2/19_01_01.png"/>
 			   <figcaption>Para transportar o ângulo <b>&alpha;</b>, podemos construir um arco com centro no vértice do ângulo, com raio qualquer e que intercepte os lados nos pontos <b>B</b> e <b>C</b>.</figcaption>
@@ -1751,7 +1751,7 @@
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. Vamos começar com a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="233" name="sl" checked>
+			   <input type="radio" id="233" name="sl">
 			   <label for="233"></label>
 			   <img src="parte2/19_02_01.png"/>
 			   <figcaption>Construa uma reta qualquer e defina um ponto <b>A</b> nesta reta. Relembrando a construção de perpendicular, construimos um arco com centro <b>A</b> e raio <b>AB</b> qualquer...</figcaption>
@@ -1836,7 +1836,7 @@
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. Vamos começar com a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="246" name="sl" checked>
+			   <input type="radio" id="246" name="sl">
 			   <label for="246"></label>
 			   <img src="parte2/19_03_01.png"/>
 			   <figcaption>Começamos construindo o ângulo de <b>90&deg;</b>, como fizemos no exercício anterior. Podemos prolongar o arco com centro em <b>C</b> para fazer a bissetriz de <b>90&deg;</b>.</figcaption>
@@ -1902,7 +1902,7 @@
 	<p>Vamos utilizar a régua, os esquadros e o compasso neste exercício. Vamos começar com a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="256" name="sl" checked>
+			   <input type="radio" id="256" name="sl">
 			   <label for="256"></label>
 			   <img src="parte2/19_03_11.png"/>
 			   <figcaption>Escolha um ponto <b>L</b> da reta, e construa um arco com raio qualquer, intercectando a reta em <b>M</b>.</figcaption>
@@ -1982,7 +1982,7 @@
 	<p>Neste exercício, vamos utilizar a régua e o compasso.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="268" name="sl" checked>
+			   <input type="radio" id="268" name="sl">
 			   <label for="268"></label>
 			   <img src="parte2/20_01_01.png"/>
 			   <figcaption>Como a semi-reta <b>OC</b> é bissetriz do <b>&angsph;AOB</b>, vamos transportar a medida do <b>&angsph;AOC</b> para o outro semi-plano definido por <b>OC</b>: construa um arco com raio qualquer, centrado em <b>O</b>.</figcaption>
@@ -2033,7 +2033,7 @@
 	<p>Vamos ver alguns elementos para o próximo Lugar geométrico.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="272" name="sl" checked>
+			   <input type="radio" id="272" name="sl">
 			   <label for="272"></label>
 			   <img src="parte3/21_01_01.png"/>
 			   <figcaption>Unindo dois pontos quaisquer <b>A</b> e <b>B</b> de uma circunferência, definimos uma <b>corda</b>.</figcaption>
@@ -2054,7 +2054,7 @@
 	<p>Vamos demonstrar a Propriedade 1. Vamos considerar os 3 casos possíveis: quando um lado do ângulo inscrito define um diâmetro; quando o centro está no interior do ângulo inscrito; e quando o centro está na região externa definida pelo ângulo inscrito.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="274" name="sl" checked>
+			   <input type="radio" id="274" name="sl">
 			   <label for="274"></label>
 			   <img src="parte3/22_01_01.png"/>
 			   <figcaption>Vamos considerar o vértice <b>P</b> e os lados <b>PA</b> e <b>PB</b>. No primeiro caso, o lado <b>PB</b> define um diâmetro da circunferência.</figcaption>
@@ -2066,13 +2066,13 @@
 			   <figcaption>Temos que <b>OP = OA = r</b>, onde <b>r</b> é o raio da circunferência. Logo, o <b>&angsph;OAP = &alpha;</b>, pois o <b>&#9651;AOP</b> é isósceles de base <b>AP</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="276" name="sl" checked>
+			   <input type="radio" id="276" name="sl">
 			   <label for="276"></label>
 			   <img src="parte3/22_01_03.png"/>
 			   <figcaption>O <b>&angsph;AOB = &beta;</b> é o ângulo central correspondente de <b>&alpha;</b>. Temos que <b>&beta;</b> e <b>&delta;</b> são suplementares, ou seja, <b>&beta; + &delta; = 180&deg;</b>. Temos também que <b>2&alpha; + &delta; = 180&deg;</b>, pois são ângulos internos do <b>&#9651;AOP</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="276a" name="sl" checked>
+			   <input type="radio" id="276a" name="sl">
 			   <label for="276a"></label>
 			   <img src="parte3/22_01_03.png"/>
 			   <figcaption>Logo, temos que <b>2&alpha; + &delta; = &beta; + &delta;</b>, ou seja, <b>2&alpha; = &beta;</b>. Portanto, <b>$\alpha = {\beta \over 2}$</b>.</figcaption>
@@ -2084,7 +2084,7 @@
 			   <figcaption>No segundo caso, considere o diâmetro <b>PC</b>, que divide o ângulo <b>&alpha;</b> em <b>&alpha;<sub>1</sub></b> e <b>&alpha;<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="278" name="sl" checked>
+			   <input type="radio" id="278" name="sl">
 			   <label for="278"></label>
 			   <img src="parte3/22_01_05.png"/>
 			   <figcaption>Unindo os pontos <b>A</b> e <b>B</b> com o centro da circunferência, determinamos o ângulo central <b>&beta; = &angsph; AOB</b>.</figcaption>
@@ -2102,13 +2102,13 @@
 			   <figcaption>De acordo com o caso anterior, temos que $\mathsf{\alpha_1 = {\beta_1 \over 2}}$ e $\mathsf{\alpha_2 = {\beta_2 \over 2}}$. Logo, $\mathsf{\alpha = \alpha_1 + \alpha_2 = {\beta_1 \over 2} + {\beta_2 \over 2} = { {\beta_1 + \beta_2} \over 2} = {\beta \over 2}}$.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="280" name="sl" checked>
+			   <input type="radio" id="280" name="sl">
 			   <label for="280"></label>
 			   <img src="parte3/22_01_07.png"/>
 			   <figcaption>No terceiro caso, considere o diâmetro <b>PC</b>, que define o ângulo <b>&alpha;</b> como <b>&alpha;<sub>1</sub> &minus; &alpha;<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="281" name="sl" checked>
+			   <input type="radio" id="281" name="sl">
 			   <label for="281"></label>
 			   <img src="parte3/22_01_08.png"/>
 			   <figcaption>Unindo os pontos <b>A</b> e <b>B</b> com o centro da circunferência, determinamos o ângulo central <b>&beta; = &angsph; AOB</b>.</figcaption>
@@ -2133,7 +2133,7 @@
 	<p>Vamos ver alguns do ângulo de segmento.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="283" name="sl" checked>
+			   <input type="radio" id="283" name="sl">
 			   <label for="283"></label>
 			   <img src="parte3/22_02_01.png"/>
 			   <figcaption>Vamos definir as extremidades <b>A</b> e <b>B</b> da corda e a reta tangente <b>t</b> que passa por <b>A</b>.</figcaption>
@@ -2152,7 +2152,7 @@
 	<p>Vamos demonstrar a Propriedade 2, que relaciona o ângulo de segmento com o ângulo central correspondente.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="285" name="sl" checked>
+			   <input type="radio" id="285" name="sl">
 			   <label for="285"></label>
 			   <img src="parte3/22_03_01.png"/>
 			   <figcaption>Vamos considerar a reta tangente à circunferência <b>t</b> no ponto <b>A</b> e o raio com medida <b>r</b>. Logo, temos o <b>&#9651;AOB</b> isósceles de base <b>AB</b>.</figcaption>
@@ -2178,7 +2178,7 @@
 	<p>Vamos usar os conceitos dos ângulos de segmento e inscrito para encontrar o centro da circunferência. Utilizaremos os esquadros e o compasso neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="288" name="sl" checked>
+			   <input type="radio" id="288" name="sl">
 			   <label for="288"></label>
 			   <img src="parte3/23_01_01.png"/>
 			   <figcaption>Determine os vértices de um <b>&#9651;PAB</b> inscrito na circunferência.</figcaption>
@@ -2190,13 +2190,13 @@
 			   <figcaption>Neste caso, <b>AB</b> será a corda do ângulo inscrito <b>&angsph;APB</b>. Vamos transportá-lo na extermidade <b>A</b> da corda. Com centro em <b>P</b> e um raio <b>PC</b> qualquer, determine o arco que intercecta <b>PB</b> em <b>D</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="290" name="sl" checked>
+			   <input type="radio" id="290" name="sl">
 			   <label for="290"></label>
 			   <img src="parte3/23_01_03.png"/>
 			   <figcaption>Com centro em <b>A</b>, determine o arco com mesmo raio <b>PC</b>, encontrando <b>E &isin; AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="291" name="sl" checked>
+			   <input type="radio" id="291" name="sl">
 			   <label for="291"></label>
 			   <img src="parte3/23_01_04.png"/>
 			   <figcaption>Com o compasso, "pegue" a medida <b>CD</b> e...</figcaption>
@@ -2208,7 +2208,7 @@
 			   <figcaption>... com centro em <b>E</b>, determine o arco com raio <b>CD</b> para encontrar <b>F</b> na interseção com o outro arco que construímos centrado em <b>A</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="293" name="sl" checked>
+			   <input type="radio" id="293" name="sl">
 			   <label for="293"></label>
 			   <img src="parte3/23_01_06.png"/>
 			   <figcaption>Desta forma, conseguimos construir o ângulo de segmento com mesma medida do ângulo inscrito correspondente <b>&alpha;</b>. Portanto, a reta <b>t &equiv; AF</b> é tangente à circunferência no ponto <b>A</b>.</figcaption>
@@ -2226,13 +2226,13 @@
 			   <figcaption>... deixamos fixo o esquadro de 60 e deslizamos o esquadro de 45 até chegar em <b>A</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="296" name="sl" checked>
+			   <input type="radio" id="296" name="sl">
 			   <label for="296"></label>
 			   <img src="parte3/23_01_09.png"/>
 			   <figcaption>Desta forma, temos definido o diâmetro <b>AG</b> da circunferência.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="297" name="sl" checked>
+			   <input type="radio" id="297" name="sl">
 			   <label for="297"></label>
 			   <img src="parte3/23_01_10.png"/>
 			   <figcaption>Construindo a mediatriz de <b>AG</b>, temos o centro da circunferência <b>O</b>.</figcaption>
@@ -2264,7 +2264,7 @@
 	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="298" name="sl" checked>
+			   <input type="radio" id="298" name="sl">
 			   <label for="298"></label>
 			   <img src="parte3/24_01_01.png"/>
 			   <figcaption>Ao determinar um ponto <b>P</b> no arco capaz, unindo este ponto à extremidades da corda <b>AB</b>, temos sempre a mesma medida <b>&alpha;</b> do ângulo inscrito (que mede a metade da medida do ângulo central correspondente).</figcaption>
@@ -2295,7 +2295,7 @@
 	<p>Utilizaremos as propriedades dos ângulos inscrito, central e de segmento para construir o arco capaz.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="302" name="sl" checked>
+			   <input type="radio" id="302" name="sl">
 			   <label for="302"></label>
 			   <img src="parte3/24_02_01.png"/>
 			   <figcaption>Vamos transportar o ângulo <b>&alpha;</b> no segmento <b>AB</b>, com vértice <b>A</b>.</figcaption>
@@ -2319,7 +2319,7 @@
 			   <figcaption>Construa a mediatriz de <b>AB</b>. A interseção da <b>med<sub>AB</sub></b> com a reta perpendicular é o centro <b>O</b> de um dos arcos.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="306" name="sl" checked>
+			   <input type="radio" id="306" name="sl">
 			   <label for="306"></label>
 			   <img src="parte3/24_02_05.png"/>
 			   <figcaption>Com o centro em <b>O</b> e raio <b>OA = OB</b>, construa o arco capaz de <b>&alpha;</b>.</figcaption>
@@ -2351,7 +2351,7 @@
 	<p>Neste exercício, vamos construir os arcos capazes dos ângulos conhecendo os valores de suas medidas.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="310" name="sl" checked>
+			   <input type="radio" id="310" name="sl">
 			   <label for="310"></label>
 			   <img src="parte3/25_01_01.png"/>
 			   <figcaption>Vamos começar construindo o ângulo de segmento de <b>60&deg;</b> com vértice em <b>A</b>. Com centro em <b>A</b>, construa um arco que intercepte <b>AB</b> em <b>C</b>.</figcaption>
@@ -2375,7 +2375,7 @@
 			   <figcaption>O centro do arco capaz de <b>60&deg;</b> está na interseção da reta peropendicular a <b>t</b> com a mediatriz de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="314" name="sl" checked>
+			   <input type="radio" id="314" name="sl">
 			   <label for="314"></label>
 			   <img src="parte3/25_01_05.png"/>
 			   <figcaption>Com centro em <b>O</b> e raio <b>OA = OB</b>, construa o arco capaz de <b>60&deg;</b>.</figcaption>
@@ -2399,7 +2399,7 @@
 			   <figcaption>Para construir o arco capaz de <b>120&deg;</b>, podemos construir o suplementar de <b>60&deg;</b> no prolongamento de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="318" name="sl" checked>
+			   <input type="radio" id="318" name="sl">
 			   <label for="318"></label>
 			   <img src="parte3/25_01_09.png"/>
 			   <figcaption>Logo, temos que o <b>&angsph;FAB = 120&deg;</b>. Podemos construir a reta perpendicular a <b>t</b> que passa por <b>A</b>.</figcaption>
@@ -2436,7 +2436,7 @@
 	<p>De forma genérica, vamos encontrar a relação existente entre os ângulos opostos <b>&alpha;</b> e <b>&beta;</b> que formam um quadrilátro inscrito em uma circunferência.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="323" name="sl" checked>
+			   <input type="radio" id="323" name="sl">
 			   <label for="323"></label>
 			   <img src="parte3/25_02_01.png"/>
 			   <figcaption>Considerando o ângulo inscrito <b>&alpha;</b>, o central correspondente será o ângulo <b>&delta;</b>. Sabemos que $\mathsf{\alpha = {\delta \over 2} }$.</figcaption>
@@ -2455,7 +2455,7 @@
 	<p>Vamos encontrar a medida de um ângulo insrito em uma semi-circunferência. Note que o ângulo central correspondente vale 180&deg;</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="325" name="sl" checked>
+			   <input type="radio" id="325" name="sl">
 			   <label for="325"></label>
 			   <img src="parte3/25_03_01.png"/>
 			   <figcaption>Como o ângulo central <b>&theta;</b> mede <b>180&deg;</b>, o ângulo inscrito correspondente vale a metade, ou seja, <b>&gamma; = 90&deg;</b>. Logo, a construção de um arco capaz de <b>90&deg;</b> é mais simples: o centro será o ponto médio do segmento.</figcaption>
@@ -2469,7 +2469,7 @@
 	<p>Utilizaremos o conceito da construção de um arco capaz de <b>90&deg;</b> para resolver este exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="326" name="sl" checked>
+			   <input type="radio" id="326" name="sl">
 			   <label for="326"></label>
 			   <img src="parte3/26_01_01.png"/>
 			   <figcaption>Escolha um ponto <b>O &notin; r</b>, que não esteja próximo da região onde construiremos a reta perpendicular à reta <b>r</b>.</figcaption>
@@ -2500,7 +2500,7 @@
 	<p>Utilizaremos o conceito da construção de um arco capaz de <b>90&deg;</b> para resolver este exercício. O ponto de tangência "enxerga" o segmento <b>OP</b> segundo <b>90&deg;</b>.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="330" name="sl" checked>
+			   <input type="radio" id="330" name="sl">
 			   <label for="330"></label>
 			   <img src="parte3/26_02_01.png"/>
 			   <figcaption>Vamos construir o arco capaz de <b>90&deg;</b> segundo segmento <b>OP</b>. Construa a mediatriz de <b>PO</b>, encontrando o ponto <b>M</b> médio deste segmento.</figcaption>
@@ -2537,7 +2537,7 @@
 	<p>Utilizaremos o conceito entre o ângulo central de <b>90&deg;</b>, e o inscrito correspondente que mede <b>45&deg;</b>.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="335" name="sl" checked>
+			   <input type="radio" id="335" name="sl">
 			   <label for="335"></label>
 			   <img src="parte3/26_03_01.png"/>
 			   <figcaption>Como o ponto <b>B</b> "enxerga" o segmento <b>AC</b> segundo <b>45&deg;</b>, vamos usar o arco capaz para resolver este exercício. Podemos construir o arco capaz de <b>45&deg;</b> de uma forma mais simples: primeiro construimos o arco capaz de <b>90&deg;</b>, cujo centro é o ponto médio de <b>AC</b>.</figcaption>
@@ -2617,7 +2617,7 @@
 	<p>Vamos verificar as propriedades do Teorema de Tales.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="340" name="sl" checked>
+			   <input type="radio" id="340" name="sl">
 			   <label for="340"></label>
 			   <img src="parte4/30_01_01.png"/>
 			   <figcaption>Considere as retas paralelas <b>a</b>, <b>b</b> e <b>c</b> que intercectam a reta <b>r</b> nos pontos <b>A</b>, <b>B</b> e <b>C</b>, respectivamente. </figcaption>
@@ -2648,7 +2648,7 @@
 	<p>Utilizaremos a régua, o compasso e os esquadros para resolver este exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="344" name="sl" checked>
+			   <input type="radio" id="344" name="sl">
 			   <label for="344"></label>
 			   <img src="parte4/30_02_01.png"/>
 			   <figcaption>Podemos construir o segmento <b>AB</b> com a medida de 11cm diretamente com a régua. Na extremidade <b>A</b>, podemos construir uma reta com inclinação qualquer. A reta suporte de <b>AB</b> e a reta qualquer formam o feixe de retas concorrentes.</figcaption>
@@ -2672,7 +2672,7 @@
 			   <figcaption>Unindo as extremidades <b>B</b> e <b>7</b>, podemos alinhar um dos esquadros para definir o feixe das 6 retas que dividem <b>AB</b> em 7 partes iguais.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="348" name="sl" checked>
+			   <input type="radio" id="348" name="sl">
 			   <label for="348"></label>
 			   <img src="parte4/30_02_05.png"/>
 			   <figcaption>Deslizamos o esquadro no ponto <b>6</b> paralelamente ao segmento <b>B7</b>, depois no ponto <b>5</b>...</figcaption>
@@ -2709,7 +2709,7 @@
 	<p>Utilizaremos a régua, o compasso e os esquadros para resolver este exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="353" name="sl" checked>
+			   <input type="radio" id="353" name="sl">
 			   <label for="353"></label>
 			   <img src="parte4/30_03_01.png"/>
 			   <figcaption>Podemos construir o segmento <b>AB</b> com a medida de 12cm diretamente com a régua. Na extremidade <b>A</b>, podemos construir uma reta com inclinação qualquer. A reta suporte de <b>AB</b> e a reta qualquer formam o feixe de retas concorrentes. </figcaption>
@@ -2733,7 +2733,7 @@
 			   <figcaption>Faça o mesmo com o segmento <b>n</b>, marcando esta medida a partir da extremidade de <b>m</b>, ou seja, <b>MN = n</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="357" name="sl" checked>
+			   <input type="radio" id="357" name="sl">
 			   <label for="357"></label>
 			   <img src="parte4/30_03_05.png"/>
 			   <figcaption>Na sequência, marque a medida do último segmento, <b>p</b>, obtendo-se <b>NP = p</b>.</figcaption>
@@ -2771,7 +2771,7 @@
 	<p>Utilizaremos a régua e os esquadros para resolver este exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="362" name="sl" checked>
+			   <input type="radio" id="362" name="sl">
 			   <label for="362"></label>
 			   <img src="parte4/31_01_01.png"/>
 			   <figcaption>Podemos construir o segmento <b>AB</b> com a medida de 13cm diretamente com a régua. Na extremidade <b>A</b>, podemos construir uma reta com inclinação qualquer. A reta suporte de <b>AB</b> e a reta qualquer formam o feixe de retas concorrentes.</figcaption>
@@ -2795,7 +2795,7 @@
 			   <figcaption>E a partir de <b>D</b>, marcamos <b>p = 5,3cm</b>. Conseguimos marcar com a régua, pois sabemos as medidas. No exercício anterior, só tínhamos os segmentos. Se medíssemos estes segmentos com a régua, poderíamos cometer erros de arredondamento.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="366" name="sl" checked>
+			   <input type="radio" id="366" name="sl">
 			   <label for="366"></label>
 			   <img src="parte4/31_01_05.png"/>
 			   <figcaption>Agora basta construir as retas paralelas a <b>EB</b> com os esquadros...</figcaption>
@@ -2820,7 +2820,7 @@
 	<p>Utilizaremos a régua, o compasso e os esquadros para resolver este exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="369" name="sl" checked>
+			   <input type="radio" id="369" name="sl">
 			   <label for="369"></label>
 			   <img src="parte4/31_02_01.png"/>
 			   <figcaption>Podemos construir o segmento <b>AB</b> com a medida de 15cm diretamente com a régua. Na extremidade <b>A</b>, podemos construir uma reta com inclinação qualquer. Vamos dividir o perímetro em partes proporcionais aos segmentos <b>q</b>, <b>r</b> e <b>s</b>, encontrando os lados <b>a</b>, <b>b</b> e <b>c</b>.</figcaption>
@@ -2844,7 +2844,7 @@
 			   <figcaption>... e <b>s = 4cm</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="373" name="sl" checked>
+			   <input type="radio" id="373" name="sl">
 			   <label for="373"></label>
 			   <img src="parte4/31_02_05.png"/>
 			   <figcaption>Agora podemos construir as retas paralelas ao segmento que une a extremidade de <b>s</b> com <b>Q</b>.</figcaption>
@@ -2893,7 +2893,7 @@
 	<p>Utilizaremos a régua, o compasso e os esquadros para resolver este exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="380" name="sl" checked>
+			   <input type="radio" id="380" name="sl">
 			   <label for="380"></label>
 			   <img src="parte4/31_03_01.png"/>
 			   <figcaption>Vamos construir a divisão dos segmentos de uma só vez. Para funcionar esta "tática", construa uma reta qualquer, e determine um ponto  <b>A</b> que tenha a distância até a reta um pouco menor do que o menor dos segmentos que queremos dividir: ou seja, a distância de <b>A</b> até a reta será um pouco menor do que 3cm.</figcaption>
@@ -2917,7 +2917,7 @@
 			   <figcaption>Agora "pegue" a medida 3cm na régua, usando o compasso...</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="384" name="sl" checked>
+			   <input type="radio" id="384" name="sl">
 			   <label for="384"></label>
 			   <img src="parte4/31_03_05.png"/>
 			   <figcaption>... e construa a Circunf(A,a), encontrando o ponto <b>B</b> na primeira reta construída.</figcaption>
@@ -2987,7 +2987,7 @@
 	<p>Vamos ver o conceito e as propriedades da Divisão Harmônica.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="393" name="sl" checked>
+			   <input type="radio" id="393" name="sl">
 			   <label for="393"></label>
 			   <img src="parte4/32_02_01.png"/>
 			   <figcaption>Considere o segmento <b>AB</b>. Vamos encontrar o 3&ordm; e o 4&ordm; harmônicos, ou simplesmente os conjugados harmônicos de <b>AB</b>.</figcaption>
@@ -3018,7 +3018,7 @@
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="397" name="sl" checked>
+			   <input type="radio" id="397" name="sl">
 			   <label for="397"></label>
 			   <img src="parte4/32_03_01.png"/>
 			   <figcaption>Construa o segmento <b>AB</b> = 7cm.</figcaption>
@@ -3061,7 +3061,7 @@
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="403" name="sl" checked>
+			   <input type="radio" id="403" name="sl">
 			   <label for="403"></label>
 			   <img src="parte4/32_04_01.png"/>
 			   <figcaption>Construa o segmento <b>AB</b> = 7cm.</figcaption>
@@ -3105,7 +3105,7 @@
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. </p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="409" name="sl" checked>
+			   <input type="radio" id="409" name="sl">
 			   <label for="409"></label>
 			   <img src="parte4/33_01_01.png"/>
 			   <figcaption>Construa o segmento <b>AB</b> = 7cm. Como os números 3 e 5 são "próximos", o ponto externo da razão harmônica ficará mais distante de <b>AB</b>. Por isso, construa o segmento <b>AB</b> próximo da margem esquerda ou direita da folha.</figcaption>
@@ -3148,7 +3148,7 @@
 	<p>Vamos utilizar o compasso e os esquadros para fazer esta construção. </p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="415" name="sl" checked>
+			   <input type="radio" id="415" name="sl">
 			   <label for="415"></label>
 			   <img src="parte4/33_02_01.png"/>
 			   <figcaption>Construa o segmento <b>AP</b> com medida <b>p</b> qualquer, com inclinação também qualquer. Vamos encontrar o segmento correspondente <b>q</b> que "gerou" o 3&ordm; harmônico <b>M</b>.</figcaption>
@@ -3191,7 +3191,7 @@
 	<p>Vamos ver qual é a propriedade deste lugar geométrico. Neste exemplo, a razão considerada é  $\mathsf{ k = {5 \over 3} }$</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="421" name="sl" checked>
+			   <input type="radio" id="421" name="sl">
 			   <label for="421"></label>
 			   <img src="parte4/33_03_01.png"/>
 			   <figcaption>Se considerarmos o ponto <b>P</b> pertencente à Circunferência de Apolônio construída, a razão entre as medidas dos segmentos <b>AP</b> e <b>BP</b> será igual à razão da Divisão Harmônica $\mathsf{ k = {5 \over 3} }$.</figcaption>
@@ -3211,7 +3211,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção. </p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="423" name="sl" checked>
+			   <input type="radio" id="423" name="sl">
 			   <label for="423"></label>
 			   <img src="parte4/34_01_01.png"/>
 			   <figcaption>Vamos encontrar os conjugados harmônicos de <b>AB</b> na razão $\mathsf{ 5 \over 2 }$. Na extremidade <b>A</b>, construa o segmento <b>A5</b> = 5cm com inclinação qualquer.</figcaption>
@@ -3272,7 +3272,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção. Como temos a medida do lado <b>a</b> e a razão dos outros lados, precisamos utilizar a Circunferência de Apolônio de <b>a</b> com a razão $\mathsf{ b \over c }$</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="432" name="sl" checked>
+			   <input type="radio" id="432" name="sl">
 			   <label for="432"></label>
 			   <img src="parte4/34_02_01.png"/>
 			   <figcaption>Na extremidade <b>B</b>, construa o segmento <b>B5</b> = 5cm com inclinação qualquer, correspondente ao lado <b>c</b>.</figcaption>
@@ -3339,7 +3339,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="442" name="sl" checked>
+			   <input type="radio" id="442" name="sl">
 			   <label for="442"></label>
 			   <img src="parte4/34_03_01.png"/>
 			   <figcaption>Construa o segmento <b>AB</b> = 3,5cm, e na extremidade <b>A</b>, construa o segmento <b>A5</b> = 5cm com inclinação qualquer, correspondente ao denominador da razão <b>&lambda;</b>.</figcaption>
@@ -3419,7 +3419,7 @@
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. Aplicaremos o teorema de Tales para encontrar o segmento <b>x</b>.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="451" name="sl" checked>
+			   <input type="radio" id="451" name="sl">
 			   <label for="451"></label>
 			   <img src="parte4/36_01_01.png"/>
 			   <figcaption>Vamos encontrar o segmento <b>x</b> tal que $\mathsf{ {a \over b} = {c \over x} }$. Podemos construir os segmentos <b>a</b> e <b>b</b>, que são o numerador e o denominador da primeira fração, em uma mesma reta. </figcaption>
@@ -3454,7 +3454,7 @@
 	<p>Vamos utilizar a régua e os esquadros para fazer esta construção. Aplicaremos o teorema de Tales para encontrar o segmento <b>x</b>.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="454" name="sl" checked>
+			   <input type="radio" id="454" name="sl">
 			   <label for="454"></label>
 			   <img src="parte4/37_01_01.png"/>
 			   <figcaption>Vamos encontrar o segmento <b>x</b> tal que $\mathsf{ {a \over b} = {b \over x} }$. Podemos construir os segmentos <b>a</b> e <b>b</b>, que são o numerador e o denominador da primeira fração, em uma mesma reta. </figcaption>
@@ -3486,7 +3486,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="457" name="sl" checked>
+			   <input type="radio" id="457" name="sl">
 			   <label for="457"></label>
 			   <img src="parte4/38_01_01.png"/>
 			   <figcaption>Vamos encontrar o inverso de <b>a</b>, que será o segmento <b>x</b> tal que $\mathsf{ x = {1 \over a} }$ ou $\mathsf{ {x \over 1} = {1 \over a} }$.</figcaption>
@@ -3504,7 +3504,7 @@
 			   <figcaption>Usando a terceira proporcional, com segmento de 1cm, encontramos o inverso <b>y</b> de <b>b</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="460" name="sl" checked>
+			   <input type="radio" id="460" name="sl">
 			   <label for="460"></label>
 			   <img src="parte4/38_01_04.png"/>
 			   <figcaption>Agora podemos dividir o segmento <b>AB</b> em partes proporcionais aos inversos. Construa o segmento <b>AB</b> e uma reta com inclinação qualquer que passa por <b>A</b>.</figcaption>
@@ -3536,7 +3536,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="463" name="sl" checked>
+			   <input type="radio" id="463" name="sl">
 			   <label for="463"></label>
 			   <img src="parte4/39_01_01.png"/>
 			   <figcaption>Vamos construir as projeções dos catetos sobre a hipotenusa. Começando com a projeção do cateto <b>c</b>, construimos o segmento <b>BH<sub>a</sub> = n</b>.</figcaption>
@@ -3554,7 +3554,7 @@
 			   <figcaption>Como o vértice <b>A</b> "enxerga" a hipotenusa segundo 90&deg;, vamos construir o arco capaz de 90&deg;. Construa a mediatriz de <b>BC</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="466" name="sl" checked>
+			   <input type="radio" id="466" name="sl">
 			   <label for="466"></label>
 			   <img src="parte4/39_01_04.png"/>
 			   <figcaption>Com centro no ponto médio <b>M</b> e raio <b>MB = MC</b>, construa o arco capaz de 90&deg;.</figcaption>
@@ -3579,7 +3579,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="469" name="sl" checked>
+			   <input type="radio" id="469" name="sl">
 			   <label for="469"></label>
 			   <img src="parte4/39_02_01.png"/>
 			   <figcaption>Vamos construir a hipotenusa <b>BC</b>.</figcaption>
@@ -3597,7 +3597,7 @@
 			   <figcaption>Como o vértice <b>A</b> "enxerga" a hipotenusa segundo 90&deg;, vamos construir o arco capaz de 90&deg;. Construa a mediatriz de <b>BC</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="472" name="sl" checked>
+			   <input type="radio" id="472" name="sl">
 			   <label for="472"></label>
 			   <img src="parte4/39_02_04.png"/>
 			   <figcaption>Com centro no ponto médio <b>M</b> e raio <b>MB = MC</b>, construa o arco capaz de 90&deg;.</figcaption>
@@ -3622,7 +3622,7 @@
 	<p>Vamos mostrar as relações entre as medidas das projeções dos catetos sobre a hipotenusa e a altura de um triângulo retângulo <b>&#9651;ABC</b>.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="475" name="sl" checked>
+			   <input type="radio" id="475" name="sl">
 			   <label for="475"></label>
 			   <img src="parte4/39_03_01.png"/>
 			   <figcaption>Vamos considerar a hipotenusa <b>BC = a</b> e o <b>&angsph;CH<sub>a</sub>A = 90&deg;</b>.</figcaption>
@@ -3648,7 +3648,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="479" name="sl" checked>
+			   <input type="radio" id="479" name="sl">
 			   <label for="479"></label>
 			   <img src="parte4/40_01_01.png"/>
 			   <figcaption>No item 1.1, vamos usar o fato de que a altura é média geométrica entre as projeções dos catetos sobre a hipotenusa. Logo, os segmentos <b>p</b> e <b>q</b> são marcados como sendo as projeções dos catetos sobre a hipotenusa.</figcaption>
@@ -3666,7 +3666,7 @@
 			   <figcaption>... e o arco capaz de 90&deg; segundo <b>AB</b>. No ponto <b>C</b>, construimos a reta perpendicular a <b>AB</b> com os esquadros.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="482" name="sl" checked>
+			   <input type="radio" id="482" name="sl">
 			   <label for="482"></label>
 			   <img src="parte4/40_01_04.png"/>
 			   <figcaption>O segmento <b>CD</b> será a média geométrica entre <b>p</b> e <b>q</b>, segundo a propriedade que provamos na página anterior. Logo, $\mathsf{ x = \sqrt{p \cdot q} }$.</figcaption>
@@ -3703,7 +3703,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="487" name="sl" checked>
+			   <input type="radio" id="487" name="sl">
 			   <label for="487"></label>
 			   <img src="parte4/40_02_01.png"/>
 			   <figcaption>No item 2.1, vamos usar o fato de que a altura é média geométrica entre as projeções dos catetos sobre a hipotenusa. Logo, os segmentos <b>2p</b> e <b>p</b> são marcados como sendo as projeções dos catetos sobre a hipotenusa.</figcaption>
@@ -3721,7 +3721,7 @@
 			   <figcaption>... e o arco capaz de 90&deg;. Construa a reta perpendicular ao segmento que passa pela extremidade que divide <b>2p</b> e <b>p</b>. A altura do triângulo retângulo é a média geométrica $\mathsf{ x = \sqrt{2p \cdot p} = p \sqrt{2} }$.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="490" name="sl" checked>
+			   <input type="radio" id="490" name="sl">
 			   <label for="490"></label>
 			   <img src="parte4/40_02_04.png"/>
 			   <figcaption>No item 2.2, podemos usar a relação entre o cateto e sua projeção sobre a hipotenusa. Logo, construimos o segmento <b>3p</b>...</figcaption>
@@ -3770,7 +3770,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="497" name="sl" checked>
+			   <input type="radio" id="497" name="sl">
 			   <label for="497"></label>
 			   <img src="parte4/40_03_01.png"/>
 			   <figcaption>Construa o segmento <b>p</b> e uma reta com qualquer inclinação que passa por <b>A</b>. Vamos dividir este segmento em 5 partes iguais usando o Teorema de Tales.</figcaption>
@@ -3788,7 +3788,7 @@
 			   <figcaption>Usando os esquadros, construa as retas paralelas a <b>5B</b> que passam pelos pontos <b>4</b>, <b>3</b>, <b>2</b> e <b>1</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="500" name="sl" checked>
+			   <input type="radio" id="500" name="sl">
 			   <label for="500"></label>
 			   <img src="parte4/40_03_04.png"/>
 			   <figcaption>Vamos construir a média geométrica entre o segmento com $\mathsf{ 4 \over 5 }$ de <b>AB</b> e o próprio <b>AB</b>. Construa o arco capaz de 90&deg; em relação a <b>AB</b>.</figcaption>
@@ -3856,7 +3856,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="506" name="sl" checked>
+			   <input type="radio" id="506" name="sl">
 			   <label for="506"></label>
 			   <img src="parte4/42_01_01.png"/>
 			   <figcaption>Construa o segmento <b>p</b>. Vamos utilizar o teorema de Pitágoras para encontrar o segmento <b>x</b>.</figcaption>
@@ -3874,7 +3874,7 @@
 			   <figcaption>Na reta perpendicular, podemos construir o segmento <b>q</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="510" name="sl" checked>
+			   <input type="radio" id="510" name="sl">
 			   <label for="510"></label>
 			   <img src="parte4/42_01_04.png"/>
 			   <figcaption>De acordo com o teorema de Pitágoras, temos que $\mathsf{ x^2 = p^2 + q^2 }$, onde <b>x</b> é a hipotenusa do triângulo retângulo de catetos <b>p</b> e <b>q</b>.</figcaption>
@@ -3917,7 +3917,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="515" name="sl" checked>
+			   <input type="radio" id="515" name="sl">
 			   <label for="515"></label>
 			   <img src="parte4/42_02_01.png"/>
 			   <figcaption>Podemos reescrever a equação como $\mathsf{ x^2 = (p^2 + q^2) - r^2 }$, onde $\mathsf{ y^2 = p^2 + q^2 }$. Logo, vamos construir o segmento <b>y</b>, que terá dois "papéis".</figcaption>
@@ -3935,7 +3935,7 @@
 			   <figcaption>Logo, vamos construir o arco capaz de 90&deg; segundo segmento <b>y</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="518" name="sl" checked>
+			   <input type="radio" id="518" name="sl">
 			   <label for="518"></label>
 			   <img src="parte4/42_02_04.png"/>
 			   <figcaption>Com centro em uma das extremidades de <b>y</b>, construimos a circunferência de raio <b>r</b>.</figcaption>
@@ -3986,7 +3986,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção. Vamos encontrar os segmentos $\mathsf{ a \over 2 }$ e $\mathsf{ \frac{a \sqrt {5}}{2} }$.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="522" name="sl" checked>
+			   <input type="radio" id="522" name="sl">
 			   <label for="522"></label>
 			   <img src="parte4/44_01_01.png"/>
 			   <figcaption>Vamos encontrar o segmento $\mathsf{ a \over 2 }$ construindo a mediatriz de <b>AB</b>.</figcaption>
@@ -4004,7 +4004,7 @@
 			   <figcaption>Com o compasso, "pegue" a medida <b>BM</b>...</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="525" name="sl" checked>
+			   <input type="radio" id="525" name="sl">
 			   <label for="525"></label>
 			   <img src="parte4/44_01_04.png"/>
 			   <figcaption>... e marque esta medida na reta perpendicular. Logo, $\mathsf{ BC = \frac{a}{2} }$. Usando o teorema de Pitágoras, temos que $\mathsf{ AC^2 = AB^2 + BC^2 }$, ou seja, $\mathsf{ AC^2 = a^2 + {(\frac{a}{2})^2} }$. Logo, temos que $\mathsf{ AC^2 = a^2 + \frac{a^2}{4} = \frac{5a^2}{4} }$. Portanto, $\mathsf{ AC = \frac{ a\sqrt{5} }{2} }$.</figcaption>
@@ -4030,7 +4030,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção. Vamos encontrar os segmentos $\mathsf{ a \over 2 }$ e $\mathsf{ \frac{a \sqrt {5}}{2} }$.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="528" name="sl" checked>
+			   <input type="radio" id="528" name="sl">
 			   <label for="528"></label>
 			   <img src="parte4/45_01_01.png"/>
 			   <figcaption>Vamos encontrar o segmento $\mathsf{ a \over 2 }$ construindo a mediatriz de <b>AP</b>.</figcaption>
@@ -4048,7 +4048,7 @@
 			   <figcaption>Com o compasso, "pegue" a medida <b>PM</b>...</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="531" name="sl" checked>
+			   <input type="radio" id="531" name="sl">
 			   <label for="531"></label>
 			   <img src="parte4/45_01_04.png"/>
 			   <figcaption>... e marque esta medida na reta perpendicular. Logo, $\mathsf{ PC = \frac{a}{2} }$. Usando o teorema de Pitágoras, como fizemos na construção da página anterior, temos que $\mathsf{ AC = \frac{ a\sqrt{5} }{2} }$.</figcaption>
@@ -4092,7 +4092,7 @@
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="536" name="sl" checked>
+			   <input type="radio" id="536" name="sl">
 			   <label for="536"></label>
 			   <img src="parte4/46_02_01.png"/>
 			   <figcaption>Vamos construir o segmento áureo de <b>AB</b>. Construa a mediatriz de <b>AB</b>.</figcaption>
@@ -4110,7 +4110,7 @@
 			   <figcaption>Construa o arco com centro em <b>N</b> e raio <b>AN</b>. O segmento <b>BC</b> é áureo de <b>AB</b>. Já temos 2 lados do retângulo áureo: <b>AB</b> e <b>BC</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="539" name="sl" checked>
+			   <input type="radio" id="539" name="sl">
 			   <label for="539"></label>
 			   <img src="parte4/46_02_04.png"/>
 			   <figcaption>Usando os esquadros, construa os lados <b>AD // BC</b> e <b>CD // AB</b>. Logo, temos o retângulo áureo <b>ABCD</b>: um lado é segmento áureo do outro.</figcaption>
@@ -4140,7 +4140,7 @@
 			   <figcaption>Para dar continuidade nos arcos, a próxima extremidade será com vértice em <b>D</b>. Vamos construir o quadrado com lado <b>DG = DF</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="544" name="sl" checked>
+			   <input type="radio" id="544" name="sl">
 			   <label for="544"></label>
 			   <img src="parte4/46_02_09.png"/>
 			   <figcaption>Com os esquadros, construa o segmento <b>HG // DF</b>.</figcaption>
@@ -4184,7 +4184,7 @@
 	<p>Vamos demonstrar esta propriedade com os 3 casos possíveis.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="549" name="sl" checked>
+			   <input type="radio" id="549" name="sl">
 			   <label for="549"></label>
 			   <img src="parte4/47_01_01.png"/>
 			   <figcaption>No primeiro caso, quando P é externo à circunferência, vamos determinar os segmentos <b>BC</b>, <b>AD</b> e <b>AC</b>. Como os pontos <b>B</b> e <b>D</b> "enxergam" o segmento <b>AC</b> no mesmo arco...</figcaption>
@@ -4202,7 +4202,7 @@
 			   <figcaption>No segundo caso, quando P é interno à circunferência, vamos determinar os segmentos <b>BC</b>, <b>AD</b> e <b>AC</b>. Como os pontos <b>B</b> e <b>D</b> "enxergam" o segmento <b>AC</b> no mesmo arco...</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="552" name="sl" checked>
+			   <input type="radio" id="552" name="sl">
 			   <label for="552"></label>
 			   <img src="parte4/47_01_04.png"/>
 			   <figcaption>... temos também a propriedade do arco capaz: <b>&angsph;B = &angsph; D</b>. Logo, temos que os triângulos <b>&#9651;PAD</b> e <b>&#9651;PCB</b> são semelhantes. Por isso, temos que $\mathsf{ \frac{PA}{PC}=\frac{PD}{PB} }$, ou seja, $\mathsf{ PA \cdot PB = PC \cdot PD }$.</figcaption>
@@ -4215,7 +4215,7 @@
 	<p>Agora vamos ver como fica a demonstração do terceiro caso possível: quando um dos segmentos é tangente à circunferência.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="553" name="sl" checked>
+			   <input type="radio" id="553" name="sl">
 			   <label for="553"></label>
 			   <img src="parte4/47_02_01.png"/>
 			   <figcaption>Vamos determinar os segmentos <b>AT</b> e <b>BT</b>. Neste caso, o <b>&angsph;B</b> é inscrito e o <b>&angsph;PTA</b> é de segmento, ambos da mesma corda <b>AT</b>.</figcaption>
@@ -4236,7 +4236,7 @@
 	<p>Vamos utilizar os casos que demonstramos na página anterior.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="555" name="sl" checked>
+			   <input type="radio" id="555" name="sl">
 			   <label for="555"></label>
 			   <img src="parte4/48_01_01.png"/>
 			   <figcaption>Usando o segundo caso da propriedade de potência de ponto, temos que $\mathsf{ PA \cdot PC = PB \cdot PD }$, ou seja, $\mathsf{ x \cdot 2 = 5 \cdot 1 }$. Logo, $\mathsf{ x = \frac{5}{2} = 2,5 }$.</figcaption>
@@ -4261,7 +4261,7 @@
 	<p>Vamos utilizar o terceiro caso da propriedade de potência de ponto.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="558" name="sl" checked>
+			   <input type="radio" id="558" name="sl">
 			   <label for="558"></label>
 			   <img src="parte4/48_02_01.png"/>
 			   <figcaption>Ao determinar uma reta secante qualquer que passar pelo ponto <b>P</b>, temos a propriedade válida: $\mathsf{ PT^2 = PA \cdot PB }$, ou seja, $\mathsf{ PT = \sqrt{PA \cdot PB} }$. Logo, <b>PT</b> será a média geométrica entre <b>PA</b> e <b>PB</b>.</figcaption>
@@ -4304,7 +4304,7 @@
 	<p>Vamos construir as principais cevianas nos triângulos desta página. Para facilitar as construções, podemos utilizar os esquadros nas construções de retas perpendiculares.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="563" name="sl" checked>
+			   <input type="radio" id="563" name="sl">
 			   <label for="563"></label>
 			   <img src="parte5/49_01_01.png"/>
 			   <figcaption>Vamos nomear o triângulo como <b>&#9651;ABC</b>. Os nomes dos lados serão <b>a = BC</b>, <b>b = AC</b> e <b>c = AB</b>.</figcaption>
@@ -4353,7 +4353,7 @@
 	<p>Vamos construir outras duas cevianas nos triângulos desta página.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="570" name="sl" checked>
+			   <input type="radio" id="570" name="sl">
 			   <label for="570"></label>
 			   <img src="parte5/49_02_01.png"/>
 			   <figcaption>Construa as bissetrizes dos ângulos internos de dois vértices do triângulo. A terceira bissetriz passa pelo ponto de interseção <b>I</b>, chamado de incentro do triângulo.</figcaption>
@@ -4403,7 +4403,7 @@
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares nestes primeiros exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="577" name="sl" checked>
+			   <input type="radio" id="577" name="sl">
 			   <label for="577"></label>
 			   <img src="parte5/50_01_01.png"/>
 			   <figcaption>Podemos começar com qualquer lado. Neste exemplo, começamos pelo lado <b>a = BC</b>.</figcaption>
@@ -4470,7 +4470,7 @@
 	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="587" name="sl" checked>
+			   <input type="radio" id="587" name="sl">
 			   <label for="587"></label>
 			   <img src="parte5/50_02_01.png"/>
 			   <figcaption>Devemos sempre começar com uma medida linear. Neste caso, temos apenas o lado <b>a = BC</b>. Vamos usar os esquadros para construir o ângulo de 30&deg; em <b>B</b>.</figcaption>
@@ -4544,7 +4544,7 @@
 	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="597" name="sl" checked>
+			   <input type="radio" id="597" name="sl">
 			   <label for="597"></label>
 			   <img src="parte5/51_02_01.png"/>
 			   <figcaption>Começamos com o cateto <b>b = AC</b>. Com os esquadros ou régua e compasso, construa a reta perpendicular a <b>AC</b> que passa por <b>A</b>.</figcaption>
@@ -4587,7 +4587,7 @@
 	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="603" name="sl" checked>
+			   <input type="radio" id="603" name="sl">
 			   <label for="603"></label>
 			   <img src="parte5/51_03_01.png"/>
 			   <figcaption>Começamos com o cateto <b>c = AB</b>.</figcaption>
@@ -4631,7 +4631,7 @@
 	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="609" name="sl" checked>
+			   <input type="radio" id="609" name="sl">
 			   <label for="609"></label>
 			   <img src="parte5/52_01_01.png"/>
 			   <figcaption>Podemos construir as projeções dos catetos <b>m</b> e <b>n</b> sobre a hipotenusa.</figcaption>
@@ -4686,7 +4686,7 @@
 	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="617" name="sl" checked>
+			   <input type="radio" id="617" name="sl">
 			   <label for="617"></label>
 			   <img src="parte5/52_02_01.png"/>
 			   <figcaption>Vamos encontrar a projeção do cateto <b>c</b> sobre a hipotenusa. Construa a circunferência com centro  e diâmetro <b>m</b>.</figcaption>
@@ -4741,7 +4741,7 @@
 	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios. Vamos utilizar a técnica de HOMOTETIA para resolver estes exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="624" name="sl" checked>
+			   <input type="radio" id="624" name="sl">
 			   <label for="624"></label>
 			   <img src="parte5/52_03_01.png"/>
 			   <figcaption>Nestes exercícios, não temos a medida de um dos lados. Então, vamos começar com um lado <b>B'C'</b> de medida qualquer.</figcaption>
@@ -4808,7 +4808,7 @@
 	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios. Vamos utilizar a técnica de HOMOTETIA para resolver estes exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="634" name="sl" checked>
+			   <input type="radio" id="634" name="sl">
 			   <label for="634"></label>
 			   <img src="parte5/52_04_01.png"/>
 			   <figcaption>O exercício 15 é similar aos anteriores. Neste caso, o <b>&#9651;A'B'C'</b> ficou menor do que o <b>&#9651;ABC</b>.</figcaption>
@@ -4864,7 +4864,7 @@
 	<p>Podemos usar a régua, os esquadors e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="641" name="sl" checked>
+			   <input type="radio" id="641" name="sl">
 			   <label for="641"></label>
 			   <img src="parte5/53_02_01.png"/>
 			   <figcaption>Usando a fórmula da área de um triângulo, temos a relação mostrada entre lados e alturas correspondentes: são relações de inversos proporcionais.</figcaption>
@@ -4901,7 +4901,7 @@
 	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="647" name="sl" checked>
+			   <input type="radio" id="647" name="sl">
 			   <label for="647"></label>
 			   <img src="parte5/53_03_01.png"/>
 			   <figcaption>Construa o lado <b>a</b> e a reta perpendicular a este lado por um ponto qualquer: pode ser pelo vértice <b>B</b>.</figcaption>
@@ -4939,7 +4939,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="652" name="sl" checked>
+			   <input type="radio" id="652" name="sl">
 			   <label for="652"></label>
 			   <img src="parte5/54_01_01.png"/>
 			   <figcaption>No exercício 21, utilizamos os seguintes lugares geométricos: a reta que forma 45&deg; com <b>BC</b> e a Circunf(M<sub>a</sub>,m<sub>a</sub>).</figcaption>
@@ -4976,7 +4976,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="657" name="sl" checked>
+			   <input type="radio" id="657" name="sl">
 			   <label for="657"></label>
 			   <img src="parte5/54_02_01.png"/>
 			   <figcaption>Como temos um lado e o ângulo oposto, podemos construir o arco capaz deste ãngulo relativo a este lado.</figcaption>
@@ -5025,7 +5025,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="663" name="sl" checked>
+			   <input type="radio" id="663" name="sl">
 			   <label for="663"></label>
 			   <img src="parte5/54_04_01.png"/>
 			   <figcaption>No exercício 27, encontramos o pé da altura <b>H<sub>b</sub></b> com o arco capaz de 90&deg; e usamos a Circunf(M<sub>a</sub>,m<sub>a</sub>).</figcaption>
@@ -5063,7 +5063,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Temos apenas as medidas das 3 medianas, então vamos construir um triângulo auxiliar.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="668" name="sl" checked>
+			   <input type="radio" id="668" name="sl">
 			   <label for="668"></label>
 			   <img src="parte5/55_01_01.png"/>
 			   <figcaption>Vamos construir o triângulo auxiliar com as medidas <b>G'M<sub>a</sub> = GM<sub>a</sub></b>. Logo, temos um paralelogramo <b>BGCG'</b>, pois as diagonais intercectam-se em seus pontos médios. Portanto, $\mathsf{ GG' = \frac{2}{3} m_a }$, $\mathsf{ BG = \frac{2}{3} m_b }$ e $\mathsf{ BG' = \frac{2}{3} m_c }$.</figcaption>
@@ -5093,7 +5093,7 @@
 			   <figcaption>Faça o mesmo com a terceira mediana: <b>RR' = m<sub>c</sub></b>. Assim, temos as 3 medianas divididas em 3 partes iguais.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="673" name="sl" checked>
+			   <input type="radio" id="673" name="sl">
 			   <label for="673"></label>
 			   <img src="parte5/55_01_06.png"/>
 			   <figcaption>Com o compasso, construa o segmento $\mathsf{ GG' = \frac{2}{3} m_a }$.</figcaption>
@@ -5130,7 +5130,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="678" name="sl" checked>
+			   <input type="radio" id="678" name="sl">
 			   <label for="678"></label>
 			   <img src="parte5/55_02_01.png"/>
 			   <figcaption>Vamos construir a mediana na qual o vértice <b>A</b> "enxerga" segundo ângulo dado de 60&deg;.</figcaption>
@@ -5160,7 +5160,7 @@
 			   <figcaption>Vamos encontrar o baricentro. Como as medianas têm mesmas medidas do exercício anterior, podemos usar a divisão que fizemos para construir a $\mathsf{ Circunf(M_c, \frac{1}{3} m_c) }$.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="683" name="sl" checked>
+			   <input type="radio" id="683" name="sl">
 			   <label for="683"></label>
 			   <img src="parte5/55_02_06.png"/>
 			   <figcaption>A distância do baricentro ao vértice <b>A</b> é de $\mathsf{  \frac{2}{3} m_a }$. Logo, construa a $\mathsf{ Circunf(G, \frac{2}{3} m_a) }$. Onde esta circunferência intercectar o arco capaz, temos o vértice <b>A</b>.</figcaption>
@@ -5215,7 +5215,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="691" name="sl" checked>
+			   <input type="radio" id="691" name="sl">
 			   <label for="691"></label>
 			   <img src="parte5/55_03_01.png"/>
 			   <figcaption>Começamos com o lado <b>b</b> e a reta perpendicular a <b>b</b> que passa pelo ponto <b>A</b>.</figcaption>
@@ -5245,7 +5245,7 @@
 			   <figcaption>Com centro no ponto médio de <b>IC</b>, construa o arco capaz de 90&deg;: na interseção com a circunferência inscrita, temos o ponto <b>T</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="696" name="sl" checked>
+			   <input type="radio" id="696" name="sl">
 			   <label for="696"></label>
 			   <img src="parte5/55_03_06.png"/>
 			   <figcaption>Unindo os pontos <b>C</b> e <b>T</b>, encontramos o vértice <b>B</b> na reta perpendicular a <b>AC</b> que passa por <b>A</b>.</figcaption>
@@ -5277,7 +5277,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="700" name="sl" checked>
+			   <input type="radio" id="700" name="sl">
 			   <label for="700"></label>
 			   <img src="parte5/56_01_01.png"/>
 			   <figcaption>Vamos imaginar o triângulo construído. Como temos a altura <b>H<sub>b</sub></b>, vamos imaginar que a soma dos lados <b>b + c</b> está construída a partir de <b>C</b>. Logo, teremos o <b>&#9651;ABD</b> isósceles de base <b>BD</b>, pois <b>BA = AD</b>. Para encontrar o vértice <b>A</b>, vamos construir a mediatriz de <b>BD</b>.</figcaption>
@@ -5307,7 +5307,7 @@
 			   <figcaption>Agora podemos construir a mediatriz de <b>BD</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="705" name="sl" checked>
+			   <input type="radio" id="705" name="sl">
 			   <label for="705"></label>
 			   <img src="parte5/56_01_06.png"/>
 			   <figcaption>Na interseção da mediatriz de <b>BD</b> com a reta <b>CD</b>, temos o vértice <b>A</b>.</figcaption>
@@ -5326,7 +5326,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="706" name="sl" checked>
+			   <input type="radio" id="706" name="sl">
 			   <label for="706"></label>
 			   <img src="parte5/56_03_01.png"/>
 			   <figcaption>Vamos imaginar o triângulo construído. Como temos o ângulo <b>Â = 75&deg;</b>, vamos imaginar que a diferença dos lados <b>a &minus; c</b> está construída a partir de <b>A</b>. Logo, teremos o <b>&#9651;BCD</b> isósceles de base <b>CD</b>, pois <b>BC = BD</b>. Para encontrar o vértice <b>B</b>, vamos construir a mediatriz de <b>CD</b>.</figcaption>
@@ -5370,13 +5370,13 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="711" name="sl" checked>
+			   <input type="radio" id="711" name="sl">
 			   <label for="711"></label>
 			   <img src="parte5/57_02_01.png"/>
 			   <figcaption>Vamos imaginar o triângulo construído. Se marcarmos as medidas dos lados <b>AB</b> e <b>AC</b> nos prolongamentos de <b>BC</b>, temos os <b>&#9651;ABD</b> e <b>&#9651;ECA</b> que são isósceles de bases <b>AD</b> e <b>AE</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="712" name="sl" checked>
+			   <input type="radio" id="712" name="sl">
 			   <label for="712"></label>
 			   <img src="parte5/57_02_01.png"/>
 			   <figcaption>De acordo com o teorema do ângulo externo, temos que $\mathsf{ \alpha = \frac{B}{2} }$ e $\mathsf{ \beta = \frac{C}{2} }$. Portanto, podemos construir o <b>&#9651;ADE</b>.</figcaption>
@@ -5431,7 +5431,7 @@
 	<p>Vamos ver algumas definições e propriedades sobre os quadriláteros.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="720" name="sl" checked>
+			   <input type="radio" id="720" name="sl">
 			   <label for="720"></label>
 			   <img src="parte5/57_03_01.png"/>
 			   <figcaption>Construindo uma diagonal de um quadrilátero, temos 2 triângulos. Logo, a soma dos ângulos internos do quadrilátero será 360&deg;.</figcaption>
@@ -5469,7 +5469,7 @@
 	<p>Vamos ver algumas definições e propriedades sobre os quadriláteros notáveis. Começando pelos trapézios</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="725" name="sl" checked>
+			   <input type="radio" id="725" name="sl">
 			   <label for="725"></label>
 			   <img src="parte5/58_01_01.png"/>
 			   <figcaption>As bases do trapézio são os segmentos <b>AB</b> e <b>CD</b>, e as laterais são <b>BC</b> e <b>AD</b>.</figcaption>
@@ -5488,7 +5488,7 @@
 	<p>Agora vamos ver as propriedades dos paralelogramos.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="727" name="sl" checked>
+			   <input type="radio" id="727" name="sl">
 			   <label for="727"></label>
 			   <img src="parte5/58_02_01.png"/>
 			   <figcaption>Em um paralelogramo, os ângulos opostos são iguais. Logo, não teremos a circunferência circunscrita. Como os lados opostos são iguais, também não conseguimos construir uma circunferência inscrita neste quadrilátero.</figcaption>
@@ -5508,7 +5508,7 @@
 	<p>Agora vamos ver as propriedades dos paralelogramos especiais: retângulo, losango e quadrado.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="729" name="sl" checked>
+			   <input type="radio" id="729" name="sl">
 			   <label for="729"></label>
 			   <img src="parte5/59_01_01.png"/>
 			   <figcaption>Vamos usar estas propriedades nas construções propostas a seguir.</figcaption>
@@ -5527,7 +5527,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="731" name="sl" checked>
+			   <input type="radio" id="731" name="sl">
 			   <label for="731"></label>
 			   <img src="parte5/59_02_01.png"/>
 			   <figcaption>Vamos construir o segmento <b>AB</b> e a reta perpendicular a este segmento que passa por <b>B</b>.</figcaption>
@@ -5570,7 +5570,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="737" name="sl" checked>
+			   <input type="radio" id="737" name="sl">
 			   <label for="737"></label>
 			   <img src="parte5/59_03_01.png"/>
 			   <figcaption>Construa a Circunf(M,r) e um diâmetro <b>T<sub>1</sub>T<sub>2</sub></b>.</figcaption>
@@ -5614,7 +5614,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="743" name="sl" checked>
+			   <input type="radio" id="743" name="sl">
 			   <label for="743"></label>
 			   <img src="parte5/60_01_01.png"/>
 			   <figcaption>Vamos construir o lado <b>AB</b>, conhecendo-se o segmento áureo de <b>AB</b>. Construa o segmento <b>PQ = x</b> e sua mediatriz.</figcaption>
@@ -5663,7 +5663,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="749" name="sl" checked>
+			   <input type="radio" id="749" name="sl">
 			   <label for="749"></label>
 			   <img src="parte5/60_03_01.png"/>
 			   <figcaption>Vamos construir a diagonal <b>AC = d</b> e sua mediatriz, encontrando o ponto <b>M</b>.</figcaption>
@@ -5730,7 +5730,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="759" name="sl" checked>
+			   <input type="radio" id="759" name="sl">
 			   <label for="759"></label>
 			   <img src="parte5/60_04_01.png"/>
 			   <figcaption>O exercício 10 é parecido com o anterior. Note que neste caso a solução será um quadrado, caso particular de um retângulo.</figcaption>
@@ -5792,7 +5792,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="767" name="sl" checked>
+			   <input type="radio" id="767" name="sl">
 			   <label for="767"></label>
 			   <img src="parte5/61_02_01.png"/>
 			   <figcaption>O exercício 14 é parecido com os anteriores.</figcaption>
@@ -5854,7 +5854,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="774" name="sl" checked>
+			   <input type="radio" id="774" name="sl">
 			   <label for="774"></label>
 			   <img src="parte5/62_01_01.png"/>
 			   <figcaption>Imaginando o paralelogramo pronto, temos que o segmento <b>BE = p</b> e pelo teorema do ângulo externo temos que o <b>&angsph;CED = 30&deg;</b>.</figcaption>
@@ -5897,7 +5897,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="780" name="sl" checked>
+			   <input type="radio" id="780" name="sl">
 			   <label for="780"></label>
 			   <img src="parte5/62_02_01.png"/>
 			   <figcaption>Imaginando o trapézio construído, podemos construir um paralelogramo auxiliar da seguinte forma: como temos as medidas das bases, podemos construir a base menor por dentro da maior a partir de um dos vértices, ou seja, <b>AE = CD</b>. Logo, teremos que <b>CE = AD</b> e conseguiremos construir o <b>&#9651;BCE</b>.</figcaption>
@@ -5958,7 +5958,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="789" name="sl" checked>
+			   <input type="radio" id="789" name="sl">
 			   <label for="789"></label>
 			   <img src="parte5/62_03_01.png"/>
 			   <figcaption>O exercício 24 é parecido com os anteriores, porém, sem a necessidade de construir uma base sobre a outra.</figcaption>
@@ -6026,7 +6026,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="798" name="sl" checked>
+			   <input type="radio" id="798" name="sl">
 			   <label for="798"></label>
 			   <img src="parte5/63_02_01.png"/>
 			   <figcaption>Construa a circunferência circunscrita e escolha uma posição para o vértice <b>A</b> nesta circunferência.</figcaption>
@@ -6075,7 +6075,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="804" name="sl" checked>
+			   <input type="radio" id="804" name="sl">
 			   <label for="804"></label>
 			   <img src="parte5/63_04_01.png"/>
 			   <figcaption>Construa a base <b>AB</b> e a reta perpendicular a <b>AB</b> que passa por <b>A</b>.</figcaption>
@@ -6123,7 +6123,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="809" name="sl" checked>
+			   <input type="radio" id="809" name="sl">
 			   <label for="809"></label>
 			   <img src="parte6/66_01_01.png"/>
 			   <figcaption>Utilizando o centro, podemos construir o raio <b>CT</b>, e a reta tangente será a reta <b>t &perp; CT</b> que passa pelo ponto <b>T</b>.</figcaption>
@@ -6154,7 +6154,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="812" name="sl" checked>
+			   <input type="radio" id="812" name="sl">
 			   <label for="812"></label>
 			   <img src="parte6/66_02_01.png"/>
 			   <figcaption>Utilizando o centro, podemos construir a reta <b>r &perp; s</b> que passa pelo ponto <b>C</b>.</figcaption>
@@ -6191,7 +6191,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="817" name="sl" checked>
+			   <input type="radio" id="817" name="sl">
 			   <label for="817"></label>
 			   <img src="parte6/66_03_01.png"/>
 			   <figcaption>Vamos começar transportando o ângulo <b>&alpha;</b>. Construa um arco com centro no vértice do ângulo...</figcaption>
@@ -6222,7 +6222,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="821" name="sl" checked>
+			   <input type="radio" id="821" name="sl">
 			   <label for="821"></label>
 			   <img src="parte6/66_04_01.png"/>
 			   <figcaption>Vamos construir o arco capaz de 90&deg; em <b>PC</b>, pois o ponto de tangência "enxerga" <b>PC</b> segundo ângulo reto.</figcaption>
@@ -6248,13 +6248,13 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="824" name="sl" checked>
+			   <input type="radio" id="824" name="sl">
 			   <label for="824"></label>
 			   <img src="parte6/67_01_01.png"/>
 			   <figcaption>Vamos imaginar uma reta tangente exterior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Se reduzirmos os raios das circunferências até <b>&beta;</b> tornar-se um ponto, a circunferência <b>&alpha;</b> será contraída, ou seja, torna-se uma circunferência com raio <b>a &minus; b</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="824a" name="sl" checked>
+			   <input type="radio" id="824a" name="sl">
 			   <label for="824a"></label>
 			   <img src="parte6/67_01_01.png"/>
 			   <figcaption>Logo, podemos construir a reta <b>t<sub>1</sub></b> tangente a <b>&alpha;'</b> que passa por <b>B</b>; depois, basta construir a reta <b>t</b> paralela a <b>t<sub>1</sub></b>.</figcaption>
@@ -6303,13 +6303,13 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="831" name="sl" checked>
+			   <input type="radio" id="831" name="sl">
 			   <label for="831"></label>
 			   <img src="parte6/67_02_01.png"/>
 			   <figcaption>Vamos imaginar uma reta tangente interior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Se aumentaros o raio da circunferência <b>&alpha;</b> e diminuirmos o raio de <b>&beta;</b> até tornar-se um ponto, a circunferência <b>&alpha;</b> será dilatada, ou seja, torna-se uma circunferência com raio <b>a + b</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="832" name="sl" checked>
+			   <input type="radio" id="832" name="sl">
 			   <label for="832"></label>
 			   <img src="parte6/67_02_01.png"/>
 			   <figcaption>Logo, podemos construir a reta <b>t<sub>1</sub></b> tangente a <b>&alpha;'</b> que passa por <b>B</b>; depois, basta construir a reta <b>t</b> paralela a <b>t<sub>1</sub></b>.</figcaption>
@@ -6364,7 +6364,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="839" name="sl" checked>
+			   <input type="radio" id="839" name="sl">
 			   <label for="839"></label>
 			   <img src="parte6/67_04_01.png"/>
 			   <figcaption>Vamos imaginar uma reta tangente exterior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Os raios <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> são paralelos e determinam os <b>&#9651;AT<sub>1</sub>H ~ &#9651;BT<sub>2</sub>H</b>. O ponto <b>H</b> é chamado de centro de semelhança ou de homotetia.</figcaption>
@@ -6408,7 +6408,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="845" name="sl" checked>
+			   <input type="radio" id="845" name="sl">
 			   <label for="845"></label>
 			   <img src="parte6/68_01_01.png"/>
 			   <figcaption>Vamos imaginar uma reta tangente interior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Os raios <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> são paralelos e determinam os <b>&#9651;AT<sub>1</sub>I ~ &#9651;BT<sub>2</sub>I</b>. O ponto <b>I</b> é chamado de centro de semelhança ou de homotetia.</figcaption>
@@ -6483,7 +6483,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="851" name="sl" checked>
+			   <input type="radio" id="851" name="sl">
 			   <label for="851"></label>
 			   <img src="parte6/70_02_01.png"/>
 			   <figcaption>Vamos prolongar o segmento <b>CT</b>, pois o centro da circunferência tangente está alinhado com <b>C</b> e <b>T</b>.</figcaption>
@@ -6508,7 +6508,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="854" name="sl" checked>
+			   <input type="radio" id="854" name="sl">
 			   <label for="854"></label>
 			   <img src="parte6/70_03_01.png"/>
 			   <figcaption>Construa a reta perpendicular a <b>t</b> pelo ponto <b>T</b>.</figcaption>
@@ -6533,7 +6533,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="857" name="sl" checked>
+			   <input type="radio" id="857" name="sl">
 			   <label for="857"></label>
 			   <img src="parte6/70_04_01.png"/>
 			   <figcaption>Construa a reta perpendicular a <b>s</b> pelo ponto <b>T</b>, encontrando o ponto <b>P &isin; r</b>.</figcaption>
@@ -6551,7 +6551,7 @@
 			   <figcaption>Construa a Circunf(O,OP).</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="860" name="sl" checked>
+			   <input type="radio" id="860" name="sl">
 			   <label for="860"></label>
 			   <img src="parte6/70_04_04.png"/>
 			   <figcaption>No item 14.2, construa a reta perpendicular a <b>s</b> pelo ponto <b>T</b>.</figcaption>
@@ -6583,7 +6583,7 @@
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="864" name="sl" checked>
+			   <input type="radio" id="864" name="sl">
 			   <label for="864"></label>
 			   <img src="parte6/71_01_01.png"/>
 			   <figcaption>Escolha um ponto <b>A</b> qualquer da circunferência, e "pegue" com o compasso a medida do raio <b>r</b>.</figcaption>
@@ -6601,7 +6601,7 @@
 			   <figcaption>Como a circunferência é tangente à Circunf(C,m), o centro da circunferência tangente pertence à Circunf(C,m + r).</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="867" name="sl" checked>
+			   <input type="radio" id="867" name="sl">
 			   <label for="867"></label>
 			   <img src="parte6/71_01_04.png"/>
 			   <figcaption>Como a circunferência tangente passa pelo ponto <b>P</b>, o seu centro pertence à Circunf(P,r).</figcaption>
@@ -6620,7 +6620,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="869" name="sl" checked>
+			   <input type="radio" id="869" name="sl">
 			   <label for="869"></label>
 			   <img src="parte6/71_02_01.png"/>
 			   <figcaption>Escolha um ponto <b>A</b> qualquer da reta <b>s</b>, e construa a reta perpendicular a <b>s</b>. "Pegue" com o compasso a medida do raio <b>r</b>.</figcaption>
@@ -6638,7 +6638,7 @@
 			   <figcaption>Construa a reta paralela a <b>s</b> que passa por <b>B</b>, lugar geométrico do centro da circunferência tangente a <b>s</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="872" name="sl" checked>
+			   <input type="radio" id="872" name="sl">
 			   <label for="872"></label>
 			   <img src="parte6/71_02_04.png"/>
 			   <figcaption>Como a circunferência tangente passa pelo ponto <b>P</b>, o seu centro pertence à Circunf(P,r).</figcaption>
@@ -6663,7 +6663,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="874" name="sl" checked>
+			   <input type="radio" id="874" name="sl">
 			   <label for="874"></label>
 			   <img src="parte6/71_04_01.png"/>
 			   <figcaption>Escolha um ponto <b>A</b> qualquer da reta <b>t</b>, e construa a reta perpendicular a <b>t</b>. "Pegue" com o compasso a medida do raio <b>r</b>.</figcaption>
@@ -6681,7 +6681,7 @@
 			   <figcaption>Construa a reta <b>s // t</b> que passa por <b>B</b>, lugar geométrico do centro da circunferência tangente a <b>t</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="877" name="sl" checked>
+			   <input type="radio" id="877" name="sl">
 			   <label for="877"></label>
 			   <img src="parte6/71_04_04.png"/>
 			   <figcaption>Como a circunferência é tangente à Circunf(C,m), o seu centro pertence à Circunf(C,m + r). Construa um raio <b>CD</b> qualquer.</figcaption>
@@ -6693,7 +6693,7 @@
 			   <figcaption>No prolongamento de <b>CD</b>, construa o segmento <b>DE = r</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="879" name="sl" checked>
+			   <input type="radio" id="879" name="sl">
 			   <label for="879"></label>
 			   <img src="parte6/71_04_06.png"/>
 			   <figcaption>Construa a Circunf(C,m + r).</figcaption>
@@ -6713,7 +6713,7 @@
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="881" name="sl" checked>
+			   <input type="radio" id="881" name="sl">
 			   <label for="881"></label>
 			   <img src="parte6/72_01_01.png"/>
 			   <figcaption>Escolha um ponto <b>A</b> qualquer da Circunf(A,m), e construa o segmento <b>AB = r</b> no prolongamento de <b>CA</b>.</figcaption>
@@ -6731,7 +6731,7 @@
 			   <figcaption>Como a circunferência é tangente à Circunf(C,m), o seu centro pertence à Circunf(C,m + r).</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="884" name="sl" checked>
+			   <input type="radio" id="884" name="sl">
 			   <label for="884"></label>
 			   <img src="parte6/72_01_04.png"/>
 			   <figcaption>Como a circunferência é tangente à Circunf(D,n), o seu centro pertence à Circunf(D,n + r).</figcaption>
@@ -6769,7 +6769,7 @@
 			   <figcaption>Aplicando o exercício 19, construimos as Circunf(A,5) e Circunf(B,5) para encontrar o centro da circunferência tangente com raio 3cm.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="888" name="sl" checked>
+			   <input type="radio" id="888" name="sl">
 			   <label for="888"></label>
 			   <img src="parte6/73_02_04.png"/>
 			   <figcaption>Construa o arco com raio 3cm.</figcaption>
@@ -6793,7 +6793,7 @@
 			   <figcaption>Para encontrar o ponto <b>D</b>, construa a mediatriz de <b>CT</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="892" name="sl" checked>
+			   <input type="radio" id="892" name="sl">
 			   <label for="892"></label>
 			   <img src="parte6/73_02_08.png"/>
 			   <figcaption>Construa o <b>&angsph;TDT' = 75&deg;</b>, determinando mais um arco do contorno da maçã.</figcaption>
@@ -6805,7 +6805,7 @@
 			   <figcaption>Para encontrar o ponto <b>E</b>, construa a mediatriz de <b>DT'</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="894" name="sl" checked>
+			   <input type="radio" id="894" name="sl">
 			   <label for="894"></label>
 			   <img src="parte6/73_02_10.png"/>
 			   <figcaption>Para encontrar o ponto <b>G</b>, construa as Circunf(D,4.6) e Circunf(E,5.3).</figcaption>
@@ -6829,7 +6829,7 @@
 			   <figcaption>Construa as Circunf(G,6) e Circunf(E,EF'), determinando o ponto <b>F</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="897" name="sl" checked>
+			   <input type="radio" id="897" name="sl">
 			   <label for="897"></label>
 			   <img src="parte6/73_02_13.png"/>
 			   <figcaption>Logo, determinamos os pontos de tangência nas Circunf(E,ED) e Circunf(G,GL). Construa mais dois arcos do contorno da maçã.</figcaption>
@@ -6853,7 +6853,7 @@
 			   <figcaption>O arco com centro em <b>D</b> e raio até o ponto de tangência da Circunf(B,2) determina mais uma parte do contorno, que vai até a Circunf(H,3).</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="901" name="sl" checked>
+			   <input type="radio" id="901" name="sl">
 			   <label for="901"></label>
 			   <img src="parte6/73_02_17.png"/>
 			   <figcaption>Construa o arco do contorno com centro em <b>H</b> e a reta que forma 45&deg; com <b>CH</b> e passa por <b>H</b>. O ponto de interseção desta reta com a Circunf(H,3) é o ponto <b>P</b>.</figcaption>
@@ -6865,13 +6865,13 @@
 			   <figcaption>Construa a Circunf(N,3), sabendo-se que o ponto <b>N</b> pertence à reta que acabamos de construir.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="903" name="sl" checked>
+			   <input type="radio" id="903" name="sl">
 			   <label for="903"></label>
 			   <img src="parte6/73_02_19.png"/>
 			   <figcaption>Construa <b>MN = 4cm</b> e a Circunf(M,3).</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="904" name="sl" checked>
+			   <input type="radio" id="904" name="sl">
 			   <label for="904"></label>
 			   <img src="parte6/73_02_20.png"/>
 			   <figcaption>Para finalizar, determine os arcos de centros em <b>M</b> e <b>N</b> para fazer a folha da maçã.</figcaption>
@@ -6894,7 +6894,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="905" name="sl" checked>
+			   <input type="radio" id="905" name="sl">
 			   <label for="905"></label>
 			   <img src="parte6/74_02_01.png"/>
 			   <figcaption>Como a circunferência é tangente à reta <b>t</b> em <b>T</b>, construa a reta perpendicular a reta <b>t</b> pelo ponto <b>T</b>.</figcaption>
@@ -6912,7 +6912,7 @@
 			   <figcaption>No prolongamento do segmento <b>TA</b>, encontramos o ponto de tangência <b>T<sub>1</sub></b> da circunferência.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="908" name="sl" checked>
+			   <input type="radio" id="908" name="sl">
 			   <label for="908"></label>
 			   <img src="parte6/74_02_04.png"/>
 			   <figcaption>Unindo os pontos <b>C</b> e <b>T<sub>1</sub></b>, encontramos o centro <b>O<sub>1</sub></b> na reta perpendicular que construímos. Esta construção usa o fato de que <b>&#9651;O<sub>1</sub>TT<sub>1</sub> ~ &#9651;CAT<sub>1</sub></b>.</figcaption>
@@ -6937,7 +6937,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="911" name="sl" checked>
+			   <input type="radio" id="911" name="sl">
 			   <label for="911"></label>
 			   <img src="parte6/74_03_01.png"/>
 			   <figcaption>Vamos usar propriedades parecidas com as que usamos no exercício anterior. Construa a reta <b>AB &perp; t</b> que passa pelo centro <b>C</b>.</figcaption>
@@ -6955,7 +6955,7 @@
 			   <figcaption>Unindo os pontos <b>C</b> e <b>T</b>, encontramos o centro <b>O<sub>1</sub></b> na reta perpendicular que construímos. Esta construção usa o fato de que <b>&#9651;O<sub>1</sub>TT<sub>1</sub> ~ &#9651;CTA</b></figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="914" name="sl" checked>
+			   <input type="radio" id="914" name="sl">
 			   <label for="914"></label>
 			   <img src="parte6/74_03_04.png"/>
 			   <figcaption>Usando o mesmo raciocínio, unimos os pontos <b>B</b> e <b>T</b>, determinando o ponto de tangência <b>T<sub>2</sub></b> na reta <b>t</b>. </figcaption>
@@ -6981,7 +6981,7 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="917" name="sl" checked>
+			   <input type="radio" id="917" name="sl">
 			   <label for="917"></label>
 			   <img src="parte6/75_01_01.png"/>
 			   <figcaption>Vamos usar propriedades parecidas com as que usamos nos exercícios anteriores. Construa a reta <b>t &perp; CT</b>. Logo, podemos construir a circunferência tangente à Circunf(D,n) e tangente à reta <b>t</b> em <b>T</b>.</figcaption>
@@ -6999,7 +6999,7 @@
 			   <figcaption>No prolongamento de <b>TA</b>, encontramos o ponto de tangência <b>T<sub>1</sub></b> da Circunf(D,n).</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="920" name="sl" checked>
+			   <input type="radio" id="920" name="sl">
 			   <label for="920"></label>
 			   <img src="parte6/75_01_04.png"/>
 			   <figcaption>Unindo os pontos <b>D</b> e <b>T<sub>1</sub></b>, encontramos o centro <b>O<sub>1</sub></b> na reta <b>CT</b>.</figcaption>
@@ -7013,7 +7013,7 @@
 		   <li>
 			   <input type="radio" id="922" name="sl">
 			   <label for="922"></label>
-			   <img src="parte6/75_01_05.png"/>
+			   <img src="parte6/75_01_06.png"/>
 			   <figcaption>Unindo os pontos <b>D</b> e <b>T<sub>2</sub></b>, encontramos o centro <b>O<sub>2</sub></b> na reta <b>CT</b>.</figcaption>
 		   </li>
 		</ul>
@@ -7029,20 +7029,371 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício usamos as propriedades dos exercícios 1, 2 e 22.</p>
 	<img src="parte6/75_03_00.png"/>
-	<figcaption>De acordo com a propriedade usada no exercício 22, o centro <b>O</b> está na interseção dos segmentos <b>PQ</b> e <b>OT</b>.</figcaption>
+	<figcaption>De acordo com a propriedade usada no exercício 22, o ponto de tangência <b>T</b> está na interseção dos segmentos <b>PQ</b> e <b>OT</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0076.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício usamos as propriedades dos exercícios 1, 2 e 22.</p>
+	<img src="parte6/76_01_00.png"/>
+	<figcaption>De acordo com a propriedade usada no exercício 22, o ponto de tangência <b>T</b> está na interseção das retas <b>PQ</b> e <b>AT</b>.</figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0076a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício usamos as propriedades dos exercícios 1, 2 e 22.</p>
+	<img src="parte6/76_01_00.png"/>
+	<figcaption>De acordo com a propriedade usada no exercício 22, o ponto de tangência <b>T</b> está na interseção da reta <b>BP</b> com a Circunf(A,3.5).</figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0076b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="923" name="sl">
+			   <label for="923"></label>
+			   <img src="parte6/76_03_01.png"/>
+			   <figcaption>A circunferência tangente à reta <b>t</b> passa pelos pontos <b>A</b> e <b>B</b>. Logo, o centro pertence à mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="924" name="sl">
+			   <label for="924"></label>
+			   <img src="parte6/76_03_02.png"/>
+			   <figcaption>No prolongamento do segmento <b>AB</b>, determine o ponto de interseção <b>P &isin; t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="925" name="sl">
+			   <label for="925"></label>
+			   <img src="parte6/76_03_03.png"/>
+			   <figcaption>De acordo com as propriedades de potência de ponto, a distância <b>PT</b> será a média geométrica entre <b>PA</b> e <b>PB</b>, ou seja, $\mathsf{ PT = \sqrt{PA \cdot PB} }$. Logo, construa a mediatriz de <b>PB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="926" name="sl">
+			   <label for="926"></label>
+			   <img src="parte6/76_03_04.png"/>
+			   <figcaption>Unindo os pontos <b>D</b> e <b>T<sub>1</sub></b>, encontramos o centro <b>O<sub>1</sub></b> na reta <b>CT</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="927" name="sl">
+			   <label for="927"></label>
+			   <img src="parte6/76_03_05.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg; em <b>PB</b> e a reta <b>AA' &perp; PB</b>. A média geométrica será o cateto <b>PA'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="929" name="sl">
+			   <label for="929"></label>
+			   <img src="parte6/76_03_06.png"/>
+			   <figcaption>Construa a Circunf(P,PT) para encontrar os pontos <b>T</b> e <b>T'</b> na reta <b>t</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="930" name="sl">
+			   <label for="930"></label>
+			   <img src="parte6/76_03_07.png"/>
+			   <figcaption>Construa as perpendiculares a <b>t</b> que passam por <b>T</b> e <b>T'</b>. Os centros <b>O</b> e <b>O'</b> pertencem à mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="931" name="sl">
+			   <label for="931"></label>
+			   <img src="parte6/76_03_08.png"/>
+			   <figcaption>As soluções são as circunferências de centros <b>O</b> e <b>O'</b> e raios <b>OT</b> e <b>OT'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/76_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0077.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="932" name="sl">
+			   <label for="932"></label>
+			   <img src="parte6/77_01_01.png"/>
+			   <figcaption>A circunferência tangente à Circunf(C,m) passa pelos pontos <b>A</b> e <b>B</b>. Logo, o centro pertence à mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="933" name="sl">
+			   <label for="933"></label>
+			   <img src="parte6/77_01_02.png"/>
+			   <figcaption>Construa a circunferência com centro em um ponto <b>Q &isin; med<sub>AB</sub></b> que passa pelos pontos <b>A</b> e <b>B</b> e que seja secante à Circunf(C,m).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="934" name="sl">
+			   <label for="934"></label>
+			   <img src="parte6/77_01_03.png"/>
+			   <figcaption>A reta <b>DE</b> é chamada de eixo radical, que mantém mesma potência de ponto em relação à Circunf(C,m) e à Circunf(Q,QA). Na interseção de <b>DE</b> com <b>AB</b>, encontramos o ponto <b>C<sub>R</sub></b>, chamado de centro radical. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="935" name="sl">
+			   <label for="935"></label>
+			   <img src="parte6/77_01_04.png"/>
+			   <figcaption>Neste ponto, temos mesma potência de ponto em relação à solução e às outras duas circunferências, ou seja, $\mathsf{ C_RT = \sqrt{C_RA \cdot C_RB} = \sqrt{C_RE \cdot C_RD} }$. Logo, podemos construir o arco capaz de 90&deg; em <b>CC<sub>R</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="937" name="sl">
+			   <label for="937"></label>
+			   <img src="parte6/77_01_05.png"/>
+			   <figcaption>Com centro em <b>M</b>, determine o arco capaz de 90&deg; em <b>CC<sub>R</sub></b>: os pontos de tangência <b>T</b> e <b>T'</b> estão na interseção do arco capaz construído com a Circunf(C,m).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="938" name="sl">
+			   <label for="938"></label>
+			   <img src="parte6/77_01_06.png"/>
+			   <figcaption>Construa a reta <b>CT</b>: na interseção desta reta com a mediatriz, encontramos o centro da primeira solução <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="939" name="sl">
+			   <label for="939"></label>
+			   <img src="parte6/77_01_07.png"/>
+			   <figcaption>Construa a Circunf(O,OT).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="940" name="sl">
+			   <label for="940"></label>
+			   <img src="parte6/77_01_08.png"/>
+			   <figcaption>Construa a reta <b>CT'</b>: na interseção desta reta com a mediatriz, encontramos o centro da segunda solução <b>O'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="941" name="sl">
+			   <label for="941"></label>
+			   <img src="parte6/77_01_09.png"/>
+			   <figcaption>Construa a Circunf(O',O'T').</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/77_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0077a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="942" name="sl">
+			   <label for="942"></label>
+			   <img src="parte6/77_02_01.png"/>
+			   <figcaption>Vamos imaginar uma solução tangente interior às 3 circunferências. Se reduzirmos os raios das 3 circunferências até tornarem-se pontos, a solução passará pelos 3 centros. Logo, vamos fazer a contração das 3 circunferências.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="943" name="sl">
+			   <label for="943"></label>
+			   <img src="parte6/77_02_02.png"/>
+			   <figcaption>Vamos determinar o centro da circunferência que passa pelos pontos <b>A</b>, <b>B</b> e <b>C</b>. Começamos pela mediatriz de <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="944" name="sl">
+			   <label for="944"></label>
+			   <img src="parte6/77_02_03.png"/>
+			   <figcaption>Depois podemos construir a mediatriz de <b>AC</b>. O centro <b>O está no encontro das duas mediatrizes</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="945" name="sl">
+			   <label for="945"></label>
+			   <img src="parte6/77_02_04.png"/>
+			   <figcaption>Na reta <b>OA</b>, encontramos os pontos de tangência das soluções <b>T<sub>A</sub></b> e <b>T'<sub>A</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="947" name="sl">
+			   <label for="947"></label>
+			   <img src="parte6/77_02_05.png"/>
+			   <figcaption>Podemos fazer o mesmo com os raios <b>OB</b> e <b>OC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="948" name="sl">
+			   <label for="948"></label>
+			   <img src="parte6/77_02_06.png"/>
+			   <figcaption>A tangente interior tem centro em <b>O &equiv; O'</b> e raio <b>OT<sub>A</sub></b> e a tangente exterior tem centro em <b>O' &equiv; O</b> e raio <b>O'T'<sub>A</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/77_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0077b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="950" name="sl">
+			   <label for="950"></label>
+			   <img src="parte6/77_03_01.png"/>
+			   <figcaption>Vamos imaginar uma solução tangente interior à circunferência <b>&alpha;</b> e exterior às circunferências <b>&beta;</b> e <b>&gamma;</b>. Se reduzirmos os raios das circunferências <b>&beta;</b> e <b>&gamma;</b>, a solução passará pelos centros <b>B</b> e <b>C</b> e será tangente à circunferência <b>&alpha;'</b>, que terá o raio dobrado. Este é o exercício 27.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="951" name="sl">
+			   <label for="951"></label>
+			   <img src="parte6/77_03_02.png"/>
+			   <figcaption>A circunferência tangente à <b>&alpha;'</b> passa pelos pontos <b>B</b> e <b>C</b>. Logo, o centro pertence à mediatriz de <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="952" name="sl">
+			   <label for="952"></label>
+			   <img src="parte6/77_03_03.png"/>
+			   <figcaption>Construa a circunferência com centro em um ponto <b>Q &isin; med<sub>BC</sub></b> que passa pelos pontos <b>B</b> e <b>C</b> e que seja secante a <b>&alpha;'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="953" name="sl">
+			   <label for="953"></label>
+			   <img src="parte6/77_03_04.png"/>
+			   <figcaption>A reta <b>DE</b> é chamada de eixo radical, que mantém mesma potência de ponto em relação a <b>&alpha;'</b> e à Circunf(Q,QB). Na interseção de <b>DE</b> com <b>BC</b>, encontramos o ponto <b>C<sub>R</sub></b>, chamado de centro radical.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="954" name="sl">
+			   <label for="954"></label>
+			   <img src="parte6/77_03_05.png"/>
+			   <figcaption>Neste ponto, temos mesma potência de ponto em relação à solução e às outras duas circunferências, ou seja, $\mathsf{ C_RT = \sqrt{C_RB \cdot C_RC} = \sqrt{C_RE \cdot C_RD} }$. Logo, podemos construir o arco capaz de 90&deg; em <b>AC<sub>R</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="955" name="sl">
+			   <label for="955"></label>
+			   <img src="parte6/77_03_06.png"/>
+			   <figcaption>Com centro em <b>M</b>, determine o arco capaz de 90&deg; em <b>AC<sub>R</sub></b>: os pontos de tangência <b>T<sub>1</sub></b> e <b>T'<sub>1</sub></b> estão na interseção do arco capaz construído com <b>&alpha;'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="956" name="sl">
+			   <label for="956"></label>
+			   <img src="parte6/77_03_07.png"/>
+			   <figcaption>Construa a reta <b>AT<sub>1</sub></b>: na interseção desta reta com a mediatriz, encontramos o centro da primeira solução <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="957" name="sl">
+			   <label for="957"></label>
+			   <img src="parte6/77_03_08.png"/>
+			   <figcaption>Construa a Circunf(O,OT<sub>1</sub>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="958" name="sl">
+			   <label for="958"></label>
+			   <img src="parte6/77_03_09.png"/>
+			   <figcaption>Construa a reta <b>AT'<sub>1</sub></b>: na interseção desta reta com a mediatriz, encontramos o centro da segunda solução <b>O'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="959" name="sl">
+			   <label for="959"></label>
+			   <img src="parte6/77_03_10.png"/>
+			   <figcaption>Construa a Circunf(O',O'T'<sub>1</sub>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="960" name="sl">
+			   <label for="960"></label>
+			   <img src="parte6/77_03_11.png"/>
+			   <figcaption>Um dos pontos de tangência de <b>&alpha;</b> está na interseção de <b>OT<sub>1</sub></b> com <b>&alpha;</b>. Construa a solução tangente às três circunferências com centro <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="961" name="sl">
+			   <label for="961"></label>
+			   <img src="parte6/77_03_12.png"/>
+			   <figcaption>O outro ponto de tangência de <b>&alpha;</b> está na interseção de <b>O'T'<sub>1</sub></b> com <b>&alpha;</b>. Construa a solução tangente às três circunferências com centro <b>O'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="962" name="sl">
+			   <label for="962"></label>
+			   <img src="parte6/77_03a_00.png"/>
+			   <figcaption>Se contrairmos <b>&alpha;</b> e <b>&gamma;</b> e dilatarmos <b>&beta;</b>, teremos mais 2 soluções. Outras duas soluções podem ser encontradas se contrairmos <b>&alpha;</b> e <b>&beta;</b> e dilatarmos <b>&gamma;</b>. Este é o problema de Apolônio, que admite 8 soluções. </figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/77_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0078.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="963" name="sl">
+			   <label for="963"></label>
+			   <img src="parte6/78_01_01.png"/>
+			   <figcaption>Construa a bissetriz do <b>&angsph;AVB</b>. O ponto de tangência <b>T</b> do arco está na bissetriz construída.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="964" name="sl">
+			   <label for="964"></label>
+			   <img src="parte6/78_01_02.png"/>
+			   <figcaption>Construa a reta <b>B'A' &perp; VT</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="965" name="sl">
+			   <label for="965"></label>
+			   <img src="parte6/78_01_03.png"/>
+			   <figcaption>Construa a bissetriz do <b>&angsph;VA'B'</b>. O centro da circunferência inscrita está na interseção das bissetrizes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="966" name="sl">
+			   <label for="966"></label>
+			   <img src="parte6/78_01_04.png"/>
+			   <figcaption>O raio da circunferência inscrita é <b>OT</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/78_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0078a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="967" name="sl">
+			   <label for="967"></label>
+			   <img src="parte6/78_02_01.png"/>
+			   <figcaption>Podemos dividir o ângulo central em 3 partes iguais: logo, o ângulo central <b>&angsph;AOB</b>será de 120&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="968" name="sl">
+			   <label for="968"></label>
+			   <img src="parte6/78_02_02.png"/>
+			   <figcaption>Construa o ângulo <b>&angsph;BOC</b> com 120&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="969" name="sl">
+			   <label for="969"></label>
+			   <img src="parte6/78_02_03.png"/>
+			   <figcaption>O prolongamento de <b>CO</b> é a bissetriz do <b>&angsph;AOB</b>. Logo, temos o primeiro ponto de tangência <b>T<sub>1</sub></b>. Construa a reta perpendicular a <b>CT<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="970" name="sl">
+			   <label for="970"></label>
+			   <img src="parte6/78_02_04.png"/>
+			   <figcaption>Construa a bissetriz do <b>&angsph;A'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="971" name="sl">
+			   <label for="971"></label>
+			   <img src="parte6/78_02_05.png"/>
+			   <figcaption>O centro <b>O<sub>1</sub></b> está na interseção de <b>OT<sub>1</sub></b> com a bissetriz do <b>&angsph;A'</b>. Contrua a primeira tangente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="972" name="sl">
+			   <label for="972"></label>
+			   <img src="parte6/78_02_06.png"/>
+			   <figcaption>Vamos determinar as outras circunferências de maneira mais simples: construa a reta <b>O<sub>1</sub>T' &perp; OB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="973" name="sl">
+			   <label for="973"></label>
+			   <img src="parte6/78_02_07.png"/>
+			   <figcaption>O centro <b>O<sub>2</sub></b> está no prolongamento de <b>OA</b> com o prolongamento de <b>O<sub>1</sub>T'</b>. Construa a segunda tangente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="974" name="sl">
+			   <label for="974"></label>
+			   <img src="parte6/78_02_08.png"/>
+			   <figcaption>Construa a reta <b>O<sub>1</sub>T'' &perp; OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="975" name="sl">
+			   <label for="975"></label>
+			   <img src="parte6/78_02_09.png"/>
+			   <figcaption>O centro <b>O<sub>3</sub></b> está no prolongamento de <b>OB</b> com o prolongamento de <b>O<sub>1</sub>T''</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="976" name="sl">
+			   <label for="976"></label>
+			   <img src="parte6/78_02_10.png"/>
+			   <figcaption>Construa a terceira circunferência tangente.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte6/78_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte6/apos_dg_0078b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício usamos as propriedades de incentro. Se construirmos os pontos de tangência <b>T<sub>1</sub></b>, <b>T<sub>2</sub></b> e <b>T<sub>3</sub></b>, temos as distância iguais <b>AT<sub>2</sub> = AT<sub>3</sub></b> e <b>BT<sub>2</sub> = <b>BT<sub>1</sub></b> e <b>CT<sub>1</sub> = CT<sub>3</sub></b>.</p>
+	<img src="parte6/78_03_00.png"/>
+	<figcaption>Construa o incentro do triângulo e encontre os pontos de tangência da circunferência inscrita nos lados do <b>&#9651;ABC</b>.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
 </details>
 
