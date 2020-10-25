@@ -6689,7 +6689,7 @@
 		   <li>
 			   <input type="radio" id="878" name="sl">
 			   <label for="878"></label>
-			   <img src="parte6/71_4_05.png"/>
+			   <img src="parte6/71_04_05.png"/>
 			   <figcaption>No prolongamento de <b>CD</b>, construa o segmento <b>DE = r</b>.</figcaption>
 		   </li>
 		   <li>
