@@ -6647,6 +6647,8 @@
 			   <input type="radio" id="873" name="sl">
 			   <label for="873"></label>
 			   <img src="parte6/71_02_05.png"/>
+			   <figcaption>Construa as circunferências com centros em <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
+			</li>
 		</ul>
 		<img src="parte6/71_02_00.png" class="fundo"/>
   </details></div>
