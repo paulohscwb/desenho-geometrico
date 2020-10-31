@@ -7444,7 +7444,7 @@
 			   <input type="radio" id="983" name="sl">
 			   <label for="983"></label>
 			   <img src="parte7/79_01_07.png"/>
-			   <figcaption>Utilizando a lei dos cossenos em um dos triângulos, por exemplo, no  <b>&#9651;OA<sub>6</sub>A<sub>5</sub></b>, encontramos a medida do lado  $\mathsf{ l_8 = r \sqrt{2 - sqrt{2} } }$. Os outros polígonos com 16, 32, 64,... lados são construídos mediante sucessivas bissetrizes dos ângulos centrais.</figcaption>
+			   <figcaption>Utilizando a lei dos cossenos em um dos triângulos, por exemplo, no  <b>&#9651;OA<sub>6</sub>A<sub>5</sub></b>, encontramos a medida do lado  $\mathsf{ l_8 = r \sqrt{2 - \sqrt{2} } }$. Os outros polígonos com 16, 32, 64,... lados são construídos mediante sucessivas bissetrizes dos ângulos centrais.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/79_01_00.png" class="fundo"/>
@@ -7569,8 +7569,224 @@
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0081.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1000" name="sl">
+			   <label for="1000"></label>
+			   <img src="parte7/81_01_01.png"/>
+			   <figcaption>Vamos construir dois diâmetros perpendiculares. Utilizaremos a construção de segmento áureo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1001" name="sl">
+			   <label for="1001"></label>
+			   <img src="parte7/81_01_02.png"/>
+			   <figcaption>Construa a mediatriz do raio <b>OB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1002" name="sl">
+			   <label for="1002"></label>
+			   <img src="parte7/81_01_03.png"/>
+			   <figcaption>Construa o arco com centro em <b>M</b> e raio <b>MA</b>, encontrando o ponto <b>D &isin; OC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1003" name="sl">
+			   <label for="1003"></label>
+			   <img src="parte7/81_01_04.png"/>
+			   <figcaption>De acordo com as propriedades anteriores, temos que <b>OD = l<sub>10</sub></b> (segmento áureo de <b>r</b>) e que <b>AD = l<sub>5</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1004" name="sl">
+			   <label for="1004"></label>
+			   <img src="parte7/81_01_05.png"/>
+			   <figcaption>Considere o ponto <b>C &equiv; A<sub>1</sub></b>. "Pegue" com o compasso a medida do lado do pentágono regular....</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1005" name="sl">
+			   <label for="1005"></label>
+			   <img src="parte7/81_01_06.png"/>
+			   <figcaption>... e construa os arcos com centro em <b>A<sub>1</sub></b> e raio <b>l<sub>5</sub></b>. Assim, encontramos mais 2 vértices do pentágono.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1006" name="sl">
+			   <label for="1006"></label>
+			   <img src="parte7/81_01_07.png"/>
+			   <figcaption>Construa os arcos com raio <b>l<sub>5</sub></b> e centros em <b>A<sub>5</sub></b> e <b>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1007" name="sl">
+			   <label for="1007"></label>
+			   <img src="parte7/81_01_08.png"/>
+			   <figcaption>Construa o pentágono regular. Para construir os polígonos de 20, 40, ... lados, podemos usar bissetrizes sucessivas do ângulo central de 72&deg;.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/81_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte7/apos_dg_0081a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do pentadecágono</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1008" name="sl">
+			   <label for="1008"></label>
+			   <img src="parte7/81_02_01.png"/>
+			   <figcaption>Vamos construir dois diâmetros perpendiculares.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1009" name="sl">
+			   <label for="1009"></label>
+			   <img src="parte7/81_02_02.png"/>
+			   <figcaption>Primeiro, vamos encontrar o <b>l<sub>10</sub></b>. Construa a mediatriz de <b>OB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1010" name="sl">
+			   <label for="1010"></label>
+			   <img src="parte7/81_02_03.png"/>
+			   <figcaption>Construa o arco com centro em <b>M</b> e raio <b>MA</b>, encontrando o ponto <b>D &isin; OC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1011" name="sl">
+			   <label for="1011"></label>
+			   <img src="parte7/81_02_04.png"/>
+			   <figcaption>Logo, temos que <b>OD = l<sub>10</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1012" name="sl">
+			   <label for="1012"></label>
+			   <img src="parte7/81_02_05.png"/>
+			   <figcaption>"Pegue" com o compasso a medida do <b>l<sub>10</sub></b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1013" name="sl">
+			   <label for="1013"></label>
+			   <img src="parte7/81_02_06.png"/>
+			   <figcaption>... e construa o arco com raio <b>l<sub>10</sub></b> e centro em um ponto qualquer da circunferência. Eu escolhi o ponto <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1014" name="sl">
+			   <label for="1014"></label>
+			   <img src="parte7/81_02_07.png"/>
+			   <figcaption>Logo, temos um ângulo central de 36&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1015" name="sl">
+			   <label for="1015"></label>
+			   <img src="parte7/81_02_08.png"/>
+			   <figcaption>Agora "pegue" com o compasso a medida do raio da circunferência...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1016" name="sl">
+			   <label for="1016"></label>
+			   <img src="parte7/81_02_09.png"/>
+			   <figcaption>... e construa o arco com raio <b>r = l<sub>6</sub></b> e centro em <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1017" name="sl">
+			   <label for="1017"></label>
+			   <img src="parte7/81_02_10.png"/>
+			   <figcaption>Como o ângulo central <b>&angsph;DOA<sub>2</sub> = 60&deg;</b>, temos que o <b>&angsph;A<sub>1</sub>A<sub>2</sub> = 24&deg;</b>. Portanto, <b>A<sub>1</sub>A<sub>2</sub> = l<sub>15</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1018" name="sl">
+			   <label for="1018"></label>
+			   <img src="parte7/81_02_11.png"/>
+			   <figcaption>Construa os outros 13 vértices do pentadecágono regular. Os demais polígonos de 30, 60,... são construídos com bissetrizes sucessivas do ângulo central de 24&deg;.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/81_02_00.png" class="fundo"/>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução de heptadecágono</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Esta construção é devida a Richmond (1893).</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1019" name="sl">
+			   <label for="1019"></label>
+			   <img src="parte7/81_04_01.png"/>
+			   <figcaption>Vamos construir dois diâmetros perpendiculares.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1020" name="sl">
+			   <label for="1020"></label>
+			   <img src="parte7/81_04_02.png"/>
+			   <figcaption>Usando o teorema de Tales, vamos encontrar $\mathsf{ OE = \frac{r}{4} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1021" name="sl">
+			   <label for="1021"></label>
+			   <img src="parte7/81_04_03.png"/>
+			   <figcaption>Construa o segmento <b>EA<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1022" name="sl">
+			   <label for="1022"></label>
+			   <img src="parte7/81_04_04.png"/>
+			   <figcaption>Vamos dividir o <b>&angsph;OEA<sub>1</sub></b> em 4 partes iguais. Construa a bissetriz deste ângulo...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1023" name="sl">
+			   <label for="1023"></label>
+			   <img src="parte7/81_04_05.png"/>
+			   <figcaption>... e depois, a bissetriz da metade deste ângulo, encontrando o ponto <b>F &isin; OA<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1024" name="sl">
+			   <label for="1024"></label>
+			   <img src="parte7/81_04_06.png"/>
+			   <figcaption>Construa o <b>&angsph;FEG = 45&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1025" name="sl">
+			   <label for="1025"></label>
+			   <img src="parte7/81_04_07.png"/>
+			   <figcaption>Agora construa a semi-circunferência com diâmetro <b>A<sub>1</sub>G</b>; construa a mediatriz de <b>GA<sub>1</sub></b>. O ponto de interseção desta semi-circunferência com <b>OC</b> é o ponto <b>I</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1026" name="sl">
+			   <label for="1026"></label>
+			   <img src="parte7/81_04_08.png"/>
+			   <figcaption>Construa o arco com centro em <b>F</b> e raio <b>FI</b>, até encontrar <b> J &isin; OA<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1027" name="sl">
+			   <label for="1027"></label>
+			   <img src="parte7/81_04_09.png"/>
+			   <figcaption>A reta <b>JA<sub>4</sub> &perp; OA<sub>1</sub></b> determina o quarto vértice do heptadecágono na circunferência. O primeiro vértice já está sendo considerado como <b>A<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1028" name="sl">
+			   <label for="1028"></label>
+			   <img src="parte7/81_04_10.png"/>
+			   <figcaption>Podemos "pegar" com o compasso a medida <b>A<sub>1</sub>A<sub>4</sub></b>...</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1029" name="sl">
+			   <label for="1029"></label>
+			   <img src="parte7/81_04_11.png"/>
+			   <figcaption>... e construir os arcos: com centro em <b>A<sub>4</sub></b> para encontrar <b>A<sub>7</sub></b>; com centro em <b>A<sub>7</sub></b> para encontrar <b>A<sub>10</sub></b>; com centro em <b>A<sub>10</sub></b> para encontrar <b>A<sub>13</sub></b>; e com centro em <b>A<sub>13</sub></b> para encontrar <b>A<sub>16</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1030" name="sl">
+			   <label for="1030"></label>
+			   <img src="parte7/81_04_12.png"/>
+			   <figcaption>Continuando, na segunda volta e mesmo raio <b>A<sub>1</sub>A<sub>4</sub></b>, construimos os arcos para encontrar <b>A<sub>2</sub></b>, <b>A<sub>8</sub></b>, <b>A<sub>11</sub></b>, <b>A<sub>14</sub></b> e <b>A<sub>17</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1031" name="sl">
+			   <label for="1031"></label>
+			   <img src="parte7/81_04_13.png"/>
+			   <figcaption>Para finalizar, na terceira volta e mesmo raio <b>A<sub>1</sub>A<sub>4</sub></b>, construimos os arcos para encontrar <b>A<sub>3</sub></b>, <b>A<sub>9</sub></b>, <b>A<sub>12</sub></b> e <b>A<sub>15</sub></b>. Construa o heptadecágono regular.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/81_04_00.png" class="fundo"/>
+  </details>
+  </div>
   <img src="parte7/apos_dg_0081b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Começando pelo lado <b>AB = l<sub>6</sub></b>, podemos encontrar o centro da circunferência circunscrita.</p>
+	<img src="parte6/81_03_00.png"/>
+	<figcaption>Com centros em <b>A</b> e <b>B</b>, construimos os arcos com raios iguais a <b>l<sub>6</sub></b>. Depois, construímos a circunferência circunscrita e os 4 outros vértices, como fizemos anteriormente.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0082.png"/>
   <img src="parte7/apos_dg_0082a.png"/>
