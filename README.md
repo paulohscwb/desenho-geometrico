@@ -7181,7 +7181,7 @@
 			   <input type="radio" id="944" name="sl">
 			   <label for="944"></label>
 			   <img src="parte6/77_02_03.png"/>
-			   <figcaption>Depois podemos construir a mediatriz de <b>AC</b>. O centro <b>O está no encontro das duas mediatrizes</b>.</figcaption>
+			   <figcaption>Depois podemos construir a mediatriz de <b>AC</b>. O centro <b>O</b> está no encontro das duas mediatrizes.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="945" name="sl">
@@ -7329,7 +7329,7 @@
 			   <input type="radio" id="967" name="sl">
 			   <label for="967"></label>
 			   <img src="parte6/78_02_01.png"/>
-			   <figcaption>Podemos dividir o ângulo central em 3 partes iguais: logo, o ângulo central <b>&angsph;AOB</b>será de 120&deg;.</figcaption>
+			   <figcaption>Podemos dividir o ângulo central em 3 partes iguais: logo, o ângulo central <b>&angsph;AOB</b> será de 120&deg;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="968" name="sl">
@@ -7401,32 +7401,213 @@
   <summary id="parte7">5. Polígonos regulares</summary>
   <p>Material da página 79 até a página 89.</p>
   <img src="parte7/apos_dg_0079.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Para construir um polígono de <b>n</b> lados, vamos usar o conceito de dividir a medida do ângulo central em <b>n</b> partes iguais.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="977" name="sl">
+			   <label for="977"></label>
+			   <img src="parte7/79_01_01.png"/>
+			   <figcaption>Construindo um diâmetro, dividimos o ângulo central em dois ângulos de 180&deg;. Logo, temos 2 arcos capazes de 90&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="978" name="sl">
+			   <label for="978"></label>
+			   <img src="parte7/79_01_02.png"/>
+			   <figcaption>Construa o diâmetro perpendicular ao diâmetro construído no passo anterior. Logo, temos ângulos centrais de 90&deg;, e podemos construir o quadrado inscrito na circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="979" name="sl">
+			   <label for="979"></label>
+			   <img src="parte7/79_01_03.png"/>
+			   <figcaption>A medida do lado do quadrado é $\mathsf{ l_4 = r \sqrt{2} }$ .</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="980" name="sl">
+			   <label for="980"></label>
+			   <img src="parte7/79_01_04.png"/>
+			   <figcaption>Construa as bissetrizes dos ângulos centrais retos, ou construa com os esquadros ângulos de 45&deg; com os diâmetros construídos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="981" name="sl">
+			   <label for="981"></label>
+			   <img src="parte7/79_01_05.png"/>
+			   <figcaption>Neste caso, conseguimos a divisão da circunferência em 8 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="982" name="sl">
+			   <label for="982"></label>
+			   <img src="parte7/79_01_06.png"/>
+			   <figcaption>Construa o octógono regular inscrito na circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="983" name="sl">
+			   <label for="983"></label>
+			   <img src="parte7/79_01_07.png"/>
+			   <figcaption>Utilizando a lei dos cossenos em um dos triângulos, por exemplo, no  <b>&#9651;OA<sub>6</sub>A<sub>5</sub></b>, encontramos a medida do lado  $\mathsf{ l_8 = r \sqrt{2 - sqrt{2} } }$. Os outros polígonos com 16, 32, 64,... lados são construídos mediante sucessivas bissetrizes dos ângulos centrais.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/79_01_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0080.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Para construir um polígono de <b>n</b> lados, vamos usar o conceito de dividir a medida do ângulo central em <b>n</b> partes iguais.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="984" name="sl">
+			   <label for="984"></label>
+			   <img src="parte7/80_01_01.png"/>
+			   <figcaption>Construindo um raio da circunferência <b>OA<sub>1</sub> = r</b>, podemos "pegar" a medida do raio e construir o arco com centro na extremidade <b>A<sub>1</sub></b> e raio <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="985" name="sl">
+			   <label for="985"></label>
+			   <img src="parte7/80_01_02.png"/>
+			   <figcaption>Fazendo a mesma construção no semi-plano oposto, encontramos mais um ponto na circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="986" name="sl">
+			   <label for="986"></label>
+			   <img src="parte7/80_01_03.png"/>
+			   <figcaption>Com centros em <b>A<sub>2</sub></b> e em <b>A<sub>6</sub></b>, construimos arcos com raios iguais a <b>r</b> e determinamos mais 2 pontos na circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="987" name="sl">
+			   <label for="987"></label>
+			   <img src="parte7/80_01_04.png"/>
+			   <figcaption>O último vértice pode ser obtido da mesma forma, ou então no prolongamento do raio <b>OA<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="988" name="sl">
+			   <label for="988"></label>
+			   <img src="parte7/80_01_05.png"/>
+			   <figcaption>Temos o hexágono regular inscrito na circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="989" name="sl">
+			   <label for="989"></label>
+			   <img src="parte7/80_01_06.png"/>
+			   <figcaption>Esta construção deve-se ao fato de que construímos 6 triângulos equiláteros, com lados iguais a <b>r</b>. Portanto, o ângulo central mede 60&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="990" name="sl">
+			   <label for="990"></label>
+			   <img src="parte7/80_01_07.png"/>
+			   <figcaption>Para construir o triângulo equilátero, basta "pular" os vértices com índices pares ou ímpares; logo, teremos ângulos centrais de 120&deg;. Os demais polígonos podem ser construídos mediante sucessivas bissetrizes dos ângulos centrais.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/80_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte7/apos_dg_0080a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Vamos acompanhar a demonstração da Propriedade 1.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="991" name="sl">
+			   <label for="991"></label>
+			   <img src="parte7/80_02_01.png"/>
+			   <figcaption>Considere o ângulo central de 36&deg; e o lado <b>AB = l<sub>10</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="992" name="sl">
+			   <label for="992"></label>
+			   <img src="parte7/80_02_02.png"/>
+			   <figcaption>Logo, temos que <b>&angsph;OAB = &angsph; OBA = 72&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="993" name="sl">
+			   <label for="993"></label>
+			   <img src="parte7/80_02_03.png"/>
+			   <figcaption>Construindo a bissetriz do <b>&angsph;OAB</b>, temos dois ângulos com 36&deg;. Logo, o <b>&#9651;ABC</b> é isósceles de base <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="994" name="sl">
+			   <label for="994"></label>
+			   <img src="parte7/80_02_04.png"/>
+			   <figcaption>Temos outro triângulo iscósceles: <b>&#9651;OAC</b>, de base <b>OA</b>, pois tem dois ângulos com medida de 36&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="995" name="sl">
+			   <label for="995"></label>
+			   <img src="parte7/80_02_05.png"/>
+			   <figcaption>Logo, <b>BC = r - l<sub>10</sub></b>, e podemos substituir as medidas correspondentes na razão da semelhança dos <b>&#9651;OAB</b> e <b>&#9651;ABC</b>. Esta relação resultante indica a mesma de segmento áureo, que vimos na página 44. Logo, o lado <b>l<sub>10</sub></b> é segmento áureo do raio.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/80_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte7/apos_dg_0080b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Vamos acompanhar a demonstração da Propriedade 2.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="996" name="sl">
+			   <label for="996"></label>
+			   <img src="parte7/80_03_01.png"/>
+			   <figcaption>Considere o ângulo central de <b>&angsph;AOB = 36&deg;</b> e o prolongamento do segmento <b>AB</b> interceptando a circunferência de centro em <b>A</b> no ponto <b>C</b>. Note que as duas circunferências têm mesma medida de raio.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="998" name="sl">
+			   <label for="998"></label>
+			   <img src="parte7/80_03_03.png"/>
+			   <figcaption>Considere o segmento <b>CD</b> tangente à circunferência de centro <b>O</b>. Logo, temos que <b>&angsph;CDO = 90&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="999" name="sl">
+			   <label for="999"></label>
+			   <img src="parte7/80_03_04.png"/>
+			   <figcaption>Usando potência do ponto <b>C</b> em relação à circunferência de centro <b>O</b>, temos que $\mathsf{ CD^2 = CA \cdot CB }$, ou seja, $\mathsf{ CD^2 = r \cdot (r - l_{10} ) }$, que é a mesma relação da propriedade anterior. Logo, <b>CD = l<sub>10</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="997" name="sl">
+			   <label for="997"></label>
+			   <img src="parte7/80_03_05.png"/>
+			   <figcaption>Como o <b>&angsph;OAB = 72&deg;</b>, o segmento <b>OC = l<sub>5</sub></b>. Portanto, temos um triângulo retângulo <b>&#9651;OCD</b> com catetos <b>l<sub>10</sub></b> e <b>l<sub>6</sub> = r</b> e hipotenusa <b>l<sub>5</sub></b>. Podemos construir os lados do pentágono regular e do decágono regular de uma só vez.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/80_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0081.png"/>
+  <img src="parte7/apos_dg_0081a.png"/>
+  <img src="parte7/apos_dg_0081b.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0082.png"/>
+  <img src="parte7/apos_dg_0082a.png"/>
+  <img src="parte7/apos_dg_0082b.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0083.png"/>
+  <img src="parte7/apos_dg_0083a.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0084.png"/>
+  <img src="parte7/apos_dg_0084a.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0085.png"/>
+  <img src="parte7/apos_dg_0085a.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0086.png"/>
+  <img src="parte7/apos_dg_0086a.png"/>
+  <img src="parte7/apos_dg_0086b.png"/>
+  <img src="parte7/apos_dg_0086c.png"/>
+  <img src="parte7/apos_dg_0086d.png"/>
+  <img src="parte7/apos_dg_0086e.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0087.png"/>
+  <img src="parte7/apos_dg_0087a.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0088.png"/>
+  <img src="parte7/apos_dg_0088a.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0089.png"/>
+  <img src="parte7/apos_dg_0089a.png"/>
+  <img src="parte7/apos_dg_0089b.png"/>
+  <img src="parte7/apos_dg_0089c.png"/>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
   <summary id="parte8">6.1. Retificação de circunferência</summary>
-  <p>Material da página 89 até a página 93.</p>
+  <p>Material da página 90 até a página 95.</p>
   <img src="parte8/apos_dg_0089.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0090.png"/>
@@ -7441,7 +7622,7 @@
 
 <details style="border-bottom: 1px solid #a2dec0;">
   <summary id="parte9">6.2. Equivalência de áreas</summary>
-  <p>Material da página 94 até a página 103.</p>
+  <p>Material da página 96 até a página 105.</p>
   <img src="parte9/apos_dg_0094.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0095.png"/>
