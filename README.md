@@ -7784,7 +7784,7 @@
   <img src="parte7/apos_dg_0081b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Começando pelo lado <b>AB = l<sub>6</sub></b>, podemos encontrar o centro da circunferência circunscrita.</p>
-	<img src="parte6/81_03_00.png"/>
+	<img src="parte7/81_03_00.png"/>
 	<figcaption>Com centros em <b>A</b> e <b>B</b>, construimos os arcos com raios iguais a <b>l<sub>6</sub></b>. Depois, construímos a circunferência circunscrita e os 4 outros vértices, como fizemos anteriormente.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
