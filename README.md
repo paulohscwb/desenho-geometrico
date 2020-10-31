@@ -7891,7 +7891,7 @@
 			   <input type="radio" id="1045" name="sl">
 			   <label for="1045"></label>
 			   <img src="parte7/83_01_01.png"/>
-			   <figcaption>Considere <b>AB = l<sub>n</sub></b>. Logo, temos que $\mathsf{ AÔB = \frac{360^o}{n} }$ .</figcaption>
+			   <figcaption>Considere <b>AB = l<sub>n</sub></b>. Logo, temos que $\mathsf{ A \hat{O} B = \frac{360^o}{n} }$ .</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1046" name="sl">
@@ -7903,7 +7903,7 @@
 			   <input type="radio" id="1047" name="sl">
 			   <label for="1047"></label>
 			   <img src="parte7/83_01_03.png"/>
-			   <figcaption>Portanto, $\mathsf{ \alpha = \frac{AÔB}{2} = \frac{180^o}{n} }$. Usando a relação trigonométrica do seno, encontramos a relação $\mathsf{ l_n = 2 \cdot sen(\frac{180^o}{n} }$.</figcaption>
+			   <figcaption>Portanto, $\mathsf{ \alpha = \frac{A \hat{O} B}{2} = \frac{180^o}{n} }$. Usando a relação trigonométrica do seno, encontramos a relação $\mathsf{ l_n = 2 \cdot sen(\frac{180^o}{n}) }$.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/83_01_00.png" class="fundo"/>
