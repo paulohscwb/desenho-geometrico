@@ -7531,7 +7531,7 @@
 			   <input type="radio" id="995" name="sl">
 			   <label for="995"></label>
 			   <img src="parte7/80_02_05.png"/>
-			   <figcaption>Logo, <b>BC = r - l<sub>10</sub></b>, e podemos substituir as medidas correspondentes na razão da semelhança dos <b>&#9651;OAB</b> e <b>&#9651;ABC</b>. Esta relação resultante indica a mesma de segmento áureo, que vimos na página 44. Logo, o lado <b>l<sub>10</sub></b> é segmento áureo do raio.</figcaption>
+			   <figcaption>Logo, <b>BC = r &minus; l<sub>10</sub></b>, e podemos substituir as medidas correspondentes na razão da semelhança dos <b>&#9651;OAB</b> e <b>&#9651;ABC</b>. Esta relação resultante indica a mesma de segmento áureo, que vimos na página 44. Logo, o lado <b>l<sub>10</sub></b> é segmento áureo do raio.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/80_02_00.png" class="fundo"/>
@@ -7789,11 +7789,150 @@
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0082.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1032" name="sl">
+			   <label for="1032"></label>
+			   <img src="parte7/82_01_01.png"/>
+			   <figcaption>Vamos encontrar o centro da circunferência circunscrita. Como o ângulo central mede 45&deg;, vamos construir o arco capaz de 45&deg; em <b>AB = 3cm</b>. Construa a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1033" name="sl">
+			   <label for="1033"></label>
+			   <img src="parte7/82_01_02.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg;. Com centro em <b>N</b>, construa o arco capaz de 45&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1034" name="sl">
+			   <label for="1034"></label>
+			   <img src="parte7/82_01_03.png"/>
+			   <figcaption>O centro da circunferência circunscrita está no encontro do arco capaz de 45&deg; com a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1035" name="sl">
+			   <label for="1035"></label>
+			   <img src="parte7/82_01_04.png"/>
+			   <figcaption>Agora, basta construir os arcos com centros em <b>A</b> e <b>B</b>, com raio igual a <b>l<sub>8</sub> = AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1036" name="sl">
+			   <label for="1036"></label>
+			   <img src="parte7/82_01_05.png"/>
+			   <figcaption>Com centros em <b>C</b> e <b>H</b>, construa os arcos com raio igual a <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1037" name="sl">
+			   <label for="1037"></label>
+			   <img src="parte7/82_01_06.png"/>
+			   <figcaption>Para finalizar, construa os arcos com centros em <b>D</b> e <b>G</b>, com raio igual a <b>AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/82_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte7/apos_dg_0082a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Vamos usar o método de homotetia.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1038" name="sl">
+			   <label for="1038"></label>
+			   <img src="parte7/82_02_01.png"/>
+			   <figcaption>Como o ângulo de 36&deg; não é um dos notáveis, vamos construir um decágono qualquer e depois aplicar o método de homotetia, para aumentar este decágono ou reduzí-lo. Construa uma circunferência de raio qualquer, e determine dois diâmetros perpendiculares.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1039" name="sl">
+			   <label for="1039"></label>
+			   <img src="parte7/82_02_02.png"/>
+			   <figcaption>Construa a mediatriz do raio <b>O'B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1040" name="sl">
+			   <label for="1040"></label>
+			   <img src="parte7/82_02_03.png"/>
+			   <figcaption>Com centro em <b>M</b>, construa o arco com raio <b>MC</b>. A interseção deste raio com <b>O'A'<sub>1</sub></b> é o ponto <b>D</b>. Logo, temos o lado <b>l'<sub>10</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1041" name="sl">
+			   <label for="1041"></label>
+			   <img src="parte7/82_02_04.png"/>
+			   <figcaption>Vamos considerar <b>A'<sub>1</sub> &equiv; A<sub>1</sub></b>. Construa os arcos com raio <b>l'<sub>10</sub></b> com centro em <b>A<sub>1</sub></b>, encontrando os vértices <b>A'<sub>2</sub></b> e <b>A'<sub>10</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1042" name="sl">
+			   <label for="1042"></label>
+			   <img src="parte7/82_02_05.png"/>
+			   <figcaption>Agora podemos determinar os lados <b>A<sub>1</sub>A<sub>2</sub> = A<sub>1</sub>A<sub>10</sub> = 3cm</b>. O centro da nova circunferência circunscrita pode ser encontrado usando homotetia: basta construir <b>OA<sub>2</sub> // O'A'<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1043" name="sl">
+			   <label for="1043"></label>
+			   <img src="parte7/82_02_06.png"/>
+			   <figcaption>Construa a nova circunferência circunscrita.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1044" name="sl">
+			   <label for="1044"></label>
+			   <img src="parte7/82_02_07.png"/>
+			   <figcaption>Para finalizar, basta construir os arcos consecutivos, a partir de <b>A<sub>2</sub></b> e de <b>A<sub>10</sub></b> para encontrar os outros 7 vértices do decágono.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/82_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte7/apos_dg_0082b.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0083.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Vamos ver como é o cálculo da medida do lado de um polígono de <b>n</b> lados inscrito em uma circunferência de raio <b>r</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1045" name="sl">
+			   <label for="1045"></label>
+			   <img src="parte7/83_01_01.png"/>
+			   <figcaption>Considere <b>AB = l<sub>n</sub></b>. Logo, temos que $\mathsf{ AÔB = \frac{360^o}{n} }$ .</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1046" name="sl">
+			   <label for="1046"></label>
+			   <img src="parte7/83_01_02.png"/>
+			   <figcaption>Construindo a bissetriz do <b>&angsph;AOB</b>, encontramos a metade do lado <b>l<sub>n</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1047" name="sl">
+			   <label for="1047"></label>
+			   <img src="parte7/83_01_03.png"/>
+			   <figcaption>Portanto, $\mathsf{ \alpha = \frac{AÔB}{2} = \frac{180^o}{n} }$. Usando a relação trigonométrica do seno, encontramos a relação $\mathsf{ l_n = 2 \cdot sen(\frac{180^o}{n} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/83_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte7/apos_dg_0083a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1048" name="sl">
+			   <label for="1048"></label>
+			   <img src="parte7/83_02_01.png"/>
+			   <figcaption>Construa o arco com centro em um ponto qualquer da circunferência <b>A</b>, e raio <b>OA = r</b>. Encontre as interseções <b>B</b> e <b>C</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1049" name="sl">
+			   <label for="1049"></label>
+			   <img src="parte7/83_02_02.png"/>
+			   <figcaption>Construa o segmento <b>BC</b>. A interseção de <b>OA</b> com <b>BC</b> é o ponto <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1050" name="sl">
+			   <label for="1050"></label>
+			   <img src="parte7/83_02_03.png"/>
+			   <figcaption>O lado <b>l'<sub>7</sub></b> mede a metade de <b>BC</b>. Como <b>BC</b> é o segmento <b>l<sub>3</sub></b>, temos que $\mathsf{ l'_7 = \frac{r \sqrt{3}}{2} }$. O erro teórico deste processo fica na casa de dois milésimos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/83_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0084.png"/>
   <img src="parte7/apos_dg_0084a.png"/>
