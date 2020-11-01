@@ -7966,10 +7966,10 @@
 			   <input type="radio" id="1055" name="sl">
 			   <label for="1055"></label>
 			   <img src="parte7/84_01_05.png"/>
-			   <figcaption>Desta construção, temos que <b>OF = l<sub>4</sub></b>. Logo,  $\mathsf{ AG = OA - (GF - OF) = r - (r \sqrt{3} -r \sqrt{2}) }$. O erro teórico deste processo fica na casa de dois milésimos.</figcaption>
+			   <figcaption>Desta construção, temos que <b>OF = l<sub>4</sub></b>. Logo,  $\mathsf{ AG = OA - (GF - OF) = r - (r \sqrt{3} - r \sqrt{2}) }$. O erro teórico deste processo fica na casa de dois milésimos.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte7/84_01_00.png" class="fundo"/>
+		<img src="parte7/84_01_00.PNG" class="fundo"/> 
   </details></div>
   <img src="parte7/apos_dg_0084a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
