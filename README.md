@@ -7935,10 +7935,142 @@
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0084.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1051" name="sl">
+			   <label for="1051"></label>
+			   <img src="parte7/84_01_01.png"/>
+			   <figcaption>Vamos começar construindo dois diâmetros perpendiculares.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1052" name="sl">
+			   <label for="1052"></label>
+			   <img src="parte7/84_01_02.png"/>
+			   <figcaption>Construa o arco com centro em <b>D</b> e raio de medida <b>r = l<sub>6</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1053" name="sl">
+			   <label for="1053"></label>
+			   <img src="parte7/84_01_03.png"/>
+			   <figcaption>Temos que <b>CE = l<sub>3</sub></b>. Construa o arco com centro em <b>C</b> e raio <b>CE</b>. No prolongamento de <b>AB</b>, encontramos o ponto <b>F</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1054" name="sl">
+			   <label for="1054"></label>
+			   <img src="parte7/84_01_04.png"/>
+			   <figcaption>Construa o arco com centro em <b>F</b> e raio <b>CF</b>. Encontramos então o ponto <b>G &isin; OA</b> e o segmento <b>AG = l'<sub>9</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1055" name="sl">
+			   <label for="1055"></label>
+			   <img src="parte7/84_01_05.png"/>
+			   <figcaption>Desta construção, temos que <b>OF = l<sub>4</sub></b>. Logo,  $\mathsf{ AG = OA - (GF - OF) = r - (r \sqrt{3} -r \sqrt{2}) }$. O erro teórico deste processo fica na casa de dois milésimos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/84_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte7/apos_dg_0084a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1056" name="sl">
+			   <label for="1056"></label>
+			   <img src="parte7/84_02_01.png"/>
+			   <figcaption>Vamos começar construindo dois diâmetros perpendiculares.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1057" name="sl">
+			   <label for="1057"></label>
+			   <img src="parte7/84_02_02.png"/>
+			   <figcaption>Construa a mediatriz de um dos raios: por exemplo, do raio <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1058" name="sl">
+			   <label for="1058"></label>
+			   <img src="parte7/84_02_03.png"/>
+			   <figcaption>Agora construa a mediatriz de <b>DE</b>, encontrando o ponto médio <b>F</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1059" name="sl">
+			   <label for="1059"></label>
+			   <img src="parte7/84_02_04.png"/>
+			   <figcaption>Temos então que <b>FD = l'<sub>11</sub></b>. O segmento <b>ED</b> já foi usado na construção de segmento áureo, e sua medida é $\mathsf{ \frac{r \sqrt(5)}{2} }$. Portanto, $\mathsf{ l'_{11} = \frac{r \sqrt(5)}{4} }$, e o erro deste processo é da ordem de 5 milésimos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/84_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0085.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1060" name="sl">
+			   <label for="1060"></label>
+			   <img src="parte7/85_01_01.png"/>
+			   <figcaption>Vamos começar construindo dois diâmetros perpendiculares.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1061" name="sl">
+			   <label for="1061"></label>
+			   <img src="parte7/85_01_02.png"/>
+			   <figcaption>Agora vamos construir o segmento com medida $\mathsf{ \frac{r}{4} }$. Usando o teorema de Tales, vamos dividir <b>OD</b> em 4 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1062" name="sl">
+			   <label for="1062"></label>
+			   <img src="parte7/85_01_03.png"/>
+			   <figcaption>Determine o segmento $\mathsf{ OE = \frac{r}{4} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1063" name="sl">
+			   <label for="1063"></label>
+			   <img src="parte7/85_01_04.png"/>
+			   <figcaption>Construa a reta <b>EB</b>, encontrando o ponto <b>F</b>. O segmento <b>AF = l'<sub>13</sub></b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1064" name="sl">
+			   <label for="1064"></label>
+			   <img src="parte7/85_01_05.png"/>
+			   <figcaption>Usando o teorema de Pitágoras, encontramos a medida $\mathsf{ EB = \frac{r \sqrt{17}}{4} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1065" name="sl">
+			   <label for="1065"></label>
+			   <img src="parte7/85_01_05.png"/>
+			   <figcaption>Como temos que <b>&#9651;EOB ~ &#9651;AFB</b>, substituindo as medidas dos lados nas razões correspondentes, encontramos $\mathsf{ l'_{13} = \frac{2r \sqrt{17}}{17} }$. O erro teórico deste processo fica na casa de sete milésimos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/85_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte7/apos_dg_0085a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1066" name="sl">
+			   <label for="1066"></label>
+			   <img src="parte7/85_02_01.png"/>
+			   <figcaption>Vamos começar construindo dois diâmetros perpendiculares.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1067" name="sl">
+			   <label for="1067"></label>
+			   <img src="parte7/85_02_02.png"/>
+			   <figcaption>Temos que o segmento <b>BD = l<sub>4</sub></b>. Construa o arco com centro em <b>D</b> e raio <b>BD</b>, encontrando <b>E &isin; OC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1068" name="sl">
+			   <label for="1068"></label>
+			   <img src="parte7/85_02_03.png"/>
+			   <figcaption>O segmento $\mathsf{ OE = l'_{15} = r \sqrt{2} - r }$. O erro deste processo fica na casa de dois milésimos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/85_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0086.png"/>
   <img src="parte7/apos_dg_0086a.png"/>
