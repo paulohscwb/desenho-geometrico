@@ -7997,7 +7997,7 @@
 			   <input type="radio" id="1059" name="sl">
 			   <label for="1059"></label>
 			   <img src="parte7/84_02_04.png"/>
-			   <figcaption>Temos então que <b>FD = l'<sub>11</sub></b>. O segmento <b>ED</b> já foi usado na construção de segmento áureo, e sua medida é $\mathsf{ \frac{r \sqrt(5)}{2} }$. Portanto, $\mathsf{ l'_{11} = \frac{r \sqrt(5)}{4} }$, e o erro deste processo é da ordem de 5 milésimos.</figcaption>
+			   <figcaption>Temos então que <b>FD = l'<sub>11</sub></b>. O segmento <b>ED</b> já foi usado na construção de segmento áureo, e sua medida é $\mathsf{ \frac{r \sqrt{5}}{2} }$. Portanto, $\mathsf{ l'_{11} = \frac{r \sqrt{5}}{4} }$, e o erro deste processo é da ordem de 5 milésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/84_02_00.png" class="fundo"/>
