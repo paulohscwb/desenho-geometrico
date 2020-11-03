@@ -8297,12 +8297,130 @@
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0088.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exemplo, usamos o método de Rinaldini para construir o eneágono.</p>
+	<img src="parte7/88_01_00.png"/>
+	<figcaption>Neste caso, unimos os pontos com índices pares e a construção é parecida com a anterior.</figcaption>
+  </details></div>
   <img src="parte7/apos_dg_0088a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1097" name="sl">
+			   <label for="1097"></label>
+			   <img src="parte7/88_02_01.png"/>
+			   <figcaption>Vamos começar construindo o lado do pentágono regular inscrito na primeira circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1098" name="sl">
+			   <label for="1098"></label>
+			   <img src="parte7/88_02_02.png"/>
+			   <figcaption>Encontre os vértices do pentágono regular. Podemos nomear os vértices usando índices numéricos para facilitar nossas construções.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1099" name="sl">
+			   <label for="1099"></label>
+			   <img src="parte7/88_02_03.png"/>
+			   <figcaption>Vamos usar o número <b>p = 2</b>, ou seja, a partir de um vértice vamos "pular" o vértice consecutivo e unir com o segundo: começando com <b>A<sub>1</sub></b>, vamos uní-lo com <b>A<sub>3</sub></b>, no sentido anti-horário.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1100" name="sl">
+			   <label for="1100"></label>
+			   <img src="parte7/88_02_04.png"/>
+			   <figcaption>Agora unimos <b>A<sub>3</sub></b> com <b>A<sub>5</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1101" name="sl">
+			   <label for="1101"></label>
+			   <img src="parte7/88_02_05.png"/>
+			   <figcaption>Depois, <b>A<sub>5</sub></b> com <b>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1102" name="sl">
+			   <label for="1102"></label>
+			   <img src="parte7/88_02_06.png"/>
+			   <figcaption>Unimos <b>A<sub>2</sub></b> com <b>A<sub>4</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1103" name="sl">
+			   <label for="1103"></label>
+			   <img src="parte7/88_02_07.png"/>
+			   <figcaption>E finalizamos chegando no mesmo ponto de partida: <b>A<sub>1</sub></b>. Este é o pentagrama.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1104" name="sl">
+			   <label for="1104"></label>
+			   <img src="parte7/88_02_08.png"/>
+			   <figcaption>Para construir o heptágono regular estrelado, começamos encontrando o lado <b>l'<sub>7</sub></b> e os vértices deste polígono.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1105" name="sl">
+			   <label for="1105"></label>
+			   <img src="parte7/88_02_09.png"/>
+			   <figcaption>Neste caso, podemos fazer <b>p = 2</b> ou <b>p = 3</b>. Neste exemplo, veja como fica o heptágono estrelado com <b>p = 2</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/88_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0089.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item a</summary>
+	<p>Construímos o lado do heptágono regular, e os vértices na circunferência de raio 5cm.</p>
+	<img src="parte7/89_01_00.png"/>
+	<figcaption>Podemos "pular" de 3 em 3 vértices. No exercício da página anterior, fizemos a construção do heptágono regular estrelado de 2 em 2 vértices.</figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item b</summary>
+	<p>Construímos o lado do octógono regular, e os vértices na circunferência de raio 5cm.</p>
+	<img src="parte7/89_02_00.png"/>
+	<figcaption>Podemos "pular" de 3 em 3 vértices. Se pularmos de 2 em 2, não temos a formação de um polígono estrelado.</figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item c</summary>
+	<p>Construímos o lado do pentadecágono regular, e os vértices na circunferência de raio 5cm.</p>
+	<img src="parte7/89_03_00.png"/>
+	<figcaption>Podemos "pular" de 2 em 2 vértices, 4 em 4, 6 em 6 ou 7 em 7. Neste exemplo, usamos <b>p = 7</b>.</figcaption>
+  </details></div>
   <img src="parte7/apos_dg_0089a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item a</summary>
+	<p>Construímos o lado do heptágono regular, e os vértices na circunferência de raio 4,5cm.</p>
+	<img src="parte7/89_04_00.png"/>
+	<figcaption>Depois, basta unir os pontos, sempre no mesmo sentido, pulando de 4 em 4.</figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item b</summary>
+	<p>Construímos o lado do tridecágono regular, e os vértices na circunferência de raio 4,5cm.</p>
+	<img src="parte7/89_05_00.png"/>
+	<figcaption>Depois, basta unir os pontos, sempre no mesmo sentido, pulando de 5 em 5.</figcaption>
+  </details>
+  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.4</span></div>
   <img src="parte7/apos_dg_0089b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 1</summary>
+	<p>Construímos o heptágono regular inscrito na circunferência de raio 2cm.</p>
+	<img src="parte7/89_07_00.png"/>
+	<figcaption>Depois, basta prolongar os lados do heptágono para definir a estrelação com <b>p = 2</b>.</figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 2</summary>
+	<p>Construímos o heptágono regular inscrito na circunferência de raio 2cm e a estrelação com <b>p = 2</b>.</p>
+	<img src="parte7/89_08_00.png"/>
+	<figcaption>Depois, basta prolongar os lados da primeira estrelação do heptágono para definir a estrelação com <b>p = 3</b>.</figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 3</summary>
+	<p>Construímos o octógono regular inscrito na circunferência de raio 2,5cm.</p>
+	<img src="parte7/89_09_00.png"/>
+	<figcaption>Depois, basta prolongar os lados do octógono para definir a estrelação com <b>p = 2</b>.</figcaption>
+  </details></div>
   <img src="parte7/apos_dg_0089c.png"/>
+  <div class="combo">
+  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.5: exercício 4</span>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 5</summary>
+	<p>Construímos o eneágono regular inscrito na circunferência de raio 3cm.</p>
+	<img src="parte7/89_08_00.png"/>
+	<figcaption>Depois, basta prolongar os lados do eneágono para definir a estrelação com <b>p = 2</b>.</figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 6</summary>
+	<p>Construímos o eneágono regular inscrito na circunferência de raio 3cm e a estrelação com <b>p = 2</b>.</p>
+	<img src="parte7/89_09_00.png"/>
+	<figcaption>Depois, basta prolongar os lados da primeira estrelação do eneágono para definir a estrelação com <b>p = 3</b>.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
 </details>
 
