@@ -8073,14 +8073,228 @@
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0086.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1069" name="sl">
+			   <label for="1069"></label>
+			   <img src="parte7/86_01_01.png"/>
+			   <figcaption>Vamos começar construindo dois diâmetros perpendiculares.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1070" name="sl">
+			   <label for="1070"></label>
+			   <img src="parte7/86_01_02.png"/>
+			   <figcaption>Agora vamos usar o teorema de Tales para encontrar $\mathsf{ \frac{r}{4} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1071" name="sl">
+			   <label for="1071"></label>
+			   <img src="parte7/86_01_03.png"/>
+			   <figcaption>O segmento <b>OE</b> mede $\mathsf{ \frac{r}{4} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1072" name="sl">
+			   <label for="1072"></label>
+			   <img src="parte7/86_01_04.png"/>
+			   <figcaption>Construa a mediatriz de <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1073" name="sl">
+			   <label for="1073"></label>
+			   <img src="parte7/86_01_05.png"/>
+			   <figcaption>Construa a reta paralela a <b>OA</b> que passa por <b>E</b>. A interseção desta paralela com a mediatriz de <b>OA</b> é o ponto <b>F</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1074" name="sl">
+			   <label for="1074"></label>
+			   <img src="parte7/86_01_06.png"/>
+			   <figcaption>No prolongamento de <b>BF</b>, encontramos <b>G</b> na circunferência e <b>AG = l'<sub>19</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1075" name="sl">
+			   <label for="1075"></label>
+			   <img src="parte7/86_01_07.png"/>
+			   <figcaption>Usando o teorema de Pitágoras, encontramos a medida $\mathsf{ BF = \frac{r \sqrt{37}}{4} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1076" name="sl">
+			   <label for="1076"></label>
+			   <img src="parte7/86_01_08.png"/>
+			   <figcaption>Como <b>&#9651;AGB ~ &#9651;FMB</b>, podemos substituir as medidas conhecidas na proporção entre os lados correspondentes. Logo, encontramos o segmento $\mathsf{ l'_{19} = \frac{2r \sqrt{37}}{37} }$. O erro deste processo fica na casa de quatro milésimos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/86_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte7/apos_dg_0086a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. O método usado nesta construção é da Homotetia.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1077" name="sl">
+			   <label for="1077"></label>
+			   <img src="parte7/86_02_01.png"/>
+			   <figcaption>Vamos começar construindo uma circunferência de raio qualquer: por exemplo, r = 5cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1078" name="sl">
+			   <label for="1078"></label>
+			   <img src="parte7/86_02_02.png"/>
+			   <figcaption>Vamos encontrar o lado <b>l'<sub>7</sub></b> do heptágono inscrito nesta circunferência. Construa o arco de centro <b>A<sub>1</sub></b> e raio <b>O'A<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1079" name="sl">
+			   <label for="1079"></label>
+			   <img src="parte7/86_02_03.png"/>
+			   <figcaption>A medida <b>AC</b> é o lado do heptágono.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1080" name="sl">
+			   <label for="1080"></label>
+			   <img src="parte7/86_02_04.png"/>
+			   <figcaption>Construa os arcos com centro em <b>A<sub>1</sub></b> e raio <b>l'<sub>7</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1081" name="sl">
+			   <label for="1081"></label>
+			   <img src="parte7/86_02_05.png"/>
+			   <figcaption>A partir de <b>A<sub>1</sub></b>, podemos construir o lado <b>l<sub>7</sub> = 2,5cm</b>. O centro da circunferência circunscrita do heptágono de lado <b>A<sub>1</sub>A<sub>2</sub></b> é encontrado por meio da paralela a <b>O'A'<sub>2</sub></b> que passa por <b>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1082" name="sl">
+			   <label for="1082"></label>
+			   <img src="parte7/86_02_06.png"/>
+			   <figcaption>Construa a nova circunferência, com centro em <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1083" name="sl">
+			   <label for="1083"></label>
+			   <img src="parte7/86_02_07.png"/>
+			   <figcaption>Construa o heptágono com lado <b>l<sub>7</sub> = 2,5cm</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/86_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte7/apos_dg_0086b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item b</summary>
+	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 5cm</b>), podemos construir o eneágono inscrito nesta circunferência.</p>
+	<img src="parte7/86_03_00.png"/>
+	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o eneágono de lado com medida de 2,5cm usando Homotetia.</figcaption>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item c</summary>
+	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 3,5cm</b>), podemos construir o undecágono inscrito nesta circunferência.</p>
+	<img src="parte7/86_04_00.png"/>
+	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o undecágono de lado com medida de 2,5cm usando Homotetia.</figcaption>
+  </details>
+  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2: item d</span></div>
   <img src="parte7/apos_dg_0086c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. O método usado nesta construção é da Homotetia.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1084" name="sl">
+			   <label for="1084"></label>
+			   <img src="parte7/86_06_01.png"/>
+			   <figcaption>Vamos começar construindo uma circunferência de raio qualquer: por exemplo, r = 4,5cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1085" name="sl">
+			   <label for="1085"></label>
+			   <img src="parte7/86_06_02.png"/>
+			   <figcaption>A partir de um ponto <b>A'<sub>1</sub></b> da circunferência, construa dois lados do hexágono circunscrito.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1086" name="sl">
+			   <label for="1086"></label>
+			   <img src="parte7/86_06_03.png"/>
+			   <figcaption>Podemos escolher <b>A<sub>6</sub></b> ou <b>A'<sub>2</sub></b> para construirmos a diagonal <b>d = 5cm</b>. Escolhendo <b>A<sub>6</sub></b>, encontraremos o vértice <b>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1087" name="sl">
+			   <label for="1087"></label>
+			   <img src="parte7/86_06_04.png"/>
+			   <figcaption>Usando a Homotetia, temos que <b>&#9651;A<sub>6</sub>A<sub>2</sub>A<sub>1</sub> ~ &#9651;A<sub>6</sub>A'<sub>2</sub>A'<sub>1</sub></b>. Logo, construimos o segmento <b>A<sub>1</sub>A<sub>2</sub> // A'<sub>1</sub>A'<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1088" name="sl">
+			   <label for="1088"></label>
+			   <img src="parte7/86_06_05.png"/>
+			   <figcaption>O centro da nova circunferência circunscrita é encontrado da mesma maneira: construa o segmento <b>OA<sub>1</sub> // O'A'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1089" name="sl">
+			   <label for="1089"></label>
+			   <img src="parte7/86_06_06.png"/>
+			   <figcaption>Construa a nova circunferência, com centro em <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1090" name="sl">
+			   <label for="1090"></label>
+			   <img src="parte7/86_06_07.png"/>
+			   <figcaption>Construa o hexágono com lado <b>A<sub>1</sub>A<sub>2</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/86_06_00.png" class="fundo"/>
+  </details></div>
   <img src="parte7/apos_dg_0086d.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 4,5cm</b>), podemos construir o heptágono inscrito nesta circunferência.</p>
+	<img src="parte7/86_07_00.png"/>
+	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o eneágono com diagonal menor com medida de 4,5cm usando Homotetia.</figcaption>
+  </details></div>
   <img src="parte7/apos_dg_0086e.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 5,5cm</b>), podemos construir o eneágono inscrito nesta circunferência.</p>
+	<img src="parte7/86_08_00.png"/>
+	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o eneágono com apótema com medida de 4,5cm usando Homotetia.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0087.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.3</span></div>
   <img src="parte7/apos_dg_0087a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1091" name="sl">
+			   <label for="1091"></label>
+			   <img src="parte7/87_02_01.png"/>
+			   <figcaption>Vamos começar construindo um diâmetro <b>AB</b> da circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1092" name="sl">
+			   <label for="1092"></label>
+			   <img src="parte7/87_02_02.png"/>
+			   <figcaption>Construa os arcos com centros em <b>A</b> e <b>B</b>, de raios <b>AB</b>, determinando os pontos <b>C</b> e <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1093" name="sl">
+			   <label for="1093"></label>
+			   <img src="parte7/87_02_03.png"/>
+			   <figcaption>Agora dividimos o diâmetro <b>AB</b> no mesmo número de partes que queremos dividir a circunferência: neste exemplo, dividimos em 7 partes iguais usando o teorema de Tales. Podemos nomear os pontos de divisão usando índices numéricos para facilitar as próximas construções.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1094" name="sl">
+			   <label for="1094"></label>
+			   <img src="parte7/87_02_04.png"/>
+			   <figcaption>Agora podemos unir o ponto <b>C</b> com os pontos nomeados com índices pares ou ímpares (tanto faz). Neste exemplo, vamos unir com os ímpares: nos prolongamentos destes segmentos, encontramos 3 vértices na circunferência. O vértice <b>A<sub>4</sub></b> fica coincidente com <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1095" name="sl">
+			   <label for="1095"></label>
+			   <img src="parte7/87_02_05.png"/>
+			   <figcaption>Agora unimos o ponto <b>D</b> com os mesmos pontos usados com o ponto <b>C</b>: neste caso, os ímpares. Nos prolongamentos destes segmentos, encontramos outros 3 vértices na circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1096" name="sl">
+			   <label for="1096"></label>
+			   <img src="parte7/87_02_06.png"/>
+			   <figcaption>Agora basta unir os vértices encontrados do heptágono regular.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte7/87_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0088.png"/>
   <img src="parte7/apos_dg_0088a.png"/>
