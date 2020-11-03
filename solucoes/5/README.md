@@ -13,7 +13,7 @@
 <h3>Polígonos Regulares</h3> 
   <details open><summary>Atividade 5.1: exercício 2 da pág. 82</summary>
   <img src="../../parte7/apos_dg_0082b.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução de heptadecágono</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Vamos usar homotetia.</p>
 	  <ul class="slider">
 		   <li>
@@ -53,8 +53,8 @@
 			   <figcaption>Para encontrar o centro da nova circunferência circunscrita, vamos construir a reta <b>OA<sub>2</sub> // O'A'<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1025" name="sl">
-			   <label for="1025"></label>
+			   <input type="radio" id="1027" name="sl">
+			   <label for="1027"></label>
 			   <img src="82_03_07.png"/>
 			   <figcaption>Construa a nova circunferência circunscrita.</figcaption>
 		   </li>
@@ -73,13 +73,13 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Começamos com uma circunferência de raio qualquer, por exemplo r = 3,5cm, e construímos o tridecágono inscrito nesta circunferência.</p>
 	<img src="86_05_00.png"/>
-	<figcaption>Depois, basta usar homotetia para ampliar ou reduzir o raio da nova circunferência circunscrita, que terá o tridecágono com lado de 2,3cm.</figcaption>
+	<figcaption>Depois, basta usar homotetia para ampliar ou reduzir o raio da nova circunferência circunscrita, que terá o tridecágono com lado de 2,5cm.</figcaption>
   </details></div></details>
   <details open><summary>Atividade 5.3: exercício 5 da pág. 87</summary>
   <img src="../../parte7/apos_dg_0087.png" />
     <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 5cm</b>), podemos construir o undecágono inscrito nesta circunferência.</p>
-	<img src="parte7/87_01_00.png"/>
+	<img src="87_01_00.png"/>
 	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o undecágono com apótema com medida de 4cm usando Homotetia.</figcaption>
   </details></div></details>
   <details open><summary>Atividade 5.4: exercício 2, item c, da pág. 89</summary>
@@ -89,7 +89,7 @@
 	<img src="89_06_00.png"/>
 	<figcaption>Depois, basta "pular" de 3 em 3 vértices, iniciando de qualquer vértice do decágono regular.</figcaption>
   </details></div></details>
-  <details open><summary>Atividade 5.5: exercício 4 da pág. 89</summary>
+  <details style="border-bottom: 1px solid #a2dec0;" open><summary>Atividade 5.5: exercício 4 da pág. 89</summary>
   <img src="../../parte7/apos_dg_0089d.png" />
   <img src="../../parte7/apos_dg_0089c.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
