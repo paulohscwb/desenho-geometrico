@@ -8391,7 +8391,7 @@
 	<img src="parte7/89_05_00.png"/>
 	<figcaption>Depois, basta unir os pontos, sempre no mesmo sentido, pulando de 5 em 5.</figcaption>
   </details>
-  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.4</span></div>
+  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.4: item c</span></div>
   <img src="parte7/apos_dg_0089b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 1</summary>
 	<p>Construímos o heptágono regular inscrito na circunferência de raio 2cm.</p>
@@ -8413,12 +8413,12 @@
   &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.5: exercício 4</span>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 5</summary>
 	<p>Construímos o eneágono regular inscrito na circunferência de raio 3cm.</p>
-	<img src="parte7/89_08_00.png"/>
+	<img src="parte7/89_11_00.png"/>
 	<figcaption>Depois, basta prolongar os lados do eneágono para definir a estrelação com <b>p = 2</b>.</figcaption>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 6</summary>
 	<p>Construímos o eneágono regular inscrito na circunferência de raio 3cm e a estrelação com <b>p = 2</b>.</p>
-	<img src="parte7/89_09_00.png"/>
+	<img src="parte7/89_12_00.png"/>
 	<figcaption>Depois, basta prolongar os lados da primeira estrelação do eneágono para definir a estrelação com <b>p = 3</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
