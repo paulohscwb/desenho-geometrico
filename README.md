@@ -8376,7 +8376,7 @@
 	<figcaption>Podemos "pular" de 3 em 3 vértices. Se pularmos de 2 em 2, não temos a formação de um polígono estrelado.</figcaption>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item c</summary>
-	<p>Construímos o lado do pentadecágono regular, e os vértices na circunferência de raio 5cm.</p>
+	<p>Construímos o lado do pentadecágono regular, e os vértices na circunferência com raio 5cm.</p>
 	<img src="parte7/89_03_00.png"/>
 	<figcaption>Podemos "pular" de 2 em 2 vértices, 4 em 4, 6 em 6 ou 7 em 7. Neste exemplo, usamos <b>p = 7</b>.</figcaption>
   </details></div>
@@ -8427,8 +8427,6 @@
 <details>
   <summary id="parte8">6.1. Retificação de circunferência</summary>
   <p>Material da página 90 até a página 95.</p>
-  <img src="parte8/apos_dg_0089.png"/>
-  <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0090.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0091.png"/>
@@ -8436,6 +8434,10 @@
   <img src="parte8/apos_dg_0092.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0093.png"/>
+  <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
+  <img src="parte8/apos_dg_0094.png"/>
+  <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
+  <img src="parte8/apos_dg_0095.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
 </details>
 
