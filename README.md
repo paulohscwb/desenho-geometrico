@@ -8645,7 +8645,7 @@
 			   <input type="radio" id="1137" name="sl">
 			   <label for="1137"></label>
 			   <img src="parte8/92_01_10.png"/>
-			   <figcaption>Usando o teorema de Pitágoras no <b>&#9651;AOD</b>, encontramos a medida $\mathsf{ OD = \frac{r \sqrt{146}{5} }$. Logo, temos que $\mathsf{ AG = \frac{13r \sqrt{146}}{25} }$. O erro neste processo é da ordem de 8 décimos de milésimos.</figcaption>
+			   <figcaption>Usando o teorema de Pitágoras no <b>&#9651;AOD</b>, encontramos a medida $\mathsf{ OD = \frac{r \sqrt{146}}{5}}$. Logo, temos que $\mathsf{ AG = \frac{13r \sqrt{146}}{25} }$. O erro neste processo é da ordem de 8 décimos de milésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte8/92_01_00.png" class="fundo"/>
