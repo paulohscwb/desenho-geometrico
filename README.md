@@ -8486,7 +8486,7 @@
 			   <img src="parte8/90_02_04.png"/>
 			   <figcaption>Unindo os pontos <b>22</b> e <b>B</b>, e construindo a reta <b>7C // B22</b>, encontramos o segmento correspondente a $\mathsf{ \frac{7 \cdot AB}{22} }$.</figcaption>
 		   </li>
-		   li>
+		   <li>
 			   <input type="radio" id="1114" name="sl">
 			   <label for="1114"></label>
 			   <img src="parte8/90_02_05.png"/>
