@@ -8742,14 +8742,89 @@
   </details></div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0094.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1150" name="sl">
+			   <label for="1150"></label>
+			   <img src="parte8/94_01_01.png"/>
+			   <figcaption>Construa o arco <b>OAB</b> com raio <b>OA = r</b> e amplitude de 75&deg;. Vamos retificar este arco.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1151" name="sl">
+			   <label for="1151"></label>
+			   <img src="parte8/94_01_02.png"/>
+			   <figcaption>Podemos prolongar o raio <b>OA</b> e construir a semi-circunferência de centro <b>O</b> e raio <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1152" name="sl">
+			   <label for="1152"></label>
+			   <img src="parte8/94_01_03.png"/>
+			   <figcaption>Divida o raio <b>OC</b> em 4 partes iguais, para encontrar $\mathsf{ CD = \frac{3r}{4} }$. Construa a semi-circunferência de centro <b>C</b> e raio <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1153" name="sl">
+			   <label for="1153"></label>
+			   <img src="parte8/94_01_04.png"/>
+			   <figcaption>Construa a reta <b>EB</b> e <b>AF &perp; OA</b>. O segmento <b>AF</b> tem a medida aproximada do arco <b>OAB</b> retificado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1154" name="sl">
+			   <label for="1154"></label>
+			   <img src="parte8/94_01_05.png"/>
+			   <figcaption>Usando o teorema de Tales, divida o segmento <b>AF</b> em 3 partes iguais, encontrando os pontos <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1155" name="sl">
+			   <label for="1155"></label>
+			   <img src="parte8/94_01_06.png"/>
+			   <figcaption>Unindo o ponto <b>E</b> com <b>F<sub>1</sub></b> e <b>F<sub>2</sub></b>, encontramos as extremidades correspondentes <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1156" name="sl">
+			   <label for="1156"></label>
+			   <img src="parte8/94_01_07.png"/>
+			   <figcaption>Unindo o ponto <b>O</b> com <b>B<sub>1</sub></b> e <b>B<sub>2</sub></b>, encontramos o ângulo de 75&deg; dividido em 3 partes iguais.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte8/94_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte8/apos_dg_0094a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>A construção é parecida com a que fizemos no item a.</p>
+	<img src="parte8/94_02_00.png"/>
+	<figcaption>Porém, como o ângulo tem medida maior do que 90&deg;, retificamos apenas a metade. Depois, podemos marcar a outra metade abaixo e o segmento <b>FF'</b> tem a medida do arco de 120&deg; retificado. Neste segmento que podemos fazer a divisão em 3 partes iguais.</figcaption>
+  </details></div>
   <img src="parte8/apos_dg_0094b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>A construção é parecida com a que fizemos no item a do exercício 2.</p>
+	<img src="parte8/94_03_00.png"/>
+	<figcaption>Porém, a divisão no teorema de Tales é feita em partes proporcionais aos números 2, 3 e 1.</figcaption>
+  </details></div>
   <img src="parte8/apos_dg_0094c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>A construção é parecida com a que fizemos no item b do exercício 2.</p>
+	<img src="parte8/94_04_00.png"/>
+	<figcaption>Porém, como o ângulo tem medida maior do que 90&deg;, retificamos apenas a metade. Depois, podemos marcar a outra metade abaixo e o segmento <b>FF'</b> tem a medida do arco de 120&deg; retificado. Neste segmento que podemos fazer a divisão em partes proporcionais aos número 2, 3 e 1.</figcaption>
+  </details></div>
   <img src="parte8/apos_dg_0094d.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span></div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0095.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span></div>
   <img src="parte8/apos_dg_0095a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Vamos usar uma escala de 1:10 neste exercício: cada 1cm do desenho equivale a 10cm em escala real. Esta construção tem 3 fases: a primeira serve para encontrar as retas tangentes <b>TT''</b> e <b>T'T'''</b> usando o processo de Homotetia (ou de dilatação e contração de circunferências). Desta forma, temos os comprimentos dos segmentos com medidas de 58,1cm.</p>
+	<img src="parte8/95_02_00.png"/>
+	<figcaption>Na segunda fase, retificamos o arco de amplitude <b>&beta;</b>, que deve ser feito por meio de sua bissetriz pois tem medida maior do que 90&deg;. Assim, encontramos o segmento <b>FE</b>. Na terceira fase, refificamos o arco de amplitude <b>&alpha;</b>, encontrando o segmento <b>F'E'</b>. O comprimento total mede 266,6cm.</figcaption>
+  </details></div>
   <img src="parte8/apos_dg_0095b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Vamos usar uma escala de 1:10 neste exercício: cada 1cm do desenho equivale a 10cm em escala real. Esta construção tem 2 fases: a primeira serve para encontrar as retas tangentes às circunferências de centros <b>A</b>, <b>B</b> e <b>C</b>. Como os raios são iguais, os segmentos tangentes têm medida igual ao lado do triângulo equilátero, e são construídos por meio de perpendiculares a estes lados. Desta forma, temos os comprimentos dos segmentos com medidas de 50cm.</p>
+	<img src="parte8/95_03_00.png"/>
+	<figcaption>Na segunda fase, retificamos um dos arcos de amplitude <b>&delta;</b>, que deve ser feito por meio de sua bissetriz pois tem medida maior do que 90&deg;. Assim, encontramos o segmento <b>GJ</b>. O comprimento total mede 277cm.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
 </details>
 
