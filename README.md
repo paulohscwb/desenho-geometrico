@@ -8428,16 +8428,182 @@
   <summary id="parte8">6.1. Retificação de circunferência</summary>
   <p>Material da página 90 até a página 95.</p>
   <img src="parte8/apos_dg_0090.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1106" name="sl">
+			   <label for="1106"></label>
+			   <img src="parte8/90_01_01.png"/>
+			   <figcaption>Vamos construir a circunferência de raio 2cm e prolongar seu diâmetro <b>AB = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1107" name="sl">
+			   <label for="1107"></label>
+			   <img src="parte8/90_01_02.png"/>
+			   <figcaption>No prolongamento de <b>AB</b>, construa os segmentos <b>BC = CD = DE = d</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1108" name="sl">
+			   <label for="1108"></label>
+			   <img src="parte8/90_01_03.png"/>
+			   <figcaption>Vamos usar o teorema de Tales para dividir o último diâmetro construído em 7 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1109" name="sl">
+			   <label for="1109"></label>
+			   <img src="parte8/90_01_04.png"/>
+			   <figcaption>Unindo os pontos <b>7</b> e <b>E</b>, e construindo a reta <b>1F // 7E</b>, encontramos o segmento correspondente a $\mathsf{ \frac{d}{7} }$. Logo, temos que $\mathsf{ AF = 3d + \frac{d}{7} = \pi'd }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte8/90_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte8/apos_dg_0090a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1110" name="sl">
+			   <label for="1110"></label>
+			   <img src="parte8/90_02_01.png"/>
+			   <figcaption>Usando o valor aproximado de <b>&pi;</b> do processo de Arquimedes, temos que $\mathsf{ d = \frac{7 \cdot AB}{22} }$</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1111" name="sl">
+			   <label for="1111"></label>
+			   <img src="parte8/90_02_02.png"/>
+			   <figcaption>Usando o teorema de Tales, vamos dividir o segmento <b>AB</b> em 22 partes iguais. Começamos construindo 11 unidades iguais em uma reta que passa por <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1112" name="sl">
+			   <label for="1112"></label>
+			   <img src="parte8/90_02_03.png"/>
+			   <figcaption>Agora, podemos "pegar" a medida <b>A11</b> e marcá-la a partir do ponto <b>11</b> para encontrar o ponto <b>22</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1113" name="sl">
+			   <label for="1113"></label>
+			   <img src="parte8/90_02_04.png"/>
+			   <figcaption>Unindo os pontos <b>22</b> e <b>B</b>, e construindo a reta <b>7C // B22</b>, encontramos o segmento correspondente a $\mathsf{ \frac{7 \cdot AB}{22} }$.</figcaption>
+		   </li>
+		   li>
+			   <input type="radio" id="1114" name="sl">
+			   <label for="1114"></label>
+			   <img src="parte8/90_02_05.png"/>
+			   <figcaption>Logo, o segmento <b>AC</b> é o diâmetro da circunferência. Construa a mediatriz de <b>AC</b> para desenhar a circunferência com perímetro <b>AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte8/90_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0091.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1115" name="sl">
+			   <label for="1115"></label>
+			   <img src="parte8/91_01_01.png"/>
+			   <figcaption>Neste processo de retificação da circunferência, começamos construindo o diâmetro <b>AB</b> e os pontos <b>C</b> e <b>D</b> da circunferência, tais que <b>AC = BD = r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1116" name="sl">
+			   <label for="1116"></label>
+			   <img src="parte8/91_01_02.png"/>
+			   <figcaption>Construa os arcos com centros em <b>A</b> e <b>B</b>, com raio igual a <b>AD</b>, encontrando o ponto <b>E</b>. Vale lembrar que $\mathsf{ AD = r \sqrt{3} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1117" name="sl">
+			   <label for="1117"></label>
+			   <img src="parte8/91_01_03.png"/>
+			   <figcaption>Construa o arco com centro em <b>C</b> e raio <b>CE</b>, encontrando o ponto <b>F</b> na circunferência. O segmento <b>AF</b> mede aproximadamente $\mathsf{ \frac{\pi r}{2} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1118" name="sl">
+			   <label for="1118"></label>
+			   <img src="parte8/91_01_04.png"/>
+			   <figcaption>Agora vamos verificar algumas propriedades decorrentes desta construção. A primeira delas é que <b>&angsph;AFC = 30&deg;</b>, pois o ângulo central <b>&angsph;AOC</b> mede 60&deg;.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1119" name="sl">
+			   <label for="1119"></label>
+			   <img src="parte8/91_01_05.png"/>
+			   <figcaption>Construindo o segmento <b>OE &perp; AB</b>, temos que $\mathsf{ OE = r \sqrt{2} }$, pois, de acordo com o teorema de Pitágoras, $\mathsf{ AE = r \sqrt{3} }$ e $\mathsf{ AO = r }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1120" name="sl">
+			   <label for="1120"></label>
+			   <img src="parte8/91_01_06.png"/>
+			   <figcaption>Se construirmos o segmento <b>CM &perp; AB</b>, temos que $\mathsf{ CM = \frac{r \sqrt{3}}{2} }$, pois é a altura do <b>&#9651;AOC</b> equilátero.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1121" name="sl">
+			   <label for="1121"></label>
+			   <img src="parte8/91_01_07.png"/>
+			   <figcaption>Portanto, $\mathsf{ GE = r \sqrt{2} - \frac{r \sqrt{3}}{2} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1122" name="sl">
+			   <label for="1122"></label>
+			   <img src="parte8/91_01_08.png"/>
+			   <figcaption>Usando o teorema de Pitágoras no <b>&#9651;CGE</b>, temos que  $\mathsf{ CF = r \sqrt{ 3 - \sqrt{6}} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1123" name="sl">
+			   <label for="1123"></label>
+			   <img src="parte8/91_01_09.png"/>
+			   <figcaption>Finalmente, usando a lei dos cossenos no <b>&#9651;ACF</b>, temos que $\mathsf{ AF = \frac{r}{2} (\sqrt{\sqrt{6} + 1 + \sqrt{9-3 \sqrt{6}}}) }$. Este processo tem erro da ordem de 8 décimos de milésimos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte8/91_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte8/apos_dg_0091a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1124" name="sl">
+			   <label for="1124"></label>
+			   <img src="parte8/91_02_01.png"/>
+			   <figcaption>Neste processo de retificação da circunferência, começamos construindo o diâmetro <b>AB</b> e o <b>&angsph;AOA' = 30&deg;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1125" name="sl">
+			   <label for="1125"></label>
+			   <img src="parte8/91_02_02.png"/>
+			   <figcaption>Construa a reta tangente à circunferência pelo ponto <b>A</b>: <b>AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1126" name="sl">
+			   <label for="1126"></label>
+			   <img src="parte8/91_02_03.png"/>
+			   <figcaption>A partir do ponto <b>C</b>, construa os segmentos <b>CD = DE = EF = r</b>. Temos que <b>BF</b> mede aproximadamente <b>&pi;r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1127" name="sl">
+			   <label for="1127"></label>
+			   <img src="parte8/91_02_04.png"/>
+			   <figcaption>Como <b>AB = 2r</b> e <b>AF = 3r - rtan30&deg;</b>, usamos o teorema de Pitágoras no <b>&#9651;ABF</b> para encontrar o valor aproximado de <b>&pi;</b> neste processo. O erro fica na ordem de 6 décimos de milésimos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte8/91_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0092.png"/>
+  <img src="parte8/apos_dg_0092a.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0093.png"/>
+  <img src="parte8/apos_dg_0093a.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0094.png"/>
+  <img src="parte8/apos_dg_0094a.png"/>
+  <img src="parte8/apos_dg_0094b.png"/>
+  <img src="parte8/apos_dg_0094c.png"/>
+  <img src="parte8/apos_dg_0094d.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0095.png"/>
+  <img src="parte8/apos_dg_0095a.png"/>
+  <img src="parte8/apos_dg_0095b.png"/>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
 </details>
 
