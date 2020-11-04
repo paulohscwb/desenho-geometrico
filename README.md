@@ -8590,10 +8590,156 @@
   </details></div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0092.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1128" name="sl">
+			   <label for="1128"></label>
+			   <img src="parte8/92_01_02.png"/>
+			   <figcaption>Neste processo de retificação da circunferência, começamos construindo o diâmetro <b>AB</b> e a reta tangente à circunferência pelo ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1130" name="sl">
+			   <label for="1130"></label>
+			   <img src="parte8/92_01_03.png"/>
+			   <figcaption>Construa o arco com centro em <b>A</b> e raio <b>AB</b>, encontrando o ponto <b>C</b> na reta tangente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1131" name="sl">
+			   <label for="1131"></label>
+			   <img src="parte8/92_01_04.png"/>
+			   <figcaption>Usando o teorema de Tales, vamos dividir o raio <b>AO</b> em 5 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1132" name="sl">
+			   <label for="1132"></label>
+			   <img src="parte8/92_01_05.png"/>
+			   <figcaption>Construa os segmentos $\mathsf{ CD = \frac{r}{5} }$ e  $\mathsf{ DE = \frac{2r}{5} }$ na reta tangente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1133" name="sl">
+			   <label for="1133"></label>
+			   <img src="parte8/92_01_06.png"/>
+			   <figcaption>Usando o compasso, construa o segmento <b>AF = OD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1134" name="sl">
+			   <label for="1134"></label>
+			   <img src="parte8/92_01_07.png"/>
+			   <figcaption>Agora construa o segmento <b>FG // OE</b>. O segmento <b>AG</b> tem medida aproximada de <b>2&pi;r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1135" name="sl">
+			   <label for="1135"></label>
+			   <img src="parte8/92_01_08.png"/>
+			   <figcaption>Vamos ver algumas propriedades desta construção. Da semelhança dos <b>&#9651;AOE</b> e <b>&#9651;AFG</b>, temos que $\mathsf{ AG = \frac{AE \cdot AF}{AO} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1136" name="sl">
+			   <label for="1136"></label>
+			   <img src="parte8/92_01_09.png"/>
+			   <figcaption>Temos também que $\mathsf{ AE = \frac{13r}{5} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1137" name="sl">
+			   <label for="1137"></label>
+			   <img src="parte8/92_01_10.png"/>
+			   <figcaption>Usando o teorema de Pitágoras no <b>&#9651;AOD</b>, encontramos a medida $\mathsf{ OD = \frac{r \sqrt{146}{5} }$. Logo, temos que $\mathsf{ AG = \frac{13r \sqrt{146}}{25} }$. O erro neste processo é da ordem de 8 décimos de milésimos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte8/92_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte8/apos_dg_0092a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1138" name="sl">
+			   <label for="1138"></label>
+			   <img src="parte8/92_02_01.png"/>
+			   <figcaption>Neste processo de retificação de arco de circunferência, começamos prolongando o raio <b>OA</b> e construindo a semi-circunferência de centro <b>O</b> e raio <b>OA</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1139" name="sl">
+			   <label for="1139"></label>
+			   <img src="parte8/92_02_02.png"/>
+			   <figcaption>Usando o teorema de Tales, construa o segmento $\mathsf{ CD = \frac{3r}{4} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1140" name="sl">
+			   <label for="1140"></label>
+			   <img src="parte8/92_02_03.png"/>
+			   <figcaption>Construa a semi-circunferência de centro <b>C</b> e raio <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1141" name="sl">
+			   <label for="1141"></label>
+			   <img src="parte8/92_02_04.png"/>
+			   <figcaption>Construa a reta <b>AF &perp; OA</b> e a reta <b>BE</b>. O segmento <b>AF</b> é a retificação do arco <b>AB</b>, que tem amplitude <b>&theta;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1142" name="sl">
+			   <label for="1142"></label>
+			   <img src="parte8/92_02_05.png"/>
+			   <figcaption>Agora vamos ver algumas propriedades desta construção. Se construirmos o segmento <b>BG &perp; OA</b>, temos que <b>&#9651;BGE ~ &#9651;FAE</b>, e que <b>BG = rsen(&theta;)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1143" name="sl">
+			   <label for="1143"></label>
+			   <img src="parte8/92_02_06.png"/>
+			   <figcaption>Da razão dos lados correspondentes, temos que  $\mathsf{ AF = \frac{11r \cdot sen(\theta)}{7+4 \cdot cos(\theta)} }$. O erro deste processo depende do valor do ângulo <b>&theta;</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte8/92_02_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0093.png"/>
+  <figcaption>Quando o ângulo for maior do que 90&deg; e menor do que 180&deg;, podemos retificar a metade; depois, dobramos a medida para termos o arco retificado.
+  <br>Quando o ângulo for maior do que 180&deg; e menor do que 360&deg;, podemos retificar a quarta parte; depois, quadruplicamos a medida para termos o arco retificado.</figcaption>
   <img src="parte8/apos_dg_0093a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1144" name="sl">
+			   <label for="1144"></label>
+			   <img src="parte8/93_01_01.png"/>
+			   <figcaption>Vamos desretificar o arco, ou seja, vamos obter a medida do ângulo <b>&theta;</b>. Construa os segmentos <b>OA = r</b> e <b>AF = l</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1145" name="sl">
+			   <label for="1145"></label>
+			   <img src="parte8/93_01_02.png"/>
+			   <figcaption>Podemos prolongar o raio <b>OA</b> e construir a semi-circunferência de centro <b>O</b> e raio <b>OA</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1146" name="sl">
+			   <label for="1146"></label>
+			   <img src="parte8/93_01_03.png"/>
+			   <figcaption>Divida o raio <b>OC</b> em 4 partes iguais, para encontrar $\mathsf{ CD = \frac{3r}{4} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1147" name="sl">
+			   <label for="1147"></label>
+			   <img src="parte8/93_01_04.png"/>
+			   <figcaption>Construa a semi-circunferência de centro <b>C</b> e raio <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1148" name="sl">
+			   <label for="1148"></label>
+			   <img src="parte8/93_01_05.png"/>
+			   <figcaption>Construa o segmento <b>EF</b>: a interseção deste segmento com a semi-circunferência de centro <b>O</b> e raio <b>OA</b> é o ponto <b>B</b>, correspondente à extremidade do arco <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1149" name="sl">
+			   <label for="1149"></label>
+			   <img src="parte8/93_01_06.png"/>
+			   <figcaption>Unindo os pontos <b>O</b> e <b>B</b>, encontramos o ângulo <b>&theta;</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte8/93_01_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0094.png"/>
   <img src="parte8/apos_dg_0094a.png"/>
