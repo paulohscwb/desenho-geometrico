@@ -8926,7 +8926,7 @@
 		   <li>
 			   <input type="radio" id="1168" name="sl">
 			   <label for="1168"></label>
-			   <img src="parte9/97_03_02.png"/>
+			   <img src="parte9/97_03_03.png"/>
 			   <figcaption>Se escolhermos o vértice <b>C'''</b> na reta paralela ao lado <b>AB</b>, temos que <b>A<sub>ABC</sub> = A<sub>ABC'''</sub></b>, e assim sucessivamente.</figcaption>
 		   </li>
 		</ul>
@@ -8934,13 +8934,131 @@
   </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0098.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1169" name="sl">
+			   <label for="1169"></label>
+			   <img src="parte9/98_01_01.png"/>
+			   <figcaption>Como os lados <b>BC</b> e <b>EF</b> coincidem, vamos construir a reta paralela ao lado <b>BC &equiv; EF</b> pelo vértice <b>D</b>: como estamos mantendo a medida da base, vamos manter a medida da altura do <b>&#9651;ABC</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1170" name="sl">
+			   <label for="1170"></label>
+			   <img src="parte9/98_01_02.png"/>
+			   <figcaption>Construa a Circunf(B, AB).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1171" name="sl">
+			   <label for="1171"></label>
+			   <img src="parte9/98_01_02.png"/>
+			   <figcaption>Na interseção da circunferência com a reta paralela temos o vértice <b>A</b> do <b>&#9651;ABC</b> equivalente ao <b>&#9651;DEF</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/98_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0098a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, mantemos o lado <b>AB &equiv; DF</b>: logo, podemos construir a reta paralela ao lado <b>AB</b> que passa pelo vértice <b>E</b>.</p>
+	<img src="parte8/98_02_00.png"/>
+	<figcaption>Como o <b>&#9651;ABC</b> é isósceles de base <b>AB</b>, o vértice <b>C</b> pertence à mediatriz de <b>AB</b>.</figcaption>
+  </details></div>
   <img src="parte9/apos_dg_0098b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, mantemos o lado <b>AB &equiv; DE</b>: logo, podemos construir a reta paralela ao lado <b>AB</b> que passa pelo vértice <b>F</b>.</p>
+	<img src="parte8/98_03_00.png"/>
+	<figcaption>A distância do vértice <b>C</b> ao ponto médio <b>M<sub>c</sub></b> é igual à medida da mediana <b>m<sub>c</sub></b>.</figcaption>
+  </details></div>
   <img src="parte9/apos_dg_0098c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício, mantemos o lado <b>AB &equiv; DE</b>: logo, podemos construir a reta paralela ao lado <b>AB</b> que passa pelo vértice <b>F</b>.</p>
+	<img src="parte8/98_04_00.png"/>
+	<figcaption>A primeira construção para determinar a altura <b>h<sub>b</sub></b> é do arco capaz de 90&deg; em <b>AB</b>: depois, basta construir a Circunf(B, h<sub>b</sub>). A reta <b>AH<sub>b</sub></b> intercecta a reta paralela a <b>AB</b> no vértice <b>C</b>.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0099.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1172" name="sl">
+			   <label for="1172"></label>
+			   <img src="parte9/99_01_01.png"/>
+			   <figcaption>Neste exercício, vamos alterar a medida de um lado. Construa o lado <b>BC</b>, fazendo com que uma extremidade coincida com <b>E</b> ou <b>F</b>: neste caso, optei por usar o ponto <b>B &equiv; E</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1173" name="sl">
+			   <label for="1173"></label>
+			   <img src="parte9/99_01_02.png"/>
+			   <figcaption>Como a medida <b>BC &gt; EF</b>, temos o <b>&#9651;CFD</b> com área <b>1</b>, que não deve ser considerada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1174" name="sl">
+			   <label for="1174"></label>
+			   <img src="parte9/99_01_03.png"/>
+			   <figcaption>Mantendo-se a base <b>CD</b> e construindo a reta paralela a <b>CD</b> que passa por <b>F</b>, temos o triângulo de área <b>2</b>, equivalente à área <b>1</b>. Logo, descartamos os vértices <b>D</b> e <b>F</b>. A área do <b>&#9651;D'BC</b> é a mesma do <b>&#9651;DEF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1175" name="sl">
+			   <label for="1175"></label>
+			   <img src="parte9/99_01_04.png"/>
+			   <figcaption>Agora podemos construir a reta paralela a <b>BC</b> que passa por <b>D'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1176" name="sl">
+			   <label for="1176"></label>
+			   <img src="parte9/99_01_05.png"/>
+			   <figcaption>E finalmente podemos construir o <b>&angsph;C = 60&deg;</b>. A interseção da reta que forma 60&deg; com <b>BC</b> com a reta paralela a <b>BC</b> é o vértice <b>A</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/99_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0099a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1177" name="sl">
+			   <label for="1177"></label>
+			   <img src="parte9/99_02_01.png"/>
+			   <figcaption>Neste exercício, vamos alterar a medida de um lado. Construa o lado <b>AB</b>, fazendo com que uma extremidade coincida com <b>D</b> ou <b>E</b>: neste caso, optei por usar o ponto <b>A &equiv; D</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1178" name="sl">
+			   <label for="1178"></label>
+			   <img src="parte9/99_02_02.png"/>
+			   <figcaption>Como a medida <b>AB &lt; EF</b>, temos o <b>&#9651;EBF</b> com área <b>1</b>, que não pode ser descartada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1179" name="sl">
+			   <label for="1179"></label>
+			   <img src="parte9/99_02_03.png"/>
+			   <figcaption>Mantendo-se a base <b>BF</b> e construindo a reta paralela a <b>BF</b> que passa por <b>E</b>, temos o triângulo de área <b>2</b>, equivalente à área <b>1</b>. Logo, descartamos os vértices <b>F</b> e <b>E</b>. A área do <b>&#9651;F'AB</b> é a mesma do <b>&#9651;DEF</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1180" name="sl">
+			   <label for="1180"></label>
+			   <img src="parte9/99_02_04.png"/>
+			   <figcaption>Agora podemos construir a reta paralela a <b>AB</b> que passa por <b>F'</b> e a mediatriz de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1181" name="sl">
+			   <label for="1181"></label>
+			   <img src="parte9/99_02_05.png"/>
+			   <figcaption>Construa a Circunf(M<sub>c</sub>, m<sub>c</sub>), encontrando na reta paralela a <b>AB</b> os vértices <b>C</b> e <b>C'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1182" name="sl">
+			   <label for="1182"></label>
+			   <img src="parte9/99_02_06.png"/>
+			   <figcaption>Escolha uma das soluções.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/99_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0099b.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.3</span></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0100.png"/>
   <img src="parte9/apos_dg_0100a.png"/>
