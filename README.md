@@ -8893,14 +8893,14 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="1162" name="sl">
-			   <label for="1162"></label>
+			   <input type="radio" id="1164" name="sl">
+			   <label for="1164"></label>
 			   <img src="parte9/97_02_01.png"/>
 			   <figcaption>Quando construimos os segmentos <b>CD // AB</b> e <b>BD // AC</b>, temos um paralelogramo <b>ABDC</b>.</figcaption>
 		   </li>
 		  <li>
-			   <input type="radio" id="1163" name="sl">
-			   <label for="1163"></label>
+			   <input type="radio" id="1165" name="sl">
+			   <label for="1165"></label>
 			   <img src="parte9/97_02_02.png"/>
 			   <figcaption>Neste caso, temos que <b>&#9651;ABC = &#9651;DCB</b>. Logo, as áreas <b>1</b> e <b>2</b> são iguais, e a área do triângulo será a metade da área de um paralelogramo: $\mathsf{ A_\delta = \frac{AB \cdot h_c}{2} }$.</figcaption>
 		   </li>
@@ -8908,6 +8908,30 @@
 		<img src="parte9/97_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0097b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1166" name="sl">
+			   <label for="1166"></label>
+			   <img src="parte9/97_03_01.png"/>
+			   <figcaption>Quando construimos a reta paralela a um dos lados de um triângulo, temos o lugar geométrico dos vértices de triângulos equivalentes. Se escolhermos o vértice <b>C'</b> na reta paralela ao lado <b>AB</b>, temos que <b>A<sub>ABC</sub> = A<sub>ABC'</sub></b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1167" name="sl">
+			   <label for="1167"></label>
+			   <img src="parte9/97_03_02.png"/>
+			   <figcaption>Se escolhermos o vértice <b>C''</b> na reta paralela ao lado <b>AB</b>, temos que <b>A<sub>ABC</sub> = A<sub>ABC''</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1168" name="sl">
+			   <label for="1168"></label>
+			   <img src="parte9/97_03_02.png"/>
+			   <figcaption>Se escolhermos o vértice <b>C'''</b> na reta paralela ao lado <b>AB</b>, temos que <b>A<sub>ABC</sub> = A<sub>ABC'''</sub></b>, e assim sucessivamente.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/97_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0098.png"/>
   <img src="parte9/apos_dg_0098a.png"/>
