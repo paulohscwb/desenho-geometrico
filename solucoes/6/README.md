@@ -90,7 +90,7 @@
 	<figcaption>O segmento <b>&pi;r</b> pode ser encontrado com qualquer método de retificação de circunferências. Eu optei pelo método de Kochanski. Construa o retângulo de lados <b>l<sub>1</sub></b> e <b>l<sub>2</sub></b>.</figcaption>
   </details></div></details>
   <details style="border-bottom: 1px solid #a2dec0;" open><summary>Atividade 6.6: exercício 4 da pág. 104</summary>
-  <img src="../../parte7/apos_dg_0104a.png" />
+  <img src="../../parte9/apos_dg_0104a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste caso, devemos dividir o lado <b>AC</b> em partes proporcionais aos números dados.</p>
 	<img src="104_02_00.png"/>
