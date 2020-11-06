@@ -8871,7 +8871,7 @@
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0097.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	<p>Vamos ver as propriedades para o cálculo da área de um paralelogramo.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="1162" name="sl">
@@ -8890,7 +8890,7 @@
   </details></div>
   <img src="parte9/apos_dg_0097a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	<p>Vamos ver as propriedades para o cálculo da área de um triângulo.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="1164" name="sl">
@@ -8909,7 +8909,7 @@
   </details></div>
   <img src="parte9/apos_dg_0097b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	<p>Vamos ver a aplicação do princípio fundamental da equivalência de áreas.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="1166" name="sl">
@@ -9061,12 +9061,182 @@
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.3</span></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0100.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1183" name="sl">
+			   <label for="1183"></label>
+			   <img src="parte9/100_01_01.png"/>
+			   <figcaption>Escolhemos um vértice para ficar fixo (por exemplo, <b>D</b>) e um lado como reta suporte fixa (neste caso, escolhi a reta <b>AB</b>). Construa as diagonais do polígono a partir do vértice <b>D</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1184" name="sl">
+			   <label for="1184"></label>
+			   <img src="parte9/100_01_02.png"/>
+			   <figcaption>Vamos começar com a área <b>1</b>: vamos construir um triângulo equivalente, tal que o vértice <b>C</b> fique na reta suporte <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1185" name="sl">
+			   <label for="1185"></label>
+			   <img src="parte9/100_01_03.png"/>
+			   <figcaption>Construa a reta paralela a <b>BD</b> que passa pelo vértice <b>C</b>, encontrando <b>C' &isin; AB</b>. Descartamos os vértices <b>C</b> e <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1186" name="sl">
+			   <label for="1186"></label>
+			   <img src="parte9/100_01_04.png"/>
+			   <figcaption>A área <b>3</b> fica sem alterações.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1187" name="sl">
+			   <label for="1187"></label>
+			   <img src="parte9/100_01_05.png"/>
+			   <figcaption>As áreas <b>4</b> e <b>5</b> serão agrupadas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1188" name="sl">
+			   <label for="1188"></label>
+			   <img src="parte9/100_01_06.png"/>
+			   <figcaption>Podemos construir o prolongamento de <b>AF</b> e a reta paralela a <b>DF</b> que passa por <b>E</b>. Descartamos os vértices <b>E</b> e <b>F</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1189" name="sl">
+			   <label for="1189"></label>
+			   <img src="parte9/100_01_07.png"/>
+			   <figcaption>Finalmente, construa a reta paralela a <b>AD</b> que passa por <b>E'</b>, para "transportar" a área <b>4+6</b>. O vértice <b>E'' &isin; AB</b> é considerado e os vértices <b>A</b> e <b>E'</b> são descartados. A solução final fica como o <b>&#9651;DE''C'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/100_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0100a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Vamos ver a aplicação do princípio fundamental da equivalência de áreas para trapézios.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1190" name="sl">
+			   <label for="1190"></label>
+			   <img src="parte9/100_02_01.png"/>
+			   <figcaption>Prolongue as bases do trapézio.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1191" name="sl">
+			   <label for="1191"></label>
+			   <img src="parte9/100_02_02.png"/>
+			   <figcaption>Construa o segmento <b>A'B' = AB</b> na mesma reta suporte de <b>AB</b>. O trapézio <b>A'B'CD</b> é equivalente ao trapézio <b>ABCD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1192" name="sl">
+			   <label for="1192"></label>
+			   <img src="parte9/100_02_03.png"/>
+			   <figcaption>Construa o segmento <b>C'D' = CD</b> na mesma reta suporte de <b>CD</b>. O trapézio <b>ABC'D'</b> é equivalente ao trapézio <b>ABCD</b>, e assim sucessivamente: basta manter a altura e as medidas das bases inalteradas.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/100_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0100b.png"/>
+  <figcaption>No caso do losango, temos que uma diagonal divide-o em dois triângulos isósceles. Logo, a área de um destes triângulos fica igual a <b>d<sub>1</sub>.d<sub>2</sub>/4</b>. Logo, a área do losango será igual à metade do produto das medidas das diagonais: <b>d<sub>1</sub>.d<sub>2</sub>/2</b>.
+  <br>No polígono regular de <b>n</b> lados, temos <b>n</b> triângulos iscósceles de base igual a <b>l<sub>n</sub></b> e altura igual ao apótema <b>a</b>. Somando-se todas estas áreas, teremos <b>n.l<sub>n</sub></b>, que é o semi-perímetro. Logo, a área de um polígono regular de <b>n</b> lados é o produto do semi-perímetro pelo apótema.</figcaption>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0101.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Vamos ver os cálculos de áreas de círculos e coroas circulares.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1193" name="sl">
+			   <label for="1193"></label>
+			   <img src="parte9/101_01_01.png"/>
+			   <figcaption>Podemos imaginar um polígono de <b>n</b> lados inscrito na circunferência, com seu respectivo apótema: a área é o produto do semi-perímetro pelo apótema.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1194" name="sl">
+			   <label for="1194"></label>
+			   <img src="parte9/101_01_02.png"/>
+			   <figcaption>Se imaginarmos que o número de vértices aumenta, o apótema começa a se aproximar da medida do raio do círculo, e o lado do polígono se aproxima de 0. Logo, a área do círculo será o o produto do semi-perímetro pelo "apótema": <b>&pi;r.r = &pi;r<sup>2</sup></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1195" name="sl">
+			   <label for="1195"></label>
+			   <img src="parte9/101_01_02.png"/>
+			   <figcaption>No caso da coroa circular, temos que a área será obtida pela diferença das áreas dos círculos de raios <b>r<sub>1</sub></b> e <b>r<sub>2</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/101_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0101a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Vamos ver os cálculos de áreas de círculos e coroas circulares.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1196" name="sl">
+			   <label for="1196"></label>
+			   <img src="parte9/101_02_01.png"/>
+			   <figcaption>Podemos fazer uma regra de três para encontrar a área de um setor circular de amplitude <b>&alpha;</b></figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1197" name="sl">
+			   <label for="1197"></label>
+			   <img src="parte9/101_02_02.png"/>
+			   <figcaption>No caso do triângulo equilátero, calculamos a medida da altura usando o teorema de Pitágoras.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1198" name="sl">
+			   <label for="1198"></label>
+			   <img src="parte9/101_02_03.png"/>
+			   <figcaption>Depois, basta usar a fórmula da área de um triângulo com medida <b>a</b> e a altura calculada <b>h</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/101_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0101b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1199" name="sl">
+			   <label for="1199"></label>
+			   <img src="parte9/101_03_01.png"/>
+			   <figcaption>Escolhemos um vértice para ficar fixo (por exemplo, <b>F</b>) e um lado como reta suporte fixa (neste caso, escolhi a reta <b>BC</b>). Construa as diagonais do polígono a partir do vértice <b>F</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1200" name="sl">
+			   <label for="1200"></label>
+			   <img src="parte9/101_03_02.png"/>
+			   <figcaption>Vamos começar com a área <b>1</b>, que deve ser descartada: vamos construir um triângulo equivalente, tal que o vértice <b>A</b> fique na reta suporte <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1201" name="sl">
+			   <label for="1201"></label>
+			   <img src="parte9/101_03_03.png"/>
+			   <figcaption>Construa a reta paralela a <b>BF</b> que passa pelo vértice <b>A</b>, encontrando <b>A' &isin; BC</b>. Descartamos os vértices <b>B</b> e <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1202" name="sl">
+			   <label for="1202"></label>
+			   <img src="parte9/101_03_04.png"/>
+			   <figcaption>A área <b>3</b> fica sem alterações.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1203" name="sl">
+			   <label for="1203"></label>
+			   <img src="parte9/101_03_05.png"/>
+			   <figcaption>As áreas <b>4</b> e <b>5</b> serão agrupadas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1204" name="sl">
+			   <label for="1204"></label>
+			   <img src="parte9/101_03_06.png"/>
+			   <figcaption>Podemos construir o prolongamento de <b>CD</b> e a reta paralela a <b>DF</b> que passa por <b>E</b>. Descartamos os vértices <b>E</b> e <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1205" name="sl">
+			   <label for="1205"></label>
+			   <img src="parte9/101_03_07.png"/>
+			   <figcaption>Finalmente, construa a reta paralela a <b>CF</b> que passa por <b>E'</b>, para "transportar" a área <b>4+6</b>. O vértice <b>E'' &isin; BC</b> é considerado e os vértices <b>C</b> e <b>E'</b> são descartados. A solução final fica como o <b>&#9651;FE''A'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/101_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0102.png"/>
   <img src="parte9/apos_dg_0102a.png"/>
