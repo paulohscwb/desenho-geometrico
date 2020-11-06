@@ -9239,19 +9239,243 @@
   </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0102.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.4</span></div>
   <img src="parte9/apos_dg_0102a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1206" name="sl">
+			   <label for="1206"></label>
+			   <img src="parte9/102_02_01.png"/>
+			   <figcaption>Construa os quadrados de lados <b>l<sub>1</sub></b> e <b>l<sub>2</sub></b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1207" name="sl">
+			   <label for="1207"></label>
+			   <img src="parte9/102_02_02.png"/>
+			   <figcaption>O lado do quadrado equivalente à soma das áreas destes quadrados é encontrado usando o teorema de Pitágoras.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1208" name="sl">
+			   <label for="1208"></label>
+			   <img src="parte9/102_02_03.png"/>
+			   <figcaption>O lado <b>L</b> é a hipotenusa de um triângulo retângulo com catetos <b>l<sub>1</sub></b> e <b>l<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1209" name="sl">
+			   <label for="1209"></label>
+			   <img src="parte9/102_02_04.png"/>
+			   <figcaption>Construa o quadrado de lado <b>L</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/102_02_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0102b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1210" name="sl">
+			   <label for="1210"></label>
+			   <img src="parte9/102_03_01.png"/>
+			   <figcaption>Construa os círculos de raios <b>r<sub>1</sub></b>, <b>r<sub>2</sub></b> e <b>r<sub>3</sub></b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1211" name="sl">
+			   <label for="1211"></label>
+			   <img src="parte9/102_03_02.png"/>
+			   <figcaption>O raio do círculo equivalente à soma das áreas destes círculos é encontrado usando o teorema de Pitágoras.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1212" name="sl">
+			   <label for="1212"></label>
+			   <img src="parte9/102_03_03.png"/>
+			   <figcaption>Primeiro, encontramos o raio <b>R<sub>1</sub></b>, hipotenusa de um triângulo retângulo com catetos <b>r<sub>1</sub></b> e <b>r<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1213" name="sl">
+			   <label for="1213"></label>
+			   <img src="parte9/102_03_04.png"/>
+			   <figcaption>O raio <b>R</b> é a hipotenusa de um triângulo retângulo com catetos <b>R<sub>1</sub></b> e <b>r<sub>3</sub></b>. Construa o círculo com raio <b>R</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/102_03_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0102c.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1214" name="sl">
+			   <label for="1214"></label>
+			   <img src="parte9/102_04_01.png"/>
+			   <figcaption>Primeiro vamos construir o pentágono de lado <b>l</b>. Começamos com uma circunferência de raio qualquer e dois diâmetros perpendiculares. Encontre o ponto médio de um dos raios.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1215" name="sl">
+			   <label for="1215"></label>
+			   <img src="parte9/102_04_02.png"/>
+			   <figcaption>Com centro em <b>M</b> e raio <b>A<sub>1</sub></b>, determinamos o lado <b>l'<sub>5</sub></b> do pentágono inscrito nesta circunferência.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1216" name="sl">
+			   <label for="1216"></label>
+			   <img src="parte9/102_04_03.png"/>
+			   <figcaption>Encontre os vértices <b>A'<sub>2</sub></b> e <b>A'<sub>5</sub></b>. Vamos ampliar este pentágono para encontrar <b>l = 3,5cm</b> usando Homotetia.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1217" name="sl">
+			   <label for="1217"></label>
+			   <img src="parte9/102_04_04.png"/>
+			   <figcaption>Construa <b>A<sub>1</sub>A<sub>2</sub> = A<sub>1</sub>A<sub>5</sub></b>, e encontre o novo centro da circunferência circunscrita: construa o segmento <b>OA<sub>5</sub> // OA'<sub>5</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1218" name="sl">
+			   <label for="1218"></label>
+			   <img src="parte9/102_04_05.png"/>
+			   <figcaption>Agora podemos encontrar a medida do apótema deste pentágono: basta construir a reta perpendicular a um dos lados que passa pelo centro <b>O</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1219" name="sl">
+			   <label for="1219"></label>
+			   <img src="parte9/102_04_06.png"/>
+			   <figcaption>O lado do quadrado equivalente será a média geométrica entre o apótema e o semi-perímetro do pentágono: construa o segmento <b>AB</b> com o semi-perímetro do pentágono.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1220" name="sl">
+			   <label for="1220"></label>
+			   <img src="parte9/102_04_07.png"/>
+			   <figcaption>Construa o apótema <b>a = AC</b>. A média geométrica é o cateto <b>L</b>, lado do quadrado equivalente ao pentágono. Construa este quadrado.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/102_04_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0102d.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>O raio <b>R</b> do círculo equivalente à área da coroa circular é encontrado usando o teorema de Pitágoras.</p>
+	<img src="parte9/102_05_00.png"/>
+	<figcaption>A medida <b>R</b> é um cateto do triângulo retângulo com hipotenusa <b>r<sub>1</sub></b> e o outro cateto com medida <b>r<sub>2</sub></b>.</figcaption>
+  </details></div>
   <img src="parte9/apos_dg_0102e.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1221" name="sl">
+			   <label for="1221"></label>
+			   <img src="parte9/102_06_01.png"/>
+			   <figcaption>O lado do quadrado equivalente ao círculo é a média geométrica entre <b>&pi;r</b> e <b>r</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1222" name="sl">
+			   <label for="1222"></label>
+			   <img src="parte9/102_06_02.png"/>
+			   <figcaption>Vamos usar um dos métodos para encontrar a retificação da circunferência: eu optei pelo método de Mascheroni. Construa os arcos com centros em <b>A</b> e <b>B</b> e raio <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1223" name="sl">
+			   <label for="1223"></label>
+			   <img src="parte9/102_06_03.png"/>
+			   <figcaption>Construa os arcos com centros em <b>A</b> e <b>B</b> e raio <b>AC = BD</b>, encontrando <b>E</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1224" name="sl">
+			   <label for="1224"></label>
+			   <img src="parte9/102_06_04.png"/>
+			   <figcaption>Construa o arco com centro em <b>D</b> e raio <b>DE</b>, encontrando <b>F</b>. A distância <b>AF</b> é a metade do semi-perímetro do círculo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1225" name="sl">
+			   <label for="1225"></label>
+			   <img src="parte9/102_06_05.png"/>
+			   <figcaption>Construa em uma reta qualquer o dobro da medida <b>AF</b>: o segmento <b>GI = &pi;r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1226" name="sl">
+			   <label for="1226"></label>
+			   <img src="parte9/102_06_06.png"/>
+			   <figcaption>Construa <b>GJ = r</b>. Vamos construir agora a média geométrica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1227" name="sl">
+			   <label for="1227"></label>
+			   <img src="parte9/102_06_07.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg; (o centro já é o ponto <b>H</b>) e o segmento perpendicular a <b>GI</b> que passa por <b>J</b>. O cateto <b>L</b> é o lado do quadrado equivalente ao círculo de raio <b>r</b>. Construa este quadrado.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/102_06_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0102f.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>O raio <b>R</b> de um círculo equivalente à área da coroa circular é encontrado usando o teorema de Pitágoras: <b>R</b> é um cateto do triângulo retângulo com hipotenusa <b>r<sub>1</sub></b> e o outro cateto com medida <b>r<sub>2</sub></b>.</p>
+	<img src="parte9/102_07_00.png"/>
+	<figcaption>A média geométrica entre <b>&pi;R</b> e <b>R</b> será o lado do quadrado equivalente à área da coroa circular.</figcaption>
+  </details></div>
   <img src="parte9/apos_dg_0102g.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>O lado do triângulo equilátero será a média geométrica entre $\mathsf{ \frac{4}{3}l }$ e $\mathsf{ l \sqrt{3} }$. Encontramos $\mathsf{ \frac{4}{3}l }$ usando o teorema de Tales.</p>
+	<img src="parte9/102_08_00.png"/>
+	<figcaption>O segmento $\mathsf{ l \sqrt{3} }$ é construído usando o teorema de Pitágoras. </figcaption>
+  </details></div>
   <img src="parte9/apos_dg_0102h.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.5</span></div>
   <img src="parte9/apos_dg_0102i.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>O raio <b>R</b> do círculo equivalente ao setor circular de amplitude <b>&alpha;</b> e raio <b>r</b> será a média geométrica entre <b>&alpha;r</b> e $\mathsf{ x = \frac{r}{2\pi} }$. Encontramos o segmento <b>2&pi;</b> usando o o processo de Arquimedes.</p>
+	<img src="parte9/102_10_00.png"/>
+	<figcaption>O segmento <b>x</b> pode ser encontrado usando quarta proporcional entre <b>2&pi;</b>, <b>r</b> e <b>1cm</b>. O segmento <b>&alpha;r</b> é encontrado retificando o setor circular de amplitude <b>&alpha;</b> e raio <b>r</b>. Finalmente, podemos fazer a média geométrica entre <b>x</b> e <b>&alpha;r</b>. </figcaption>
+  </details></div>
   <img src="parte9/apos_dg_0102j.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>O lado <b>L</b> do quadrado equivalente ao setor circular de amplitude <b>&alpha;</b> e raio <b>r</b> será a média geométrica entre <b>&alpha;r</b> e $\mathsf{ \frac{r}{2} }$. </p>
+	<img src="parte9/102_11_00.png"/>
+	<figcaption>O segmento <b>&alpha;r</b> é encontrado retificando o setor circular de amplitude <b>&alpha;</b> e raio <b>r</b>. A média geométrica entre $\mathsf{ \frac{r}{2} }$ e <b>&alpha;r</b> resulta no lado do quadrado equivalente. </figcaption>
+  </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0103.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1228" name="sl">
+			   <label for="1228"></label>
+			   <img src="parte9/103_01_01.png"/>
+			   <figcaption>O raio do círculo que divide a área do círculo de raio <b>r</b> em $\mathsf{ \frac{1}{3} }$ é a média geométrica entre $\mathsf{ \frac{r}{3} }$ e <b>r</b>. Na razão de $\mathsf{ \frac{2}{3} }$ da área, temos a média geométrica entre $\mathsf{ \frac{2r}{3} }$ e <b>r</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1229" name="sl">
+			   <label for="1229"></label>
+			   <img src="parte9/103_01_02.png"/>
+			   <figcaption>Usando o teorema de Tales, divida o raio <b>r</b> em 3 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1230" name="sl">
+			   <label for="1230"></label>
+			   <img src="parte9/103_01_03.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg; em <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1231" name="sl">
+			   <label for="1231"></label>
+			   <img src="parte9/103_01_04.png"/>
+			   <figcaption>Os segmentos <b>r<sub>1</sub></b> e <b>r<sub>2</sub></b> são os raios que dividem a área do círculo de raio <b>r</b> em 3 partes equivalentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1232" name="sl">
+			   <label for="1232"></label>
+			   <img src="parte9/103_01_05.png"/>
+			   <figcaption>Construa os círculos.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/103_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0103a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste caso, devemos dividir o raio <b>r</b> em partes proporcionais aos números dados.</p>
+	<img src="parte9/103_02_00.png"/>
+	<figcaption>Construa os círculos de áreas proporcionais aos números dados.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0104.png"/>
   <img src="parte9/apos_dg_0104a.png"/>
