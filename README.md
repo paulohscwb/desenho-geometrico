@@ -8961,19 +8961,19 @@
   <img src="parte9/apos_dg_0098a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, mantemos o lado <b>AB &equiv; DF</b>: logo, podemos construir a reta paralela ao lado <b>AB</b> que passa pelo vértice <b>E</b>.</p>
-	<img src="parte8/98_02_00.png"/>
+	<img src="parte9/98_02_00.png"/>
 	<figcaption>Como o <b>&#9651;ABC</b> é isósceles de base <b>AB</b>, o vértice <b>C</b> pertence à mediatriz de <b>AB</b>.</figcaption>
   </details></div>
   <img src="parte9/apos_dg_0098b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, mantemos o lado <b>AB &equiv; DE</b>: logo, podemos construir a reta paralela ao lado <b>AB</b> que passa pelo vértice <b>F</b>.</p>
-	<img src="parte8/98_03_00.png"/>
+	<img src="parte9/98_03_00.png"/>
 	<figcaption>A distância do vértice <b>C</b> ao ponto médio <b>M<sub>c</sub></b> é igual à medida da mediana <b>m<sub>c</sub></b>.</figcaption>
   </details></div>
   <img src="parte9/apos_dg_0098c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, mantemos o lado <b>AB &equiv; DE</b>: logo, podemos construir a reta paralela ao lado <b>AB</b> que passa pelo vértice <b>F</b>.</p>
-	<img src="parte8/98_04_00.png"/>
+	<img src="parte9/98_04_00.png"/>
 	<figcaption>A primeira construção para determinar a altura <b>h<sub>b</sub></b> é do arco capaz de 90&deg; em <b>AB</b>: depois, basta construir a Circunf(B, h<sub>b</sub>). A reta <b>AH<sub>b</sub></b> intercecta a reta paralela a <b>AB</b> no vértice <b>C</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
