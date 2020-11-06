@@ -9478,11 +9478,130 @@
   </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0104.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1233" name="sl">
+			   <label for="1233"></label>
+			   <img src="parte9/104_01_01.png"/>
+			   <figcaption>Vamos imaginar que o <b>&#9651;AB<sub>1</sub>C<sub>1</sub></b> esteja construído. Neste caso, temos que a área deste triângulo mede $\mathsf{ \frac{1}{3} }$ da área do <b>&#9651;ABC</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1234" name="sl">
+			   <label for="1234"></label>
+			   <img src="parte9/104_01_02.png"/>
+			   <figcaption>Como são triângulos semelhantes, podemos determinar a medida da altura <b>h<sub>1</sub></b> em função da altura <b>h</b> e dos lados <b>AC<sub>1</sub></b> e <b>AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1235" name="sl">
+			   <label for="1235"></label>
+			   <img src="parte9/104_01_03.png"/>
+			   <figcaption>Substituindo a medida <b>h<sub>1</sub></b> na relação entre as áreas, temos a relação mostrada no desenho.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1236" name="sl">
+			   <label for="1236"></label>
+			   <img src="parte9/104_01_04.png"/>
+			   <figcaption>Isolando-se a medida <b>AC<sub>1</sub></b>, temos que construir a média geométrica entre <b>AC</b> e $\mathsf{ \frac{AC}{3} }$. Analogamente, para encontrar a divisão em $\mathsf{ \frac{2}{3} }$, faremos a média geométrica entre <b>AC</b> e $\mathsf{ \frac{2AC}{3} }$.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1237" name="sl">
+			   <label for="1237"></label>
+			   <img src="parte9/104_01_05.png"/>
+			   <figcaption>Usando o teorema de Tales, divida o lado <b>AC</b> em 3 partes iguais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1238" name="sl">
+			   <label for="1238"></label>
+			   <img src="parte9/104_01_06.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg; em <b>AC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1239" name="sl">
+			   <label for="1239"></label>
+			   <img src="parte9/104_01_07.png"/>
+			   <figcaption>Construa os segmentos perpendiculares a <b>AC</b>: <b>X<sub>1</sub>Y<sub>1</sub></b> e <b>X<sub>2</sub>Y<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1240" name="sl">
+			   <label for="1240"></label>
+			   <img src="parte9/104_01_08.png"/>
+			   <figcaption>Construa os arcos de circunferência com centro em <b>A</b> e raios <b>AY<sub>1</sub></b> e <b>AY<sub>2</sub></b>, encontrando os vértices <b>C<sub>1</sub></b> e <b>C<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1241" name="sl">
+			   <label for="1241"></label>
+			   <img src="parte9/104_01_09.png"/>
+			   <figcaption>Construa os lados paralelos a <b>AC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/104_01_00.png" class="fundo"/>
+  </details></div>
   <img src="parte9/apos_dg_0104a.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.6</span></div>
   <img src="parte9/apos_dg_0104b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1242" name="sl">
+			   <label for="1242"></label>
+			   <img src="parte9/104_03_01.png"/>
+			   <figcaption>Podemos prolongar as laterais do trapézio, encontrando o vértice <b>E</b>. Logo, a construção ficará parecida com o caso de triângulos.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1243" name="sl">
+			   <label for="1243"></label>
+			   <img src="parte9/104_03_02.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg; em <b>EC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1244" name="sl">
+			   <label for="1244"></label>
+			   <img src="parte9/104_03_03.png"/>
+			   <figcaption>A primeira construção que faremos antes de usar o teorema de Tales é "voltar" o ponto <b>B</b>, ou seja, vamos determinar o ponto correspondente <b>X<sub>0</sub></b> em <b>CE</b> que originou o ponto <b>B</b>: neste caso, o vértice <b>B</b> é considerado como uma divisão do <b>&#9651;ECD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1245" name="sl">
+			   <label for="1245"></label>
+			   <img src="parte9/104_03_04.png"/>
+			   <figcaption>Podemos dividir o segmento<b>CX<sub>0</sub></b> em 3 partes iguais usando o teorema de Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1246" name="sl">
+			   <label for="1246"></label>
+			   <img src="parte9/104_03_05.png"/>
+			   <figcaption>Construa os segmentos <b>X<sub>1</sub>Y<sub>1</sub></b> e <b>X<sub>2</sub>Y<sub>2</sub></b> perpendiculares a <b>EC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1247" name="sl">
+			   <label for="1247"></label>
+			   <img src="parte9/104_03_06.png"/>
+			   <figcaption>Construa os arcos de circunferência com centro em <b>E</b> e raios <b>EY<sub>1</sub></b> e <b>EY<sub>2</sub></b>, encontrando os vértices <b>C<sub>1</sub></b> e <b>C<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1248" name="sl">
+			   <label for="1248"></label>
+			   <img src="parte9/104_03_07.png"/>
+			   <figcaption>Construa os lados paralelos a <b>CD</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/104_03_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0105.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>O lado <b>BC</b> fica comum, então as alturas dos triângulos têm mesma medida.</p>
+	<img src="parte9/105_01_00.png"/>
+	<figcaption>Logo, podemos dividir o lado <b>BC</b> em 4 partes iguais, e os triângulos equivalentes ficam definidos com estes 3 pontos de divisão unidos ao ponto <b>A</b>.</figcaption>
+  </details></div>
   <img src="parte9/apos_dg_0105a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Se encontrarmos o baricentro do triângulo, temos as razões de $\mathsf{ \frac{1}{3} }$ com os pontos médios dos lados.</p>
+	<img src="parte9/105_02_00.png"/>
+	<figcaption>Temos esta mesma razão entre as alturas correspondentes. Logo, os 3 triângulos com vértice coincidente com o baricentro, mantendo-se os lados <b>AB</b>, <b>BC</b> e <b>AC</b> são equivalentes.</figcaption>
+  </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
 </details>
 
