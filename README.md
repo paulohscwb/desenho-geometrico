@@ -8823,7 +8823,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Vamos usar uma escala de 1:10 neste exercício: cada 1cm do desenho equivale a 10cm em escala real. Esta construção tem 2 fases: a primeira serve para encontrar as retas tangentes às circunferências de centros <b>A</b>, <b>B</b> e <b>C</b>. Como os raios são iguais, os segmentos tangentes têm medida igual ao lado do triângulo equilátero, e são construídos por meio de perpendiculares a estes lados. Desta forma, temos os comprimentos dos segmentos com medidas de 50cm.</p>
 	<img src="parte8/95_03_00.png"/>
-	<figcaption>Na segunda fase, retificamos um dos arcos de amplitude <b>&delta;</b>, que deve ser feito por meio de sua bissetriz pois tem medida maior do que 90&deg;. Assim, encontramos o segmento <b>GJ</b>. O comprimento total mede 277cm.</figcaption>
+	<figcaption>Na segunda fase, retificamos um dos arcos de amplitude <b>&delta;</b>, que deve ser feito por meio de sua bissetriz pois tem medida maior do que 90&deg;. Assim, encontramos o segmento <b>JG</b>. O comprimento total mede 277cm.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
 </details>
@@ -8831,25 +8831,122 @@
 <details style="border-bottom: 1px solid #a2dec0;">
   <summary id="parte9">6.2. Equivalência de áreas</summary>
   <p>Material da página 96 até a página 105.</p>
-  <img src="parte9/apos_dg_0094.png"/>
-  <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0095.png"/>
-  <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0096.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1157" name="sl">
+			   <label for="1157"></label>
+			   <img src="parte9/96_01_01.png"/>
+			   <figcaption>Construa o retângulo de lados <b>AB</b> e <b>BC</b>. Vamos construir um quadrado equivalente a este retângulo. Como as áreas são iguais, temos que $\mathsf{ l^2 = AB \cdot BC }$, ou seja, $\mathsf{ l = \sqrt{AB \cdot BC} }$. Logo, o lado do quadrado é a média geométrica entre os lados do retângulo.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1158" name="sl">
+			   <label for="1158"></label>
+			   <img src="parte9/96_01_02.png"/>
+			   <figcaption>Podemos prolongar o lado <b>AB</b> e construir o segmento <b>BE = BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1159" name="sl">
+			   <label for="1159"></label>
+			   <img src="parte9/96_01_03.png"/>
+			   <figcaption>Construa a mediatriz de <b>AE</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1160" name="sl">
+			   <label for="1160"></label>
+			   <img src="parte9/96_01_04.png"/>
+			   <figcaption>Construa o arco capaz de 90&deg; em <b>AE</b>. A interseção do prolongamento de <b>BC</b> com o arco capaz é o ponto <b>F</b>: <b>BF</b> é a média geométrica entre <b>AB</b> e <b>BC</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1161" name="sl">
+			   <label for="1161"></label>
+			   <img src="parte9/96_01_05.png"/>
+			   <figcaption>Construa o quadrado com lado <b>l = BF</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/96_01_00.png" class="fundo"/>
+  </details></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0097.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1162" name="sl">
+			   <label for="1162"></label>
+			   <img src="parte9/97_01_01.png"/>
+			   <figcaption>Quando construimos as alturas do paralelogramo relativas e um mesmo lado <b>AB</b>, temos os segmentos <b>AE = BF = h</b> e <b>&#9651;ADE = &#9651;BCF</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1163" name="sl">
+			   <label for="1163"></label>
+			   <img src="parte9/97_01_02.png"/>
+			   <figcaption>Logo, as áreas <b>1</b> e <b>2</b> são iguais. Se "recortássemos" o <b>&#9651;ADE</b> e "encaixássemos" no espaço do <b>&#9651;BCF</b>, teríamos um retângulo <b>AEFB</b>. Por isso que a área do paralelogramo é igual a <b>AB.h</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/97_01_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte9/apos_dg_0097a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="1162" name="sl">
+			   <label for="1162"></label>
+			   <img src="parte9/97_02_01.png"/>
+			   <figcaption>Quando construimos os segmentos <b>CD // AB</b> e <b>BD // AC</b>, temos um paralelogramo <b>ABDC</b>.</figcaption>
+		   </li>
+		  <li>
+			   <input type="radio" id="1163" name="sl">
+			   <label for="1163"></label>
+			   <img src="parte9/97_02_02.png"/>
+			   <figcaption>Neste caso, temos que <b>&#9651;ABC = &#9651;DCB</b>. Logo, as áreas <b>1</b> e <b>2</b> são iguais, e a área do triângulo será a metade da área de um paralelogramo: $\mathsf{ A_\delta = \frac{AB \cdot h_c}{2} }$.</figcaption>
+		   </li>
+		</ul>
+		<img src="parte9/97_02_00.png" class="fundo"/>
+  </details></div>
+  <img src="parte9/apos_dg_0097b.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0098.png"/>
+  <img src="parte9/apos_dg_0098a.png"/>
+  <img src="parte9/apos_dg_0098b.png"/>
+  <img src="parte9/apos_dg_0098c.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0099.png"/>
+  <img src="parte9/apos_dg_0099a.png"/>
+  <img src="parte9/apos_dg_0099b.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0100.png"/>
+  <img src="parte9/apos_dg_0100a.png"/>
+  <img src="parte9/apos_dg_0100b.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0101.png"/>
+  <img src="parte9/apos_dg_0101a.png"/>
+  <img src="parte9/apos_dg_0101b.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0102.png"/>
+  <img src="parte9/apos_dg_0102a.png"/>
+  <img src="parte9/apos_dg_0102b.png"/>
+  <img src="parte9/apos_dg_0102c.png"/>
+  <img src="parte9/apos_dg_0102d.png"/>
+  <img src="parte9/apos_dg_0102e.png"/>
+  <img src="parte9/apos_dg_0102f.png"/>
+  <img src="parte9/apos_dg_0102g.png"/>
+  <img src="parte9/apos_dg_0102h.png"/>
+  <img src="parte9/apos_dg_0102i.png"/>
+  <img src="parte9/apos_dg_0102j.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0103.png"/>
+  <img src="parte9/apos_dg_0103a.png"/>
+  <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
+  <img src="parte9/apos_dg_0104.png"/>
+  <img src="parte9/apos_dg_0104a.png"/>
+  <img src="parte9/apos_dg_0104b.png"/>
+  <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
+  <img src="parte9/apos_dg_0105.png"/>
+  <img src="parte9/apos_dg_0105a.png"/>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
 </details>
 
