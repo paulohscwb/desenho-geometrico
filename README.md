@@ -11,8 +11,8 @@
 
 <h2 id="inicio">Construções Geométricas</h2>
 
-<p>Este site contém os procedimentos para construções geométricas usadas na disciplina de Desenho Geométrico</p>
-<p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/apos_dg.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
+<p>Esta página contém os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico.</p>
+<p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2020/11/ApostilaDG_2020.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
 <details>
   <summary id="parte1">1.1. Circunferência e Mediatriz</summary>
@@ -9605,7 +9605,6 @@
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
 </details>
 
-
 <h4>página desenvolvida por:</h4> 
 <p>Paulo Henrique Siqueira</p>  
 <p><b>contato:</b> paulohscwb@gmail.com </p>
@@ -9619,7 +9618,13 @@
 
 <h4>Referências:</h4>
 <ol>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>Carvalho, B.A. Desenho Geométrico. Imperial Novo Milênio, 2008.</li>
+	<li>Rezende, E.Q.F.; Queiroz, M.L.B. Geometria Euclidiana plana e construções geométricas. Editora da Unicamp, 2008.</li>
+	<li>Marmo, C.M.B. Curso de Desenho, vol. 1 a 4. Editora Moderna, 1967.</li>
+	<li>Braga, T.B. Desenho Linear Geométrico. Editora Cone, 1997.</li>
+	<li>Braga, T.B. Problemas de Desenho Linear Geométrico. Cultura Brasileira, 1962.</li>
+	<li>Candido Gomes, M.E. Desenho Geométrico. Editora I.T.E.C., 1950.</li>
+	<li>Giovanny, J.R. Desenho Geométrico, vol.4. Editora FTD, 1996.</li>
+	<li>Putnoki, J.C. Elementos de Geometria e Desenho Geométrico. v. 1-3. Scipione, 1993.</li>
+	<li>Costa, D.M.B.; Siqueira, P.H. Apostila de Desenho Geométrico. UFPR, 2020.</li>
 <ol>
