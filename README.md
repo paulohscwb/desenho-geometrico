@@ -8902,7 +8902,7 @@
 			   <input type="radio" id="1165" name="sl">
 			   <label for="1165"></label>
 			   <img src="parte9/97_02_02.png"/>
-			   <figcaption>Neste caso, temos que <b>&#9651;ABC = &#9651;DCB</b>. Logo, as áreas <b>1</b> e <b>2</b> são iguais, e a área do triângulo será a metade da área de um paralelogramo: $\mathsf{ A_\delta = \frac{AB \cdot h_c}{2} }$.</figcaption>
+			   <figcaption>Neste caso, temos que <b>&#9651;ABC = &#9651;DCB</b>. Logo, as áreas <b>1</b> e <b>2</b> são iguais, e a área do triângulo será a metade da área de um paralelogramo: $\mathsf{ A_\Delta = \frac{AB \cdot h_c}{2} }$.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte9/97_02_00.png" class="fundo"/>
