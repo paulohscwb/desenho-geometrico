@@ -529,7 +529,7 @@
 			   <input type="radio" id="068" name="sl">
 			   <label for="068"></label>
 			   <img src="parte1/08_02_04.png"/>
-			   <figcaption>... com centro em <b>B</b>, construa um arco com mesmo raio. A interseção destes arcos é o ponto <b>C</b>, que pertence à <b>med<sub>AB</sub></b>.</figcaption>
+			   <figcaption>... com centro em <b>B</b>, construa um arco com raio de mesma medida. A interseção destes arcos é o ponto <b>C</b>, que pertence à <b>med<sub>AB</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="069" name="sl">
@@ -572,7 +572,7 @@
 			   <input type="radio" id="074" name="sl">
 			   <label for="074"></label>
 			   <img src="parte1/08_03_01.png"/>
-			   <figcaption>Neste item, vamos novamente usar o fato do que a mediatriz de um segmento é perpendicular ao segmento. Construa então um arco de circunferência com raio de medida qualquer, que intercepte a reta <b>r</b> nos pontos <b>A</b> e <b>B</b>.</figcaption>
+			   <figcaption>Neste item, vamos novamente usar o fato do que a mediatriz de um segmento é perpendicular ao segmento. Construa então um arco de circunferência com raio de medida qualquer, que intercecte a reta <b>r</b> nos pontos <b>A</b> e <b>B</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="075" name="sl">
@@ -584,7 +584,7 @@
 			   <input type="radio" id="076" name="sl">
 			   <label for="076"></label>
 			   <img src="parte1/08_03_03.png"/>
-			   <figcaption>... com centro em <b>A</b>, construa um arco com mesmo raio. A interseção destes arcos é o ponto <b>C</b>, que pertence à <b>med<sub>AB</sub></b>.</figcaption>
+			   <figcaption>... com centro em <b>A</b>, construa um arco com raio de mesma medida. A interseção destes arcos é o ponto <b>C</b>, que pertence à <b>med<sub>AB</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="077" name="sl">
@@ -622,7 +622,7 @@
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0009.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Constuindo a mediatriz de <b>AB</b>, determinamos o ponto médio <b>M</b>deste segmento.</p>
+	<p>Constuindo a mediatriz de <b>AB</b>, determinamos o ponto médio <b>M</b> deste segmento.</p>
 	<img src="parte1/09_01_00.png"/>
 	<figcaption>Usando as mediatrizes das metades do segmento <b>AB</b>, dividimos este segmento em 4 partes iguais.</figcaption>
   </details></div>
@@ -684,7 +684,7 @@
 			   <input type="radio" id="085" name="sl">
 			   <label for="085"></label>
 			   <img src="parte1/11_01_04.png"/>
-			   <figcaption>Construindo a mediatriz de <b>med<sub>BC</sub></b>, temos que a interseção da <b>med<sub>AB</sub></b> com a <b>med<sub>BC</sub></b> será o ponto equidistante de <b>A</b>, <b>B</b> e <b>C</b>. Logo, este ponto é o centro da circunferência.</figcaption>
+			   <figcaption>Construindo a <b>med<sub>BC</sub></b>, temos que a interseção da <b>med<sub>AB</sub></b> com a <b>med<sub>BC</sub></b> será o ponto equidistante de <b>A</b>, <b>B</b> e <b>C</b>. Logo, este ponto é o centro da circunferência.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte1/11_01_00.png" class="fundo"/>
@@ -773,7 +773,7 @@
 			   <input type="radio" id="095" name="sl">
 			   <label for="095"></label>
 			   <img src="parte2/12_02_04.png"/>
-			   <figcaption>Agora vamos construir a reta perpendicular à reta <b>PC</b> que passa por <b>P</b>. Com centro em <b>P</b>, defina um arco qualquer que intercepte <b>PC</b> em <b>D</b>.</figcaption>
+			   <figcaption>Agora vamos construir a reta perpendicular à reta <b>PC</b> que passa por <b>P</b>. Com centro em <b>P</b>, defina um arco qualquer que intercecte <b>PC</b> em <b>D</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="096" name="sl">
@@ -1078,7 +1078,7 @@
 			   <input type="radio" id="141" name="sl">
 			   <label for="141"></label>
 			   <img src="parte2/13_02_07.png"/>
-			   <figcaption>Com centro em <b>F</b>, construímos um arco de medida qualquer que intercepte <b>t</b> em <b>G</b>.</figcaption>
+			   <figcaption>Com centro em <b>F</b>, construímos um arco de medida qualquer que intercecte <b>t</b> em <b>G</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="142" name="sl">
@@ -1114,7 +1114,7 @@
 			   <input type="radio" id="147" name="sl">
 			   <label for="147"></label>
 			   <img src="parte2/13_02_13.png"/>
-			   <figcaption>Neste exemplo, temos 2 soluções. Caso a <b>Circunf(A,r)</b> não intercepte a reta <b>u // t</b>, não temos solução. E caso a <b>Circunf(A,r) </b> seja tangente à reta <b>u // t</b>, temos apenas 1 solução.</figcaption>
+			   <figcaption>Neste exemplo, temos 2 soluções. Caso a <b>Circunf(A,r)</b> não intercecte a reta <b>u // t</b>, não temos solução. E caso a <b>Circunf(A,r) </b> seja tangente à reta <b>u // t</b>, temos apenas 1 solução.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/13_02_00.png" class="fundo"/>
@@ -1339,7 +1339,7 @@
 			   <input type="radio" id="176" name="sl">
 			   <label for="176"></label>
 			   <img src="parte2/16_01_01.png"/>
-			   <figcaption>Com centro no vértice <b>A</b>, construímos um arco de circunferência de raio qualquer que intercepte os lados do ângulo nos pontos <b>D</b> e <b>E</b>.</figcaption>
+			   <figcaption>Com centro no vértice <b>A</b>, construímos um arco de circunferência de raio qualquer que intercecte os lados do ângulo nos pontos <b>D</b> e <b>E</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="177" name="sl">
@@ -1430,7 +1430,7 @@
 			   <input type="radio" id="190" name="sl">
 			   <label for="190"></label>
 			   <img src="parte2/16_02_10.png"/>
-			   <figcaption>Agora vamos construir o triângulo isósceles de base <b>BC</b> e vértice <b>A</b>: com centro em <b>A</b>, construa um arco com raio qualquer que intercepte as retas <b>r</b> e <b>t</b>.</figcaption>
+			   <figcaption>Agora vamos construir o triângulo isósceles de base <b>BC</b> e vértice <b>A</b>: com centro em <b>A</b>, construa um arco com raio qualquer que intercecte as retas <b>r</b> e <b>t</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="191" name="sl">
@@ -1461,7 +1461,7 @@
 			   <input type="radio" id="194" name="sl">
 			   <label for="194"></label>
 			   <img src="parte2/16_03_02.png"/>
-			   <figcaption>Se construirmos o arco com centro em <b>A</b> e um raio qualquer, que intercepte <b>r</b> nos pontos <b>B</b> e <b>C</b>, estamos considerando o <b>&angsph;BAC = 180&deg;</b>.</figcaption>
+			   <figcaption>Se construirmos o arco com centro em <b>A</b> e um raio qualquer, que intercecte <b>r</b> nos pontos <b>B</b> e <b>C</b>, estamos considerando o <b>&angsph;BAC = 180&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="195" name="sl">
@@ -1494,7 +1494,7 @@
 			   <input type="radio" id="198" name="sl">
 			   <label for="198"></label>
 			   <img src="parte2/17_01_01.png"/>
-			   <figcaption>O incentro do triângulo está no encontro das 3 bissetrizes dos ângulos internos do triângulo. Como precisamos da interseção de 2 retas para determinar o ponto, vamos construir apenas 2 bissetrizes. Com centro em <b>A</b>, determine um arco com raio qualquer que intercepte os lados <b>AC</b> e <b>AB</b>.</figcaption>
+			   <figcaption>O incentro do triângulo está no encontro das 3 bissetrizes dos ângulos internos do triângulo. Como precisamos da interseção de 2 retas para determinar o ponto, vamos construir apenas 2 bissetrizes. Com centro em <b>A</b>, determine um arco com raio qualquer que intercecte os lados <b>AC</b> e <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="199" name="sl">
@@ -1512,7 +1512,7 @@
 			   <input type="radio" id="201" name="sl">
 			   <label for="201"></label>
 			   <img src="parte2/17_01_04.png"/>
-			   <figcaption>Com centro em <b>B</b>, definimos um arco com raio de medida qualquer que intercepte os lados <b>AB</b> e <b>BC</b> do triângulo.</figcaption>
+			   <figcaption>Com centro em <b>B</b>, definimos um arco com raio de medida qualquer que intercecte os lados <b>AB</b> e <b>BC</b> do triângulo.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="202" name="sl">
@@ -1530,7 +1530,7 @@
 			   <input type="radio" id="204" name="sl">
 			   <label for="204"></label>
 			   <img src="parte2/17_01_07.png"/>
-			   <figcaption>Para determinarmos o raio da circunferência inscrita, podemos usar os esquadros, ou o compasso. Se construirmos um arco com centro em <b>I</b>, que intercepte um dos lados do triângulo nos pontos <b>K</b> e <b>L</b>...</figcaption>
+			   <figcaption>Para determinarmos o raio da circunferência inscrita, podemos usar os esquadros, ou o compasso. Se construirmos um arco com centro em <b>I</b>, que intercecte um dos lados do triângulo nos pontos <b>K</b> e <b>L</b>...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="205" name="sl">
@@ -1717,7 +1717,7 @@
 			   <input type="radio" id="228" name="sl">
 			   <label for="228"></label>
 			   <img src="parte2/19_01_01.png"/>
-			   <figcaption>Para transportar o ângulo <b>&alpha;</b>, podemos construir um arco com centro no vértice do ângulo, com raio qualquer e que intercepte os lados nos pontos <b>B</b> e <b>C</b>.</figcaption>
+			   <figcaption>Para transportar o ângulo <b>&alpha;</b>, podemos construir um arco com centro no vértice do ângulo, com raio qualquer e que intercecte os lados nos pontos <b>B</b> e <b>C</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="229" name="sl">
@@ -2354,7 +2354,7 @@
 			   <input type="radio" id="310" name="sl">
 			   <label for="310"></label>
 			   <img src="parte3/25_01_01.png"/>
-			   <figcaption>Vamos começar construindo o ângulo de segmento de <b>60&deg;</b> com vértice em <b>A</b>. Com centro em <b>A</b>, construa um arco que intercepte <b>AB</b> em <b>C</b>.</figcaption>
+			   <figcaption>Vamos começar construindo o ângulo de segmento de <b>60&deg;</b> com vértice em <b>A</b>. Com centro em <b>A</b>, construa um arco que intercecte <b>AB</b> em <b>C</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="311" name="sl">
@@ -7544,7 +7544,7 @@
 			   <input type="radio" id="996" name="sl">
 			   <label for="996"></label>
 			   <img src="parte7/80_03_01.png"/>
-			   <figcaption>Considere o ângulo central de <b>&angsph;AOB = 36&deg;</b> e o prolongamento do segmento <b>AB</b> interceptando a circunferência de centro em <b>A</b> no ponto <b>C</b>. Note que as duas circunferências têm mesma medida de raio.</figcaption>
+			   <figcaption>Considere o ângulo central de <b>&angsph;AOB = 36&deg;</b> e o prolongamento do segmento <b>AB</b> intercectando a circunferência de centro em <b>A</b> no ponto <b>C</b>. Note que as duas circunferências têm mesma medida de raio.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="998" name="sl">
