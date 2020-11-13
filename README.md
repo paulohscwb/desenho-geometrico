@@ -30,7 +30,7 @@
 			   <input type="radio" id="001" name="sl" checked>
 			   <label for="001"></label>
 			   <img src="parte1/02_01_01.png"/>
-			   <figcaption>Considerado um ponto <b>O</b> e a medida <b>r</b>, vamos construir a circunferência de centro em <b>O</b> e raio <b>r</b>.</figcaption>
+			   <figcaption>Considerando um ponto <b>O</b> e a medida <b>r</b>, vamos construir a circunferência de centro em <b>O</b> e raio <b>r</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="002" name="sl">
@@ -55,7 +55,7 @@
   </details></div>
   <img src="parte1/apos_dg_0002a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. Usaremos o compasso como instrumento auxiliar.</p>
+	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. O compasso será usado como instrumento auxiliar.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="005" name="sl">
@@ -81,7 +81,7 @@
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0003.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos o conceito de lugar geométrico para resolver este problema. Usaremos o compasso como instrumento auxiliar.</p>
+	<p>Utilizaremos o conceito de lugar geométrico para resolver este problema. O compasso será usado como instrumento auxiliar.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="008" name="sl">
@@ -154,7 +154,7 @@
 			   <input type="radio" id="018" name="sl">
 			   <label for="018"></label>
 			   <img src="parte1/03_02_06.png"/>
-			   <figcaption>Agora podemos "pegar" as outra medidas dos lados com o compasso. Primeiro, vamos "pegar" o lado <b>a</b>...</figcaption>
+			   <figcaption>Agora podemos "pegar" as outras medidas dos lados com o compasso. Primeiro, vamos "pegar" o lado <b>a</b>...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="019" name="sl">
@@ -193,7 +193,7 @@
 			   <input type="radio" id="023" name="sl">
 			   <label for="023"></label>
 			   <img src="parte1/04_01_01.png"/>
-			   <figcaption>Como a circunferência procurada passar pelos pontos <b>A</b> e <b>B</b>, as distâncias entre o centro <b>O</b> e os pontos <b>A</b> e <b>B</b> medem o raio <b>r</b>. Logo, podemos "pegar" a medida <b>r</b> com o compasso...</figcaption>
+			   <figcaption>Como a circunferência procurada passa pelos pontos <b>A</b> e <b>B</b>, as distâncias entre o centro <b>O</b> e os pontos <b>A</b> e <b>B</b> têm medida igual ao raio <b>r</b>. Logo, podemos "pegar" a medida <b>r</b> com o compasso...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="024" name="sl">
@@ -205,7 +205,7 @@
 			   <input type="radio" id="026" name="sl">
 			   <label for="026"></label>
 			   <img src="parte1/04_01_04.png"/>
-			   <figcaption>Com o mesmo raio, construímos a <b>Circunf(B,r)</b>, que é o segundo lugar geométrico de <b>O</b>. Teremos duas soluções: <b>O</b> e <b>O'</b>. Se as circunferências ficarem tangentes, temos apenas 1 solução; e no caso em que as circunferências não se intercectam, não temos solução.</figcaption>
+			   <figcaption>Com a mesma medida de raio, construímos a <b>Circunf(B,r)</b>, que é o segundo lugar geométrico de <b>O</b>. Teremos duas soluções: <b>O</b> e <b>O'</b>. Se as circunferências ficarem tangentes, temos apenas 1 solução; e no caso em que as circunferências não se intercectam, não temos solução.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="027" name="sl">
@@ -232,13 +232,13 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício proposto.</p>
 	<img src="parte1/04_02_00.png"/>
-	<figcaption>Encontramos duas soluções na resolução deste problema.</figcaption>
+	<figcaption>Encontramos duas soluções para este problema.</figcaption>
   </details></div>
   <img src="parte1/apos_dg_0004b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Use o conceito do lugar geométrico circunferência para resolver este exercício.</p>
 	<img src="parte1/04_03_00.png"/>
-	<figcaption>Encontramos duas soluções na resolução deste problema: os triângulos <b>ABC</b> e <b>A'BC</b>.</figcaption>
+	<figcaption>Encontramos duas soluções para este problema: os triângulos <b>ABC</b> e <b>A'BC</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0005.png"/>
@@ -258,7 +258,7 @@
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. Usaremos a régua e o compasso como instrumentos auxiliares.</p>
+	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. A régua e o compasso serão usados como instrumentos auxiliares.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="030" name="sl">
@@ -313,13 +313,13 @@
 			   <input type="radio" id="037" name="sl">
 			   <label for="037"></label>
 			   <img src="parte1/06_02_01.png"/>
-			   <figcaption>Para encontrar a mediatriz de <b>AB</b>, construímos os arcos de circunferências de centros <b>A</b> e <b>B</b>, com a mesma medida dos raios. Esta medida precisa ser maior do que a metade de <b>AB</b>. As interseções destes arcos definem a reta <b>XX'</b> que é a mediatriz de <b>AB</b>. Usamos a notação <b>med<sub>AB</sub></b>.</figcaption>
+			   <figcaption>Para encontrar a mediatriz de <b>AB</b>, construímos os arcos de circunferência de centros <b>A</b> e <b>B</b>, com raios de mesma medida. Esta medida precisa ser maior do que a metade de <b>AB</b>. As interseções destes arcos definem a reta <b>XX'</b> que é a mediatriz de <b>AB</b>. Usamos a notação <b>med<sub>AB</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="038" name="sl">
 			   <label for="038"></label>
 			   <img src="parte1/06_02_02.png"/>
-			   <figcaption>Como os raios são iguais à uma medida <b>d</b>, temos a formação do <b>&#9651;AXB</b> isósceles de base <b>d</b>.</figcaption>
+			   <figcaption>Como os raios são iguais a uma medida <b>d</b>, temos o <b>&#9651;AXB</b> isósceles de base <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="039" name="sl">
@@ -418,7 +418,7 @@
 			   <input type="radio" id="052" name="sl">
 			   <label for="052"></label>
 			   <img src="parte1/07_03_02.png"/>
-			   <figcaption>... e outro com mesmo raio e centro em <b>B</b>. As interseções definem os pontos <b>P</b> e <b>P'</b>.</figcaption>
+			   <figcaption>... e outro raio de mesma medida e centro em <b>B</b>. As interseções definem os pontos <b>P</b> e <b>P'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="053" name="sl">
@@ -462,13 +462,13 @@
 			   <input type="radio" id="058" name="sl">
 			   <label for="058"></label>
 			   <img src="parte1/08_01_03.png"/>
-			   <figcaption>Com o centro em <b>A</b>, construiremos um arco com medida maior do que <b>AC</b> para encontrar a <b>med<sub>AC</sub></b>.</figcaption>
+			   <figcaption>Com o centro em <b>A</b>, construímos um arco com medida maior do que <b>AC</b> para encontrar a <b>med<sub>AC</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="059" name="sl">
 			   <label for="059"></label>
 			   <img src="parte1/08_01_04.png"/>
-			   <figcaption>Com o centro em <b>C</b>, construimos um arco com mesmo raio do primeiro, encontrando as interseções <b>P</b> e <b>P'</b>.</figcaption>
+			   <figcaption>Com o centro em <b>C</b>, construímos um arco com raio de mesma medida do primeiro, encontrando as interseções <b>P</b> e <b>P'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="060" name="sl">
@@ -1090,7 +1090,7 @@
 			   <input type="radio" id="143" name="sl">
 			   <label for="143"></label>
 			   <img src="parte2/13_02_09.png"/>
-			   <figcaption>Com a mesma medida, construimos o arco com centro em <b>H</b>, intercectando o primeiro arco que construimos com centro em <b>F</b> no ponto <b>I</b>. A reta <b>FI</b> é paralela à reta <b>t</b></figcaption>
+			   <figcaption>Com a mesma medida, construímos o arco com centro em <b>H</b>, intercectando o primeiro arco que construímos com centro em <b>F</b> no ponto <b>I</b>. A reta <b>FI</b> é paralela à reta <b>t</b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="144" name="sl">
@@ -1108,7 +1108,7 @@
 			   <input type="radio" id="146" name="sl">
 			   <label for="146"></label>
 			   <img src="parte2/13_02_12.png"/>
-			   <figcaption>Construimos uma solução com linha contínua e outra com linha tracejada.</figcaption>
+			   <figcaption>construímos uma solução com linha contínua e outra com linha tracejada.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="147" name="sl">
@@ -1467,13 +1467,13 @@
 			   <input type="radio" id="195" name="sl">
 			   <label for="195"></label>
 			   <img src="parte2/16_03_03.png"/>
-			   <figcaption>Logo, podemos construir sua bissetriz (do mesmo jeito que fizemos com mediatriz): com centro em <b>B</b> e raio com medida maior do que <b>AB</b>, construimos um arco... </figcaption>
+			   <figcaption>Logo, podemos construir sua bissetriz (do mesmo jeito que fizemos com mediatriz): com centro em <b>B</b> e raio com medida maior do que <b>AB</b>, construímos um arco... </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="196" name="sl">
 			   <label for="196"></label>
 			   <img src="parte2/16_03_04.png"/>
-			   <figcaption>... e com centro em <b>C</b>, construimos um arco com raio de mesma medida, determinando o ponto <b>D</b>.</figcaption>
+			   <figcaption>... e com centro em <b>C</b>, construímos um arco com raio de mesma medida, determinando o ponto <b>D</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="197" name="sl">
@@ -1754,7 +1754,7 @@
 			   <input type="radio" id="233" name="sl">
 			   <label for="233"></label>
 			   <img src="parte2/19_02_01.png"/>
-			   <figcaption>Construa uma reta qualquer e defina um ponto <b>A</b> nesta reta. Relembrando a construção de perpendicular, construimos um arco com centro <b>A</b> e raio <b>AB</b> qualquer...</figcaption>
+			   <figcaption>Construa uma reta qualquer e defina um ponto <b>A</b> nesta reta. Relembrando a construção de perpendicular, construímos um arco com centro <b>A</b> e raio <b>AB</b> qualquer...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="234" name="sl">
@@ -1875,7 +1875,7 @@
 			   <input type="radio" id="252" name="sl">
 			   <label for="252"></label>
 			   <img src="parte2/19_03_07.png"/>
-			   <figcaption>Ao deslizar o esquadro de 45 até chegar no ponto <b>K</b> pertencente à reta, construimos o ângulo de 45 virado à direita da folha.</figcaption>
+			   <figcaption>Ao deslizar o esquadro de 45 até chegar no ponto <b>K</b> pertencente à reta, construímos o ângulo de 45 virado à direita da folha.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="253" name="sl">
@@ -2360,7 +2360,7 @@
 			   <input type="radio" id="311" name="sl">
 			   <label for="311"></label>
 			   <img src="parte3/25_01_02.png"/>
-			   <figcaption>Com a mesma medida de raio, construa o arco com centro em <b>C</b>, encontrando o ponto <b>D</b> no arco que construimos no passo anterior. Assim, temos a reta tangente ao arco: <b>t</b>.</figcaption>
+			   <figcaption>Com a mesma medida de raio, construa o arco com centro em <b>C</b>, encontrando o ponto <b>D</b> no arco que construímos no passo anterior. Assim, temos a reta tangente ao arco: <b>t</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="312" name="sl">
@@ -2426,7 +2426,7 @@
 			   <input type="radio" id="322" name="sl">
 			   <label for="322"></label>
 			   <img src="parte3/25_01_13.png"/>
-			   <figcaption>Com centro em <b>O'</b>, construimos o arco simétrico do primeiro. Os centros pertencem aos arcos simétricos, pois <b>&angsph;AOB =  &angsph;AO'B = 120&deg;</b>, que é a medida do ângulo inscrito que define este arco capaz.</figcaption>
+			   <figcaption>Com centro em <b>O'</b>, construímos o arco simétrico do primeiro. Os centros pertencem aos arcos simétricos, pois <b>&angsph;AOB =  &angsph;AO'B = 120&deg;</b>, que é a medida do ângulo inscrito que define este arco capaz.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte3/25_01_00.png" class="fundo"/>
@@ -2540,7 +2540,7 @@
 			   <input type="radio" id="335" name="sl">
 			   <label for="335"></label>
 			   <img src="parte3/26_03_01.png"/>
-			   <figcaption>Como o ponto <b>B</b> "enxerga" o segmento <b>AC</b> segundo <b>45&deg;</b>, vamos usar o arco capaz para resolver este exercício. Podemos construir o arco capaz de <b>45&deg;</b> de uma forma mais simples: primeiro construimos o arco capaz de <b>90&deg;</b>, cujo centro é o ponto médio de <b>AC</b>.</figcaption>
+			   <figcaption>Como o ponto <b>B</b> "enxerga" o segmento <b>AC</b> segundo <b>45&deg;</b>, vamos usar o arco capaz para resolver este exercício. Podemos construir o arco capaz de <b>45&deg;</b> de uma forma mais simples: primeiro construímos o arco capaz de <b>90&deg;</b>, cujo centro é o ponto médio de <b>AC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="336" name="sl">
@@ -3539,13 +3539,13 @@
 			   <input type="radio" id="463" name="sl">
 			   <label for="463"></label>
 			   <img src="parte4/39_01_01.png"/>
-			   <figcaption>Vamos construir as projeções dos catetos sobre a hipotenusa. Começando com a projeção do cateto <b>c</b>, construimos o segmento <b>BH<sub>a</sub> = n</b>.</figcaption>
+			   <figcaption>Vamos construir as projeções dos catetos sobre a hipotenusa. Começando com a projeção do cateto <b>c</b>, construímos o segmento <b>BH<sub>a</sub> = n</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="464" name="sl">
 			   <label for="464"></label>
 			   <img src="parte4/39_01_02.png"/>
-			   <figcaption>No prolongamento de <b>BH<sub>a</sub></b>, construimos o segmento <b>H<sub>a</sub>C = m</b>, que é a projeção do cateto <b>b</b> sobre a hipotenusa.</figcaption>
+			   <figcaption>No prolongamento de <b>BH<sub>a</sub></b>, construímos o segmento <b>H<sub>a</sub>C = m</b>, que é a projeção do cateto <b>b</b> sobre a hipotenusa.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="465" name="sl">
@@ -3663,7 +3663,7 @@
 			   <input type="radio" id="481" name="sl">
 			   <label for="481"></label>
 			   <img src="parte4/40_01_03.png"/>
-			   <figcaption>... e o arco capaz de 90&deg; segundo <b>AB</b>. No ponto <b>C</b>, construimos a reta perpendicular a <b>AB</b> com os esquadros.</figcaption>
+			   <figcaption>... e o arco capaz de 90&deg; segundo <b>AB</b>. No ponto <b>C</b>, construímos a reta perpendicular a <b>AB</b> com os esquadros.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="482" name="sl">
@@ -3675,7 +3675,7 @@
 			   <input type="radio" id="483" name="sl">
 			   <label for="483"></label>
 			   <img src="parte4/40_01_05.png"/>
-			   <figcaption>Como os segmentos do item 1.2 são maiores, podemos usar a relação de que um cateto é média geométrica entre a hipotenusa e sua projeção sobre a hipotenusa. Desta forma, construimos o segmento menor "por dentro" do segmento maior.</figcaption>
+			   <figcaption>Como os segmentos do item 1.2 são maiores, podemos usar a relação de que um cateto é média geométrica entre a hipotenusa e sua projeção sobre a hipotenusa. Desta forma, construímos o segmento menor "por dentro" do segmento maior.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="484" name="sl">
@@ -3724,7 +3724,7 @@
 			   <input type="radio" id="490" name="sl">
 			   <label for="490"></label>
 			   <img src="parte4/40_02_04.png"/>
-			   <figcaption>No item 2.2, podemos usar a relação entre o cateto e sua projeção sobre a hipotenusa. Logo, construimos o segmento <b>3p</b>...</figcaption>
+			   <figcaption>No item 2.2, podemos usar a relação entre o cateto e sua projeção sobre a hipotenusa. Logo, construímos o segmento <b>3p</b>...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="491" name="sl">
@@ -3748,7 +3748,7 @@
 			   <input type="radio" id="494" name="sl">
 			   <label for="494"></label>
 			   <img src="parte4/40_02_08.png"/>
-			   <figcaption>Logo, construimos o segmento <b>p</b> "por dentro" do segmento <b>5p</b>.</figcaption>
+			   <figcaption>Logo, construímos o segmento <b>p</b> "por dentro" do segmento <b>5p</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="495" name="sl">
@@ -3779,7 +3779,7 @@
 			   <input type="radio" id="498" name="sl">
 			   <label for="498"></label>
 			   <img src="parte4/40_03_02.png"/>
-			   <figcaption>Construimos na reta qualquer 5 segmentos consecutivos, com distâncias iguais entre si, começando pelo ponto <b>A</b>. Unimos o ponto <b>5</b> com o ponto <b>B</b>.</figcaption>
+			   <figcaption>construímos na reta qualquer 5 segmentos consecutivos, com distâncias iguais entre si, começando pelo ponto <b>A</b>. Unimos o ponto <b>5</b> com o ponto <b>B</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="499" name="sl">
@@ -3938,7 +3938,7 @@
 			   <input type="radio" id="518" name="sl">
 			   <label for="518"></label>
 			   <img src="parte4/42_02_04.png"/>
-			   <figcaption>Com centro em uma das extremidades de <b>y</b>, construimos a circunferência de raio <b>r</b>.</figcaption>
+			   <figcaption>Com centro em uma das extremidades de <b>y</b>, construímos a circunferência de raio <b>r</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="519" name="sl">
@@ -4412,7 +4412,7 @@
 			   <input type="radio" id="578" name="sl">
 			   <label for="578"></label>
 			   <img src="parte5/50_01_02.png"/>
-			   <figcaption>Como temos a medida do lado <b>c</b>, construimos a Circunf(B,c), que é o primeiro lugar geométrico do vértice <b>A</b>.</figcaption>
+			   <figcaption>Como temos a medida do lado <b>c</b>, construímos a Circunf(B,c), que é o primeiro lugar geométrico do vértice <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="579" name="sl">
@@ -4436,19 +4436,19 @@
 			   <input type="radio" id="582" name="sl">
 			   <label for="582"></label>
 			   <img src="parte5/50_01_06.png"/>
-			   <figcaption>Com o mesmo raio, construimos outro arco de circunferência. Logo, temos o ângulo de 60&deg; com vértice em <b>B</b>.</figcaption>
+			   <figcaption>Com o mesmo raio, construímos outro arco de circunferência. Logo, temos o ângulo de 60&deg; com vértice em <b>B</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="583" name="sl">
 			   <label for="583"></label>
 			   <img src="parte5/50_01_07.png"/>
-			   <figcaption>Agora podemos construir a bissetriz deste ângulo. Com centro em uma das interseções, construimos um arco...</figcaption>
+			   <figcaption>Agora podemos construir a bissetriz deste ângulo. Com centro em uma das interseções, construímos um arco...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="584" name="sl">
 			   <label for="584"></label>
 			   <img src="parte5/50_01_08.png"/>
-			   <figcaption>... e com centro na outra interseção, construimos o arco com mesmo raio. Logo, temos o ângulo <b>B = 30&deg;</b>.</figcaption>
+			   <figcaption>... e com centro na outra interseção, construímos o arco com mesmo raio. Logo, temos o ângulo <b>B = 30&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="585" name="sl">
@@ -4577,7 +4577,7 @@
 			   <input type="radio" id="602" name="sl">
 			   <label for="602"></label>
 			   <img src="parte5/51_02_06.png"/>
-			   <figcaption>No exercício 7, construimos o arco capaz de 90&deg; em <b>BC</b> e a reta que forma 60&deg; com <b>BC</b>.</figcaption>
+			   <figcaption>No exercício 7, construímos o arco capaz de 90&deg; em <b>BC</b> e a reta que forma 60&deg; com <b>BC</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte5/51_02_00.png" class="fundo"/>
@@ -4780,7 +4780,7 @@
 			   <input type="radio" id="630" name="sl">
 			   <label for="630"></label>
 			   <img src="parte5/52_03_07.png"/>
-			   <figcaption>No exercício 14, vamos usar a mesma ideia. Primeiro, construimos o <b>&#9651;A'B'C'</b> com a medida <b>B'C'</b> qualquer e com as medidas indicadas dos ângulos.</figcaption>
+			   <figcaption>No exercício 14, vamos usar a mesma ideia. Primeiro, construímos o <b>&#9651;A'B'C'</b> com a medida <b>B'C'</b> qualquer e com as medidas indicadas dos ângulos.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="631" name="sl">
@@ -5260,7 +5260,7 @@
 			   <input type="radio" id="698" name="sl">
 			   <label for="698"></label>
 			   <img src="parte5/55_03_08.png"/>
-			   <figcaption>Construimos a Circunf(M<sub>a</sub>,M<sub>b</sub>M<sub>c</sub>), determinando os vértices <b>B</b> e <b>C</b>.</figcaption>
+			   <figcaption>construímos a Circunf(M<sub>a</sub>,M<sub>b</sub>M<sub>c</sub>), determinando os vértices <b>B</b> e <b>C</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="699" name="sl">
@@ -6766,7 +6766,7 @@
 			   <input type="radio" id="887" name="sl">
 			   <label for="887"></label>
 			   <img src="parte6/73_02_03.png"/>
-			   <figcaption>Aplicando o exercício 19, construimos as Circunf(A,5) e Circunf(B,5) para encontrar o centro da circunferência tangente com raio 3cm.</figcaption>
+			   <figcaption>Aplicando o exercício 19, construímos as Circunf(A,5) e Circunf(B,5) para encontrar o centro da circunferência tangente com raio 3cm.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="888" name="sl">
@@ -7470,7 +7470,7 @@
 			   <input type="radio" id="986" name="sl">
 			   <label for="986"></label>
 			   <img src="parte7/80_01_03.png"/>
-			   <figcaption>Com centros em <b>A<sub>2</sub></b> e em <b>A<sub>6</sub></b>, construimos arcos com raios iguais a <b>r</b> e determinamos mais 2 pontos na circunferência.</figcaption>
+			   <figcaption>Com centros em <b>A<sub>2</sub></b> e em <b>A<sub>6</sub></b>, construímos arcos com raios iguais a <b>r</b> e determinamos mais 2 pontos na circunferência.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="987" name="sl">
@@ -7769,13 +7769,13 @@
 			   <input type="radio" id="1030" name="sl">
 			   <label for="1030"></label>
 			   <img src="parte7/81_04_12.png"/>
-			   <figcaption>Continuando, na segunda volta e mesmo raio <b>A<sub>1</sub>A<sub>4</sub></b>, construimos os arcos para encontrar <b>A<sub>2</sub></b>, <b>A<sub>8</sub></b>, <b>A<sub>11</sub></b>, <b>A<sub>14</sub></b> e <b>A<sub>17</sub></b>.</figcaption>
+			   <figcaption>Continuando, na segunda volta e mesmo raio <b>A<sub>1</sub>A<sub>4</sub></b>, construímos os arcos para encontrar <b>A<sub>2</sub></b>, <b>A<sub>8</sub></b>, <b>A<sub>11</sub></b>, <b>A<sub>14</sub></b> e <b>A<sub>17</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1031" name="sl">
 			   <label for="1031"></label>
 			   <img src="parte7/81_04_13.png"/>
-			   <figcaption>Para finalizar, na terceira volta e mesmo raio <b>A<sub>1</sub>A<sub>4</sub></b>, construimos os arcos para encontrar <b>A<sub>3</sub></b>, <b>A<sub>9</sub></b>, <b>A<sub>12</sub></b> e <b>A<sub>15</sub></b>. Construa o heptadecágono regular.</figcaption>
+			   <figcaption>Para finalizar, na terceira volta e mesmo raio <b>A<sub>1</sub>A<sub>4</sub></b>, construímos os arcos para encontrar <b>A<sub>3</sub></b>, <b>A<sub>9</sub></b>, <b>A<sub>12</sub></b> e <b>A<sub>15</sub></b>. Construa o heptadecágono regular.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/81_04_00.png" class="fundo"/>
@@ -7785,7 +7785,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Começando pelo lado <b>AB = l<sub>6</sub></b>, podemos encontrar o centro da circunferência circunscrita.</p>
 	<img src="parte7/81_03_00.png"/>
-	<figcaption>Com centros em <b>A</b> e <b>B</b>, construimos os arcos com raios iguais a <b>l<sub>6</sub></b>. Depois, construímos a circunferência circunscrita e os 4 outros vértices, como fizemos anteriormente.</figcaption>
+	<figcaption>Com centros em <b>A</b> e <b>B</b>, construímos os arcos com raios iguais a <b>l<sub>6</sub></b>. Depois, construímos a circunferência circunscrita e os 4 outros vértices, como fizemos anteriormente.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0082.png"/>
@@ -8214,7 +8214,7 @@
 			   <input type="radio" id="1087" name="sl">
 			   <label for="1087"></label>
 			   <img src="parte7/86_06_04.png"/>
-			   <figcaption>Usando a Homotetia, temos que <b>&#9651;A<sub>6</sub>A<sub>2</sub>A<sub>1</sub> ~ &#9651;A<sub>6</sub>A'<sub>2</sub>A'<sub>1</sub></b>. Logo, construimos o segmento <b>A<sub>1</sub>A<sub>2</sub> // A'<sub>1</sub>A'<sub>2</sub></b>.</figcaption>
+			   <figcaption>Usando a Homotetia, temos que <b>&#9651;A<sub>6</sub>A<sub>2</sub>A<sub>1</sub> ~ &#9651;A<sub>6</sub>A'<sub>2</sub>A'<sub>1</sub></b>. Logo, construímos o segmento <b>A<sub>1</sub>A<sub>2</sub> // A'<sub>1</sub>A'<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1088" name="sl">
@@ -8877,7 +8877,7 @@
 			   <input type="radio" id="1162" name="sl">
 			   <label for="1162"></label>
 			   <img src="parte9/97_01_01.png"/>
-			   <figcaption>Quando construimos as alturas do paralelogramo relativas e um mesmo lado <b>AB</b>, temos os segmentos <b>AE = BF = h</b> e <b>&#9651;ADE = &#9651;BCF</b>.</figcaption>
+			   <figcaption>Quando construímos as alturas do paralelogramo relativas e um mesmo lado <b>AB</b>, temos os segmentos <b>AE = BF = h</b> e <b>&#9651;ADE = &#9651;BCF</b>.</figcaption>
 		   </li>
 		  <li>
 			   <input type="radio" id="1163" name="sl">
@@ -8896,7 +8896,7 @@
 			   <input type="radio" id="1164" name="sl">
 			   <label for="1164"></label>
 			   <img src="parte9/97_02_01.png"/>
-			   <figcaption>Quando construimos os segmentos <b>CD // AB</b> e <b>BD // AC</b>, temos um paralelogramo <b>ABDC</b>.</figcaption>
+			   <figcaption>Quando construímos os segmentos <b>CD // AB</b> e <b>BD // AC</b>, temos um paralelogramo <b>ABDC</b>.</figcaption>
 		   </li>
 		  <li>
 			   <input type="radio" id="1165" name="sl">
@@ -8915,7 +8915,7 @@
 			   <input type="radio" id="1166" name="sl">
 			   <label for="1166"></label>
 			   <img src="parte9/97_03_01.png"/>
-			   <figcaption>Quando construimos a reta paralela a um dos lados de um triângulo, temos o lugar geométrico dos vértices de triângulos equivalentes. Se escolhermos o vértice <b>C'</b> na reta paralela ao lado <b>AB</b>, temos que <b>A<sub>ABC</sub> = A<sub>ABC'</sub></b>.</figcaption>
+			   <figcaption>Quando construímos a reta paralela a um dos lados de um triângulo, temos o lugar geométrico dos vértices de triângulos equivalentes. Se escolhermos o vértice <b>C'</b> na reta paralela ao lado <b>AB</b>, temos que <b>A<sub>ABC</sub> = A<sub>ABC'</sub></b>.</figcaption>
 		   </li>
 		  <li>
 			   <input type="radio" id="1167" name="sl">
