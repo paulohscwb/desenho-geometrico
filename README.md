@@ -729,7 +729,7 @@
   <summary id="parte2">1.2. Retas paralelas e bissetriz</summary>
   <p>Material da página 12 até a página 20.</p>
   <img src="parte2/apos_dg_0012.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
 	<p>Agora vamos estudar o terceiro lugar geométrico: retas paralelas. Vamos ver algumas propriedades.</p>
 	  <ul class="slider">
 		  <li>
@@ -791,7 +791,7 @@
 			   <input type="radio" id="098" name="sl">
 			   <label for="098"></label>
 			   <img src="parte2/12_02_07.png"/>
-			   <figcaption>... e use o mesmo raio para construir o arco com centro em <b>E</b>. Desta forma, encontramos o ponto <b>F</b>.</figcaption>
+			   <figcaption>... e use o raio com mesma medida para construir o arco com centro em <b>E</b>. Desta forma, encontramos o ponto <b>F</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="099" name="sl">
@@ -803,7 +803,7 @@
 			   <input type="radio" id="100" name="sl">
 			   <label for="100"></label>
 			   <img src="parte2/12_02_09.png"/>
-			   <figcaption>Agora vamos construi a reta paralela a <b>t</b> que passa por <b>P</b> usando outro raciocínio. Construa um arco de circunferência de raio qualquer <b>PQ</b>, onde <b>Q &isin; t</b>.</figcaption>
+			   <figcaption>Agora vamos construir a reta paralela a <b>t</b> que passa por <b>P</b> usando outro raciocínio. Construa um arco de circunferência de raio qualquer <b>PQ</b>, onde <b>Q &isin; t</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="101" name="sl">
@@ -1060,7 +1060,7 @@
 			   <input type="radio" id="138" name="sl">
 			   <label for="138"></label>
 			   <img src="parte2/13_02_04.png"/>
-			   <figcaption>... e com centro em <b>C</b> e mesmo raio, encontramos o ponto <b>E</b> tal que <b>s &equiv; BE &perp; t &equiv; BC</b>.</figcaption>
+			   <figcaption>... e com centro em <b>C</b> e raio com mesma medida, encontramos o ponto <b>E</b> tal que <b>BE &perp; BC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="139" name="sl">
@@ -1102,7 +1102,7 @@
 			   <input type="radio" id="145" name="sl">
 			   <label for="145"></label>
 			   <img src="parte2/13_02_11.png"/>
-			   <figcaption>Este é o segundo lugar geométrico do centro da circunferência tangente: uma circunferência com centro em A e raio <b>r</b>. Esta circunferência intercecta a reta <b>u // t</b> nos pontos <b>O</b> e <b>O'</b>.</figcaption>
+			   <figcaption>Este é o segundo lugar geométrico do centro da circunferência tangente: uma circunferência com centro em <b>A</b> e raio <b>r</b>. Esta circunferência intercecta a reta <b>u // t</b> nos pontos <b>O</b> e <b>O'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="146" name="sl">
@@ -1121,13 +1121,13 @@
   </details></div>
   <img src="parte2/apos_dg_0013b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Neste exercício, vamos utilizar o par de esquadros e o compasso.</p>
+	<p>Neste exercício, vamos utilizar o par de esquadros e o compasso como instrumentos auxiliares.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="148" name="sl">
 			   <label for="148"></label>
 			   <img src="parte2/13_03_01.png"/>
-			   <figcaption>Vamos construir uma reta perpendicular a um dos segmentos, escolhendo um ponto <b>A</b> pertencente ao primeiro segmento. Com um cateto alinhado com o segmento e o esquadro de 60 apoiado na hipotenusa...<b>t</b></figcaption>
+			   <figcaption>Vamos construir uma reta perpendicular a um dos segmentos, escolhendo um ponto <b>A</b> pertencente ao primeiro segmento. Com um cateto alinhado com o segmento e o esquadro de 60 apoiado na hipotenusa...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="149" name="sl">
@@ -1224,7 +1224,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
 	<img src="parte2/15_01_00.png"/>
-	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>CD &perp; r</b> para marcar o segmento <b>d</b>.</figcaption>
+	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>CD &perp; r</b> para marcar o segmento com medida <b>d</b>.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0015a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -1282,7 +1282,7 @@
 			   <input type="radio" id="169" name="sl">
 			   <label for="169"></label>
 			   <img src="parte2/15_02_09.png"/>
-			   <figcaption>Como o centro da solução pertence à reta <b>a</b>, teremos 2 soluções: <b>O &equiv; s &cap; a</b> e <b>O' &equiv; t &cap; a</b>.Construímos estas circunferências com raios de medida <b>r</b>.</figcaption>
+			   <figcaption>Como o centro da solução pertence à reta <b>a</b>, teremos 2 soluções: <b>O &equiv; s &cap; a</b> e <b>O' &equiv; t &cap; a</b>. Construímos estas circunferências com raios de medida igual a <b>r</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/15_02_00.png" class="fundo"/>
@@ -1319,7 +1319,7 @@
 			   <input type="radio" id="175" name="sl">
 			   <label for="175"></label>
 			   <img src="parte2/15_03_05.png"/>
-			   <figcaption>Portanto, temos os ângulos <b>&alpha;</b> e <b>&beta;</b> que definem outra propriedade da bissetriz: ela divide os ângulos formados entre<b>r</b> e <b>s</b> ao meio.</figcaption>
+			   <figcaption>Portanto, temos os ângulos <b>&alpha;</b> e <b>&beta;</b> que definem outra propriedade da bissetriz: ela divide os ângulos formados entre <b>r</b> e <b>s</b> ao meio.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="170" name="sl">
@@ -1351,13 +1351,13 @@
 			   <input type="radio" id="178" name="sl">
 			   <label for="178"></label>
 			   <img src="parte2/16_01_03.png"/>
-			   <figcaption>Com centro em <b>E</b>, construímos um arco com raio igual ao que fizemos no ponto <b>D</b>, encontrando o ponto <b>F</b>.</figcaption>
+			   <figcaption>Com centro em <b>E</b>, construímos um arco com a medida do raio igual à medida do raio que fizemos no ponto <b>D</b>, encontrando o ponto <b>F</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="179" name="sl">
 			   <label for="179"></label>
 			   <img src="parte2/16_01_04.png"/>
-			   <figcaption>Usando a régua ou um dos esquadros, construímos a semi-reta <b>OF</b>.</figcaption>
+			   <figcaption>Usando a régua ou um dos esquadros, construímos a semi-reta <b>AF</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="180" name="sl">
@@ -1394,7 +1394,7 @@
 			   <input type="radio" id="184" name="sl">
 			   <label for="184"></label>
 			   <img src="parte2/16_02_04.png"/>
-			   <figcaption>... e construa um arco de mesmo raio com centro em <b>E</b>, encontrando o ponto <b>F</b>. A semi-reta <b>OF</b> é a bissetriz do <b>&angsph;DAE</b>. Podemos construir a bissetriz do suplementar deste ângulo, ou podemos usar a propriedade de que as bissetrizes de ângulos suplementares são perpendiculares.</figcaption>
+			   <figcaption>... e construa um arco com a mesma medida do raio com centro em <b>E</b>, encontrando o ponto <b>F</b>. A semi-reta <b>AF</b> é a bissetriz do <b>&angsph;DAE</b>. Podemos construir a bissetriz do suplementar deste ângulo, ou podemos usar a propriedade de que as bissetrizes de ângulos suplementares são perpendiculares.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="185" name="sl">
@@ -1524,7 +1524,7 @@
 			   <input type="radio" id="203" name="sl">
 			   <label for="203"></label>
 			   <img src="parte2/17_01_06.png"/>
-			   <figcaption>A semi-reta <b>AJ</b> é a bissetriz do <b>&angsph;B</b>, relativa ao lado <b>b</b>, que podemos nomear como <b>b<sub>b</sub></b>. A interseção das bissetrizes construídas é o incentro <b>I</b> do triângulo. Não é necessária a construção da bissetriz do <b>&angsph;C</b>.</figcaption>
+			   <figcaption>A semi-reta <b>BJ</b> é a bissetriz do <b>&angsph;B</b>, relativa ao lado <b>b</b>, que podemos nomear como <b>b<sub>b</sub></b>. A interseção das bissetrizes construídas é o incentro <b>I</b> do triângulo. Não é necessária a construção da bissetriz do <b>&angsph;C</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="204" name="sl">
@@ -1741,7 +1741,7 @@
 			   <input type="radio" id="232" name="sl">
 			   <label for="232"></label>
 			   <img src="parte2/19_01_05.png"/>
-			   <figcaption>Note que esta construção funciona, pois construímos os triângulos congruentes.</figcaption>
+			   <figcaption>Note que esta construção funciona, pois construímos dois triângulos congruentes.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte2/19_01_00.png" class="fundo"/>
@@ -1760,7 +1760,7 @@
 			   <input type="radio" id="234" name="sl">
 			   <label for="234"></label>
 			   <img src="parte2/19_02_02.png"/>
-			   <figcaption>... definindo o ponto <b>C</b> sobre a reta, com mesmo raio.</figcaption>
+			   <figcaption>... definindo o ponto <b>C</b> sobre a reta, com raio de mesma medida.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="235" name="sl">
@@ -1772,7 +1772,7 @@
 			   <input type="radio" id="236" name="sl">
 			   <label for="236"></label>
 			   <img src="parte2/19_02_04.png"/>
-			   <figcaption>... e centro em <b>B</b> com mesmo raio.</figcaption>
+			   <figcaption>... e centro em <b>B</b> com raio de mesma medida.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="237" name="sl">
@@ -1790,7 +1790,7 @@
 			   <input type="radio" id="239" name="sl">
 			   <label for="239"></label>
 			   <img src="parte2/19_02_07.png"/>
-			   <figcaption>... e com centro em <b>F</b>, construa o arco com mesmo raio <b>EF</b>, encontrando a interseção <b>G</b>. Unindo <b>E</b> com <b>G</b>, temos a semi-reta que forma <b>60&deg;</b> com a reta.</figcaption>
+			   <figcaption>... e com centro em <b>F</b>, construa o arco com raio <b>FG = EF</b>, encontrando a interseção <b>G</b>. Unindo <b>E</b> com <b>G</b>, temos a semi-reta que forma <b>60&deg;</b> com a reta.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="240" name="sl">
@@ -1887,7 +1887,7 @@
 			   <input type="radio" id="254" name="sl">
 			   <label for="254"></label>
 			   <img src="parte2/19_03_09.png"/>
-			   <figcaption>... e deslizar o esquadro até chegar no ponto <b>K</b>.</figcaption>
+			   <figcaption>... e deslizar o esquadro de 45 até chegar no ponto <b>K</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="255" name="sl">
@@ -1917,7 +1917,7 @@
 			   <input type="radio" id="258" name="sl">
 			   <label for="258"></label>
 			   <img src="parte2/19_03_13.png"/>
-			   <figcaption>Construindo a bissetriz dos <b>60&deg;</b>, temos o ângulo de <b>30&deg;</b> construído com régua e compasso.</figcaption>
+			   <figcaption>Construindo a bissetriz dos <b>60&deg;</b>, temos o ângulo de <b>30&deg;</b> com o uso da régua e do compasso.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="259" name="sl">
@@ -1929,7 +1929,7 @@
 			   <input type="radio" id="260" name="sl">
 			   <label for="260"></label>
 			   <img src="parte2/19_03_15.png"/>
-			   <figcaption>Quando construímos o ângulo de <b>60&deg;</b>, definimos o suplementar de <b>120&deg;</b>.</figcaption>
+			   <figcaption>Quando construímos o ângulo de <b>60&deg;</b>, definimos o suplementar com medidual igual a <b>120&deg;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="261" name="sl">
@@ -1997,7 +1997,7 @@
 			   <input type="radio" id="270" name="sl">
 			   <label for="270"></label>
 			   <img src="parte2/20_01_03.png"/>
-			   <figcaption>... e construa o arco com centro em <b>E</b> e raio <b>DE</b>. Assim, encontramos o ponto <b>B</b> que define o ângulo procurado.</figcaption>
+			   <figcaption>... e construa o arco com centro em <b>E</b> e raio <b>BE = DE</b>. Assim, encontramos o ponto <b>B</b> que define o ângulo procurado.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="271" name="sl">
@@ -2012,7 +2012,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
 	<img src="parte2/20_02_00.png"/>
-	<figcaption>Basta lembrar da construção que fizemos para transportar ângulos. Lembre-se que os arcos com centros nos vértices devem ter mesma medida de raio.</figcaption>
+	<figcaption>Basta lembrar da construção que fizemos para transportar ângulos. Lembre-se que os arcos com centros nos vértices devem ter raios com mesma medida.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0020b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.5</span></div>
