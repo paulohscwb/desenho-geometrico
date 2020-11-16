@@ -3778,7 +3778,7 @@
 			   <input type="radio" id="498" name="sl">
 			   <label for="498"></label>
 			   <img src="parte4/40_03_02.png"/>
-			   <figcaption>construímos na reta qualquer 5 segmentos consecutivos, com distâncias iguais entre si, começando pelo ponto <b>A</b>. Unimos o ponto <b>5</b> com o ponto <b>B</b>.</figcaption>
+			   <figcaption>Construímos na reta qualquer 5 segmentos consecutivos, com distâncias iguais entre si, começando pelo ponto <b>A</b>. Unimos o ponto <b>5</b> com o ponto <b>B</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="499" name="sl">
@@ -3888,7 +3888,7 @@
 			   <input type="radio" id="512" name="sl">
 			   <label for="512"></label>
 			   <img src="parte4/42_01_06.png"/>
-			   <figcaption>O vértice reto do triângulo retângulo que vamos construir "enxerga" a hipotenusa segundo ângulo de 90&deg;. Logo, vamos construir o arco capaz de 90&deg;.</figcaption>
+			   <figcaption>O vértice com ângulo reto do triângulo retângulo que vamos construir "enxerga" a hipotenusa segundo ângulo de 90&deg;. Logo, vamos construir o arco capaz de 90&deg;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="513" name="sl">
@@ -3900,13 +3900,13 @@
 			   <input type="radio" id="514" name="sl">
 			   <label for="514"></label>
 			   <img src="parte4/42_01_08.png"/>
-			   <figcaption>Como temos a medida do cateto <b>q</b>, podemos construir a circunferência com centro em uma extremidade de <b>p</b>, com raio <b>q</b>.</figcaption>
+			   <figcaption>Como temos a medida do cateto <b>q</b>, podemos construir o arco de circunferência com centro em uma extremidade de <b>p</b>, com raio <b>q</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="509" name="sl">
 			   <label for="509"></label>
 			   <img src="parte4/42_01_09.png"/>
-			   <figcaption>Logo, o cateto <b>x</b> está construído.</figcaption>
+			   <figcaption>Logo, o cateto com a medida <b>x</b> está construído.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte4/42_01_00.png" class="fundo"/>
@@ -3937,13 +3937,13 @@
 			   <input type="radio" id="518" name="sl">
 			   <label for="518"></label>
 			   <img src="parte4/42_02_04.png"/>
-			   <figcaption>Com centro em uma das extremidades de <b>y</b>, construímos a circunferência de raio <b>r</b>.</figcaption>
+			   <figcaption>Com centro em uma das extremidades de <b>y</b>, construímos o arco de circunferência de raio <b>r</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="519" name="sl">
 			   <label for="519"></label>
 			   <img src="parte4/42_02_05.png"/>
-			   <figcaption>Logo, temos o cateto <b>x</b> com uma das extremidades no arco capaz.</figcaption>
+			   <figcaption>Logo, temos o cateto com medida <b>x</b> com uma das extremidades no arco capaz.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="520" name="sl">
@@ -3977,7 +3977,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Nestes exercícios propostos, temos aplicações do teorema de Pitágoras. São segmentos que podemos construir também com o conceito de média geométrica</p>
 	<img src="parte4/43_03_00.png"/>
-	<figcaption>No exercício 3, a espiral pitagórica é feita com os os triângulos retângulos com um dos	catetos sempre igual a um segmento inicial <b>p</b>, obtendo-se na sequência: $\mathsf{ p \sqrt {2} }$, $\mathsf{ p \sqrt {3} }$, e a assim sucessivamente.</figcaption>
+	<figcaption>No exercício 3, a espiral pitagórica é feita com triângulos retângulos que têm  um dos catetos com medida igual a um segmento inicial <b>p</b>, obtendo-se na sequência: $\mathsf{ p \sqrt {2} }$, $\mathsf{ p \sqrt {3} }$, e a assim sucessivamente.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0044.png"/>
@@ -4263,7 +4263,7 @@
 			   <input type="radio" id="558" name="sl">
 			   <label for="558"></label>
 			   <img src="parte4/48_02_01.png"/>
-			   <figcaption>Ao determinar uma reta secante qualquer que passar pelo ponto <b>P</b>, temos a propriedade válida: $\mathsf{ PT^2 = PA \cdot PB }$, ou seja, $\mathsf{ PT = \sqrt{PA \cdot PB} }$. Logo, <b>PT</b> será a média geométrica entre <b>PA</b> e <b>PB</b>.</figcaption>
+			   <figcaption>Ao determinar uma reta secante qualquer que passa pelo ponto <b>P</b>, temos a propriedade válida: $\mathsf{ PT^2 = PA \cdot PB }$, ou seja, $\mathsf{ PT = \sqrt{PA \cdot PB} }$. Logo, <b>PT</b> será a média geométrica entre <b>PA</b> e <b>PB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="559" name="sl">
