@@ -3632,6 +3632,12 @@
 			   <img src="parte4/39_03_03.png"/>
 			   <figcaption>Considere o ângulo <b>&angsph;B = &beta;</b>. Temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;ABC</b> são semelhantes (ângulos correspondentes iguais). Logo, os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over b} = {c \over a} = {n \over c} }$. Da última igualdade, podemos concluir que $\mathsf{ c^2 = {a \cdot n} }$.</figcaption>
 		   </li>
+		   <li>
+			   <input type="radio" id="477a" name="sl">
+			   <label for="477a"></label>
+			   <img src="parte4/39_03_04.png"/>
+			   <figcaption>Por transitividade, temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;H<sub>a</sub>AC</b> são semelhantes. Logo, <b>&angsph;H<sub>a</sub>AC = &beta;</b> e <b>&angsph;H<sub>a</sub>AB = &gamma;</b>. Temos que os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over n} = {m \over h} = {b \over c} }$. Da primeira igualdade, podemos concluir que $\mathsf{ h^2 = {m \cdot n} }$.</figcaption>
+		   </li>
 		</ul>
 		<img src="parte4/39_03_00.png" class="fundo"/>
   </details></div>
