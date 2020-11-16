@@ -3624,19 +3624,19 @@
 			   <input type="radio" id="476" name="sl">
 			   <label for="476"></label>
 			   <img src="parte4/39_03_02.png"/>
-			   <figcaption>Considere o ângulo <b>&angsph;C = &gamma;</b>. Temos que os triângulos <b>&#9651;H<sub>a</sub>AC</b> e <b>&#9651;ABC</b> são semelhantes (ângulos correspondentes iguais). Logo, os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over c} = {b \over a} = {m \over b} }$. Da última igualdade, podemos concluir que $\mathsf{ b^2 = {a \cdot m} }$.</figcaption>
+			   <figcaption>Considere o ângulo <b>&angsph;C = &gamma;</b>. Temos que os triângulos <b>&#9651;H<sub>a</sub>AC</b> e <b>&#9651;ABC</b> são semelhantes (ângulos correspondentes iguais). Logo, os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over c} = {b \over a} = {m \over b} }$. Da última igualdade, podemos concluir que $\mathsf{ b^2 = {a \cdot m} }$. Esta é a relação entre o cateto <b>b</b> e sua projeção sobre a hipotenusa <b>m</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="477" name="sl">
 			   <label for="477"></label>
 			   <img src="parte4/39_03_03.png"/>
-			   <figcaption>Considere o ângulo <b>&angsph;B = &beta;</b>. Temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;ABC</b> são semelhantes (ângulos correspondentes iguais). Logo, os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over b} = {c \over a} = {n \over c} }$. Da última igualdade, podemos concluir que $\mathsf{ c^2 = {a \cdot n} }$.</figcaption>
+			   <figcaption>Considere o ângulo <b>&angsph;B = &beta;</b>. Temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;ABC</b> são semelhantes (ângulos correspondentes iguais). Logo, os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over b} = {c \over a} = {n \over c} }$. Da última igualdade, podemos concluir que $\mathsf{ c^2 = {a \cdot n} }$. Esta é a relação entre o cateto <b>c</b> e sua projeção sobre a hipotenusa <b>n</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="477a" name="sl">
 			   <label for="477a"></label>
 			   <img src="parte4/39_03_04.png"/>
-			   <figcaption>Por transitividade, temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;H<sub>a</sub>AC</b> são semelhantes. Logo, <b>&angsph;H<sub>a</sub>AC = &beta;</b> e <b>&angsph;H<sub>a</sub>AB = &gamma;</b>. Temos que os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over n} = {m \over h} = {b \over c} }$. Da primeira igualdade, podemos concluir que $\mathsf{ h^2 = {m \cdot n} }$.</figcaption>
+			   <figcaption>Por transitividade, temos que os triângulos <b>&#9651;H<sub>a</sub>BA</b> e <b>&#9651;H<sub>a</sub>AC</b> são semelhantes. Logo, <b>&angsph;H<sub>a</sub>AC = &beta;</b> e <b>&angsph;H<sub>a</sub>AB = &gamma;</b>. Temos que os lados correspondentes são proporcionais na mesma razão, ou seja,  $\mathsf{ {h \over n} = {m \over h} = {b \over c} }$. Da primeira igualdade, podemos concluir que $\mathsf{ h^2 = {m \cdot n} }$. Esta é a relação entre a altura <b>h</b> e as projeções dos catetos sobre a hipotenusa <b>m</b> e <b>n</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte4/39_03_00.png" class="fundo"/>
