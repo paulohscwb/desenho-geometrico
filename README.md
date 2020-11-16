@@ -2471,7 +2471,7 @@
 			   <input type="radio" id="327" name="sl">
 			   <label for="327"></label>
 			   <img src="parte3/26_01_02.png"/>
-			   <figcaption>Com centro em <b>O</b>, construa a circunferência com raio <b>OP</b>, encontrando o ponto <b>Q &equiv; r &cap; Circunf(O,OP)</b>.</figcaption>
+			   <figcaption>Com centro em <b>O</b>, construa a circunferência com raio de medida <b>OP</b>, encontrando o ponto <b>Q &equiv; r &cap; Circunf(O,OP)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="328" name="sl">
@@ -2502,7 +2502,7 @@
 			   <input type="radio" id="331" name="sl">
 			   <label for="331"></label>
 			   <img src="parte3/26_02_02.png"/>
-			   <figcaption>Com centro em <b>M</b>, construa o par de arcos capazes de <b>90&deg;</b> com raio <b>MP = MO</b>.</figcaption>
+			   <figcaption>Com centro em <b>M</b>, construa o par de arcos capazes de <b>90&deg;</b> com raio de medida <b>MP = MO</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="332" name="sl">
@@ -2533,7 +2533,7 @@
 			   <input type="radio" id="335" name="sl">
 			   <label for="335"></label>
 			   <img src="parte3/26_03_01.png"/>
-			   <figcaption>Como o ponto <b>B</b> "enxerga" o segmento <b>AC</b> segundo <b>45&deg;</b>, vamos usar o arco capaz para resolver este exercício. Podemos construir o arco capaz de <b>45&deg;</b> de uma forma mais simples: primeiro construímos o arco capaz de <b>90&deg;</b>, cujo centro é o ponto médio de <b>AC</b>.</figcaption>
+			   <figcaption>Como o ponto <b>B</b> "enxerga" o segmento <b>AC</b> segundo <b>45&deg;</b>, vamos construir o arco capaz para resolver este exercício. Podemos construir o arco capaz de <b>45&deg;</b> de uma forma mais simples: primeiro construímos o arco capaz de <b>90&deg;</b>, cujo centro é o ponto médio de <b>AC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="336" name="sl">
@@ -2580,7 +2580,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O vértice <b>C</b>, oposto de <b>AB</b>, enxerga o segmento segundo ângulo de <b>60&deg;</b>.</p>
 	<img src="parte3/28_01_00.png"/>
-	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
+	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b> em <b>AB</b>.</figcaption>
   </details></div>
   <img src="parte3/apos_dg_0028a.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
@@ -2588,14 +2588,14 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O vértice <b>C</b>, oposto de <b>AB</b>, enxerga o segmento segundo ângulo de <b>60&deg;</b>.</p>
 	<img src="parte3/28_03_00.png"/>
-	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
+	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b> em <b>BC</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0029.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como o ponto <b>X</b> é equidistante de <b>P</b> e <b>Q</b>, pertence à <b>med<sub>PQ</sub></b>.</p>
 	<img src="parte3/29_01_00.png"/>
-	<figcaption>A construção envolve o arco capaz de <b>30&deg;</b>.</figcaption>
+	<figcaption>A construção envolve o arco capaz de <b>30&deg;</b> em <b>AB</b>.</figcaption>
   </details></div>
   <img src="parte3/apos_dg_0029a.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
