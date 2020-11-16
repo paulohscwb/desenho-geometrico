@@ -2607,7 +2607,7 @@
   <p>Material da página 30 até a página 48.</p>
   <img src="parte4/apos_dg_0030.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
-	<p>Vamos verificar as propriedades do Teorema de Tales.</p>
+	<p>Vamos ver as propriedades do Teorema de Tales.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="340" name="sl">
@@ -2668,13 +2668,13 @@
 			   <input type="radio" id="348" name="sl">
 			   <label for="348"></label>
 			   <img src="parte4/30_02_05.png"/>
-			   <figcaption>Deslizamos o esquadro no ponto <b>6</b> paralelamente ao segmento <b>B7</b>, depois no ponto <b>5</b>...</figcaption>
+			   <figcaption>Deslizamos o esquadro até chegar no ponto <b>6</b>, paralelamente ao segmento <b>B7</b>; depois podemos fazer a mesma construção até chegar no ponto <b>5</b>...</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="349" name="sl">
 			   <label for="349"></label>
 			   <img src="parte4/30_02_06.png"/>
-			   <figcaption>... até chegarmos no ponto <b>1</b>.</figcaption>
+			   <figcaption>... e até chegar no ponto <b>1</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="350" name="sl">
@@ -2785,7 +2785,7 @@
 			   <input type="radio" id="365" name="sl">
 			   <label for="365"></label>
 			   <img src="parte4/31_01_04.png"/>
-			   <figcaption>E a partir de <b>D</b>, marcamos <b>p = 5,3cm</b>. Conseguimos marcar com a régua, pois sabemos as medidas. No exercício anterior, só tínhamos os segmentos. Se medíssemos estes segmentos com a régua, poderíamos cometer erros de arredondamento.</figcaption>
+			   <figcaption>E a partir de <b>D</b>, marcamos <b>p = 5,3cm</b>. Conseguimos marcar com a régua, pois conhecemos os valores das medidas. No exercício anterior, só tínhamos os segmentos: ao medir os segmentos do exercício anterior com a régua, podemos cometer erros de arredondamento.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="366" name="sl">
@@ -2961,7 +2961,7 @@
 			   <input type="radio" id="392" name="sl">
 			   <label for="392"></label>
 			   <img src="parte4/31_03_13.png"/>
-			   <figcaption>E finalmente temos a Circunf(K,f), que divide o segmento <b>f</b>em 5 partes iguais. Esta construção é bem menos trabalhosa do que fazer a divisão separada de cada segmento em 5 partes iguais.</figcaption>
+			   <figcaption>E finalmente temos a Circunf(K,f), que divide o segmento <b>f</b> em 5 partes iguais. Esta construção é bem menos trabalhosa do que fazer a divisão separada de cada segmento em 5 partes iguais.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte4/31_03_00.png" class="fundo"/>
@@ -3032,7 +3032,7 @@
 			   <input type="radio" id="400" name="sl">
 			   <label for="400"></label>
 			   <img src="parte4/32_03_04.png"/>
-			   <figcaption>Construa os segmentos <b>B2</b> e <b>B2'</b> com medidas iguais a 2cm, correspondente ao denominador da razão <b>k</b>.</figcaption>
+			   <figcaption>Construa os segmentos <b>B2</b> e <b>B2'</b> com medidas iguais a 2cm, correspondentes ao denominador da razão <b>k</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="401" name="sl">
@@ -3075,7 +3075,7 @@
 			   <input type="radio" id="406" name="sl">
 			   <label for="406"></label>
 			   <img src="parte4/32_04_04.png"/>
-			   <figcaption>Construa os segmentos <b>B5</b> e <b>B5'</b> com medidas iguais a 5cm, correspondente ao denominador da razão <b>k</b>.</figcaption>
+			   <figcaption>Construa os segmentos <b>B5</b> e <b>B5'</b> com medidas iguais a 5cm, correspondentes ao denominador da razão <b>k</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="407" name="sl">
@@ -3144,7 +3144,7 @@
 			   <input type="radio" id="415" name="sl">
 			   <label for="415"></label>
 			   <img src="parte4/33_02_01.png"/>
-			   <figcaption>Construa o segmento <b>AP</b> com medida <b>p</b> qualquer, com inclinação também qualquer. Vamos encontrar o segmento correspondente <b>q</b> que "gerou" o 3&ordm; harmônico <b>M</b>.</figcaption>
+			   <figcaption>Construa o segmento <b>AP</b> com uma medida qualquer <b>p</b>. A inclinação pode ser qualquer, pois vamos usar semelhança de triângulos. Encontraremos o segmento correspondente <b>q</b> que "gerou" o 3&ordm; harmônico <b>M</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="416" name="sl">
@@ -3219,7 +3219,7 @@
 			   <input type="radio" id="425" name="sl">
 			   <label for="425"></label>
 			   <img src="parte4/34_01_03.png"/>
-			   <figcaption>Construa os segmentos <b>B2</b> e <b>B2'</b> com medidas iguais a 2cm, correspondente ao denominador da razão.</figcaption>
+			   <figcaption>Construa os segmentos <b>B2</b> e <b>B2'</b> com medidas iguais a 2cm, correspondentes ao denominador da razão.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="426" name="sl">
@@ -3231,7 +3231,7 @@
 			   <input type="radio" id="427" name="sl">
 			   <label for="427"></label>
 			   <img src="parte4/34_01_05.png"/>
-			   <figcaption>>Unindo os pontos <b>2'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b>.</figcaption>
+			   <figcaption>Unindo os pontos <b>2'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="428" name="sl">
@@ -3280,7 +3280,7 @@
 			   <input type="radio" id="434" name="sl">
 			   <label for="434"></label>
 			   <img src="parte4/34_02_03.png"/>
-			   <figcaption>Construa os segmentos <b>C3</b> e <b>C3'</b> com medidas iguais a 3cm, correspondente ao lado <b>b</b>.</figcaption>
+			   <figcaption>Construa os segmentos <b>C3</b> e <b>C3'</b> com medidas iguais a 3cm, correspondentes ao lado <b>b</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="435" name="sl">
@@ -3292,7 +3292,7 @@
 			   <input type="radio" id="436" name="sl">
 			   <label for="436"></label>
 			   <img src="parte4/34_02_05.png"/>
-			   <figcaption>>Unindo os pontos <b>3'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>BC</b>.</figcaption>
+			   <figcaption>Unindo os pontos <b>3'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>BC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="437" name="sl">
@@ -3347,7 +3347,7 @@
 			   <input type="radio" id="444" name="sl">
 			   <label for="444"></label>
 			   <img src="parte4/34_03_03.png"/>
-			   <figcaption>Construa os segmentos <b>B2</b> e <b>B2'</b> com medidas iguais a 2cm, correspondente ao numerador da razão <b>&lambda;</b>.</figcaption>
+			   <figcaption>Construa os segmentos <b>B2</b> e <b>B2'</b> com medidas iguais a 2cm, correspondentes ao numerador da razão <b>&lambda;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="445" name="sl">
@@ -3359,7 +3359,7 @@
 			   <input type="radio" id="446" name="sl">
 			   <label for="446"></label>
 			   <img src="parte4/34_03_05.png"/>
-			   <figcaption>>Unindo os pontos <b>2'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b>.</figcaption>
+			   <figcaption>Unindo os pontos <b>2'</b> e <b>5</b>, encontramos o 4&ordm; conjugado harmônico de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="447" name="sl">
