@@ -2030,7 +2030,7 @@
   <p>Material da página 21 até a página 29.</p>
   <img src="parte3/apos_dg_0021.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
-	<p>Vamos ver alguns elementos para o próximo Lugar geométrico.</p>
+	<p>Vamos definir alguns elementos para o próximo Lugar Geométrico.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="272" name="sl">
@@ -2130,13 +2130,13 @@
   </details></div>
   <img src="parte3/apos_dg_0022a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
-	<p>Vamos ver alguns do ângulo de segmento.</p>
+	<p>Vamos definir alguns do ângulo de segmento.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="283" name="sl">
 			   <label for="283"></label>
 			   <img src="parte3/22_02_01.png"/>
-			   <figcaption>Vamos definir as extremidades <b>A</b> e <b>B</b> da corda e a reta tangente <b>t</b> que passa por <b>A</b>.</figcaption>
+			   <figcaption>Considere as extremidades <b>A</b> e <b>B</b> da corda e a reta tangente <b>t</b> que passa por <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="284" name="sl">
@@ -2155,7 +2155,7 @@
 			   <input type="radio" id="285" name="sl">
 			   <label for="285"></label>
 			   <img src="parte3/22_03_01.png"/>
-			   <figcaption>Vamos considerar a reta tangente à circunferência <b>t</b> no ponto <b>A</b> e o raio com medida <b>r</b>. Logo, temos o <b>&#9651;AOB</b> isósceles de base <b>AB</b>.</figcaption>
+			   <figcaption>Considere a reta tangente à circunferência <b>t</b> no ponto <b>A</b> e o raio com medida <b>r</b>. Logo, temos o <b>&#9651;AOB</b> isósceles de base <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="286" name="sl">
@@ -2193,7 +2193,7 @@
 			   <input type="radio" id="290" name="sl">
 			   <label for="290"></label>
 			   <img src="parte3/23_01_03.png"/>
-			   <figcaption>Com centro em <b>A</b>, determine o arco com mesmo raio <b>PC</b>, encontrando <b>E &isin; AB</b>.</figcaption>
+			   <figcaption>Com centro em <b>A</b>, determine o arco com mesma medida do raio <b>PC</b>, encontrando <b>E &isin; AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="291" name="sl">
@@ -2205,7 +2205,7 @@
 			   <input type="radio" id="292" name="sl">
 			   <label for="292"></label>
 			   <img src="parte3/23_01_05.png"/>
-			   <figcaption>... com centro em <b>E</b>, determine o arco com raio <b>CD</b> para encontrar <b>F</b> na interseção com o outro arco que construímos centrado em <b>A</b>.</figcaption>
+			   <figcaption>... com centro em <b>E</b>, determine o arco com a medida do raio <b>CD</b> para encontrar <b>F</b> na interseção com o outro arco que construímos centrado em <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="293" name="sl">
@@ -2372,7 +2372,7 @@
 			   <input type="radio" id="313" name="sl">
 			   <label for="313"></label>
 			   <img src="parte3/25_01_04.png"/>
-			   <figcaption>O centro do arco capaz de <b>60&deg;</b> está na interseção da reta peropendicular a <b>t</b> com a mediatriz de <b>AB</b>.</figcaption>
+			   <figcaption>O centro do arco capaz de <b>60&deg;</b> está na interseção da reta perpendicular a <b>t</b> com a mediatriz de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="314" name="sl">
@@ -2384,7 +2384,7 @@
 			   <input type="radio" id="315" name="sl">
 			   <label for="315"></label>
 			   <img src="parte3/25_01_06.png"/>
-			   <figcaption>Com centro em <b>A</b> ou <b>B</b>, construa o arco com raio <b>OA</b>. A interseção deste arco com a <b>med<sub>AB</sub></b> é o centro do arco simétrico.</figcaption>
+			   <figcaption>Com centro em <b>A</b> ou <b>B</b>, construa o arco com raio de medida <b>OA</b>. A interseção deste arco com a <b>med<sub>AB</sub></b> é o centro do arco simétrico.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="316" name="sl">
@@ -2414,13 +2414,13 @@
 			   <input type="radio" id="320" name="sl">
 			   <label for="320"></label>
 			   <img src="parte3/25_01_11.png"/>
-			   <figcaption>Com o centro em <b>O</b> e raio <b>OA = OB</b>, construa o primeiro arco.</figcaption>
+			   <figcaption>Com o centro em <b>O</b> e raio de medida <b>OA = OB</b>, construa o primeiro arco.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="321" name="sl">
 			   <label for="321"></label>
 			   <img src="parte3/25_01_12.png"/>
-			   <figcaption>Construindo o arco com centro em <b>A</b> e raio <b>OA = OB</b>, econtramos o centro <b>O'</b> do segundo arco. Note que <b>O'</b> pertence ao arco capaz que acabamos de construir.</figcaption>
+			   <figcaption>Construindo o arco com centro em <b>A</b> e raio de medida <b>OA = OB</b>, econtramos o centro <b>O'</b> do segundo arco. Note que <b>O'</b> pertence ao arco capaz que acabamos de construir.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="322" name="sl">
@@ -2451,17 +2451,10 @@
 		<img src="parte3/25_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte3/apos_dg_0025b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Vamos encontrar a medida de um ângulo insrito em uma semi-circunferência. Note que o ângulo central correspondente vale 180&deg;</p>
-	  <ul class="slider">
-		  <li>
-			   <input type="radio" id="325" name="sl">
-			   <label for="325"></label>
-			   <img src="parte3/25_03_01.png"/>
-			   <figcaption>Como o ângulo central <b>&theta;</b> mede <b>180&deg;</b>, o ângulo inscrito correspondente vale a metade, ou seja, <b>&gamma; = 90&deg;</b>. Logo, a construção de um arco capaz de <b>90&deg;</b> é mais simples: o centro será o ponto médio do segmento.</figcaption>
-		   </li>
-		</ul>
-		<img src="parte3/25_03_00.png" class="fundo"/>
+	    <img src="parte3/25_03_01.png"/>
+		<figcaption>Como o ângulo central <b>&theta;</b> mede <b>180&deg;</b>, o ângulo inscrito correspondente vale a metade, ou seja, <b>&gamma; = 90&deg;</b>. Logo, a construção de um arco capaz de <b>90&deg;</b> é mais simples: o centro será o ponto médio do segmento.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0026.png"/>
