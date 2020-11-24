@@ -5535,13 +5535,13 @@
 			   <input type="radio" id="732" name="sl">
 			   <label for="732"></label>
 			   <img src="parte5/59_02_02.png"/>
-			   <figcaption>Construa a Circunf(A,AB), determinando o vértice <b>C</b> na reta perpendicular a <b>AB</b>.</figcaption>
+			   <figcaption>Construa a Circunf(B,AB), determinando o vértice <b>C</b> na reta perpendicular a <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="733" name="sl">
 			   <label for="733"></label>
 			   <img src="parte5/59_02_03.png"/>
-			   <figcaption>Construa a reta: paralela a <b>AB</b> que passa por <b>C</b> e a paralela a <b>BC</b> que passa por <b>A</b>, encontrando o vértice <b>D</b>.</figcaption>
+			   <figcaption>Construa as retas: paralela a <b>AB</b> que passa por <b>C</b> e a paralela a <b>BC</b> que passa por <b>A</b>, encontrando o vértice <b>D</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="734" name="sl">
@@ -5553,13 +5553,13 @@
 			   <input type="radio" id="735" name="sl">
 			   <label for="735"></label>
 			   <img src="parte5/59_02_05.png"/>
-			   <figcaption>Construa o arco capaz de 90&deg; em <b>BD</b>, por os vértices <b>A</b> e <b>D</b> "enxergam" <b>BD</b> segundo 90&deg;.</figcaption>
+			   <figcaption>Construa o arco capaz de 90&deg; em <b>BD</b>, pois os vértices <b>A</b> e <b>D</b> "enxergam" <b>BD</b> segundo 90&deg;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="736" name="sl">
 			   <label for="736"></label>
 			   <img src="parte5/59_02_06.png"/>
-			   <figcaption>Na interseção da mediatriz de <b>BD</b> com o arco capaz, temos os vértices <b>A</b> e <b>D</b>.</figcaption>
+			   <figcaption>Na interseção da mediatriz de <b>BD</b> com o arco capaz, temos os vértices <b>A</b> e <b>C</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte5/59_02_00.png" class="fundo"/>
@@ -5622,7 +5622,7 @@
 			   <input type="radio" id="744" name="sl">
 			   <label for="744"></label>
 			   <img src="parte5/60_01_02.png"/>
-			   <figcaption>Construa a reta perpendicular a <b>PQ</b> em <b>Q</b> e a Circunferência com raio igual à metade de <b>x</b>.</figcaption>
+			   <figcaption>Construa a reta perpendicular a <b>PQ</b> em <b>Q</b> e a circunferência com raio igual à metade de <b>x</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="745" name="sl">
@@ -5689,7 +5689,7 @@
 			   <input type="radio" id="753" name="sl">
 			   <label for="753"></label>
 			   <img src="parte5/60_03_05.png"/>
-			   <figcaption>Vamos imaginar o retângulo do exercício 9 construído. Se marcarmos o lado <b>CD</b> no prolongamento de <b>AD</b>, temos que o segmento <b>CE</b> formará 45&deg; com <b>AE</b> e <b>AE = p</b>.</figcaption>
+			   <figcaption>Vamos imaginar o retângulo do exercício 9 construído. Se marcarmos o lado <b>CD</b> no prolongamento de <b>AD</b>, temos que o segmento <b>CE</b> formará 45&deg; com <b>AE = p</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="754" name="sl">
@@ -5862,7 +5862,7 @@
 			   <input type="radio" id="775" name="sl">
 			   <label for="775"></label>
 			   <img src="parte5/62_01_02.png"/>
-			   <figcaption>Construa o segmento <b>BE = p</b> e a reta que forma 45&deg; com <b>BE</b> e qua passa por <b>E</b>.</figcaption>
+			   <figcaption>Construa o segmento <b>BE = p</b> e a reta que forma 30&deg; com <b>BE</b> e que passa por <b>E</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="776" name="sl">
@@ -6095,7 +6095,7 @@
 			   <input type="radio" id="807" name="sl">
 			   <label for="807"></label>
 			   <img src="parte5/63_04_04.png"/>
-			   <figcaption>Como vimos anteriormente nos triângulos, quando marcamos a soma de segmentos, temos um triângulo isósceles determinado. Logo, podemos construir a mediatriz de <b>BE</b> para encontrar o vértice <b>C</b></figcaption>
+			   <figcaption>Como vimos anteriormente nos triângulos, quando marcamos a soma de segmentos, temos um triângulo isósceles <b>&#9651;CBE</b> determinado. Logo, podemos construir a mediatriz de <b>BE</b> para encontrar o vértice <b>C</b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="808" name="sl">
