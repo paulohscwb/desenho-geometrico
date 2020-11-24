@@ -5119,7 +5119,7 @@
 			   <input type="radio" id="677" name="sl">
 			   <label for="677"></label>
 			   <img src="parte5/55_01_10.png"/>
-			   <figcaption>Para finalizar, construa a Circunf(G,AM<sub>b</sub>), encontrando o vértice <b>C</b>.</figcaption>
+			   <figcaption>Para finalizar, construa a Circunf(M<sub>b</sub> ,AM<sub>b</sub>), encontrando o vértice <b>C</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte5/55_01_00.png" class="fundo"/>
@@ -5132,7 +5132,7 @@
 			   <input type="radio" id="678" name="sl">
 			   <label for="678"></label>
 			   <img src="parte5/55_02_01.png"/>
-			   <figcaption>Vamos construir a mediana na qual o vértice <b>A</b> "enxerga" segundo ângulo dado de 60&deg;.</figcaption>
+			   <figcaption>Vamos construir a mediana que o vértice <b>A</b> "enxerga" segundo ângulo dado de 60&deg;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="679" name="sl">
@@ -5265,7 +5265,7 @@
 			   <input type="radio" id="699" name="sl">
 			   <label for="699"></label>
 			   <img src="parte5/55_03_09.png"/>
-			   <figcaption>Determine as retas <b>BM<sub>c</sub></b> e <b>CM<sub>b</sub></b>, encontrando o vértice <b>A</b>.</figcaption>
+			   <figcaption>Determine os segmentos <b>BM<sub>c</sub></b> e <b>CM<sub>b</sub></b>, encontrando o vértice <b>A</b> nos prolongamentos dos segmentos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte5/55_03_00.png" class="fundo"/>
