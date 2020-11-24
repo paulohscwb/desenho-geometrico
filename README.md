@@ -4312,13 +4312,13 @@
 			   <input type="radio" id="564" name="sl">
 			   <label for="564"></label>
 			   <img src="parte5/49_01_02.png"/>
-			   <figcaption>Construa as mediatrizes de dois lados. A mediatriz do terceiro lado passa pelo mesmo ponto de interseção <b>O</b>, chamado de circuncentro. O raio da circunferência circunscrita é a distância <b>R</b> do centro <b>O</b> até um dos vértices.</figcaption>
+			   <figcaption>Construa as mediatrizes de dois lados. A mediatriz do terceiro lado passa pelo mesmo ponto de interseção <b>O</b>, chamado de circuncentro. O raio da circunferência circunscrita é a distância <b>OA = R</b> do centro <b>O</b> até um dos vértices.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="565" name="sl">
 			   <label for="565"></label>
 			   <img src="parte5/49_01_03.png"/>
-			   <figcaption>Com centro em <b>O</b> e raio <b>R = OA</b>, construa a circunferência circunscrita do triângulo.</figcaption>
+			   <figcaption>Com centro em <b>O</b> e raio <b>R</b>, construa a circunferência circunscrita do triângulo.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="566" name="sl">
@@ -4342,7 +4342,7 @@
 			   <input type="radio" id="569" name="sl">
 			   <label for="569"></label>
 			   <img src="parte5/49_01_06.png"/>
-			   <figcaption>O mesmo vale para as outras medianas: <b>AG = </b> $\mathsf{ \frac{2}{3} m_a }$; <b> GM<sub>a</sub> = </b> $\mathsf{ \frac{1}{3} m_a }$; <b>CG = </b> $\mathsf{ \frac{2}{3} m_c }$; <b> GM<sub>c</sub> = </b> $\mathsf{ \frac{1}{3} m_c }$;.</figcaption>
+			   <figcaption>O mesmo vale para as outras medianas: <b>AG = </b> $\mathsf{ \frac{2}{3} m_a }$; <b> GM<sub>a</sub> = </b> $\mathsf{ \frac{1}{3} m_a }$; <b>CG = </b> $\mathsf{ \frac{2}{3} m_c }$; <b> GM<sub>c</sub> = </b> $\mathsf{ \frac{1}{3} m_c }$.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte5/49_01_00.png" class="fundo"/>
@@ -4361,7 +4361,7 @@
 			   <input type="radio" id="571" name="sl">
 			   <label for="571"></label>
 			   <img src="parte5/49_02_02.png"/>
-			   <figcaption>Construa a reta perpendicular a um dos lados do triângulo passando pelo incentro. Assim, encontramos o raio da circunferência inscrita <b>r = IT<sub>b</sub></b>.</figcaption>
+			   <figcaption>Construa o segmento perpendicular a um dos lados do triângulo passando pelo incentro. Assim, encontramos o raio da circunferência inscrita <b>r = IT<sub>b</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="572" name="sl">
@@ -4459,7 +4459,7 @@
 			   <input type="radio" id="586" name="sl">
 			   <label for="586"></label>
 			   <img src="parte5/50_01_10.png"/>
-			   <figcaption>Pronto! O <b>&#9651;ABC</b> está construído. Poderíamos usar os esquadros para construir o ângulo de 30&deg;.</figcaption>
+			   <figcaption>Pronto! O <b>&#9651;ABC</b> está construído. Podemos usar os esquadros para construir o ângulo de 30&deg; ao invés do compasso.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte5/50_01_00.png" class="fundo"/>
@@ -4526,7 +4526,7 @@
 			   <input type="radio" id="596" name="sl">
 			   <label for="596"></label>
 			   <img src="parte5/50_02_10.png"/>
-			   <figcaption>Construindo a bissetriz do <b>&angsph;OBC</b>, temos o ângulo <b>B</b> construído e o segundo lugar geométrico de <b>A</b>. Na interseção da reta que forma 22,5&deg; com <b>BC</b> com o arco capaz de 45&deg;, temos o <b>&#9651;ABC</b>.</figcaption>
+			   <figcaption>Construindo a bissetriz do <b>&angsph;OBC</b>, temos o ângulo <b>B</b> construído e o segundo lugar geométrico de <b>A</b>. Na interseção da reta que forma 22,5&deg; com <b>BC</b> com o arco capaz de 45&deg;, temos o vértice <b>A</b> do <b>&#9651;ABC</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte5/50_02_00.png" class="fundo"/>
@@ -4607,7 +4607,7 @@
 			   <input type="radio" id="606" name="sl">
 			   <label for="606"></label>
 			   <img src="parte5/51_03_04.png"/>
-			   <figcaption>Começamos com o cateto <b>b = AC</b>.</figcaption>
+			   <figcaption>No exercício 9, começamos com o cateto <b>b = AC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="607" name="sl">
