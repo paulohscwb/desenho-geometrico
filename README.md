@@ -4785,7 +4785,7 @@
 			   <input type="radio" id="631" name="sl">
 			   <label for="631"></label>
 			   <img src="parte5/52_03_08.png"/>
-			   <figcaption>Construa a mediatriz de <b>B'C'</b> e a mediana <b>m'<sub>a</sub></b>. Neste exemplo, a mediana tem medida maior do que a pedida, de 4,5cm.</figcaption>
+			   <figcaption>Construa a mediatriz de <b>B'C'</b> e a mediana <b>m'<sub>a</sub></b>. Neste exemplo, a mediana tem medida maior do que 4,5cm.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="632" name="sl">
