@@ -4890,7 +4890,7 @@
 			   <input type="radio" id="646" name="sl">
 			   <label for="646"></label>
 			   <img src="parte5/53_02_05.png"/>
-			   <figcaption>Como fizemos no exercício 13, consideramos os vértices <b>A' &equiv; A</b> e prolongamos o segmento <b>AH'<sub>a</sub></b> até que <b>AH'<sub>a</sub> = h<sub>a</sub></b>. Construindo a reta paralela a <b>B'C'</b>, encontramos os vértices <b>B</b> e <b>C</b>.</figcaption>
+			   <figcaption>Como fizemos no exercício 13, consideramos os vértices coincidentes <b>A' &equiv; A</b> e prolongamos o segmento <b>AH'<sub>a</sub></b> até que <b>AH'<sub>a</sub> = h<sub>a</sub></b>. Construindo a reta paralela a <b>B'C'</b>, encontramos os vértices <b>B</b> e <b>C</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte5/53_02_00.png" class="fundo"/>
@@ -4978,7 +4978,7 @@
 			   <input type="radio" id="657" name="sl">
 			   <label for="657"></label>
 			   <img src="parte5/54_02_01.png"/>
-			   <figcaption>Como temos um lado e o ângulo oposto, podemos construir o arco capaz deste ãngulo relativo a este lado.</figcaption>
+			   <figcaption>Como temos um lado e o ângulo oposto, podemos construir o arco capaz deste ângulo relativo a este lado.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="658" name="sl">
@@ -5027,7 +5027,7 @@
 			   <input type="radio" id="663" name="sl">
 			   <label for="663"></label>
 			   <img src="parte5/54_04_01.png"/>
-			   <figcaption>No exercício 27, encontramos o pé da altura <b>H<sub>b</sub></b> com o arco capaz de 90&deg; e usamos a Circunf(M<sub>a</sub>,m<sub>a</sub>).</figcaption>
+			   <figcaption>No exercício 27, encontramos o pé da altura <b>H<sub>b</sub></b> com o arco capaz de 90&deg; e usamos a Circunf(M<sub>a</sub>,m<sub>a</sub>) para encontrar o vértice <b>A</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="664" name="sl">
