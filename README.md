@@ -4466,7 +4466,7 @@
   </details></div>
   <img src="parte5/apos_dg_0050a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="587" name="sl">
@@ -4540,7 +4540,7 @@
   </details></div>
   <img src="parte5/apos_dg_0051a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="597" name="sl">
@@ -4583,7 +4583,7 @@
   </details></div>
   <img src="parte5/apos_dg_0051b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="603" name="sl">
@@ -4627,7 +4627,7 @@
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0052.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="609" name="sl">
@@ -4682,13 +4682,13 @@
   </details></div>
   <img src="parte5/apos_dg_0052a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="617" name="sl">
 			   <label for="617"></label>
 			   <img src="parte5/52_02_01.png"/>
-			   <figcaption>Vamos encontrar a projeção do cateto <b>c</b> sobre a hipotenusa. Construa a circunferência com centro  e diâmetro <b>m</b>.</figcaption>
+			   <figcaption>Vamos encontrar a projeção do cateto <b>c</b> sobre a hipotenusa. Construa a circunferência com diâmetro <b>m</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="618" name="sl">
@@ -4706,7 +4706,7 @@
 			   <input type="radio" id="620" name="sl">
 			   <label for="620"></label>
 			   <img src="parte5/52_02_04.png"/>
-			   <figcaption>Construa a reta que passa por <b>P</b> e <b>O</b>, intercectando a circunferência em <b>Q</b> e <b>R</b>. Por potência de ponto, temos que $\mathsf{ PT^2 = PQ \cdot PR }$, ou seja, $\mathsf{ c^2 = PT^2 = PQ \cdot (PQ + m) }$. </figcaption>
+			   <figcaption>Construa a reta que passa por <b>P</b> e <b>O</b>, intercectando a circunferência em <b>Q</b> e <b>R</b>. De acordo com a propriedade de potência de ponto, temos que $\mathsf{ PT^2 = PQ \cdot PR }$, ou seja, $\mathsf{ c^2 = PT^2 = PQ \cdot (PQ + m) }$. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="620a" name="sl">
@@ -4737,7 +4737,7 @@
   </details></div>
   <img src="parte5/apos_dg_0052b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios. Vamos utilizar a técnica de HOMOTETIA para resolver estes exercícios.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios. Vamos utilizar a técnica de HOMOTETIA para resolver estes exercícios.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="624" name="sl">
@@ -4804,7 +4804,7 @@
   </details></div>
   <img src="parte5/apos_dg_0052c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios. Vamos utilizar a técnica de HOMOTETIA para resolver estes exercícios.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios. Vamos utilizar a técnica de HOMOTETIA para resolver estes exercícios.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="634" name="sl">
@@ -4860,7 +4860,7 @@
   </details></div>
   <img src="parte5/apos_dg_0053a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Podemos usar a régua, os esquadors e o compasso como instrumentos auxiliares neste exercício.</p>
+	<p>Podemos usar a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="641" name="sl">
@@ -4897,7 +4897,7 @@
   </details></div>
   <img src="parte5/apos_dg_0053b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadors e o compasso como instrumentos auxiliares nestes  exercícios.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes  exercícios.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="647" name="sl">
