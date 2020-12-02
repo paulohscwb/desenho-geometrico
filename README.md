@@ -7990,7 +7990,7 @@
 			   <input type="radio" id="1058" name="sl">
 			   <label for="1058"></label>
 			   <img src="parte7/84_02_03.png"/>
-			   <figcaption>Agora construa a mediatriz de <b>DE</b>, encontrando o ponto médio <b>F</b>.</figcaption>
+			   <figcaption>Agora construa a mediatriz de <b>ED</b>, encontrando o ponto médio <b>F</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1059" name="sl">
@@ -8028,7 +8028,7 @@
 			   <input type="radio" id="1063" name="sl">
 			   <label for="1063"></label>
 			   <img src="parte7/85_01_04.png"/>
-			   <figcaption>Construa a reta <b>EB</b>, encontrando o ponto <b>F</b>. O segmento <b>AF = l'<sub>13</sub></b></figcaption>
+			   <figcaption>Construa a reta <b>EB</b>, encontrando o ponto <b>F</b> na circunferência. O segmento <b>AF = l'<sub>13</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1064" name="sl">
@@ -8039,7 +8039,7 @@
 		   <li>
 			   <input type="radio" id="1065" name="sl">
 			   <label for="1065"></label>
-			   <img src="parte7/85_01_05.png"/>
+			   <img src="parte7/85_01_06.png"/>
 			   <figcaption>Como temos que <b>&#9651;EOB ~ &#9651;AFB</b>, substituindo as medidas dos lados nas razões correspondentes, encontramos $\mathsf{ l'_{13} = \frac{2r \sqrt{17}}{17} }$. O erro teórico deste processo fica na casa de sete milésimos.</figcaption>
 		   </li>
 		</ul>
