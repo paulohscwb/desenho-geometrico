@@ -7069,13 +7069,13 @@
 			   <input type="radio" id="926" name="sl">
 			   <label for="926"></label>
 			   <img src="parte6/76_03_04.png"/>
-			   <figcaption>Unindo os pontos <b>D</b> e <b>T<sub>1</sub></b>, encontramos o centro <b>O<sub>1</sub></b> na reta <b>CT</b>.</figcaption>
+			   <figcaption>Construa o arco capaz de 90&deg; em <b>PB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="927" name="sl">
 			   <label for="927"></label>
 			   <img src="parte6/76_03_05.png"/>
-			   <figcaption>Construa o arco capaz de 90&deg; em <b>PB</b> e a reta <b>AA' &perp; PB</b>. A média geométrica será o cateto <b>PA'</b>.</figcaption>
+			   <figcaption>Construa o segmento <b>AA' &perp; PB</b>: a média geométrica será o cateto <b>PA'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="929" name="sl">
