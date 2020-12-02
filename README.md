@@ -6547,13 +6547,13 @@
 			   <input type="radio" id="859" name="sl">
 			   <label for="859"></label>
 			   <img src="parte6/70_04_03.png"/>
-			   <figcaption>Construa a Circunf(O,OP).</figcaption>
+			   <figcaption>Construa a Circunf(O,OT).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="860" name="sl">
 			   <label for="860"></label>
 			   <img src="parte6/70_04_04.png"/>
-			   <figcaption>No item 14.2, construa a reta perpendicular a <b>s</b> pelo ponto <b>T</b>.</figcaption>
+			   <figcaption>No item 14.2, construa a reta perpendicular a <b>s</b> que passa pelo ponto <b>T</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="861" name="sl">
@@ -6565,13 +6565,13 @@
 			   <input type="radio" id="862" name="sl">
 			   <label for="862"></label>
 			   <img src="parte6/70_04_06.png"/>
-			   <figcaption>Construa a perpendicular à bissetriz construída.</figcaption>
+			   <figcaption>Construa a perpendicular à bissetriz construída que passa pelo ponto <b>V</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="863" name="sl">
 			   <label for="863"></label>
 			   <img src="parte6/70_04_07.png"/>
-			   <figcaption>As interseções das bissetrizes com a reta perpendicular a <b>s</b> determinam os centros <b>O</b> e <b>O'</b>. Construa as circunferências com raios <b>OT</b> e <b>OT'</b>.</figcaption>
+			   <figcaption>As interseções das bissetrizes com a reta perpendicular a <b>s</b> determinam os centros <b>O</b> e <b>O'</b>. Construa as circunferências com raios <b>OT</b> e <b>O'T</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte6/70_04_00.png" class="fundo"/>
