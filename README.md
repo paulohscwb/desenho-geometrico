@@ -6957,7 +6957,7 @@
 			   <input type="radio" id="914" name="sl">
 			   <label for="914"></label>
 			   <img src="parte6/74_03_04.png"/>
-			   <figcaption>Usando o mesmo raciocínio, unimos os pontos <b>B</b> e <b>T</b>, determinando o ponto de tangência <b>T<sub>2</sub></b> na reta <b>t</b>. </figcaption>
+			   <figcaption>Usando o mesmo raciocínio, unimos os pontos <b>B</b> e <b>T</b>, determinando o ponto de tangência <b>T<sub>2</sub> &isin; t</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="915" name="sl">
