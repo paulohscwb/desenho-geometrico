@@ -6896,7 +6896,7 @@
 			   <input type="radio" id="905" name="sl">
 			   <label for="905"></label>
 			   <img src="parte6/74_02_01.png"/>
-			   <figcaption>Como a circunferência é tangente à reta <b>t</b> em <b>T</b>, construa a reta perpendicular a reta <b>t</b> pelo ponto <b>T</b>.</figcaption>
+			   <figcaption>Como a circunferência é tangente à reta <b>t</b> em <b>T</b>, construa a reta perpendicular à reta <b>t</b> que passa pelo ponto <b>T</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="906" name="sl">
@@ -6925,7 +6925,7 @@
 		   <li>
 			   <input type="radio" id="910" name="sl">
 			   <label for="910"></label>
-			   <img src="parte6/74_02_05.png"/>
+			   <img src="parte6/74_02_06.png"/>
 			   <figcaption>Unindo os pontos <b>C</b> e <b>T<sub>2</sub></b>, encontramos o centro <b>O<sub>2</sub></b> na reta perpendicular que construímos. Esta construção usa a propriedade que <b>&#9651;O<sub>2</sub>TT<sub>2</sub> ~ &#9651;CBT<sub>2</sub></b>.</figcaption>
 		   </li>
 		</ul>
