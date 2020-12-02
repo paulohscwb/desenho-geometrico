@@ -7303,7 +7303,7 @@
 			   <input type="radio" id="964" name="sl">
 			   <label for="964"></label>
 			   <img src="parte6/78_01_02.png"/>
-			   <figcaption>Construa a reta <b>B'A' &perp; VT</b>.</figcaption>
+			   <figcaption>Construa a reta <b>B'A' &perp; VT</b> que passa por <b>T</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="965" name="sl">
@@ -7315,7 +7315,7 @@
 			   <input type="radio" id="966" name="sl">
 			   <label for="966"></label>
 			   <img src="parte6/78_01_04.png"/>
-			   <figcaption>O raio da circunferência inscrita é <b>OT</b>.</figcaption>
+			   <figcaption>Construa a circunferência inscrita, que tem raio <b>OT</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte6/78_01_00.png" class="fundo"/>
@@ -7328,13 +7328,13 @@
 			   <input type="radio" id="967" name="sl">
 			   <label for="967"></label>
 			   <img src="parte6/78_02_01.png"/>
-			   <figcaption>Podemos dividir o ângulo central em 3 partes iguais: logo, o ângulo central <b>&angsph;AOB</b> será de 120&deg;.</figcaption>
+			   <figcaption>Podemos dividir o ângulo central em 3 partes iguais: logo, o ângulo central <b>&angsph;AOB</b> terá medida de 120&deg;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="968" name="sl">
 			   <label for="968"></label>
 			   <img src="parte6/78_02_02.png"/>
-			   <figcaption>Construa o ângulo <b>&angsph;BOC</b> com 120&deg;.</figcaption>
+			   <figcaption>Construa o ângulo <b>&angsph;BOC</b> com medida de 120&deg;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="969" name="sl">
@@ -7352,7 +7352,7 @@
 			   <input type="radio" id="971" name="sl">
 			   <label for="971"></label>
 			   <img src="parte6/78_02_05.png"/>
-			   <figcaption>O centro <b>O<sub>1</sub></b> está na interseção de <b>OT<sub>1</sub></b> com a bissetriz do <b>&angsph;A'</b>. Contrua a primeira tangente.</figcaption>
+			   <figcaption>O centro <b>O<sub>1</sub></b> está na interseção de <b>OT<sub>1</sub></b> com a bissetriz do <b>&angsph;A'</b>. Contrua a primeira circunferência tangente.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="972" name="sl">
@@ -7364,7 +7364,7 @@
 			   <input type="radio" id="973" name="sl">
 			   <label for="973"></label>
 			   <img src="parte6/78_02_07.png"/>
-			   <figcaption>O centro <b>O<sub>2</sub></b> está no prolongamento de <b>OA</b> com o prolongamento de <b>O<sub>1</sub>T'</b>. Construa a segunda tangente.</figcaption>
+			   <figcaption>O centro <b>O<sub>2</sub></b> está no prolongamento de <b>OA</b> com o prolongamento de <b>O<sub>1</sub>T'</b>. Construa a segunda circunferência tangente.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="974" name="sl">
