@@ -6268,7 +6268,7 @@
 			   <input type="radio" id="826" name="sl">
 			   <label for="826"></label>
 			   <img src="parte6/67_01_03.png"/>
-			   <figcaption>... e construindo o segmento com medida <b>b</b> a partir de uma extremidade de um raio da circunferência <b>&alpha;</b>. Logo, podemos construir <b>&alpha;'(A,a &minus; b)</b>.</figcaption>
+			   <figcaption>... e construindo o segmento com medida <b>b</b> a partir da extremidade de um raio da circunferência <b>&alpha;</b>. Logo, podemos construir <b>&alpha;'(A,a &minus; b)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="827" name="sl">
@@ -6292,7 +6292,7 @@
 			   <input type="radio" id="830" name="sl">
 			   <label for="830"></label>
 			   <img src="parte6/67_01_07.png"/>
-			   <figcaption>Construa as retas <b>t // t<sub>1</sub></b> e <b>t' // t'<sub>1</sub></b> que passam pelos pontos <b>T<sub>1</sub></b> e <b>T'<sub>1</sub></b>.</figcaption>
+			   <figcaption>Construa as retas <b>t // t<sub>1</sub></b> e <b>t' // t'<sub>1</sub></b> que passam pelos pontos <b>T</b> e <b>T'</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte6/67_01_00.png" class="fundo"/>
@@ -6305,7 +6305,7 @@
 			   <input type="radio" id="831" name="sl">
 			   <label for="831"></label>
 			   <img src="parte6/67_02_01.png"/>
-			   <figcaption>Vamos imaginar uma reta tangente interior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Se aumentaros o raio da circunferência <b>&alpha;</b> e diminuirmos o raio de <b>&beta;</b> até tornar-se um ponto, a circunferência <b>&alpha;</b> será dilatada, ou seja, torna-se uma circunferência com raio <b>a + b</b>.</figcaption>
+			   <figcaption>Vamos imaginar uma reta tangente interior às circunferências <b>&alpha;</b> e <b>&beta;</b>. Se aumentarmos o raio da circunferência <b>&alpha;</b> e diminuirmos o raio de <b>&beta;</b> até tornar-se um ponto, a circunferência <b>&alpha;</b> será dilatada, ou seja, torna-se uma circunferência com raio <b>a + b</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="832" name="sl">
@@ -6323,7 +6323,7 @@
 			   <input type="radio" id="834" name="sl">
 			   <label for="834"></label>
 			   <img src="parte6/67_02_03.png"/>
-			   <figcaption>... e construindo o segmento com medida <b>b</b> a partir de uma extremidade de um raio da circunferência <b>&alpha;</b>. Logo, podemos construir <b>&alpha;'(A,a + b)</b>.</figcaption>
+			   <figcaption>... e construindo o segmento com medida <b>b</b> a partir da extremidade de um raio da circunferência <b>&alpha;</b>. Logo, podemos construir <b>&alpha;'(A,a + b)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="835" name="sl">
@@ -6347,7 +6347,7 @@
 			   <input type="radio" id="838" name="sl">
 			   <label for="838"></label>
 			   <img src="parte6/67_02_07.png"/>
-			   <figcaption>Construa as retas <b>t // t<sub>1</sub></b> e <b>t' // t'<sub>1</sub></b> que passam pelos pontos <b>T<sub>1</sub></b> e <b>T'<sub>1</sub></b>.</figcaption>
+			   <figcaption>Construa as retas <b>t // t<sub>1</sub></b> e <b>t' // t'<sub>1</sub></b> que passam pelos pontos <b>T</b> e <b>T'</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte6/67_02_00.png" class="fundo"/>
@@ -6459,7 +6459,7 @@
   </details></div>
   <img src="parte6/apos_dg_0068c.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Lembre-se de construir a reta perpendicular a <b>t</b> pelo ponto <b>T</b> neste exercício.</p>
+	<p>Lembre-se de construir a reta perpendicular a <b>t</b> que passa pelo ponto <b>T</b> neste exercício.</p>
 	<img src="parte6/68_04_00.png"/>
 	<figcaption></figcaption>
   </details></div>
