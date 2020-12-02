@@ -7469,7 +7469,7 @@
 			   <input type="radio" id="986" name="sl">
 			   <label for="986"></label>
 			   <img src="parte7/80_01_03.png"/>
-			   <figcaption>Com centros em <b>A<sub>2</sub></b> e em <b>A<sub>6</sub></b>, construímos arcos com raios iguais a <b>r</b> e determinamos mais 2 pontos na circunferência.</figcaption>
+			   <figcaption>Com centros em <b>A<sub>2</sub></b> e em <b>A<sub>6</sub></b>, construímos arcos com a medida do raio igual a <b>r</b> e determinamos mais 2 pontos na circunferência.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="987" name="sl">
@@ -7530,7 +7530,7 @@
 			   <input type="radio" id="995" name="sl">
 			   <label for="995"></label>
 			   <img src="parte7/80_02_05.png"/>
-			   <figcaption>Logo, <b>BC = r &minus; l<sub>10</sub></b>, e podemos substituir as medidas correspondentes na razão da semelhança dos <b>&#9651;OAB</b> e <b>&#9651;ABC</b>. Esta relação resultante indica a mesma de segmento áureo, que vimos na página 44. Logo, o lado <b>l<sub>10</sub></b> é segmento áureo do raio.</figcaption>
+			   <figcaption>Logo, <b>BC = r &minus; l<sub>10</sub></b>, e podemos substituir as medidas correspondentes na razão da semelhança dos <b>&#9651;OAB</b> e <b>&#9651;ABC</b>. Esta relação entre as medidas é a mesma do segmento áureo, que vimos na página 44. Logo, o lado <b>l<sub>10</sub></b> é segmento áureo do raio.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/80_02_00.png" class="fundo"/>
@@ -7543,7 +7543,7 @@
 			   <input type="radio" id="996" name="sl">
 			   <label for="996"></label>
 			   <img src="parte7/80_03_01.png"/>
-			   <figcaption>Considere o ângulo central de <b>&angsph;AOB = 36&deg;</b> e o prolongamento do segmento <b>AB</b> intercectando a circunferência de centro em <b>A</b> no ponto <b>C</b>. Note que as duas circunferências têm mesma medida de raio.</figcaption>
+			   <figcaption>Considere o ângulo central de <b>&angsph;AOB = 36&deg;</b> e o prolongamento do segmento <b>AB</b> intercectando a circunferência de centro em <b>A</b> no ponto <b>C</b>. Note que as duas circunferências têm mesma medida de raio <b>r</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="998" name="sl">
@@ -7561,7 +7561,7 @@
 			   <input type="radio" id="997" name="sl">
 			   <label for="997"></label>
 			   <img src="parte7/80_03_05.png"/>
-			   <figcaption>Como o <b>&angsph;OAB = 72&deg;</b>, o segmento <b>OC = l<sub>5</sub></b>. Portanto, temos um triângulo retângulo <b>&#9651;OCD</b> com catetos <b>l<sub>10</sub></b> e <b>l<sub>6</sub> = r</b> e hipotenusa <b>l<sub>5</sub></b>. Podemos construir os lados do pentágono regular e do decágono regular de uma só vez.</figcaption>
+			   <figcaption>Como o <b>&angsph;OAB = 72&deg;</b>, o segmento <b>OC = l<sub>5</sub></b>. Portanto, temos um triângulo retângulo <b>&#9651;OCD</b> com catetos <b>l<sub>10</sub></b> e <b>l<sub>6</sub> = r</b> e hipotenusa <b>l<sub>5</sub></b>. Logo, os lados do pentágono regular e do decágono regular são construídos por meio do <b>&#9651;OCD</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/80_03_00.png" class="fundo"/>
@@ -7648,7 +7648,7 @@
 			   <input type="radio" id="1011" name="sl">
 			   <label for="1011"></label>
 			   <img src="parte7/81_02_04.png"/>
-			   <figcaption>Logo, temos que <b>OD = l<sub>10</sub></b>.</figcaption>
+			   <figcaption>Logo, temos que <b>OE = l<sub>10</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1012" name="sl">
@@ -7684,7 +7684,7 @@
 			   <input type="radio" id="1017" name="sl">
 			   <label for="1017"></label>
 			   <img src="parte7/81_02_10.png"/>
-			   <figcaption>Como o ângulo central <b>&angsph;DOA<sub>2</sub> = 60&deg;</b>, temos que o <b>&angsph;A<sub>1</sub>A<sub>2</sub> = 24&deg;</b>. Portanto, <b>A<sub>1</sub>A<sub>2</sub> = l<sub>15</sub></b>.</figcaption>
+			   <figcaption>Como o ângulo central <b>&angsph;DOA<sub>2</sub> = 60&deg;</b>, temos que o <b>&angsph;A<sub>1</sub>OA<sub>2</sub> = 24&deg;</b>. Portanto, <b>A<sub>1</sub>A<sub>2</sub> = l<sub>15</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1018" name="sl">
@@ -7768,7 +7768,7 @@
 			   <input type="radio" id="1030" name="sl">
 			   <label for="1030"></label>
 			   <img src="parte7/81_04_12.png"/>
-			   <figcaption>Continuando, na segunda volta e mesmo raio <b>A<sub>1</sub>A<sub>4</sub></b>, construímos os arcos para encontrar <b>A<sub>2</sub></b>, <b>A<sub>8</sub></b>, <b>A<sub>11</sub></b>, <b>A<sub>14</sub></b> e <b>A<sub>17</sub></b>.</figcaption>
+			   <figcaption>Continuando, na segunda volta e mesmo raio <b>A<sub>1</sub>A<sub>4</sub></b>, construímos os arcos para encontrar <b>A<sub>2</sub></b>, <b>A<sub>5</sub></b>, <b>A<sub>8</sub></b>, <b>A<sub>11</sub></b>, <b>A<sub>14</sub></b> e <b>A<sub>17</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1031" name="sl">
@@ -7784,7 +7784,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Começando pelo lado <b>AB = l<sub>6</sub></b>, podemos encontrar o centro da circunferência circunscrita.</p>
 	<img src="parte7/81_03_00.png"/>
-	<figcaption>Com centros em <b>A</b> e <b>B</b>, construímos os arcos com raios iguais a <b>l<sub>6</sub></b>. Depois, construímos a circunferência circunscrita e os 4 outros vértices, como fizemos anteriormente.</figcaption>
+	<figcaption>Com centros em <b>A</b> e <b>B</b>, construímos os arcos com raios de medidas iguais a <b>l<sub>6</sub></b>. Depois, construímos a circunferência circunscrita e os 4 outros vértices, como fizemos anteriormente.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0082.png"/>
@@ -7813,19 +7813,19 @@
 			   <input type="radio" id="1035" name="sl">
 			   <label for="1035"></label>
 			   <img src="parte7/82_01_04.png"/>
-			   <figcaption>Agora, basta construir os arcos com centros em <b>A</b> e <b>B</b>, com raio igual a <b>l<sub>8</sub> = AB</b>.</figcaption>
+			   <figcaption>Agora, basta construir os arcos com centros em <b>A</b> e <b>B</b>, com raios de medidas iguais a <b>l<sub>8</sub> = AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1036" name="sl">
 			   <label for="1036"></label>
 			   <img src="parte7/82_01_05.png"/>
-			   <figcaption>Com centros em <b>C</b> e <b>H</b>, construa os arcos com raio igual a <b>AB</b>.</figcaption>
+			   <figcaption>Com centros em <b>C</b> e <b>H</b>, construa os arcos com raios de medidas iguais a <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1037" name="sl">
 			   <label for="1037"></label>
 			   <img src="parte7/82_01_06.png"/>
-			   <figcaption>Para finalizar, construa os arcos com centros em <b>D</b> e <b>G</b>, com raio igual a <b>AB</b>.</figcaption>
+			   <figcaption>Para finalizar, construa os arcos com centros em <b>D</b> e <b>G</b>, com raios de medidas iguais a <b>AB</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/82_01_00.png" class="fundo"/>
@@ -7838,7 +7838,7 @@
 			   <input type="radio" id="1038" name="sl">
 			   <label for="1038"></label>
 			   <img src="parte7/82_02_01.png"/>
-			   <figcaption>Como o ângulo de 36&deg; não é um dos notáveis, vamos construir um decágono qualquer e depois aplicar o método de homotetia, para aumentar este decágono ou reduzí-lo. Construa uma circunferência de raio qualquer, e determine dois diâmetros perpendiculares.</figcaption>
+			   <figcaption>Como 36&deg; não é um dos ângulos notáveis, vamos construir um decágono qualquer e depois aplicar o método de homotetia, para aumentar este decágono ou reduzí-lo. Construa uma circunferência de raio qualquer, e determine dois diâmetros perpendiculares.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1039" name="sl">
@@ -7850,13 +7850,13 @@
 			   <input type="radio" id="1040" name="sl">
 			   <label for="1040"></label>
 			   <img src="parte7/82_02_03.png"/>
-			   <figcaption>Com centro em <b>M</b>, construa o arco com raio <b>MC</b>. A interseção deste raio com <b>O'A'<sub>1</sub></b> é o ponto <b>D</b>. Logo, temos o lado <b>l'<sub>10</sub></b>.</figcaption>
+			   <figcaption>Com centro em <b>M</b>, construa o arco com raio de medida <b>MC</b>. A interseção deste raio com <b>O'A'<sub>1</sub></b> é o ponto <b>D</b>. Logo, temos o lado <b>l'<sub>10</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1041" name="sl">
 			   <label for="1041"></label>
 			   <img src="parte7/82_02_04.png"/>
-			   <figcaption>Vamos considerar <b>A'<sub>1</sub> &equiv; A<sub>1</sub></b>. Construa os arcos com raio <b>l'<sub>10</sub></b> com centro em <b>A<sub>1</sub></b>, encontrando os vértices <b>A'<sub>2</sub></b> e <b>A'<sub>10</sub></b>.</figcaption>
+			   <figcaption>Vamos considerar <b>A'<sub>1</sub> &equiv; A<sub>1</sub></b>. Construa os arcos com raio de medida <b>l'<sub>10</sub></b> com centro em <b>A<sub>1</sub></b>, encontrando os vértices <b>A'<sub>2</sub></b> e <b>A'<sub>10</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1042" name="sl">
@@ -7874,7 +7874,7 @@
 			   <input type="radio" id="1044" name="sl">
 			   <label for="1044"></label>
 			   <img src="parte7/82_02_07.png"/>
-			   <figcaption>Para finalizar, basta construir os arcos consecutivos, a partir de <b>A<sub>2</sub></b> e de <b>A<sub>10</sub></b> para encontrar os outros 7 vértices do decágono.</figcaption>
+			   <figcaption>Para finalizar, basta construir os arcos consecutivos com raios de medida <b>l<sub>10</sub></b>, a partir de <b>A<sub>2</sub></b> e de <b>A<sub>10</sub></b> para encontrar os outros 7 vértices do decágono.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/82_02_00.png" class="fundo"/>
@@ -7927,7 +7927,7 @@
 			   <input type="radio" id="1050" name="sl">
 			   <label for="1050"></label>
 			   <img src="parte7/83_02_03.png"/>
-			   <figcaption>O lado <b>l'<sub>7</sub></b> mede a metade de <b>BC</b>. Como <b>BC</b> é o segmento <b>l<sub>3</sub></b>, temos que $\mathsf{ l'_7 = \frac{r \sqrt{3}}{2} }$. O erro teórico deste processo fica na casa de dois milésimos.</figcaption>
+			   <figcaption>O lado <b>l'<sub>7</sub></b> mede a metade de <b>BC</b>. Como <b>BC</b> é o segmento <b>l<sub>3</sub></b>, temos que $\mathsf{ l'_7 = \frac{r \sqrt{3}}{2} }$. O erro teórico deste processo fica na ordem de dois milésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/83_02_00.png" class="fundo"/>
@@ -7965,7 +7965,7 @@
 			   <input type="radio" id="1055" name="sl">
 			   <label for="1055"></label>
 			   <img src="parte7/84_01_05.png"/>
-			   <figcaption>Desta construção, temos que <b>OF = l<sub>4</sub></b>. Logo,  $\mathsf{ AG = OA - (GF - OF) = r - (r \sqrt{3} - r \sqrt{2}) }$. O erro teórico deste processo fica na casa de dois milésimos.</figcaption>
+			   <figcaption>Desta construção, temos que <b>OF = l<sub>4</sub></b>. Logo,  $\mathsf{ AG = OA - (GF - OF) = r - (r \sqrt{3} - r \sqrt{2}) }$. O erro teórico deste processo fica na ordem de dois milésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/84_01_00.PNG" class="fundo"/> 
