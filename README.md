@@ -8040,7 +8040,7 @@
 			   <input type="radio" id="1065" name="sl">
 			   <label for="1065"></label>
 			   <img src="parte7/85_01_06.png"/>
-			   <figcaption>Como temos que <b>&#9651;EOB ~ &#9651;AFB</b>, substituindo as medidas dos lados nas razões correspondentes, encontramos $\mathsf{ l'_{13} = \frac{2r \sqrt{17}}{17} }$. O erro teórico deste processo fica na casa de sete milésimos.</figcaption>
+			   <figcaption>Como temos que <b>&#9651;EOB ~ &#9651;AFB</b>, substituindo as medidas dos lados nas razões correspondentes, encontramos $\mathsf{ l'_{13} = \frac{2r \sqrt{17}}{17} }$. O erro teórico deste processo fica na ordem de sete milésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/85_01_00.png" class="fundo"/>
@@ -8065,7 +8065,7 @@
 			   <input type="radio" id="1068" name="sl">
 			   <label for="1068"></label>
 			   <img src="parte7/85_02_03.png"/>
-			   <figcaption>O segmento $\mathsf{ OE = l'_{15} = r \sqrt{2} - r }$. O erro deste processo fica na casa de dois milésimos.</figcaption>
+			   <figcaption>O segmento $\mathsf{ OE = l'_{15} = r \sqrt{2} - r }$. O erro deste processo fica na ordem de dois milésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/85_02_00.png" class="fundo"/>
@@ -8121,7 +8121,7 @@
 			   <input type="radio" id="1076" name="sl">
 			   <label for="1076"></label>
 			   <img src="parte7/86_01_08.png"/>
-			   <figcaption>Como <b>&#9651;AGB ~ &#9651;FMB</b>, podemos substituir as medidas conhecidas na proporção entre os lados correspondentes. Logo, encontramos o segmento $\mathsf{ l'_{19} = \frac{2r \sqrt{37}}{37} }$. O erro deste processo fica na casa de quatro milésimos.</figcaption>
+			   <figcaption>Como <b>&#9651;AGB ~ &#9651;FMB</b>, podemos substituir as medidas conhecidas na proporção entre os lados correspondentes. Logo, encontramos o segmento $\mathsf{ l'_{19} = \frac{2r \sqrt{37}}{37} }$. O erro deste processo fica na ordem de quatro milésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte7/86_01_00.png" class="fundo"/>
@@ -8381,7 +8381,7 @@
   </details></div>
   <img src="parte7/apos_dg_0089a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item a</summary>
-	<p>Construímos o lado do heptágono regular, e os vértices na circunferência de raio 4,5cm.</p>
+	<p>Construímos o lado do pentadecágono regular, e os vértices na circunferência de raio 4,5cm.</p>
 	<img src="parte7/89_04_00.png"/>
 	<figcaption>Depois, basta unir os pontos, sempre no mesmo sentido, pulando de 4 em 4.</figcaption>
   </details>
