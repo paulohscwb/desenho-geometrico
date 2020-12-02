@@ -6609,7 +6609,7 @@
 			   <input type="radio" id="868" name="sl">
 			   <label for="868"></label>
 			   <img src="parte6/71_01_05.png"/>
-			   <figcaption>Construa as circunferências com centros e <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
+			   <figcaption>Construa as circunferências com centros <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte6/71_01_00.png" class="fundo"/>
@@ -6646,7 +6646,7 @@
 			   <input type="radio" id="873" name="sl">
 			   <label for="873"></label>
 			   <img src="parte6/71_02_05.png"/>
-			   <figcaption>Construa as circunferências com centros em <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
+			   <figcaption>Construa as circunferências com centros <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
 			</li>
 		</ul>
 		<img src="parte6/71_02_00.png" class="fundo"/>
@@ -6739,7 +6739,7 @@
 			   <input type="radio" id="885" name="sl">
 			   <label for="885"></label>
 			   <img src="parte6/72_01_05.png"/>
-			   <figcaption>Os centros estão na interseção da Circunf(C,m + r) com a Circunf(D,n + r). Construa as circunferências com centros em <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
+			   <figcaption>Os centros estão nas interseções da Circunf(C,m + r) com a Circunf(D,n + r). Construa as circunferências com centros <b>O</b> e <b>O'</b> e raios iguais a <b>r</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte6/72_01_00.png" class="fundo"/>
@@ -6765,25 +6765,25 @@
 			   <input type="radio" id="887" name="sl">
 			   <label for="887"></label>
 			   <img src="parte6/73_02_03.png"/>
-			   <figcaption>Aplicando o exercício 19, construímos as Circunf(A,5) e Circunf(B,5) para encontrar o centro da circunferência tangente com raio 3cm.</figcaption>
+			   <figcaption>Aplicando o exercício 19, construímos as Circunf(A,5) e Circunf(B,5) para encontrar o centro da circunferência tangente com raio de 3cm.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="888" name="sl">
 			   <label for="888"></label>
 			   <img src="parte6/73_02_04.png"/>
-			   <figcaption>Construa o arco com raio 3cm.</figcaption>
+			   <figcaption>Construa a circunferência com raio de 3cm.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="889" name="sl">
 			   <label for="889"></label>
 			   <img src="parte6/73_02_05.png"/>
-			   <figcaption>Construa o raio que forma 75&deg; no vértice <b>A</b>. No prolongamento deste raio, construa o segmento <b>AC</b> com 6,4cm.</figcaption>
+			   <figcaption>Construa o raio que forma 75&deg; com o raio indicado. No prolongamento deste raio, construa o segmento <b>AC</b> com medida de 6,4cm.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="890" name="sl">
 			   <label for="890"></label>
 			   <img src="parte6/73_02_06.png"/>
-			   <figcaption>Construa o arco tangente à Circunf(A,2), determinando <b>CT // AB</b>.</figcaption>
+			   <figcaption>Construa o arco tangente à Circunf(A,2) e o segmento <b>CT // AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="891" name="sl">
@@ -6831,7 +6831,7 @@
 			   <input type="radio" id="897" name="sl">
 			   <label for="897"></label>
 			   <img src="parte6/73_02_13.png"/>
-			   <figcaption>Logo, determinamos os pontos de tangência nas Circunf(E,ED) e Circunf(G,GL). Construa mais dois arcos do contorno da maçã.</figcaption>
+			   <figcaption>Logo, determinamos os pontos de tangência nas Circunf(E,ED) e Circunf(G,GL). Construa os arcos do contorno da maçã de centros <b>E</b> e <b>F</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="898" name="sl">
@@ -6878,7 +6878,7 @@
 		</ul>
 		<img src="parte6/73_02_00.png" class="fundo"/>
   </details>
-  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.7</span></div>
+  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.7: exercício 20.5</span></div>
   <img src="parte6/apos_dg_0073b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.8</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
