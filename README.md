@@ -6945,7 +6945,7 @@
 			   <input type="radio" id="912" name="sl">
 			   <label for="912"></label>
 			   <img src="parte6/74_03_02.png"/>
-			   <figcaption>No prolongamento do segmento <b>TA</b>, encontramos o ponto de tangência <b>T<sub>1</sub></b> da reta <b>t</b>. Construa a reta perpendicular a <b>t</b> que passa por <b>T<sub>1</sub></b>.</figcaption>
+			   <figcaption>No prolongamento do segmento <b>TA</b>, encontramos o ponto de tangência <b>T<sub>1</sub> &isin; t</b>. Construa a reta perpendicular a <b>t</b> que passa por <b>T<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="913" name="sl">
