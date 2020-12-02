@@ -6968,7 +6968,7 @@
 		   <li>
 			   <input type="radio" id="916" name="sl">
 			   <label for="916"></label>
-			   <img src="parte6/74_03_05.png"/>
+			   <img src="parte6/74_03_06.png"/>
 			   <figcaption>Unindo os pontos <b>C</b> e <b>T</b>, encontramos o centro <b>O<sub>2</sub></b> na reta perpendicular que construímos. Esta construção usa a propriedade que <b>&#9651;O<sub>2</sub>TT<sub>2</sub> ~ &#9651;CTB</b>.</figcaption>
 		   </li>
 		</ul>
