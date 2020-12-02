@@ -7137,7 +7137,7 @@
 			   <input type="radio" id="938" name="sl">
 			   <label for="938"></label>
 			   <img src="parte6/77_01_06.png"/>
-			   <figcaption>Construa a reta <b>CT</b>: na interseção desta reta com a mediatriz, encontramos o centro da primeira solução <b>O</b>.</figcaption>
+			   <figcaption>Construa a reta <b>CT</b>: na interseção desta reta com a mediatriz de <b>AB</b>, encontramos o centro da primeira solução <b>O</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="939" name="sl">
@@ -7149,7 +7149,7 @@
 			   <input type="radio" id="940" name="sl">
 			   <label for="940"></label>
 			   <img src="parte6/77_01_08.png"/>
-			   <figcaption>Construa a reta <b>CT'</b>: na interseção desta reta com a mediatriz, encontramos o centro da segunda solução <b>O'</b>.</figcaption>
+			   <figcaption>Construa a reta <b>CT'</b>: na interseção desta reta com a mediatriz de <b>AB</b>, encontramos o centro da segunda solução <b>O'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="941" name="sl">
@@ -7211,13 +7211,13 @@
 			   <input type="radio" id="950" name="sl">
 			   <label for="950"></label>
 			   <img src="parte6/77_03_01.png"/>
-			   <figcaption>Vamos imaginar uma solução tangente interior à circunferência <b>&alpha;</b> e exterior às circunferências <b>&beta;</b> e <b>&gamma;</b>. Se reduzirmos os raios das circunferências <b>&beta;</b> e <b>&gamma;</b>, a solução passará pelos centros <b>B</b> e <b>C</b> e será tangente à circunferência <b>&alpha;'</b>, que terá o raio dobrado. Este é o exercício 27.</figcaption>
+			   <figcaption>Vamos imaginar uma solução tangente interior à circunferência <b>&alpha;</b> e exterior às circunferências <b>&beta;</b> e <b>&gamma;</b>. Se reduzirmos os raios das circunferências <b>&beta;</b> e <b>&gamma;</b>, a solução passará pelos centros <b>B</b> e <b>C</b> e será tangente à circunferência <b>&alpha;'</b>, que terá o raio dobrado. Esta resolução foi feita no exercício 27.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="951" name="sl">
 			   <label for="951"></label>
 			   <img src="parte6/77_03_02.png"/>
-			   <figcaption>A circunferência tangente à <b>&alpha;'</b> passa pelos pontos <b>B</b> e <b>C</b>. Logo, o centro pertence à mediatriz de <b>BC</b>.</figcaption>
+			   <figcaption>Construa a circunferência <b>&alpha;'</b> com o dobro do raio de <b>&alpha;</b>. A circunferência tangente à <b>&alpha;'</b> passa pelos pontos <b>B</b> e <b>C</b>. Logo, o centro pertence à mediatriz de <b>BC</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="952" name="sl">
@@ -7247,7 +7247,7 @@
 			   <input type="radio" id="956" name="sl">
 			   <label for="956"></label>
 			   <img src="parte6/77_03_07.png"/>
-			   <figcaption>Construa a reta <b>AT<sub>1</sub></b>: na interseção desta reta com a mediatriz, encontramos o centro da primeira solução <b>O</b>.</figcaption>
+			   <figcaption>Construa a reta <b>AT<sub>1</sub></b>: na interseção desta reta com a mediatriz de <b>BC</b>, encontramos o centro da primeira solução <b>O</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="957" name="sl">
@@ -7259,7 +7259,7 @@
 			   <input type="radio" id="958" name="sl">
 			   <label for="958"></label>
 			   <img src="parte6/77_03_09.png"/>
-			   <figcaption>Construa a reta <b>AT'<sub>1</sub></b>: na interseção desta reta com a mediatriz, encontramos o centro da segunda solução <b>O'</b>.</figcaption>
+			   <figcaption>Construa a reta <b>AT'<sub>1</sub></b>: na interseção desta reta com a mediatriz de <b>BC</b>, encontramos o centro da segunda solução <b>O'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="959" name="sl">
