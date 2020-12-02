@@ -6125,7 +6125,7 @@
 			   <input type="radio" id="809" name="sl">
 			   <label for="809"></label>
 			   <img src="parte6/66_01_01.png"/>
-			   <figcaption>Utilizando o centro, podemos construir o raio <b>CT</b>, e a reta tangente será a reta <b>t &perp; CT</b> que passa pelo ponto <b>T</b>.</figcaption>
+			   <figcaption>Utilizando o centro, podemos construir o raio <b>CT</b>, e a reta tangente será <b>t &perp; CT</b> que passa pelo ponto <b>T</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="810a" name="sl">
@@ -6179,7 +6179,7 @@
 		   <li>
 			   <input type="radio" id="816" name="sl">
 			   <label for="816"></label>
-			   <img src="parte6/66_02_04.png"/>
+			   <img src="parte6/66_02_05.png"/>
 			   <figcaption>Os pontos de tangência <b>T</b> e <b>T'</b> estão na interseção da mediatriz de <b>AB</b> com a circunferência. Construa as retas <b>t</b> e <b>t'</b> paralelas à reta <b>s</b> que passam por <b>T</b> e <b>T'</b>.</figcaption>
 		   </li>
 		</ul>
