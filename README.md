@@ -7035,12 +7035,12 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício usamos as propriedades dos exercícios 1, 2 e 22.</p>
 	<img src="parte6/76_01_00.png"/>
-	<figcaption>De acordo com a propriedade usada no exercício 22, o ponto de tangência <b>T</b> está na interseção das retas <b>PQ</b> e <b>AT</b>.</figcaption>
+	<figcaption>De acordo com a propriedade usada no exercício 22, o ponto de tangência <b>T</b> está na interseção do segmento <b>PQ</b> e do prolongamento do segmento <b>AT</b>.</figcaption>
   </details></div>
   <img src="parte6/apos_dg_0076a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício usamos as propriedades dos exercícios 1, 2 e 22.</p>
-	<img src="parte6/76_01_00.png"/>
+	<img src="parte6/76_02_00.png"/>
 	<figcaption>De acordo com a propriedade usada no exercício 22, o ponto de tangência <b>T</b> está na interseção da reta <b>BP</b> com a Circunf(A,3.5).</figcaption>
   </details></div>
   <img src="parte6/apos_dg_0076b.png"/>
