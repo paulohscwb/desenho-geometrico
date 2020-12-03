@@ -9538,7 +9538,7 @@
 			   <input type="radio" id="1241" name="sl">
 			   <label for="1241"></label>
 			   <img src="parte9/104_01_09.png"/>
-			   <figcaption>Construa os lados paralelos a <b>AC</b>.</figcaption>
+			   <figcaption>Construa os lados paralelos a <b>AC</b> que passam por <b>C<sub>1</sub></b> e <b>C<sub>2</sub></b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte9/104_01_00.png" class="fundo"/>
@@ -9589,7 +9589,7 @@
 			   <input type="radio" id="1248" name="sl">
 			   <label for="1248"></label>
 			   <img src="parte9/104_03_07.png"/>
-			   <figcaption>Construa os lados paralelos a <b>CD</b>.</figcaption>
+			   <figcaption>Construa os lados paralelos a <b>CD</b> que passam por <b>C<sub>1</sub></b> e <b>C<sub>2</sub></b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte9/104_03_00.png" class="fundo"/>
