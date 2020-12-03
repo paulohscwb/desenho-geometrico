@@ -8951,7 +8951,7 @@
 		   <li>
 			   <input type="radio" id="1171" name="sl">
 			   <label for="1171"></label>
-			   <img src="parte9/98_01_02.png"/>
+			   <img src="parte9/98_01_03.png"/>
 			   <figcaption>Na interseção da circunferência com a reta paralela temos o vértice <b>A</b> do <b>&#9651;ABC</b> equivalente ao <b>&#9651;DEF</b>.</figcaption>
 		   </li>
 		</ul>
