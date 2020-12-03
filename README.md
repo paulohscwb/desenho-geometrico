@@ -9134,8 +9134,8 @@
 		<img src="parte9/100_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0100b.png"/>
-  <figcaption>No caso do losango, temos que uma diagonal divide-o em dois triângulos isósceles. Logo, a área de um destes triângulos fica igual a <b>d<sub>1</sub>.d<sub>2</sub>/4</b>. Logo, a área do losango será igual à metade do produto das medidas das diagonais: <b>d<sub>1</sub>.d<sub>2</sub>/2</b>.
-  <br>No polígono regular de <b>n</b> lados, temos <b>n</b> triângulos iscósceles de base igual a <b>l<sub>n</sub></b> e altura igual ao apótema <b>a</b>. Somando-se todas estas áreas, teremos <b>n.l<sub>n</sub></b>, que é o semi-perímetro. Logo, a área de um polígono regular de <b>n</b> lados é o produto do semi-perímetro pelo apótema.</figcaption>
+  <figcaption>No caso do losango, temos que uma diagonal divide-o em dois triângulos isósceles. Logo, a área de um destes triângulos fica igual a <b>d<sub>1</sub>.d<sub>2</sub>/4</b>. Podemos concluir que a área do losango será igual à metade do produto das medidas das diagonais: <b>d<sub>1</sub>.d<sub>2</sub>/2</b>.
+  <br>No polígono regular de <b>n</b> lados, temos <b>n</b> triângulos isósceles de base igual a <b>l<sub>n</sub></b> e altura igual ao apótema <b>a</b>. Somando-se todas estas áreas, teremos <b>n.l<sub>n</sub></b>, que é o semi-perímetro. Logo, a área de um polígono regular de <b>n</b> lados é o produto do semi-perímetro pelo apótema.</figcaption>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0101.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
