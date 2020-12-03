@@ -9097,7 +9097,7 @@
 			   <input type="radio" id="1188" name="sl">
 			   <label for="1188"></label>
 			   <img src="parte9/100_01_06.png"/>
-			   <figcaption>Podemos construir o prolongamento de <b>AF</b> e a reta paralela a <b>DF</b> que passa por <b>E</b>. Descartamos os vértices <b>E</b> e <b>F</b>.</figcaption>
+			   <figcaption>Podemos construir o prolongamento de <b>AF</b> e a reta paralela a <b>DF</b> que passa por <b>E</b>. Descartamos os vértices <b>E</b> e <b>F</b>, e a área <b>5</b> torna-se a área <b>6</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1189" name="sl">
@@ -9122,13 +9122,13 @@
 			   <input type="radio" id="1191" name="sl">
 			   <label for="1191"></label>
 			   <img src="parte9/100_02_02.png"/>
-			   <figcaption>Construa o segmento <b>A'B' = AB</b> na mesma reta suporte de <b>AB</b>. O trapézio <b>A'B'CD</b> é equivalente ao trapézio <b>ABCD</b>.</figcaption>
+			   <figcaption>Construa o segmento <b>A'B' = AB</b> na mesma reta suporte de <b>AB</b>. O trapézio <b>A'B'CD</b> é equivalente ao trapézio <b>ABCD</b> (mesmas medidas das bases e mesma altura).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1192" name="sl">
 			   <label for="1192"></label>
 			   <img src="parte9/100_02_03.png"/>
-			   <figcaption>Construa o segmento <b>C'D' = CD</b> na mesma reta suporte de <b>CD</b>. O trapézio <b>ABC'D'</b> é equivalente ao trapézio <b>ABCD</b>, e assim sucessivamente: basta manter a altura e as medidas das bases inalteradas.</figcaption>
+			   <figcaption>Construa o segmento <b>C'D' = CD</b> na mesma reta suporte de <b>CD</b>. O trapézio <b>ABC'D'</b> é equivalente ao trapézio <b>ABCD</b>, e assim sucessivamente: basta considerar inalteradas as medidas da altura e das bases.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte9/100_02_00.png" class="fundo"/>
