@@ -9151,7 +9151,13 @@
 			   <input type="radio" id="1194" name="sl">
 			   <label for="1194"></label>
 			   <img src="parte9/101_01_02.png"/>
-			   <figcaption>Se imaginarmos que o número de vértices aumenta, o apótema começa a se aproximar da medida do raio do círculo, e o lado do polígono se aproxima de 0. Logo, a área do círculo será o o produto do semi-perímetro pelo "apótema": <b>&pi;r.r = &pi;r<sup>2</sup></b>.</figcaption>
+			   <figcaption>Se imaginarmos que o número de vértices aumenta, o apótema começa a se aproximar da medida do raio do círculo, e o lado do polígono se aproxima de 0. Logo, o polígono se transforma no círculo e o apótema fica com medida igual ao raio do círculo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1194a" name="sl">
+			   <label for="1194a"></label>
+			   <img src="parte9/101_01_02.png"/>
+			   <figcaption>Portanto, a área do círculo será o o produto do semi-perímetro <b>&pi;r</b> pelo "apótema" <b>r</b>, ou seja, <b>A =  &pi;r.r = &pi;r<sup>2</sup></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1195" name="sl">
