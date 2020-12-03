@@ -8489,7 +8489,7 @@
 			   <input type="radio" id="1114" name="sl">
 			   <label for="1114"></label>
 			   <img src="parte8/90_02_05.png"/>
-			   <figcaption>Logo, o segmento <b>AC</b> é o diâmetro da circunferência. Construa a mediatriz de <b>AC</b> para desenhar a circunferência com perímetro <b>AB</b>.</figcaption>
+			   <figcaption>Logo, o segmento <b>AC</b> é o diâmetro da circunferência. Construa a mediatriz de <b>AC</b> para construir a circunferência com perímetro <b>AB</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte8/90_02_00.png" class="fundo"/>
@@ -8551,7 +8551,7 @@
 			   <input type="radio" id="1123" name="sl">
 			   <label for="1123"></label>
 			   <img src="parte8/91_01_09.png"/>
-			   <figcaption>Finalmente, usando a lei dos cossenos no <b>&#9651;ACF</b>, temos que $\mathsf{ AF = \frac{r}{2} (\sqrt{\sqrt{6} + 1 + \sqrt{9-3 \sqrt{6}}}) }$. Este processo tem erro da ordem de 8 décimos de milésimos.</figcaption>
+			   <figcaption>Finalmente, usando a lei dos cossenos no <b>&#9651;ACF</b>, temos que $\mathsf{ AF = \frac{r}{2} (\sqrt{\sqrt{6} + 1} + \sqrt{9-3 \sqrt{6}}}) }$. Este processo tem erro da ordem de 8 décimos de milésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte8/91_01_00.png" class="fundo"/>
