@@ -9321,19 +9321,19 @@
 			   <input type="radio" id="1215" name="sl">
 			   <label for="1215"></label>
 			   <img src="parte9/102_04_02.png"/>
-			   <figcaption>Com centro em <b>M</b> e raio <b>A<sub>1</sub></b>, determinamos o lado <b>l'<sub>5</sub></b> do pentágono inscrito nesta circunferência.</figcaption>
+			   <figcaption>Com centro em <b>M</b> e raio <b>MA<sub>1</sub></b>, determinamos o lado <b>l'<sub>5</sub></b> do pentágono inscrito nesta circunferência.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1216" name="sl">
 			   <label for="1216"></label>
 			   <img src="parte9/102_04_03.png"/>
-			   <figcaption>Encontre os vértices <b>A'<sub>2</sub></b> e <b>A'<sub>5</sub></b>. Vamos ampliar este pentágono para encontrar <b>l = 3,5cm</b> usando Homotetia.</figcaption>
+			   <figcaption>Encontre os vértices <b>A'<sub>2</sub></b> e <b>A'<sub>5</sub></b>. Vamos ampliar este pentágono para encontrar o pentágono com lado <b>l = 3,5cm</b> usando Homotetia.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1217" name="sl">
 			   <label for="1217"></label>
 			   <img src="parte9/102_04_04.png"/>
-			   <figcaption>Construa <b>A<sub>1</sub>A<sub>2</sub> = A<sub>1</sub>A<sub>5</sub></b>, e encontre o novo centro da circunferência circunscrita: construa o segmento <b>OA<sub>5</sub> // OA'<sub>5</sub></b>.</figcaption>
+			   <figcaption>Construa <b>A<sub>1</sub>A<sub>2</sub> = A<sub>1</sub>A<sub>5</sub> = l</b>, e encontre o novo centro da circunferência circunscrita: construa o segmento <b>OA<sub>5</sub> // O'A'<sub>5</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1218" name="sl">
@@ -9351,7 +9351,7 @@
 			   <input type="radio" id="1220" name="sl">
 			   <label for="1220"></label>
 			   <img src="parte9/102_04_07.png"/>
-			   <figcaption>Construa o apótema <b>a = AC</b>. A média geométrica é o cateto <b>L</b>, lado do quadrado equivalente ao pentágono. Construa este quadrado.</figcaption>
+			   <figcaption>Construa o apótema <b>a = AC</b>. A média geométrica é o cateto <b>L</b>, lado do quadrado equivalente ao pentágono. Construa este quadrado com lado de medida <b>L</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte9/102_04_00.png" class="fundo"/>
@@ -9406,7 +9406,7 @@
 			   <input type="radio" id="1227" name="sl">
 			   <label for="1227"></label>
 			   <img src="parte9/102_06_07.png"/>
-			   <figcaption>Construa o arco capaz de 90&deg; (o centro já é o ponto <b>H</b>) e o segmento perpendicular a <b>GI</b> que passa por <b>J</b>. O cateto <b>L</b> é o lado do quadrado equivalente ao círculo de raio <b>r</b>. Construa este quadrado.</figcaption>
+			   <figcaption>Construa o arco capaz de 90&deg; (o centro já é o ponto <b>H</b>) e o segmento perpendicular a <b>GI</b> que passa por <b>J</b>. O cateto <b>L</b> é o lado do quadrado equivalente ao círculo de raio <b>r</b>. Construa o quadrado com lado de medida <b>L</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte9/102_06_00.png" class="fundo"/>
@@ -9415,7 +9415,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O raio <b>R</b> de um círculo equivalente à área da coroa circular é encontrado usando o teorema de Pitágoras: <b>R</b> é um cateto do triângulo retângulo com hipotenusa <b>r<sub>1</sub></b> e o outro cateto com medida <b>r<sub>2</sub></b>.</p>
 	<img src="parte9/102_07_00.png"/>
-	<figcaption>A média geométrica entre <b>&pi;R</b> e <b>R</b> será o lado do quadrado equivalente à área da coroa circular.</figcaption>
+	<figcaption>A média geométrica entre <b>&pi;R</b> e <b>R</b> será o lado do quadrado equivalente à área da coroa circular. Neste exercício, eu optei por usar o método de Arquimedes para retificar a circunferência de raio <b>R</b>.</figcaption>
   </details></div>
   <img src="parte9/apos_dg_0102g.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
