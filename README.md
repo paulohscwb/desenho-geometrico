@@ -8681,7 +8681,7 @@
 			   <input type="radio" id="1142" name="sl">
 			   <label for="1142"></label>
 			   <img src="parte8/92_02_05.png"/>
-			   <figcaption>Agora vamos ver algumas propriedades desta construção. Se construirmos o segmento <b>BG &perp; OA</b>, temos que <b>&#9651;BGE ~ &#9651;FAE</b>, e que <b>BG = rsen(&theta;)</b> e <b>OG = rcos(&theta;)</b>.</figcaption>
+			   <figcaption>Agora vamos ver algumas propriedades desta construção. Se construirmos o segmento <b>BG &perp; OA</b>, temos que <b>&#9651;BGE ~ &#9651;FAE</b>, <b>BG = rsen(&theta;)</b> e <b>OG = rcos(&theta;)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1143" name="sl">
