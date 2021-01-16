@@ -6108,7 +6108,7 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0064.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.1</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
 </details>
 
