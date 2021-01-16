@@ -6476,7 +6476,7 @@
   <img src="parte6/apos_dg_0070.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
   <img src="parte6/apos_dg_0070a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"id ="atv41"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
@@ -6748,7 +6748,7 @@
   <img src="parte6/apos_dg_0073.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
   <img src="parte6/apos_dg_0073a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.4: 1&ordf; parte</summary>
+  <div class="combo" id="atv42"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.4: 1&ordf; parte</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		   <li>
@@ -6877,7 +6877,7 @@
   </div>
   <img src="parte6/apos_dg_0073b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
-  <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
+  <p class="topop" id="atv43"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0074.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício usamos as bissetrizes dos ângulos formados entre as retas.</p>
@@ -7877,7 +7877,7 @@
   </details></div>
   <img src="parte7/apos_dg_0082b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span></div>
-  <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
+  <p class="topop" id="atv51"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0083.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
 	<p>Vamos ver como é o cálculo da medida do lado de um polígono de <b>n</b> lados inscrito em uma circunferência de raio <b>r</b>.</p>
@@ -8184,7 +8184,7 @@
   </details>
   &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2: item d</span></div>
   <img src="parte7/apos_dg_0086c.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo" id="atv52"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. O método usado nesta construção é da Homotetia.</p>
 	  <ul class="slider">
 		  <li>
@@ -8248,7 +8248,7 @@
   <img src="parte7/apos_dg_0087.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.3</span></div>
   <img src="parte7/apos_dg_0087a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"id="atv53"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
@@ -8388,7 +8388,7 @@
   </details>
   &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.4: item c</span></div>
   <img src="parte7/apos_dg_0089b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 1</summary>
+  <div class="combo"id="atv54"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 1</summary>
 	<p>Construímos o heptágono regular inscrito na circunferência de raio 2cm.</p>
 	<img src="parte7/89_07_00.png"/>
 	<figcaption>Depois, basta prolongar os lados do heptágono para definir a estrelação com <b>p = 2</b>.</figcaption>
@@ -8406,7 +8406,7 @@
   <img src="parte7/apos_dg_0089c.png"/>
   <div class="combo">
   &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.5: exercício 4</span>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 5</summary>
+  <details class="sub" id="atv55"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 5</summary>
 	<p>Construímos o eneágono regular inscrito na circunferência de raio 3cm.</p>
 	<img src="parte7/89_11_00.png"/>
 	<figcaption>Depois, basta prolongar os lados do eneágono para definir a estrelação com <b>p = 2</b>.</figcaption>
@@ -8805,11 +8805,11 @@
   </details></div>
   <img src="parte8/apos_dg_0094d.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span></div>
-  <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
+  <p class="topop" id="atv61"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0095.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span></div>
   <img src="parte8/apos_dg_0095a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo" id="atv62"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Vamos usar uma escala de 1:10 neste exercício: cada 1cm do desenho equivale a 10cm em escala real. Esta construção tem 3 fases: a primeira serve para encontrar as retas tangentes <b>TT''</b> e <b>T'T'''</b> usando o processo de Homotetia (ou de dilatação e contração de circunferências). Desta forma, temos os comprimentos dos segmentos com medidas de 58,1cm.</p>
 	<img src="parte8/95_02_00.png"/>
 	<figcaption>Na segunda fase, retificamos o arco de amplitude <b>&beta;</b>, que deve ser feito por meio de sua bissetriz pois tem medida maior do que 90&deg;. Assim, encontramos o segmento <b>FE</b>. Na terceira fase, refificamos o arco de amplitude <b>&alpha;</b>, encontrando o segmento <b>F'E'</b>. O comprimento total mede 266,6cm.</figcaption>
@@ -9054,7 +9054,7 @@
   </details></div>
   <img src="parte9/apos_dg_0099b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.3</span></div>
-  <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
+  <p class="topop" id="atv63"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0100.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
@@ -9242,7 +9242,7 @@
   <img src="parte9/apos_dg_0102.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.4</span></div>
   <img src="parte9/apos_dg_0102a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo" id="atv64"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
@@ -9422,7 +9422,7 @@
   <img src="parte9/apos_dg_0102h.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.5</span></div>
   <img src="parte9/apos_dg_0102i.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo" id="atv65"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O raio <b>R</b> do círculo equivalente ao setor circular de amplitude <b>&alpha;</b> e raio <b>r</b> será a média geométrica entre <b>&alpha;r</b> e $\mathsf{ x = \frac{r}{2\pi} }$. Encontramos o segmento <b>2&pi;</b> usando o o processo de Arquimedes.</p>
 	<img src="parte9/102_10_00.png"/>
 	<figcaption>O segmento <b>x</b> pode ser encontrado usando quarta proporcional entre <b>2&pi;</b>, <b>r</b> e <b>1cm</b>. O segmento <b>&alpha;r</b> é encontrado retificando o setor circular de amplitude <b>&alpha;</b> e raio <b>r</b>. Finalmente, podemos fazer a média geométrica entre <b>x</b> e <b>&alpha;r</b>. </figcaption>
@@ -9542,7 +9542,7 @@
   <img src="parte9/apos_dg_0104a.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.6</span></div>
   <img src="parte9/apos_dg_0104b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo" id="atv66"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
