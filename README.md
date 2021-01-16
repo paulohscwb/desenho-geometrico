@@ -725,7 +725,7 @@
   <p class="topop" id="atv12"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
+<details open>
   <summary id="parte2">1.2. Retas paralelas e bissetriz</summary>
   <p>Material da página 12 até a página 20.</p>
   <img src="parte2/apos_dg_0012.png"/>
