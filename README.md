@@ -14,7 +14,7 @@
 <p>Esta página contém os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico.</p>
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2020/12/ApostilaDG_2020_1.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
-<details>
+<details open>
   <summary id="parte1">1.1. Circunferência e Mediatriz</summary>
   <p>Material da página 1 até a página 11.</p>
 	<div class="embed-container">
