@@ -1219,7 +1219,7 @@
   </details></div>
   <img src="parte2/apos_dg_0014b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
-  <p class="topop"id="atv13"><a href="#parte2" class="topo">voltar ao topo</a></p>
+  <p class="topop" id="atv13"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0015.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
