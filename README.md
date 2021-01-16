@@ -6471,12 +6471,10 @@
 	<figcaption>O centro da solução interna pertence ao segmento <b>CT</b></figcaption>
   </details></div>
   <img src="parte6/apos_dg_0069a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
   <img src="parte6/apos_dg_0069b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0070.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
   <img src="parte6/apos_dg_0070a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
@@ -6745,12 +6743,10 @@
 		<img src="parte6/72_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte6/apos_dg_0072a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.4</span></div>
   <img src="parte6/apos_dg_0072b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.5</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0073.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.6</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
   <img src="parte6/apos_dg_0073a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.4: 1&ordf; parte</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
@@ -6878,9 +6874,9 @@
 		</ul>
 		<img src="parte6/73_02_00.png" class="fundo"/>
   </details>
-  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.7: exercício 20.5</span></div>
+  </div>
   <img src="parte6/apos_dg_0073b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.8</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0074.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
