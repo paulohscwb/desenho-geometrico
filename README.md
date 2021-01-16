@@ -255,7 +255,7 @@
   </details></div>
   <img src="parte1/apos_dg_0005b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
-  <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
+  <p class="topop" id="atv11"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. A régua e o compasso serão usados como instrumentos auxiliares.</p>
@@ -722,7 +722,7 @@
   </details></div>
   <img src="parte1/apos_dg_0011b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
-  <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
+  <p class="topop" id="atv12"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
@@ -1219,7 +1219,7 @@
   </details></div>
   <img src="parte2/apos_dg_0014b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
-  <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
+  <p class="topop"id="atv13"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0015.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
@@ -1660,7 +1660,7 @@
   <img src="parte2/apos_dg_0018a.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
   <img src="parte2/apos_dg_0018b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo" id="atv14"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Você pode usar a régua e o compasso ou os esquadros e o compasso para resolver este exercício.</p>
 	  <ul class="slider">
 		  <li>
@@ -2017,7 +2017,7 @@
   <img src="parte2/apos_dg_0020b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.5</span></div>
   <img src="parte2/apos_dg_0020c.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo" id="atv15"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
 	<img src="parte2/20_04_00.png"/>
 	<figcaption>Lembre-se da construção que fizemos para transportar ângulos.</figcaption>
