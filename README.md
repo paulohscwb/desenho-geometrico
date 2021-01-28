@@ -14,9 +14,8 @@
 <p>Esta página contém os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico.</p>
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2020/12/ApostilaDG_2020_1.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
-<details open>
-  <summary id="parte1">1.1. Circunferência e Mediatriz</summary>
-  <p>Material da página 1 até a página 11.</p>
+<details open><summary id="propriedades">Materiais básicos de Desenho</summary>
+    <p>USO DOS MATERIAIS DE DESENHO GEOMÉTRICO</p>
 	<div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
@@ -58,6 +57,7 @@
 		</ul>
 		<img src="basico/01_01_00.png" class="fundo"/>
   </details></div>
+  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
   <img src="basico/Cotadas_2020_0002.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45&deg;.</p>
@@ -95,6 +95,7 @@
     </ul>
     <img src="basico/02_01_00.png" class="fundo"/>
   </details></div>
+  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
   <img src="basico/Cotadas_2020_0002a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -162,6 +163,7 @@
     </ul>
     <img src="basico/02_02_00.png" class="fundo"/>
   </details></div>
+  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
   <img src="basico/Cotadas_2020_0002b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -205,6 +207,12 @@
     </ul>
     <img src="basico/02_03_00.png" class="fundo"/>
   </details></div>
+  <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
+</details>
+
+<details open>
+  <summary id="parte1">1.1. Circunferência e Mediatriz</summary>
+  <p>Material da página 1 até a página 11.</p>
    <img src="parte1/apos_dg_0001.png"/>
    <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
    <img src="parte1/apos_dg_0002.png"/>
