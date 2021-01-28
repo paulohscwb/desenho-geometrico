@@ -14,8 +14,7 @@
 <p>Esta página contém os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico.</p>
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2020/12/ApostilaDG_2020_1.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
-<details open><summary id="basico">Materiais básicos de Desenho</summary>
-    <p>USO DOS MATERIAIS DE DESENHO GEOMÉTRICO</p>
+<details open><summary id="basico">Uso dos materiais básicos de Desenho</summary>
 	<div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
