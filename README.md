@@ -2217,7 +2217,7 @@
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
+<details open>
   <summary id="parte3">2.1. Arco capaz</summary>
   <p>Material da página 21 até a página 29.</p>
   <img src="parte3/apos_dg_0021.png"/>
@@ -2794,7 +2794,7 @@
   <p class="topop" id="atv22"><a href="#parte3" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
+<details open>
   <summary id="parte4">2.2. Operações com segmentos</summary>
   <p>Material da página 30 até a página 48.</p>
   <img src="parte4/apos_dg_0030.png"/>
