@@ -6668,7 +6668,7 @@
   <img src="parte6/apos_dg_0070.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
   <img src="parte6/apos_dg_0070a.png"/>
-  <div class="combo"id ="atv41"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo" id ="atv41"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
