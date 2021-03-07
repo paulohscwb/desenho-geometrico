@@ -1,13 +1,20 @@
 <link rel="stylesheet" href="imagens/style.css">
-<script type="text/x-mathjax-config">
+<!--<script type="text/x-mathjax-config">
          MathJax.Hub.Config({
            tex2jax: {
              inlineMath: [ ['$','$'], ["\\(","\\)"] ],
              processEscapes: true
            }
          });
-</script>
+</script>-->
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
 
 <h2 id="inicio">Construções Geométricas</h2>
 
@@ -8440,7 +8447,7 @@
   <img src="parte7/apos_dg_0087.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.3</span></div>
   <img src="parte7/apos_dg_0087a.png"/>
-  <div class="combo"id="atv53"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo" id="atv53"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
