@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="imagens/style.css">
-<script type="text/x-mathjax-config">
+<!--<script type="text/x-mathjax-config">
          MathJax.Hub.Config({
            tex2jax: {
              inlineMath: [ ['$','$'], ["\\(","\\)"] ],
@@ -7,9 +7,15 @@
            }
          });
 </script>
-<!--<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>-->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>-->
 
-<script id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    showProcessingMessages: false,
+    tex2jax: { inlineMath: [['$','$'],['\\(','\\)']] }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
 
 <h2 id="inicio">Construções Geométricas</h2>
 
