@@ -8588,7 +8588,7 @@
   </details>
   &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.4: item c</span></div>
   <img src="parte7/apos_dg_0089b.png"/>
-  <div class="combo"id="atv54"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 1</summary>
+  <div class="combo" id="atv54"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 1</summary>
 	<p>Construímos o heptágono regular inscrito na circunferência de raio 2cm.</p>
 	<img src="parte7/89_07_00.png"/>
 	<figcaption>Depois, basta prolongar os lados do heptágono para definir a estrelação com <b>p = 2</b>.</figcaption>
