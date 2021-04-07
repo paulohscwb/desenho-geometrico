@@ -20,7 +20,7 @@
 <h2 id="inicio">Construções Geométricas</h2>
 
 <p>Esta página contém os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico.</p>
-<p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2020/12/ApostilaDG_2020_1.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
+<p>A apostila está disponível no link: <a href="basico/ApostilaDG_2020_1.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
 <details><summary id="basico">Uso dos materiais básicos de Desenho</summary>
 	<div class="embed-container">
