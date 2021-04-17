@@ -6671,7 +6671,7 @@
 	<figcaption>O centro da solução interna pertence ao segmento <b>CT</b></figcaption>
   </details></div>
   <img src="parte6/apos_dg_0069a.png"/>
-  <div class="combo"><details open><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   	<p>Começamos pelo segmento de 3,4cm. Temos a aplicação do Exercício 4 na reta tangente à circunferência.</p>
 	<img src="parte6/69_02_00.png"/>
 	<figcaption>Temos também a construção do trapézio isósceles na finalização do desenho. Esta construção pode ser feita com retas paralelas ao segmento de 4,8cm.</figcaption>
