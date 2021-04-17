@@ -6963,7 +6963,7 @@
 	<figcaption>Temos a aplicação do exercício 19 para encontrar os centros <b>S</b> e <b>S'</b>.</figcaption>
   </details></div>
   <img src="parte6/apos_dg_0073a.png"/>
-  <div class="combo" id="atv42"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.4: 1&ordf; parte</summary>
+  <div class="combo" id="atv42"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.5: 1&ordf; parte</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		   <li>
@@ -7023,7 +7023,7 @@
 		</ul>
 		<img src="parte6/73_02_00.png" class="fundo"/>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.4: 2&ordf; parte</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.5: 2&ordf; parte</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		   <li>
