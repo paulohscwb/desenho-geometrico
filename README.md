@@ -452,7 +452,7 @@
   <img src="parte1/apos_dg_0005b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício.</p>
-	<img src="05_03_00.png"/>
+	<img src="parte1/05_03_00.png"/>
 	<figcaption>Como a circunferência passa por <b>P</b>, construímos a circunferência de centro em <b>P</b> e raio <b>r</b> para encontrar o centro da solução.</figcaption>
   </details></div>
   <p class="topop" id="atv11"><a href="#parte1" class="topo">voltar ao topo</a></p>
