@@ -6948,10 +6948,20 @@
 		<img src="parte6/72_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte6/apos_dg_0072a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Começamos pelo segmento <b>CA</b>. Temos a aplicação do Exercício 4 nas retas tangentes à circunferência de centro <b>A</b>.</p>
+	<img src="parte6/72_02_00.png"/>
+	<figcaption>Temos a aplicação do exercício 19 para encontrar os centros das circunferências tangentes às circunferências de centros <b>A</b> e <b>B</b>.</figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0072b.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0073.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Começamos pelo segmento de 2cm com extremidade <b>T</b>. Temos a aplicação do Exercício 1 nas circunferências tangentes ao segmento <b>PR</b>.</p>
+	<img src="parte6/73_01_00.png"/>
+	<figcaption>Temos a aplicação do exercício 19 para encontrar os centros <b>S</b> e <b>S'</b>.</figcaption>
+  </details></div>
   <img src="parte6/apos_dg_0073a.png"/>
   <div class="combo" id="atv42"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.4: 1&ordf; parte</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
