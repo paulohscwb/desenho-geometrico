@@ -890,38 +890,13 @@
 		<img src="parte1/11_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte1/apos_dg_0011a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Vamos usar os esquadros e o compasso como instrumentos auxiliares para resolver este problema. Como a reta <b>t</b> é tangente à circunferência de centro <b>O</b>, o raio <b>OT</b> será perpendicular a <b>t</b>.</p>
-	  <ul class="slider">
-		  <li>
-			   <input type="radio" id="086" name="sl">
-			   <label for="086"></label>
-			   <img src="parte1/11_02_01.png"/>
-			   <figcaption>Podemos construir a reta perpendicular a <b>t</b> que passa por <b>O</b> com régua e compasso ou com os esquadros. Neste exemplo, vamos usar os esquadros: alinhe um cateto do esquadro de 45 com a reta <b>t</b>, e a hipotenusa deste esquadro fica apoiada com a régua ou com outro esquadro.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="087" name="sl">
-			   <label for="087"></label>
-			   <img src="parte1/11_02_02.png"/>
-			   <figcaption>Deixando fixo o esquadro de 60, deslize o esquadro de 45 até chegar em <b>O</b>. Construa a reta perpendicular usando o cateto do esquadro de 45.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="088" name="sl">
-			   <label for="088"></label>
-			   <img src="parte1/11_02_03.png"/>
-			   <figcaption>O raio da circunferência procurada será <b>OT</b>. Com centro em <b>O</b> e raio <b>OT</b>, construímos a solução deste problema.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="089" name="sl">
-			   <label for="089"></label>
-			   <img src="parte1/11_02_04.png"/>
-			   <figcaption>Se você preferir, pode fazer a construção da reta perpendicular a <b>t</b> que passa por <b>O</b> usando régua e compasso.</figcaption>
-		   </li>
-		</ul>
-		<img src="parte1/11_02_00.png" class="fundo"/>
-  </details></div>
-  <img src="parte1/apos_dg_0011b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
+  <img src="parte1/apos_dg_0011b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Problema similar ao anterior. Você pode construir a reta <b>t</b> perpendicular ao segmento <b>OT</b> usando régua e compasso, ou o par de esquadros.</p>
+	<img src="parte1/11_03_00.png"/>
+	<figcaption></figcaption>
+  </details></div>
   <p class="topop" id="atv12"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
