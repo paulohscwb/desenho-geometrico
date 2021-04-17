@@ -448,13 +448,13 @@
 	<figcaption>Como as laterais do triângulo isósceles medem <b>d</b>, usamos uma circunferência para encontrar os vértices <b>B</b> e <b>C</b>.</figcaption>
   </details></div>
   <img src="parte1/apos_dg_0005a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Use o conceito do lugar geométrico circunferência para resolver este exercício.</p>
-	<img src="parte1/05_02_00.png"/>
-	<figcaption>Lembrando que o lado <b>b</b> é o lado <b>AC</b> do triângulo, usamos a circunferência com centro em <b>C</b> e raio <b>b</b>.</figcaption>
-  </details></div>
-  <img src="parte1/apos_dg_0005b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
+  <img src="parte1/apos_dg_0005b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício.</p>
+	<img src="05_03_00.png"/>
+	<figcaption>Como a circunferência passa por <b>P</b>, construímos a circunferência de centro em <b>P</b> e raio <b>r</b> para encontrar o centro da solução.</figcaption>
+  </details></div>
   <p class="topop" id="atv11"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
