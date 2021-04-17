@@ -1393,14 +1393,14 @@
 	<figcaption>Antes de construir a circunferência, lembre-se de determinar o raio <b>OT</b> por meio de uma perpendicular à reta <b>t</b>.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0014b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
-  <p class="topop" id="atv13"><a href="#parte2" class="topo">voltar ao topo</a></p>
-  <img src="parte2/apos_dg_0015.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Você pode fazer as construções com régua e compasso ou com esquadros e o compasso.</p>
-	<img src="parte2/15_01_00.png"/>
-	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>CD &perp; r</b> para marcar o segmento com medida <b>d</b>.</figcaption>
+	<img src="parte2/14_03_00.png"/>
+	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>BC &perp; r</b> para marcar o segmento <b>n</b>.</figcaption>
   </details></div>
+  <p class="topop" id="atv13"><a href="#parte2" class="topo">voltar ao topo</a></p>
+  <img src="parte2/apos_dg_0015.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>  
   <img src="parte2/apos_dg_0015a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso para construir as retas perpendiculares e paralelas ou o par de esquadros com o compasso. Vamos ver como fica a construção com os esquadros e o compasso.</p>
