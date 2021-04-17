@@ -2184,13 +2184,13 @@
 		<img src="parte2/20_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte2/apos_dg_0020a.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.5</span></div>
+  <img src="parte2/apos_dg_0020b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
-	<img src="parte2/20_02_00.png"/>
-	<figcaption>Basta lembrar da construção que fizemos para transportar ângulos. Lembre-se que os arcos com centros nos vértices devem ter raios com mesma medida.</figcaption>
+	<img src="parte2/20_03_00.png"/>
+	<figcaption>Lembre-se da construção que fizemos para transportar ângulos.</figcaption>
   </details></div>
-  <img src="parte2/apos_dg_0020b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.5</span></div>
   <img src="parte2/apos_dg_0020c.png"/>
   <div class="combo" id="atv15"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
