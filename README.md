@@ -8017,56 +8017,62 @@
 		<img src="parte7/82_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte7/apos_dg_0082a.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span></div>
+  <img src="parte7/apos_dg_0082b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Vamos usar o método de homotetia.</p>
+	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Vamos usar homotetia.</p>
 	  <ul class="slider">
-		  <li>
-			   <input type="radio" id="1038" name="sl">
-			   <label for="1038"></label>
-			   <img src="parte7/82_02_01.png"/>
-			   <figcaption>Como 36&deg; não é um dos ângulos notáveis, vamos construir um decágono qualquer e depois aplicar o método de homotetia, para aumentar este decágono ou reduzí-lo. Construa uma circunferência de raio qualquer, e determine dois diâmetros perpendiculares.</figcaption>
+		   <li>
+			   <input type="radio" id="1020" name="sl">
+			   <label for="1020"></label>
+			   <img src="parte7/82_03_01.png"/>
+			   <figcaption>Começamos com a construção de uma circunferência de raio qualquer. Vamos construir um pentágono regular inscrito nesta circunferência. Construa dois diâmetros perpendiculares.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1039" name="sl">
-			   <label for="1039"></label>
-			   <img src="parte7/82_02_02.png"/>
+			   <input type="radio" id="1021" name="sl">
+			   <label for="1021"></label>
+			   <img src="parte7/82_03_02.png"/>
 			   <figcaption>Construa a mediatriz do raio <b>O'B</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1040" name="sl">
-			   <label for="1040"></label>
-			   <img src="parte7/82_02_03.png"/>
-			   <figcaption>Com centro em <b>M</b>, construa o arco com raio de medida <b>MC</b>. A interseção deste raio com <b>O'A'<sub>1</sub></b> é o ponto <b>D</b>. Logo, temos o lado <b>l'<sub>10</sub></b>.</figcaption>
+			   <input type="radio" id="1022" name="sl">
+			   <label for="1022"></label>
+			   <img src="parte7/82_03_03.png"/>
+			   <figcaption>Com centro em <b>M</b> e rao <b>MC</b>, construa o arco que intercecta <b>A'O'</b> em <b>D</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1041" name="sl">
-			   <label for="1041"></label>
-			   <img src="parte7/82_02_04.png"/>
-			   <figcaption>Vamos considerar <b>A'<sub>1</sub> &equiv; A<sub>1</sub></b>. Construa os arcos com raio de medida <b>l'<sub>10</sub></b> com centro em <b>A<sub>1</sub></b>, encontrando os vértices <b>A'<sub>2</sub></b> e <b>A'<sub>10</sub></b>.</figcaption>
+			   <input type="radio" id="1023" name="sl">
+			   <label for="1023"></label>
+			   <img src="parte7/82_03_04.png"/>
+			   <figcaption>Considerando o primeiro vértice <b>A<sub>1</sub></b>, construa os arcos com raio <b>l<sub>5</sub></b> para encontrar os vértices <b>A'<sub>2</sub></b> e <b>A'<sub>5</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1042" name="sl">
-			   <label for="1042"></label>
-			   <img src="parte7/82_02_05.png"/>
-			   <figcaption>Agora podemos determinar os lados <b>A<sub>1</sub>A<sub>2</sub> = A<sub>1</sub>A<sub>10</sub> = 3cm</b>. O centro da nova circunferência circunscrita pode ser encontrado usando homotetia: basta construir <b>OA<sub>2</sub> // O'A'<sub>2</sub></b>.</figcaption>
+			   <input type="radio" id="1024" name="sl">
+			   <label for="1024"></label>
+			   <img src="parte7/82_03_05.png"/>
+			   <figcaption>Agora podemos construir o lado <b>l<sub>5</sub> = 4,5cm</b> a partir de <b>A<sub>1</sub></b>. Logo, encontramos os vértices <b>A<sub>2</sub></b> e <b>A<sub>5</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1043" name="sl">
-			   <label for="1043"></label>
-			   <img src="parte7/82_02_06.png"/>
+			   <input type="radio" id="1025" name="sl">
+			   <label for="1025"></label>
+			   <img src="parte7/82_03_06.png"/>
+			   <figcaption>Para encontrar o centro da nova circunferência circunscrita, vamos construir a reta <b>OA<sub>2</sub> // O'A'<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="1027" name="sl">
+			   <label for="1027"></label>
+			   <img src="parte7/82_03_07.png"/>
 			   <figcaption>Construa a nova circunferência circunscrita.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1044" name="sl">
-			   <label for="1044"></label>
-			   <img src="parte7/82_02_07.png"/>
-			   <figcaption>Para finalizar, basta construir os arcos consecutivos com raios de medida <b>l<sub>10</sub></b>, a partir de <b>A<sub>2</sub></b> e de <b>A<sub>10</sub></b> para encontrar os outros 7 vértices do decágono.</figcaption>
+			   <input type="radio" id="1026" name="sl">
+			   <label for="1026"></label>
+			   <img src="parte7/82_03_08.png"/>
+			   <figcaption>Construa o pentágono com lado <b>l<sub>5</sub> = 4,5cm</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte7/82_02_00.png" class="fundo"/>
+		<img src="parte7/82_03_00.png" class="fundo"/>
   </details></div>
-  <img src="parte7/apos_dg_0082b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span></div>
   <p class="topop" id="atv51"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0083.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
