@@ -8578,7 +8578,7 @@
 	<figcaption>Depois, basta unir os pontos, sempre no mesmo sentido, pulando de 4 em 4.</figcaption>
   </details>
   &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.4: item b</span>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item c</summary>
 	<p>Construímos o decágono regular na circunferência de raio 4,5cm.</p>
 	<img src="parte7/89_06_00.png"/>
 	<figcaption>Depois, basta "pular" de 3 em 3 vértices, iniciando de qualquer vértice do decágono regular.</figcaption>
