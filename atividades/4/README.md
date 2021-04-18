@@ -30,16 +30,14 @@
 	<img src="70_01_00.png"/>
 	<figcaption>Temos também a construção do quadrado na finalização do desenho. Esta construção pode ser feita dois segmentos que formam 45&deg; com o segmento de 4cm.</figcaption>
   </details></div></details>
-  <details open><summary>Atividade 4.2: exercício 20.2 da pág. 72</summary>
+  <details open><summary>Atividade 4.2: exercícios 20.2 e 20.3 da pág. 72</summary>
   <img src="../../parte6/apos_dg_0072b.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do 20.2</summary>
 	<p>Começamos pelo segmento de 2cm com extremidade <b>A</b>. Temos a aplicação do Exercício 4 nas retas tangentes às circunferências de centros <b>P</b> e <b>O</b>.</p>
 	<img src="72_03_00.png"/>
 	<figcaption>Temos a aplicação do exercício 19 para encontrar os centros das circunferências tangentes às circunferências de centros <b>B</b> e <b>C</b>.</figcaption>
-  </details></div></details>
-    <details open><summary>Atividade 4.2: exercício 20.3 da pág. 72</summary>
-  <img src="../../parte6/apos_dg_0072b.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do 20.3</summary>
 	<p>Começamos pelos segmentos <b>AB</b>, <b>BC</b> e <b>CD</b>. Temos a aplicação do Exercício 1 nas circunferências de raios iguais a 0,6cm e nas circunferências de centros <b>G</b> e <b>H</b>.</p>
 	<img src="72_04_00.png"/>
 	<figcaption>Temos a aplicação do exercício 19 para encontrar os centros <b>E</b> e <b>F</b>.</figcaption>
