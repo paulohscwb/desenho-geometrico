@@ -8373,12 +8373,12 @@
 	<img src="parte7/86_03_00.png"/>
 	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o eneágono de lado com medida de 2,5cm usando Homotetia.</figcaption>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item c</summary>
-	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 3,5cm</b>), podemos construir o undecágono inscrito nesta circunferência.</p>
-	<img src="parte7/86_04_00.png"/>
-	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o undecágono de lado com medida de 2,5cm usando Homotetia.</figcaption>
-  </details>
-  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2: item d</span></div>
+  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2: item c</span></div>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Começamos com uma circunferência de raio qualquer, por exemplo r = 3,5cm, e construímos o tridecágono inscrito nesta circunferência.</p>
+	<img src="parte7/86_05_00.png"/>
+	<figcaption>Depois, basta usar homotetia para ampliar ou reduzir o raio da nova circunferência circunscrita, que terá o tridecágono com lado de 2,5cm.</figcaption>
+  </details></div>
   <img src="parte7/apos_dg_0086c.png"/>
   <div class="combo" id="atv52"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. O método usado nesta construção é da Homotetia.</p>
