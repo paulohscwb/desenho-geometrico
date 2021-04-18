@@ -8435,14 +8435,14 @@
 	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o eneágono com diagonal menor com medida de 4,5cm usando Homotetia.</figcaption>
   </details></div>
   <img src="parte7/apos_dg_0086e.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 5,5cm</b>), podemos construir o eneágono inscrito nesta circunferência.</p>
-	<img src="parte7/86_08_00.png"/>
-	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o eneágono com apótema com medida de 4,5cm usando Homotetia.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.3</span></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0087.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.3</span></div>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 5cm</b>), podemos construir o undecágono inscrito nesta circunferência.</p>
+	<img src="parte7/87_01_00.png"/>
+	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o undecágono com apótema com medida de 4cm usando Homotetia.</figcaption>
+  </details></div>
   <img src="parte7/apos_dg_0087a.png"/>
   <div class="combo" id="atv53"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
