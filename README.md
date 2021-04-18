@@ -8577,12 +8577,12 @@
 	<img src="parte7/89_04_00.png"/>
 	<figcaption>Depois, basta unir os pontos, sempre no mesmo sentido, pulando de 4 em 4.</figcaption>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item b</summary>
-	<p>Construímos o lado do tridecágono regular, e os vértices na circunferência de raio 4,5cm.</p>
-	<img src="parte7/89_05_00.png"/>
-	<figcaption>Depois, basta unir os pontos, sempre no mesmo sentido, pulando de 5 em 5.</figcaption>
-  </details>
-  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.4: item c</span></div>
+  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.4: item b</span>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Construímos o decágono regular na circunferência de raio 4,5cm.</p>
+	<img src="parte7/89_06_00.png"/>
+	<figcaption>Depois, basta "pular" de 3 em 3 vértices, iniciando de qualquer vértice do decágono regular.</figcaption>
+  </details></div>
   <img src="parte7/apos_dg_0089b.png"/>
   <div class="combo" id="atv54"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 1</summary>
 	<p>Construímos o heptágono regular inscrito na circunferência de raio 2cm.</p>
