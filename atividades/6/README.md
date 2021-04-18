@@ -33,7 +33,7 @@
 	<figcaption>Como o <b>&angsph;C = 90&deg;</b>, construímos o arco capaz de 90&deg; em <b>AB</b>.</figcaption>
   </details></div></details>
   <details open><summary>Atividade 6.4: exercício 1 da pág. 101</summary>
-  <img src="../../parte9/apos_dg_0102.png" />
+  <img src="../../parte9/apos_dg_0101b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
