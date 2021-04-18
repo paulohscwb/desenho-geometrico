@@ -2767,13 +2767,13 @@
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0029.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Como o ponto <b>X</b> é equidistante de <b>P</b> e <b>Q</b>, pertence à <b>med<sub>PQ</sub></b>.</p>
-	<img src="parte3/29_01_00.png"/>
-	<figcaption>A construção envolve o arco capaz de <b>30&deg;</b> em <b>AB</b>.</figcaption>
-  </details></div>
-  <img src="parte3/apos_dg_0029a.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
+  <img src="parte3/apos_dg_0029a.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Como o ponto <b>P</b> tem distância <b>d</b> até o ponto <b>A</b>, temos que <b>P &isin; Circunf(A,d)</b>.</p>
+	<img src="parte3/29_02_00.png"/>
+	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
+  </details></div>
   <p class="topop" id="atv22"><a href="#parte3" class="topo">voltar ao topo</a></p>
 </details>
 
