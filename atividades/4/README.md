@@ -11,16 +11,14 @@
 
 <h2 id="inicio">Respostas do Módulo 4</h2>
 <h3>Tangência e Concordância</h3> 
-  <details open><summary>Atividade 4.1: exercício 11.2 da pág. 69</summary>
+  <details open><summary>Atividade 4.1: exercícios 11.2 e 11.3 da pág. 69</summary>
   <img src="../../parte6/apos_dg_0069b.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do 11.2</summary>
 	<p>Começamos pelo segmento de 4,5cm. Temos a aplicação do Exercício 5.1 na reta tangente às duas circunferências.</p>
 	<img src="69_03_00.png"/>
 	<figcaption>Temos também a construção do triângulo isósceles na finalização do desenho. Esta construção pode ser feita com retas paralelas ao segmento de 2,8cm.</figcaption>
-  </details></div></details>
-  <details open><summary>Atividade 4.1: exercício 11.3 da pág. 69</summary>
-  <img src="../../parte6/apos_dg_0069b.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do 11.3</summary>
 	<p>Começamos com as circunferências de centro <b>A</b>, <b>B</b> e <b>C</b>. Temos a aplicação do Exercício 4 na reta tangente à circunferência de centro <b>C</b> que passa por <b>A</b>.</p>
 	<img src="69_04_00.png"/>
 	<figcaption>Temos a aplicação do Exercício 5 na reta tangente às circunferências de centros <b>A</b> e <b>B</b> com raios iguais a 2cm.</figcaption>
