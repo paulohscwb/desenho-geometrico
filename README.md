@@ -7978,38 +7978,38 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="1032a" name="sl">
-			   <label for="1032a"></label>
+			   <input type="radio" id="1032" name="sl">
+			   <label for="1032"></label>
 			   <img src="parte7/82_01_01.png"/>
 			   <figcaption>Vamos encontrar o centro da circunferência circunscrita. Como o ângulo central mede 45&deg;, vamos construir o arco capaz de 45&deg; em <b>AB = 3cm</b>. Construa a mediatriz de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1033a" name="sl">
-			   <label for="1033a"></label>
+			   <input type="radio" id="1033" name="sl">
+			   <label for="1033"></label>
 			   <img src="parte7/82_01_02.png"/>
 			   <figcaption>Construa o arco capaz de 90&deg;. Com centro em <b>N</b>, construa o arco capaz de 45&deg;.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1034a" name="sl">
-			   <label for="1034a"></label>
+			   <input type="radio" id="1034" name="sl">
+			   <label for="1034"></label>
 			   <img src="parte7/82_01_03.png"/>
 			   <figcaption>O centro da circunferência circunscrita está no encontro do arco capaz de 45&deg; com a mediatriz de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1035a" name="sl">
-			   <label for="1035a"></label>
+			   <input type="radio" id="1035" name="sl">
+			   <label for="1035"></label>
 			   <img src="parte7/82_01_04.png"/>
 			   <figcaption>Agora, basta construir os arcos com centros em <b>A</b> e <b>B</b>, com raios de medidas iguais a <b>l<sub>8</sub> = AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1036a" name="sl">
-			   <label for="1036a"></label>
+			   <input type="radio" id="1036" name="sl">
+			   <label for="1036"></label>
 			   <img src="parte7/82_01_05.png"/>
 			   <figcaption>Com centros em <b>C</b> e <b>H</b>, construa os arcos com raios de medidas iguais a <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1037a" name="sl">
-			   <label for="1037a"></label>
+			   <input type="radio" id="1037" name="sl">
+			   <label for="1037"></label>
 			   <img src="parte7/82_01_06.png"/>
 			   <figcaption>Para finalizar, construa os arcos com centros em <b>D</b> e <b>G</b>, com raios de medidas iguais a <b>AB</b>.</figcaption>
 		   </li>
@@ -8023,50 +8023,50 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Vamos usar homotetia.</p>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="1020" name="sl">
-			   <label for="1020"></label>
+			   <input type="radio" id="1020a" name="sl">
+			   <label for="1020a"></label>
 			   <img src="parte7/82_03_01.png"/>
 			   <figcaption>Começamos com a construção de uma circunferência de raio qualquer. Vamos construir um pentágono regular inscrito nesta circunferência. Construa dois diâmetros perpendiculares.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1021" name="sl">
-			   <label for="1021"></label>
+			   <input type="radio" id="1021a" name="sl">
+			   <label for="1021a"></label>
 			   <img src="parte7/82_03_02.png"/>
 			   <figcaption>Construa a mediatriz do raio <b>O'B</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1022" name="sl">
-			   <label for="1022"></label>
+			   <input type="radio" id="1022a" name="sl">
+			   <label for="1022a"></label>
 			   <img src="parte7/82_03_03.png"/>
 			   <figcaption>Com centro em <b>M</b> e rao <b>MC</b>, construa o arco que intercecta <b>A'O'</b> em <b>D</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1023" name="sl">
-			   <label for="1023"></label>
+			   <input type="radio" id="1023a" name="sl">
+			   <label for="1023a"></label>
 			   <img src="parte7/82_03_04.png"/>
 			   <figcaption>Considerando o primeiro vértice <b>A<sub>1</sub></b>, construa os arcos com raio <b>l<sub>5</sub></b> para encontrar os vértices <b>A'<sub>2</sub></b> e <b>A'<sub>5</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1024" name="sl">
-			   <label for="1024"></label>
+			   <input type="radio" id="1024a" name="sl">
+			   <label for="1024a"></label>
 			   <img src="parte7/82_03_05.png"/>
 			   <figcaption>Agora podemos construir o lado <b>l<sub>5</sub> = 4,5cm</b> a partir de <b>A<sub>1</sub></b>. Logo, encontramos os vértices <b>A<sub>2</sub></b> e <b>A<sub>5</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1025" name="sl">
-			   <label for="1025"></label>
+			   <input type="radio" id="1025a" name="sl">
+			   <label for="1025a"></label>
 			   <img src="parte7/82_03_06.png"/>
 			   <figcaption>Para encontrar o centro da nova circunferência circunscrita, vamos construir a reta <b>OA<sub>2</sub> // O'A'<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1027" name="sl">
-			   <label for="1027"></label>
+			   <input type="radio" id="1027a" name="sl">
+			   <label for="1027a"></label>
 			   <img src="parte7/82_03_07.png"/>
 			   <figcaption>Construa a nova circunferência circunscrita.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1026" name="sl">
-			   <label for="1026"></label>
+			   <input type="radio" id="1026a" name="sl">
+			   <label for="1026a"></label>
 			   <img src="parte7/82_03_08.png"/>
 			   <figcaption>Construa o pentágono com lado <b>l<sub>5</sub> = 4,5cm</b>.</figcaption>
 		   </li>
@@ -8372,13 +8372,13 @@
 	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 5cm</b>), podemos construir o eneágono inscrito nesta circunferência.</p>
 	<img src="parte7/86_03_00.png"/>
 	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o eneágono de lado com medida de 2,5cm usando Homotetia.</figcaption>
-  </details>
-  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2: item c</span></div>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  </details></div>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item d</summary>
 	<p>Começamos com uma circunferência de raio qualquer, por exemplo r = 3,5cm, e construímos o tridecágono inscrito nesta circunferência.</p>
 	<img src="parte7/86_05_00.png"/>
 	<figcaption>Depois, basta usar homotetia para ampliar ou reduzir o raio da nova circunferência circunscrita, que terá o tridecágono com lado de 2,5cm.</figcaption>
   </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2: item c</span></div>
   <img src="parte7/apos_dg_0086c.png"/>
   <div class="combo" id="atv52"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. O método usado nesta construção é da Homotetia.</p>
