@@ -9056,6 +9056,9 @@
 		</ul>
 		<img src="parte9/96_01_00.png" class="fundo"/>
   </details></div>
+  <div class="embed-container">
+	<iframe width="95%" src="https://www.youtube.com/embed/otWgMvBGqFU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0097.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
