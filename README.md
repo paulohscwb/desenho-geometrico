@@ -9610,11 +9610,7 @@
 		<img src="parte9/102_06_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0102f.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>O raio <b>R</b> de um círculo equivalente à área da coroa circular é encontrado usando o teorema de Pitágoras: <b>R</b> é um cateto do triângulo retângulo com hipotenusa <b>r<sub>1</sub></b> e o outro cateto com medida <b>r<sub>2</sub></b>.</p>
-	<img src="parte9/102_07_00.png"/>
-	<figcaption>A média geométrica entre <b>&pi;R</b> e <b>R</b> será o lado do quadrado equivalente à área da coroa circular. Neste exercício, eu optei por usar o método de Arquimedes para retificar a circunferência de raio <b>R</b>.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.5</span></div>
   <img src="parte9/apos_dg_0102g.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O lado do triângulo equilátero será a média geométrica entre $\mathsf{ \frac{4}{3}l }$ e $\mathsf{ l \sqrt{3} }$. Encontramos $\mathsf{ \frac{4}{3}l }$ usando o teorema de Tales.</p>
@@ -9622,7 +9618,11 @@
 	<figcaption>O segmento $\mathsf{ l \sqrt{3} }$ é construído usando o teorema de Pitágoras. </figcaption>
   </details></div>
   <img src="parte9/apos_dg_0102h.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.5</span></div>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>O lado <b>l<sub>1</sub></b> do retângulo pode ser encontrado com a construção de quarta proporcional dos segmentos <b>&pi;r</b>, <b>l<sub>2</sub> = 7cm</b> e <b>r</b>.</p>
+	<img src="parte9/102_09_00.png"/>
+	<figcaption>O segmento <b>&pi;r</b> pode ser encontrado com qualquer método de retificação de circunferências. Eu optei pelo método de Kochanski. Construa o retângulo de lados <b>l<sub>1</sub></b> e <b>l<sub>2</sub></b>.</figcaption>
+  </details></div>
   <img src="parte9/apos_dg_0102i.png"/>
   <div class="combo" id="atv65"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O raio <b>R</b> do círculo equivalente ao setor circular de amplitude <b>&alpha;</b> e raio <b>r</b> será a média geométrica entre <b>&alpha;r</b> e $\mathsf{ x = \frac{r}{2\pi} }$. Encontramos o segmento <b>2&pi;</b> usando o o processo de Arquimedes.</p>
