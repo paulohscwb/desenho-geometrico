@@ -3571,13 +3571,13 @@
 	<figcaption></figcaption>
   </details></div>
   <img src="parte4/apos_dg_0035a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
-  <img src="parte4/apos_dg_0035b.png"/>
-  <div class="combo" id="atv24"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Neste exercício proposto, utilizamos a Circunferência de Apolônio com a razão $\mathsf{ 1 \over 3 }$.</p>
-	<img src="parte4/35_03_00.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<p>Neste exercício proposto, utilizamos a Circunferência de Apolônio com a razão $\mathsf{ 7 \over 4 }$.</p>
+	<img src="parte4/35_02_00.png"/>
 	<figcaption></figcaption>
   </details></div>
+  <img src="parte4/apos_dg_0035b.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0036.png"/>
   <p align="center">Podemos escrever a relação de quarta proporcional de outras maneiras:
