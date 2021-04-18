@@ -18,7 +18,7 @@
 	<img src="69_03_00.png"/>
 	<figcaption>Temos também a construção do triângulo isósceles na finalização do desenho. Esta construção pode ser feita com retas paralelas ao segmento de 2,8cm.</figcaption>
   </details></div></details>
-    <details open><summary>Atividade 4.1: exercício 11.3 da pág. 69</summary>
+  <details open><summary>Atividade 4.1: exercício 11.3 da pág. 69</summary>
   <img src="../../parte6/apos_dg_0069b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Começamos com as circunferências de centro <b>A</b>, <b>B</b> e <b>C</b>. Temos a aplicação do Exercício 4 na reta tangente à circunferência de centro <b>C</b> que passa por <b>A</b>.</p>
