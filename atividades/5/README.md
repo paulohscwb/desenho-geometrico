@@ -11,7 +11,7 @@
 
 <h2 id="inicio">Respostas do Módulo 5</h2>
 <h3>Polígonos Regulares</h3> 
-  <details open><summary>Atividade 5.1: exercício 2 da pág. 82</summary>
+  <details open><summary>Atividade 5.1: exercício 1, item c, da pág. 82</summary>
   <img src="../../parte7/apos_dg_0082a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Vamos usar o método de homotetia.</p>

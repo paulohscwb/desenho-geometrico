@@ -42,14 +42,14 @@
 	<img src="72_04_00.png"/>
 	<figcaption>Temos a aplicação do exercício 19 para encontrar os centros <b>E</b> e <b>F</b>.</figcaption>
   </details></div></details>
-  <details open><summary>Atividade 4.3: exercício 20.5 da pág. 73</summary>
+  <details open><summary>Atividade 4.3: exercício 20.6 da pág. 73</summary>
   <img src="../../parte6/apos_dg_0073a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Começamos pelo segmento <b>AB</b>. Temos a aplicação do Exercício 1 nas circunferências tangentes aos segmentos com extremidades <b>A</b> e <b>B</b>.</p>
 	<img src="73_03_00.png"/>
 	<figcaption>Temos a aplicação do exercício 19 para encontrar os centros <b>E</b> e <b>F</b>.</figcaption>
   </details></div></details>
-  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 4.3: exercício 20.6 da pág. 72</summary>
+  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 4.3: exercício 20.7 da pág. 72</summary>
   <img src="../../parte6/apos_dg_0073b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Começamos pelo segmento <b>AB</b>. Temos a aplicação do Exercício 1 nas circunferências tangentes de raios 1.2cm e 2.3cm.</p>
