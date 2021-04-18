@@ -7978,38 +7978,38 @@
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="1032" name="sl">
-			   <label for="1032"></label>
+			   <input type="radio" id="1032a" name="sl">
+			   <label for="1032a"></label>
 			   <img src="parte7/82_01_01.png"/>
 			   <figcaption>Vamos encontrar o centro da circunferência circunscrita. Como o ângulo central mede 45&deg;, vamos construir o arco capaz de 45&deg; em <b>AB = 3cm</b>. Construa a mediatriz de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1033" name="sl">
-			   <label for="1033"></label>
+			   <input type="radio" id="1033a" name="sl">
+			   <label for="1033a"></label>
 			   <img src="parte7/82_01_02.png"/>
 			   <figcaption>Construa o arco capaz de 90&deg;. Com centro em <b>N</b>, construa o arco capaz de 45&deg;.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1034" name="sl">
-			   <label for="1034"></label>
+			   <input type="radio" id="1034a" name="sl">
+			   <label for="1034a"></label>
 			   <img src="parte7/82_01_03.png"/>
 			   <figcaption>O centro da circunferência circunscrita está no encontro do arco capaz de 45&deg; com a mediatriz de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1035" name="sl">
-			   <label for="1035"></label>
+			   <input type="radio" id="1035a" name="sl">
+			   <label for="1035a"></label>
 			   <img src="parte7/82_01_04.png"/>
 			   <figcaption>Agora, basta construir os arcos com centros em <b>A</b> e <b>B</b>, com raios de medidas iguais a <b>l<sub>8</sub> = AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1036" name="sl">
-			   <label for="1036"></label>
+			   <input type="radio" id="1036a" name="sl">
+			   <label for="1036a"></label>
 			   <img src="parte7/82_01_05.png"/>
 			   <figcaption>Com centros em <b>C</b> e <b>H</b>, construa os arcos com raios de medidas iguais a <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="1037" name="sl">
-			   <label for="1037"></label>
+			   <input type="radio" id="1037a" name="sl">
+			   <label for="1037a"></label>
 			   <img src="parte7/82_01_06.png"/>
 			   <figcaption>Para finalizar, construa os arcos com centros em <b>D</b> e <b>G</b>, com raios de medidas iguais a <b>AB</b>.</figcaption>
 		   </li>
