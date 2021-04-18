@@ -3,7 +3,7 @@
 <h2 id="inicio">Respostas do Módulo 1</h2>
 <h3>Circunferência, Mediatriz, Retas Paralelas e Bissetriz</h3> 
   <details open><summary>Atividade 1.1: exercício 4 da pág. 5</summary>
-  <img src="../../parte1/apos_dg_0005b.png" />
+  <img src="../../parte1/apos_dg_0005a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Use o conceito do lugar geométrico circunferência para resolver este exercício.</p>
 	<img src="05_02_00.png"/>
