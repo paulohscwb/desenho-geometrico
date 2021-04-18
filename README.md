@@ -9392,57 +9392,57 @@
 		<img src="parte9/101_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0101b.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.4</span></div>
+  <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
+  <img src="parte9/apos_dg_0102.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="1199" name="sl">
 			   <label for="1199"></label>
-			   <img src="parte9/101_03_01.png"/>
-			   <figcaption>Escolhemos um vértice para ficar fixo (por exemplo, <b>F</b>) e um lado como reta suporte fixa (neste caso, escolhi a reta <b>BC</b>). Construa as diagonais do polígono a partir do vértice <b>F</b>.</figcaption>
+			   <img src="parte9/102_01_01.png"/>
+			   <figcaption>Escolhemos um vértice para ficar fixo (por exemplo, <b>A</b>) e um lado como reta suporte fixa (neste caso, escolhi a reta <b>DE</b>). Construa as diagonais do polígono a partir do vértice <b>A</b>.</figcaption>
 		   </li>
 		  <li>
 			   <input type="radio" id="1200" name="sl">
 			   <label for="1200"></label>
-			   <img src="parte9/101_03_02.png"/>
-			   <figcaption>Vamos começar com a área <b>1</b>, que deve ser descartada: vamos construir um triângulo equivalente, tal que o vértice <b>A</b> fique na reta suporte <b>BC</b>.</figcaption>
+			   <img src="parte9/102_01_02.png"/>
+			   <figcaption>Vamos começar com a área <b>1</b>: vamos construir um triângulo equivalente, tal que o vértice <b>F</b> fique na reta suporte <b>DE</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1201" name="sl">
 			   <label for="1201"></label>
-			   <img src="parte9/101_03_03.png"/>
-			   <figcaption>Construa a reta paralela a <b>BF</b> que passa pelo vértice <b>A</b>, encontrando <b>A' &isin; BC</b>. Descartamos os vértices <b>B</b> e <b>A</b>.</figcaption>
+			   <img src="parte9/102_01_03.png"/>
+			   <figcaption>Construa a reta paralela a <b>AE</b> que passa pelo vértice <b>F</b>, encontrando <b>F' &isin; DE</b>. Descartamos os vértices <b>E</b> e <b>F</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1202" name="sl">
 			   <label for="1202"></label>
-			   <img src="parte9/101_03_04.png"/>
+			   <img src="parte9/102_01_04.png"/>
 			   <figcaption>A área <b>3</b> fica sem alterações.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1203" name="sl">
 			   <label for="1203"></label>
-			   <img src="parte9/101_03_05.png"/>
-			   <figcaption>As áreas <b>4</b> e <b>5</b> serão agrupadas.</figcaption>
+			   <img src="parte9/102_01_05.png"/>
+			   <figcaption>As áreas <b>4</b> e <b>5</b> serão combinadas. Note que a área <b>5</b> precisa ser descartada.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1204" name="sl">
 			   <label for="1204"></label>
-			   <img src="parte9/101_03_06.png"/>
-			   <figcaption>Podemos construir o prolongamento de <b>CD</b> e a reta paralela a <b>DF</b> que passa por <b>E</b>. Descartamos os vértices <b>E</b> e <b>D</b>.</figcaption>
+			   <img src="parte9/102_01_06.png"/>
+			   <figcaption>Construa a reta paralela a <b>AC</b> que passa por <b>B</b>. Descartamos os vértices <b>B</b> e <b>C</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="1205" name="sl">
 			   <label for="1205"></label>
-			   <img src="parte9/101_03_07.png"/>
-			   <figcaption>Finalmente, construa a reta paralela a <b>CF</b> que passa por <b>E'</b>, para "transportar" a área <b>4+6</b>. O vértice <b>E'' &isin; BC</b> é considerado e os vértices <b>C</b> e <b>E'</b> são descartados. A solução final fica como o <b>&#9651;FE''A'</b>.</figcaption>
+			   <img src="parte9/102_01_07.png"/>
+			   <figcaption>Finalmente, construa a reta paralela a <b>AD</b> que passa por <b>B'</b>, para "transportar" a área <b>4-6</b>. O vértice <b>B'' &isin; DE</b> é considerado e os vértices <b>B'</b> e <b>D</b> são descartados. A solução final fica como o <b>&#9651;AB''F'</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="parte9/101_03_00.png" class="fundo"/>
+		<img src="parte9/102_01_00.png" class="fundo"/>
   </details></div>
-  <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
-  <img src="parte9/apos_dg_0102.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.4</span></div>
   <img src="parte9/apos_dg_0102a.png"/>
   <div class="combo" id="atv64"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
