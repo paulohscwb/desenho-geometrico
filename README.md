@@ -448,14 +448,14 @@
 	<figcaption>Como as laterais do triângulo isósceles medem <b>d</b>, usamos uma circunferência para encontrar os vértices <b>B</b> e <b>C</b>.</figcaption>
   </details></div>
   <img src="parte1/apos_dg_0005a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
+  <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
   <img src="parte1/apos_dg_0005b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Usando o conceito do lugar geométrico circunferência, você consegue resolver este exercício.</p>
 	<img src="parte1/05_03_00.png"/>
 	<figcaption>Como a circunferência passa por <b>P</b>, construímos a circunferência de centro em <b>P</b> e raio <b>r</b> para encontrar o centro da solução.</figcaption>
   </details></div>
-  <p class="topop" id="atv11"><a href="#parte1" class="topo">voltar ao topo</a></p>
+  <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <img src="parte1/apos_dg_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos o conceito de lugar geométrico para fazer esta construção. A régua e o compasso serão usados como instrumentos auxiliares.</p>
@@ -890,14 +890,14 @@
 		<img src="parte1/11_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte1/apos_dg_0011a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
+  <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
   <img src="parte1/apos_dg_0011b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Problema similar ao anterior. Você pode construir a reta <b>t</b> perpendicular ao segmento <b>OT</b> usando régua e compasso, ou o par de esquadros.</p>
 	<img src="parte1/11_03_00.png"/>
 	<figcaption></figcaption>
   </details></div>
-  <p class="topop" id="atv12"><a href="#parte1" class="topo">voltar ao topo</a></p>
+  <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
@@ -1398,9 +1398,9 @@
 	<img src="parte2/14_03_00.png"/>
 	<figcaption>Para construir a reta paralela <b>s</b>, lembre-se de construir o segmento <b>BC &perp; r</b> para marcar o segmento <b>n</b>.</figcaption>
   </details></div>
-  <p class="topop" id="atv13"><a href="#parte2" class="topo">voltar ao topo</a></p>
+  <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <img src="parte2/apos_dg_0015.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>  
+  <div class="combo" id="atv13">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>  
   <img src="parte2/apos_dg_0015a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso para construir as retas perpendiculares e paralelas ou o par de esquadros com o compasso. Vamos ver como fica a construção com os esquadros e o compasso.</p>
@@ -1833,9 +1833,9 @@
 	<figcaption>Este exercício admite 4 soluções.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0018a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
+  <div class="combo" id="atv14">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
   <img src="parte2/apos_dg_0018b.png"/>
-  <div class="combo" id="atv14"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Você pode usar a régua e o compasso ou os esquadros e o compasso para resolver este exercício.</p>
 	  <ul class="slider">
 		  <li>
@@ -2184,7 +2184,7 @@
 		<img src="parte2/20_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte2/apos_dg_0020a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.5</span></div>
+  <div class="combo" id="atv15">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.5</span></div>
   <img src="parte2/apos_dg_0020b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
@@ -2192,7 +2192,7 @@
 	<figcaption>Lembre-se da construção que fizemos para transportar ângulos.</figcaption>
   </details></div>
   <img src="parte2/apos_dg_0020c.png"/>
-  <div class="combo" id="atv15"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício, você pode usar a régua e o compasso como instrumentos auxiliares.</p>
 	<img src="parte2/20_04_00.png"/>
 	<figcaption>Lembre-se da construção que fizemos para transportar ângulos.</figcaption>
@@ -2758,23 +2758,23 @@
 	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b> em <b>AB</b>.</figcaption>
   </details></div>
   <img src="parte3/apos_dg_0028a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
+  <div class="combo" id="atv21">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
   <img src="parte3/apos_dg_0028b.png"/>
-  <div class="combo" id="atv21"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O vértice <b>C</b>, oposto de <b>AB</b>, enxerga o segmento segundo ângulo de <b>60&deg;</b>.</p>
 	<img src="parte3/28_03_00.png"/>
 	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b> em <b>BC</b>.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0029.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
+  <div class="combo" id="atv22">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
   <img src="parte3/apos_dg_0029a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Como o ponto <b>P</b> tem distância <b>d</b> até o ponto <b>A</b>, temos que <b>P &isin; Circunf(A,d)</b>.</p>
 	<img src="parte3/29_02_00.png"/>
 	<figcaption>A construção envolve o arco capaz de <b>60&deg;</b>.</figcaption>
   </details></div>
-  <p class="topop" id="atv22"><a href="#parte3" class="topo">voltar ao topo</a></p>
+  <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
@@ -3142,8 +3142,8 @@
 		<img src="parte4/31_03_00.png" class="fundo"/>
   </details></div>
   <img src="parte4/apos_dg_0031c.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
-  <p class="topop" id="atv23"><a href="#parte4" class="topo">voltar ao topo</a></p>
+  <div class="combo" id="atv23">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
+  <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0032.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício proposto, podemos aplicar do Teorema de Tales para encontrar o segmento <b>x</b>.</p>
@@ -3577,7 +3577,7 @@
 	<figcaption></figcaption>
   </details></div>
   <img src="parte4/apos_dg_0035b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
+  <div class="combo" id="atv24">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0036.png"/>
   <p align="center">Podemos escrever a relação de quarta proporcional de outras maneiras:
@@ -4014,9 +4014,9 @@
 	<figcaption>A construção pode ser feita marcando os segmentos como projeções dos catetos sobre a hipotenusa, conforme mostrado, ou então o segmento <b>c</b> "por dentro" do segmento <b>a + b</b>.</figcaption>
   </details></div>
   <img src="parte4/apos_dg_0041b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.5</span></div>
+  <div class="combo" id="atv25">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.5</span></div>
   <img src="parte4/apos_dg_0041c.png"/>
-  <div class="combo" id="atv25"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício proposto, temos a aplicação do conceito de média geométrica além do Teorema de Tales.</p>
 	<img src="parte4/41_04_00.png"/>
 	<figcaption>Este exercício é similar ao exercício mostrado na página anterior.</figcaption>
@@ -6283,7 +6283,7 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0064.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
+  <div class="combo" id="atv3">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -6654,9 +6654,9 @@
   <img src="parte6/apos_dg_0069b.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0070.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
+  <div class="combo" id="atv41">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
   <img src="parte6/apos_dg_0070a.png"/>
-  <div class="combo" id ="atv41"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
@@ -6929,7 +6929,7 @@
 	<figcaption>Temos a aplicação do exercício 19 para encontrar os centros das circunferências tangentes às circunferências de centros <b>A</b> e <b>B</b>.</figcaption>
   </details></div>
   <img src="parte6/apos_dg_0072b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
+  <div class="combo" id="atv42">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0073.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -6938,7 +6938,7 @@
 	<figcaption>Temos a aplicação do exercício 19 para encontrar os centros <b>S</b> e <b>S'</b>.</figcaption>
   </details></div>
   <img src="parte6/apos_dg_0073a.png"/>
-  <div class="combo" id="atv42"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.5: 1&ordf; parte</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução 20.5: 1&ordf; parte</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		   <li>
@@ -7066,8 +7066,8 @@
   </details>
   </div>
   <img src="parte6/apos_dg_0073b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
-  <p class="topop" id="atv43"><a href="#parte6" class="topo">voltar ao topo</a></p>
+  <div class="combo" id="atv43">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
+  <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <img src="parte6/apos_dg_0074.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício usamos as bissetrizes dos ângulos formados entre as retas.</p>
@@ -8017,7 +8017,7 @@
 		<img src="parte7/82_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte7/apos_dg_0082a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span></div>
+  <div class="combo" id="atv51">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.1</span></div>
   <img src="parte7/apos_dg_0082b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Vamos usar homotetia.</p>
@@ -8073,7 +8073,7 @@
 		</ul>
 		<img src="parte7/82_03_00.png" class="fundo"/>
   </details></div>
-  <p class="topop" id="atv51"><a href="#parte7" class="topo">voltar ao topo</a></p>
+  <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0083.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
 	<p>Vamos ver como é o cálculo da medida do lado de um polígono de <b>n</b> lados inscrito em uma circunferência de raio <b>r</b>.</p>
@@ -8368,7 +8368,7 @@
 		<img src="parte7/86_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte7/apos_dg_0086b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item b</summary>
+  <div class="combo" id="atv52"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item b</summary>
 	<p>Começando com a circunferência de raio qualquer (por exemplo, <b>r = 5cm</b>), podemos construir o eneágono inscrito nesta circunferência.</p>
 	<img src="parte7/86_03_00.png"/>
 	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o eneágono de lado com medida de 2,5cm usando Homotetia.</figcaption>
@@ -8380,7 +8380,7 @@
 	<figcaption>Depois, basta usar homotetia para ampliar ou reduzir o raio da nova circunferência circunscrita, que terá o tridecágono com lado de 2,5cm.</figcaption>
   </details></div>
   <img src="parte7/apos_dg_0086c.png"/>
-  <div class="combo" id="atv52"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. O método usado nesta construção é da Homotetia.</p>
 	  <ul class="slider">
 		  <li>
@@ -8435,7 +8435,7 @@
 	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o eneágono com diagonal menor com medida de 4,5cm usando Homotetia.</figcaption>
   </details></div>
   <img src="parte7/apos_dg_0086e.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.3</span></div>
+  <div class="combo" id="atv53">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.3</span></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
   <img src="parte7/apos_dg_0087.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -8444,7 +8444,7 @@
 	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o undecágono com apótema com medida de 4cm usando Homotetia.</figcaption>
   </details></div>
   <img src="parte7/apos_dg_0087a.png"/>
-  <div class="combo" id="atv53"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
@@ -8572,7 +8572,7 @@
 	<figcaption>Podemos "pular" de 2 em 2 vértices, 4 em 4, 6 em 6 ou 7 em 7. Neste exemplo, usamos <b>p = 7</b>.</figcaption>
   </details></div>
   <img src="parte7/apos_dg_0089a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item a</summary>
+  <div class="combo" id="atv54"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do item a</summary>
 	<p>Construímos o lado do pentadecágono regular, e os vértices na circunferência de raio 4,5cm.</p>
 	<img src="parte7/89_04_00.png"/>
 	<figcaption>Depois, basta unir os pontos, sempre no mesmo sentido, pulando de 4 em 4.</figcaption>
@@ -8584,7 +8584,7 @@
 	<figcaption>Depois, basta "pular" de 3 em 3 vértices, iniciando de qualquer vértice do decágono regular.</figcaption>
   </details></div>
   <img src="parte7/apos_dg_0089b.png"/>
-  <div class="combo" id="atv54"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 1</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 1</summary>
 	<p>Construímos o heptágono regular inscrito na circunferência de raio 2cm.</p>
 	<img src="parte7/89_07_00.png"/>
 	<figcaption>Depois, basta prolongar os lados do heptágono para definir a estrelação com <b>p = 2</b>.</figcaption>
@@ -8600,9 +8600,8 @@
 	<figcaption>Depois, basta prolongar os lados do octógono para definir a estrelação com <b>p = 2</b>.</figcaption>
   </details></div>
   <img src="parte7/apos_dg_0089c.png"/>
-  <div class="combo">
-  &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.5: exercício 4</span>
-  <details class="sub" id="atv55"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 5</summary>
+  <div class="combo" id="atv55"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.5: exercício 4</span>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução do exercício 5</summary>
 	<p>Construímos o eneágono regular inscrito na circunferência de raio 3cm.</p>
 	<img src="parte7/89_11_00.png"/>
 	<figcaption>Depois, basta prolongar os lados do eneágono para definir a estrelação com <b>p = 2</b>.</figcaption>
@@ -9003,12 +9002,12 @@
 	<figcaption>Porém, como o ângulo tem medida maior do que 90&deg;, retificamos apenas a metade. Depois, podemos marcar a outra metade abaixo e o segmento <b>FF'</b> tem a medida do arco de 120&deg; retificado. Neste segmento que podemos fazer a divisão em partes proporcionais aos número 2, 3 e 1.</figcaption>
   </details></div>
   <img src="parte8/apos_dg_0094d.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span></div>
-  <p class="topop" id="atv61"><a href="#parte8" class="topo">voltar ao topo</a></p>
+  <div class="combo" id="atv61"><>&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span></div>
+  <p class="topop">a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0095.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span></div>
+  <div class="combo" id="atv62">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span></div>
   <img src="parte8/apos_dg_0095a.png"/>
-  <div class="combo" id="atv62"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Vamos usar uma escala de 1:10 neste exercício: cada 1cm do desenho equivale a 10cm em escala real. Esta construção tem 3 fases: a primeira serve para encontrar as retas tangentes <b>TT''</b> e <b>T'T'''</b> usando o processo de Homotetia (ou de dilatação e contração de circunferências). Desta forma, temos os comprimentos dos segmentos com medidas de 58,1cm.</p>
 	<img src="parte8/95_02_00.png"/>
 	<figcaption>Na segunda fase, retificamos o arco de amplitude <b>&beta;</b>, que deve ser feito por meio de sua bissetriz pois tem medida maior do que 90&deg;. Assim, encontramos o segmento <b>FE</b>. Na terceira fase, refificamos o arco de amplitude <b>&alpha;</b>, encontrando o segmento <b>F'E'</b>. O comprimento total mede 266,6cm.</figcaption>
@@ -9255,8 +9254,8 @@
 		<img src="parte9/99_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0099b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.3</span></div>
-  <p class="topop" id="atv63"><a href="#parte9" class="topo">voltar ao topo</a></p>
+  <div class="combo" id="atv63">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.3</span></div>
+  <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0100.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
@@ -9392,7 +9391,7 @@
 		<img src="parte9/101_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0101b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.4</span></div>
+  <div class="combo" id="atv64">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.4</span></div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0102.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -9444,7 +9443,7 @@
 		<img src="parte9/102_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0102a.png"/>
-  <div class="combo" id="atv64"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
@@ -9610,7 +9609,7 @@
 		<img src="parte9/102_06_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0102f.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.5</span></div>
+  <div class="combo" id="atv65">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.5</span></div>
   <img src="parte9/apos_dg_0102g.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O lado do triângulo equilátero será a média geométrica entre $\mathsf{ \frac{4}{3}l }$ e $\mathsf{ l \sqrt{3} }$. Encontramos $\mathsf{ \frac{4}{3}l }$ usando o teorema de Tales.</p>
@@ -9624,7 +9623,7 @@
 	<figcaption>O segmento <b>&pi;r</b> pode ser encontrado com qualquer método de retificação de circunferências. Eu optei pelo método de Kochanski. Construa o retângulo de lados <b>l<sub>1</sub></b> e <b>l<sub>2</sub></b>.</figcaption>
   </details></div>
   <img src="parte9/apos_dg_0102i.png"/>
-  <div class="combo" id="atv65"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O raio <b>R</b> do círculo equivalente ao setor circular de amplitude <b>&alpha;</b> e raio <b>r</b> será a média geométrica entre <b>&alpha;r</b> e $\mathsf{ x = \frac{r}{2\pi} }$. Encontramos o segmento <b>2&pi;</b> usando o o processo de Arquimedes.</p>
 	<img src="parte9/102_10_00.png"/>
 	<figcaption>O segmento <b>x</b> pode ser encontrado usando quarta proporcional entre <b>2&pi;</b>, <b>r</b> e <b>1cm</b>. O segmento <b>&alpha;r</b> é encontrado retificando o setor circular de amplitude <b>&alpha;</b> e raio <b>r</b>. Finalmente, podemos fazer a média geométrica entre <b>x</b> e <b>&alpha;r</b>. </figcaption>
@@ -9742,9 +9741,9 @@
 		<img src="parte9/104_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0104a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.6</span></div>
+  <div class="combo" id="atv66">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.6</span></div>
   <img src="parte9/apos_dg_0104b.png"/>
-  <div class="combo" id="atv66"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
 		  <li>
