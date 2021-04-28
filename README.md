@@ -2230,6 +2230,9 @@
   </details></div>
   <img src="parte3/apos_dg_0021a.png"/>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/tNlyvwnrXTo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte3/apos_dg_0022.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
 	<p>Vamos demonstrar a Propriedade 1. Vamos considerar os 3 casos possíveis: quando um lado do ângulo inscrito define um diâmetro; quando o centro está no interior do ângulo inscrito; e quando o centro está na região externa definida pelo ângulo inscrito.</p>
