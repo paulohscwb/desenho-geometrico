@@ -2945,7 +2945,7 @@
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/XlFzhL8tkfM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</div> 
+	</div>  
   <img src="parte4/apos_dg_0031.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e os esquadros para resolver este exercício.</p>
@@ -3591,6 +3591,9 @@
   <img src="parte4/apos_dg_0035b.png"/>
   <div class="combo" id="atv24">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/3p1U9vpv1fo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte4/apos_dg_0036.png"/>
   <p align="center">Podemos escrever a relação de quarta proporcional de outras maneiras:
   <br>$\mathsf{ {a \cdot x} = {b \cdot c} }$ ou $\mathsf{ {a \over c} = {b \over x} }$.</p>
