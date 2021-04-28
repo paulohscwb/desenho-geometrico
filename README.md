@@ -223,6 +223,9 @@
    <img src="parte1/apos_dg_0001.png"/>
    <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
    <img src="parte1/apos_dg_0002.png"/>
+   <div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/5b2IRMrwO18" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
 	<p>Utilizaremos o compasso para construir a primeira circunferência. Lembre-se sempre de deixá-lo com o grafite apontado para desenhar com maior precisão.</p>
 	  <ul class="slider">
