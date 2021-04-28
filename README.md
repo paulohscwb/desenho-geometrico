@@ -1127,6 +1127,9 @@
 		<img src="parte2/12_04_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/3AncWa1rV_Q" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div> 
   <img src="parte2/apos_dg_0013.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos os esquadros e o compasso para resolver este exercício. Lembrando que para construir uma circunferência tangente a uma reta, o raio deve ser perpendicular à reta no ponto de tangência.</p>
