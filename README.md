@@ -3592,7 +3592,7 @@
   <div class="combo" id="atv24">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0; border-radius:15%;" width="95%" src="https://www.youtube.com/embed/3p1U9vpv1fo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe style="border-bottom: 1px solid #a2dec0; border-radius:1%;" width="95%" src="https://www.youtube.com/embed/3p1U9vpv1fo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div> 
   <img src="parte4/apos_dg_0036.png"/>
   <p align="center">Podemos escrever a relação de quarta proporcional de outras maneiras:
