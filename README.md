@@ -23,8 +23,8 @@
 <p>A apostila está disponível no link: <a href="basico/ApostilaDG_2021.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
 <details open><summary id="basico">Uso dos materiais básicos de Desenho</summary>
-	<div class="embed-container" style="padding-bottom:15px;">
-		<iframe style="border-bottom: 1px solid #a2dec0; box-shadow: 0px 15px 15px -10px #4e4e4e;" width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p>Veja o passo a passo das construções básicas mostradas no vídeo:</p>
 	<img src="basico/Cotadas_2020_0001.png"/>
