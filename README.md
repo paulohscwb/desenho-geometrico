@@ -22,7 +22,7 @@
 <p>Esta página contém os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico.</p>
 <p>A apostila está disponível no link: <a href="basico/ApostilaDG_2021.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
-<details><summary id="basico">Uso dos materiais básicos de Desenho</summary>
+<details open><summary id="basico">Uso dos materiais básicos de Desenho</summary>
 	<div class="embed-container">
 		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
@@ -217,8 +217,7 @@
   <p class="topop"><a href="#basico" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
-  <summary id="parte1">1.1. Circunferência e Mediatriz</summary>
+<details open><summary id="parte1">1.1. Circunferência e Mediatriz</summary>
   <p>Material da página 1 até a página 11.</p>
    <img src="parte1/apos_dg_0001.png"/>
    <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
@@ -903,8 +902,7 @@
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
-  <summary id="parte2">1.2. Retas paralelas e bissetriz</summary>
+<details open><summary id="parte2">1.2. Retas paralelas e bissetriz</summary>
   <p>Material da página 12 até a página 20.</p>
   <img src="parte2/apos_dg_0012.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
