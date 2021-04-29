@@ -9078,7 +9078,7 @@
 		<img src="parte9/96_01_00.png" class="fundo"/>
   </details></div>
   <div class="embed-container">
-	<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/otWgMvBGqFU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe style="border-bottom: 1px solid #a2dec0; box-shadow: 0px 15px 15px -10px #4e4e4e;" width="95%" src="https://www.youtube.com/embed/otWgMvBGqFU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0097.png"/>
