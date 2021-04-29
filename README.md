@@ -3593,7 +3593,7 @@
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
 		<iframe width="95%" src="https://www.youtube.com/embed/3p1U9vpv1fo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</div>
+	</div> 
   <img src="parte4/apos_dg_0036.png"/>
   <p align="center">Podemos escrever a relação de quarta proporcional de outras maneiras:
   <br>$\mathsf{ {a \cdot x} = {b \cdot c} }$ ou $\mathsf{ {a \over c} = {b \over x} }$.</p>
@@ -4170,6 +4170,9 @@
 	<figcaption>No exercício 3, a espiral pitagórica é feita com triângulos retângulos que têm  um dos catetos com medida igual a um segmento inicial <b>p</b>, obtendo-se na sequência: $\mathsf{ p \sqrt {2} }$, $\mathsf{ p \sqrt {3} }$, e a assim sucessivamente.</figcaption>
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/b1UtRhs5_1M" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div> 
   <img src="parte4/apos_dg_0044.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Vamos utilizar a régua, o compasso e os esquadros para fazer esta construção. Vamos encontrar os segmentos $\mathsf{ a \over 2 }$ e $\mathsf{ \frac{a \sqrt {5}}{2} }$.</p>
