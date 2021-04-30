@@ -31,7 +31,7 @@ li > figcaption {
   background: white; /*rgb(227,243,235);*/
   position: relative;
   height:auto;
-  box-shadow: 1px -1px 1px rgb(227,243,235);
+  box-shadow: 0px -3px 3px -5px rgba(21,153,87,0.2);
   margin-bottom: 5px;
 }
 summary {
