@@ -24,7 +24,7 @@
 
 <details open><summary id="basico">Uso dos materiais básicos de Desenho</summary>
 	<div class="embed-container">
-		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<p>Veja o passo a passo das construções básicas mostradas no vídeo:</p>
 	<img src="basico/Cotadas_2020_0001.png"/>
@@ -279,7 +279,7 @@
   </details></div>
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/5b2IRMrwO18" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/5b2IRMrwO18" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
   <img src="parte1/apos_dg_0003.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -1126,7 +1126,7 @@
   </details></div>
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/3AncWa1rV_Q" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/3AncWa1rV_Q" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div> 
   <img src="parte2/apos_dg_0013.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -2229,7 +2229,7 @@
   <img src="parte3/apos_dg_0021a.png"/>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/tNlyvwnrXTo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/tNlyvwnrXTo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div> 
   <img src="parte3/apos_dg_0022.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
@@ -2942,7 +2942,7 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/XlFzhL8tkfM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/XlFzhL8tkfM" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>  
   <img src="parte4/apos_dg_0031.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3590,7 +3590,7 @@
   <div class="combo" id="atv24">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/3p1U9vpv1fo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/3p1U9vpv1fo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div> 
   <img src="parte4/apos_dg_0036.png"/>
   <p align="center">Podemos escrever a relação de quarta proporcional de outras maneiras:
@@ -4169,7 +4169,7 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
-		<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/b1UtRhs5_1M" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/b1UtRhs5_1M" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div> 
   <img src="parte4/apos_dg_0044.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -8702,7 +8702,7 @@
 		<img src="parte8/90_02_00.png" class="fundo"/>
   </details></div>
   <div class="embed-container">
-	<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/-J9kwIdxu7s" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="100%" src="https://www.youtube.com/embed/-J9kwIdxu7s" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0091.png"/>
@@ -9078,7 +9078,7 @@
 		<img src="parte9/96_01_00.png" class="fundo"/>
   </details></div>
   <div class="embed-container">
-	<iframe style="border-bottom: 1px solid #a2dec0;" width="95%" src="https://www.youtube.com/embed/otWgMvBGqFU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="100%" src="https://www.youtube.com/embed/otWgMvBGqFU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0097.png"/>
