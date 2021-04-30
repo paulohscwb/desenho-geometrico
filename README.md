@@ -4588,6 +4588,9 @@
 		<img src="parte5/49_02_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/L0W0xUh9LdU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte5/apos_dg_0050.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares nestes primeiros exercícios.</p>
