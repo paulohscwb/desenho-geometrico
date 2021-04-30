@@ -49,6 +49,7 @@ details {
   padding: 3px;
   border-radius: 4px;
   width:100%;
+  box-shadow: 2px 0px 2px -1px rgba(21,153,87,0.2), -2px 0px 2px -1px rgba(21,153,87,0.2);
 }
 
 .combo {
