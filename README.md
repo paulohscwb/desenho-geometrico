@@ -5715,6 +5715,9 @@
 		</ul>
 		<img src="parte5/59_01_00.png" class="fundo"/>
   </details></div>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/uScOObAN3Vw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte5/apos_dg_0059a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares nestes exercícios.</p>
