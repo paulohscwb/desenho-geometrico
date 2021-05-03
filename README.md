@@ -6314,6 +6314,9 @@
   <p>Material da página 65 até a página 78.</p>
   <img src="parte6/apos_dg_0065.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/pnCPfgL7nT0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte6/apos_dg_0066.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
