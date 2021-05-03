@@ -6780,6 +6780,9 @@
 		<img src="parte6/70_04_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/Jh67XF4jySc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte6/apos_dg_0071.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares neste exercício.</p>
