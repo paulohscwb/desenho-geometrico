@@ -7096,6 +7096,9 @@
   <img src="parte6/apos_dg_0073b.png"/>
   <div class="combo" id="atv43">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/eQq-HNkyXtI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte6/apos_dg_0074.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício usamos as bissetrizes dos ângulos formados entre as retas.</p>
