@@ -8478,6 +8478,9 @@
 	<img src="parte7/87_01_00.png"/>
 	<figcaption>Depois, basta ampliar ou reduzir o raio desta circunferência para construir o undecágono com apótema com medida de 4cm usando Homotetia.</figcaption>
   </details></div>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/haBYC7gA3hc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte7/apos_dg_0087a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício.</p>
