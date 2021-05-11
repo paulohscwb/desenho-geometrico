@@ -8106,6 +8106,9 @@
 		<img src="parte7/82_03_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/ugVtT0Wa0P8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte7/apos_dg_0083.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
 	<p>Vamos ver como é o cálculo da medida do lado de um polígono de <b>n</b> lados inscrito em uma circunferência de raio <b>r</b>.</p>
