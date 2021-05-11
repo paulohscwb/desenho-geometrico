@@ -7096,7 +7096,7 @@
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/eQq-HNkyXtI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</div>
+	</div> 
   <img src="parte6/apos_dg_0074.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício usamos as bissetrizes dos ângulos formados entre as retas.</p>
@@ -7664,6 +7664,9 @@
 		<img src="parte7/79_01_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/6_-nXC4QzMI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="parte7/apos_dg_0080.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua, os esquadros e o compasso como instrumentos auxiliares neste exercício. Para construir um polígono de <b>n</b> lados, vamos usar o conceito de dividir a medida do ângulo central em <b>n</b> partes iguais.</p>
