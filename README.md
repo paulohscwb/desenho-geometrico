@@ -508,7 +508,7 @@
 		<img src="parte1/06_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte1/apos_dg_0006a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Neste segundo lugar geométrico, usamos a régua e o compasso como instrumentos auxiliares para sua construção.</p>
 	  <ul class="slider">
 		  <li>
@@ -905,7 +905,7 @@
 <details><summary id="parte2">1.2. Retas paralelas e bissetriz</summary>
   <p>Material da página 12 até a página 20.</p>
   <img src="parte2/apos_dg_0012.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Agora vamos estudar o terceiro lugar geométrico: retas paralelas. Vamos ver algumas propriedades.</p>
 	  <ul class="slider">
 		  <li>
@@ -1467,7 +1467,7 @@
 		<img src="parte2/15_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte2/apos_dg_0015b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
 	  <ul class="slider">
 		  <li>
@@ -2207,7 +2207,7 @@
 <details open><summary id="parte3">2.1. Arco capaz</summary>
   <p>Material da página 21 até a página 29.</p>
   <img src="parte3/apos_dg_0021.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Vamos definir alguns elementos para o próximo Lugar Geométrico.</p>
 	  <ul class="slider">
 		  <li>
@@ -2231,7 +2231,7 @@
 		<iframe width="100%" src="https://www.youtube.com/embed/tNlyvwnrXTo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div> 
   <img src="parte3/apos_dg_0022.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Demonstração</summary>
 	<p>Vamos demonstrar a Propriedade 1. Vamos considerar os 3 casos possíveis: quando um lado do ângulo inscrito define um diâmetro; quando o centro está no interior do ângulo inscrito; e quando o centro está na região externa definida pelo ângulo inscrito.</p>
 	  <ul class="slider">
 		  <li>
@@ -2310,7 +2310,7 @@
 		<img src="parte3/22_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte3/apos_dg_0022a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Vamos definir alguns do ângulo de segmento.</p>
 	  <ul class="slider">
 		  <li>
@@ -2329,7 +2329,7 @@
 		<img src="parte3/22_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte3/apos_dg_0022b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Demonstração</summary>
 	<p>Vamos demonstrar a Propriedade 2, que relaciona o ângulo de segmento com o ângulo central correspondente.</p>
 	  <ul class="slider">
 		  <li>
@@ -2441,7 +2441,7 @@
   </details></div>
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
   <img src="parte3/apos_dg_0024.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Vamos ver algumas propriedades deste lugar geométrico.</p>
 	  <ul class="slider">
 		  <li>
@@ -2786,7 +2786,7 @@
 <details open><summary id="parte4">2.2. Operações com segmentos</summary>
   <p>Material da página 30 até a página 48.</p>
   <img src="parte4/apos_dg_0030.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Vamos ver as propriedades do Teorema de Tales.</p>
 	  <ul class="slider">
 		  <li>
@@ -3159,7 +3159,7 @@
 	<figcaption></figcaption>
   </details></div>
   <img src="parte4/apos_dg_0032a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos ver o conceito e as propriedades da Divisão Harmônica.</p>
 	  <ul class="slider">
 		  <li>
@@ -3363,7 +3363,7 @@
 		<img src="parte4/33_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte4/apos_dg_0033b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos ver qual é a propriedade deste lugar geométrico. Neste exemplo, a razão considerada é  $\mathsf{ k = {5 \over 3} }$</p>
 	  <ul class="slider">
 		  <li>
@@ -3797,7 +3797,7 @@
 		<img src="parte4/39_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte4/apos_dg_0039b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos mostrar as relações entre as medidas das projeções dos catetos sobre a hipotenusa e a altura de um triângulo retângulo <b>&#9651;ABC</b>.</p>
 	  <ul class="slider">
 		  <li>
@@ -4368,7 +4368,7 @@
   </details></div>
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
   <img src="parte4/apos_dg_0047.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Demonstração</summary>
 	<p>Vamos demonstrar esta propriedade com os 3 casos possíveis.</p>
 	  <ul class="slider">
 		  <li>
@@ -4399,7 +4399,7 @@
 		<img src="parte4/47_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte4/apos_dg_0047a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Demonstração</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Demonstração</summary>
 	<p>Agora vamos ver como fica a demonstração do terceiro caso possível: quando um dos segmentos é tangente à circunferência.</p>
 	  <ul class="slider">
 		  <li>
@@ -5617,7 +5617,7 @@
 		<img src="parte5/57_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte5/apos_dg_0057b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Vamos ver algumas definições e propriedades sobre os quadriláteros.</p>
 	  <ul class="slider">
 		  <li>
@@ -5655,7 +5655,7 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0058.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Vamos ver algumas definições e propriedades sobre os quadriláteros notáveis. Começando pelos trapézios</p>
 	  <ul class="slider">
 		  <li>
@@ -5674,7 +5674,7 @@
 		<img src="parte5/58_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte5/apos_dg_0058a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Agora vamos ver as propriedades dos paralelogramos.</p>
 	  <ul class="slider">
 		  <li>
@@ -5694,7 +5694,7 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0059.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedades</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedades</summary>
 	<p>Agora vamos ver as propriedades dos paralelogramos especiais: retângulo, losango e quadrado.</p>
 	  <ul class="slider">
 		  <li>
@@ -7716,7 +7716,7 @@
 		<img src="parte7/80_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte7/apos_dg_0080a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos acompanhar a demonstração da Propriedade 1.</p>
 	  <ul class="slider">
 		  <li>
@@ -7753,7 +7753,7 @@
 		<img src="parte7/80_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte7/apos_dg_0080b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos acompanhar a demonstração da Propriedade 2.</p>
 	  <ul class="slider">
 		  <li>
@@ -8109,7 +8109,7 @@
 		<iframe width="100%" src="https://www.youtube.com/embed/ugVtT0Wa0P8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
   <img src="parte7/apos_dg_0083.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos ver como é o cálculo da medida do lado de um polígono de <b>n</b> lados inscrito em uma circunferência de raio <b>r</b>.</p>
 	  <ul class="slider">
 		  <li>
@@ -9103,7 +9103,7 @@
   </div>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0097.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos ver as propriedades para o cálculo da área de um paralelogramo.</p>
 	  <ul class="slider">
 		  <li>
@@ -9122,7 +9122,7 @@
 		<img src="parte9/97_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0097a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos ver as propriedades para o cálculo da área de um triângulo.</p>
 	  <ul class="slider">
 		  <li>
@@ -9141,7 +9141,7 @@
 		<img src="parte9/97_02_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0097b.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos ver a aplicação do princípio fundamental da equivalência de áreas.</p>
 	  <ul class="slider">
 		  <li>
@@ -9343,7 +9343,7 @@
 		<img src="parte9/100_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0100a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos ver a aplicação do princípio fundamental da equivalência de áreas para trapézios.</p>
 	  <ul class="slider">
 		  <li>
@@ -9372,7 +9372,7 @@
   <br>No polígono regular de <b>n</b> lados, temos <b>n</b> triângulos isósceles de base igual a <b>l<sub>n</sub></b> e altura igual ao apótema <b>a</b>. Somando-se todas estas áreas, teremos <b>n.l<sub>n</sub></b>, que é o semi-perímetro. Logo, a área de um polígono regular de <b>n</b> lados é o produto do semi-perímetro pelo apótema.</figcaption>
   <p class="topop"><a href="#parte9" class="topo">voltar ao topo</a></p>
   <img src="parte9/apos_dg_0101.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos ver os cálculos de áreas de círculos e coroas circulares.</p>
 	  <ul class="slider">
 		  <li>
@@ -9403,7 +9403,7 @@
 		<img src="parte9/101_01_00.png" class="fundo"/>
   </details></div>
   <img src="parte9/apos_dg_0101a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4dd; Propriedade</summary>
+  <div class="combo"><details class="sub"><summary>&#x1F9E9; Propriedade</summary>
 	<p>Vamos ver os cálculos de áreas de círculos e coroas circulares.</p>
 	  <ul class="slider">
 		  <li>
