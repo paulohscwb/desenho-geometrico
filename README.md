@@ -6306,8 +6306,7 @@
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
-  <summary id="parte6">4. Tangência e concordância</summary>
+<details open><summary id="parte6">4. Tangência e concordância</summary>
   <p>Material da página 65 até a página 78.</p>
   <img src="parte6/apos_dg_0065.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
