@@ -4484,7 +4484,7 @@
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="parte5">3. Triângulos e quadriláteros</summary>
+<details><summary id="parte5">3. Triângulos e quadriláteros</summary>
   <p>Material da página 49 até a página 64.</p>
   <img src="parte5/apos_dg_0049.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
@@ -7609,8 +7609,7 @@
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
-  <summary id="parte7">5. Polígonos regulares</summary>
+<details open><summary id="parte7">5. Polígonos regulares</summary>
   <p>Material da página 79 até a página 89.</p>
   <img src="parte7/apos_dg_0079.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
