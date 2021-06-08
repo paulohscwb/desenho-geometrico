@@ -9036,8 +9036,8 @@
 	<figcaption>Porém, como o ângulo tem medida maior do que 90&deg;, retificamos apenas a metade. Depois, podemos marcar a outra metade abaixo e o segmento <b>FF'</b> tem a medida do arco de 120&deg; retificado. Neste segmento que podemos fazer a divisão em partes proporcionais aos número 2, 3 e 1.</figcaption>
   </details></div>
   <img src="parte8/apos_dg_0094d.png"/>
-  <div class="combo" id="atv61"><>&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span></div>
-  <p class="topop">a href="#parte8" class="topo">voltar ao topo</a></p>
+  <div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span></div>
+  <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
   <img src="parte8/apos_dg_0095.png"/>
   <div class="combo" id="atv62">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span></div>
   <img src="parte8/apos_dg_0095a.png"/>
