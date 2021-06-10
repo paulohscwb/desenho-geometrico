@@ -7609,7 +7609,7 @@
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="parte7">5. Polígonos regulares</summary>
+<details><summary id="parte7">5. Polígonos regulares</summary>
   <p>Material da página 79 até a página 89.</p>
   <img src="parte7/apos_dg_0079.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
