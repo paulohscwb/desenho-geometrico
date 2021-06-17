@@ -8649,7 +8649,7 @@
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="parte8">6.1. Retificação de circunferência</summary>
+<details><summary id="parte8">6.1. Retificação de circunferência</summary>
   <p>Material da página 90 até a página 95.</p>
   <img src="parte8/apos_dg_0090.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -9055,7 +9055,7 @@
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;" open><summary id="parte9">6.2. Equivalência de áreas</summary>
+<details style="border-bottom: 1px solid #a2dec0;"><summary id="parte9">6.2. Equivalência de áreas</summary>
   <p>Material da página 96 até a página 105.</p>
   <img src="parte9/apos_dg_0096.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
