@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="imagens/style.css">
-<link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
-<link rel="icon" href="imagens/favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="192x192"  href="/favicon192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon16.png">
 <!--<script type="text/x-mathjax-config">
          MathJax.Hub.Config({
            tex2jax: {
