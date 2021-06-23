@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Desenho Geométrico"
 include:
-    - _includes
+    - index.html
 github:
   is_project_page: false
