@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="imagens/favicon192.png">
+<link rel="icon" type="image/png" href="imagens/favicon.png">
 <link rel="stylesheet" href="imagens/style.css">
 <!--<script type="text/x-mathjax-config">
          MathJax.Hub.Config({
