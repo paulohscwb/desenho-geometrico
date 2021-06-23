@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
+  favicon: /imagens/favicon.png
 title: "Desenho Geométrico"
-site_favicon: /imagens/favicon.png
 github:
   is_project_page: false
