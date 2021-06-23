@@ -1,9 +1,9 @@
-<link rel="stylesheet" href="imagens/style.css">
 <link rel="icon" type="image/png" href="imagens/favicon32.png">
 <link rel="icon" type="image/png" sizes="192x192"  href="imagens/favicon192.png">
 <link rel="icon" type="image/png" sizes="32x32" href="imagens/favicon32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="imagens/favicon96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="imagens/favicon16.png">
+<link rel="stylesheet" href="imagens/style.css">
 <!--<script type="text/x-mathjax-config">
          MathJax.Hub.Config({
            tex2jax: {
