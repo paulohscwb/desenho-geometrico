@@ -1,6 +1,6 @@
-<link rel="icon" href="imagens/favicon.png" type="image/png">
+<!--<link rel="icon" href="imagens/favicon.png" type="image/png">
 <link rel="stylesheet" href="imagens/style.css">
-<!--<script type="text/x-mathjax-config">
+<script type="text/x-mathjax-config">
          MathJax.Hub.Config({
            tex2jax: {
              inlineMath: [ ['$','$'], ["\\(","\\)"] ],
