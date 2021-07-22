@@ -20,7 +20,7 @@
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
 
 <h2 id="inicio">Construções Geométricas</h2>
-teste
+
 <p>Esta página contém os procedimentos para as construções geométricas usadas na disciplina de Desenho Geométrico.</p>
 <p>A apostila está disponível no link: <a href="basico/ApostilaDG_2021.pdf" target="_blank">apostila de Desenho Geométrico</a></p>
 
