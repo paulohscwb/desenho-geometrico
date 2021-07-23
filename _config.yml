@@ -2,5 +2,3 @@ theme: cayman
 title: "Desenho Geométrico"
 include:
     - index.html
-github:
-  is_project_page: false
