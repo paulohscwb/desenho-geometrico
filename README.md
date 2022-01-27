@@ -5552,7 +5552,7 @@
   </details></div>
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
   <img src="parte5/apos_dg_0057.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo" id="quad"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Este exercício é parecido com o anterior.</p>
 	<img src="parte5/57_01_00.png"/>
 	<figcaption>Note que diferença <b>b &minus; c</b> foi construída na reta suporte do ângulo dado de 45&deg;.</figcaption>
@@ -6911,7 +6911,7 @@
 		<img src="parte6/71_04_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img src="parte6/apos_dg_0072.png"/>
+  <img id="parte2t" src="parte6/apos_dg_0072.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
