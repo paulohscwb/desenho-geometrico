@@ -4486,7 +4486,7 @@
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="parte5">3. Triângulos e quadriláteros</summary>
+<details><summary id="parte5">3. Triângulos e quadriláteros</summary>
   <p>Material da página 49 até a página 64.</p>
   <img src="parte5/apos_dg_0049.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
@@ -6308,7 +6308,7 @@
   <p class="topop"><a href="#parte5" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="parte6">4. Tangência e concordância</summary>
+<details open><summary id="parte6">4. Tangência e concordância</summary>
   <p>Material da página 65 até a página 78.</p>
   <img src="parte6/apos_dg_0065.png"/>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
@@ -6911,7 +6911,7 @@
 		<img src="parte6/71_04_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
-  <img id="parte2t" src="parte6/apos_dg_0072.png"/>
+  <img src="parte6/apos_dg_0072.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Utilizaremos a régua e o compasso como instrumentos auxiliares neste exercício.</p>
 	  <ul class="slider">
@@ -7097,7 +7097,7 @@
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/eQq-HNkyXtI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div> 
-  <img src="parte6/apos_dg_0074.png"/>
+  <img id="parte2t" src="parte6/apos_dg_0074.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>Neste exercício usamos as bissetrizes dos ângulos formados entre as retas.</p>
 	<img src="parte6/74_01_00.png"/>
