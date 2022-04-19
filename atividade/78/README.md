@@ -26,7 +26,7 @@
   <img src="atv63.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>O raio <b>R</b> de um círculo equivalente à área da coroa circular é encontrado usando o teorema de Pitágoras: <b>R</b> é um cateto do triângulo retângulo com hipotenusa <b>r<sub>1</sub></b> e o outro cateto com medida <b>r<sub>2</sub></b>.</p>
-	<img style="width:80%" src="atv6.3_solucao.png"/>
+	<img src="atv6.3_solucao.png"/>
 	<figcaption>A média geométrica entre <b>&pi;R</b> e <b>R</b> será o lado do quadrado equivalente à área da coroa circular. Neste exercício, eu optei por usar o método de Arquimedes para retificar a circunferência de raio <b>R</b>.</figcaption>
   </details></div></figcaption>
   </details>
