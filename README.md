@@ -2785,7 +2785,7 @@
   <p class="topop"><a href="#parte3" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="parte4">2.2. Operações com segmentos</summary>
+<details><summary id="parte4">2.2. Operações com segmentos</summary>
   <p>Material da página 30 até a página 48.</p>
   <img src="parte4/apos_dg_0030.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
