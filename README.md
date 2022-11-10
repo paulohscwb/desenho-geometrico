@@ -904,7 +904,7 @@
   <p class="topop"><a href="#parte1" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="parte2">1.2. Retas paralelas e bissetriz</summary>
+<details><summary id="parte2">1.2. Retas paralelas e bissetriz</summary>
   <p>Material da página 12 até a página 20.</p>
   <img src="parte2/apos_dg_0012.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
@@ -2206,7 +2206,7 @@
   <p class="topop"><a href="#parte2" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="parte3">2.1. Arco capaz</summary>
+<details><summary id="parte3">2.1. Arco capaz</summary>
   <p>Material da página 21 até a página 29.</p>
   <img src="parte3/apos_dg_0021.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
