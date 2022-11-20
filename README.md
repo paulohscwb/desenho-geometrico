@@ -4486,7 +4486,7 @@
   <p class="topop"><a href="#parte4" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="parte5">3. Triângulos e quadriláteros</summary>
+<details open><summary id="parte5">3. Triângulos e quadriláteros</summary>
   <p>Material da página 49 até a página 64.</p>
   <img src="parte5/apos_dg_0049.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
