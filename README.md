@@ -7611,7 +7611,7 @@
   <p class="topop"><a href="#parte6" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="parte7">5. Polígonos regulares</summary>
+<details><summary id="parte7">5. Polígonos regulares</summary>
   <p>Material da página 79 até a página 89.</p>
   <img src="parte7/apos_dg_0079.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -8651,7 +8651,7 @@
   <p class="topop"><a href="#parte7" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="parte8">6.1. Retificação de circunferência</summary>
+<details open><summary id="parte8">6.1. Retificação de circunferência</summary>
   <p>Material da página 90 até a página 95.</p>
   <img src="parte8/apos_dg_0090.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -9057,7 +9057,7 @@
   <p class="topop"><a href="#parte8" class="topo">voltar ao topo</a></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;"><summary id="parte9">6.2. Equivalência de áreas</summary>
+<details open style="border-bottom: 1px solid #a2dec0;"><summary id="parte9">6.2. Equivalência de áreas</summary>
   <p>Material da página 96 até a página 105.</p>
   <img src="parte9/apos_dg_0096.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
