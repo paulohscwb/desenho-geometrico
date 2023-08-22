@@ -9871,6 +9871,8 @@
 <h4>Como citar este trabalho:</h4> 
 <p>Siqueira, P.H., "Desenho Geométrico". Disponível em: <https://paulohscwb.github.io/desenho-geometrico/>, Setembro de 2020.</p>
 
+<br><a href="https://zenodo.org/badge/latestdoi/298910949"><img src="https://zenodo.org/badge/298910949.svg" alt="DOI"></a>
+
 <h4>Referências:</h4>
 <ol>
 	<li>Carvalho, B.A. Desenho Geométrico. Imperial Novo Milênio, 2008.</li>
