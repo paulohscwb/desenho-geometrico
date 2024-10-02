@@ -2791,7 +2791,7 @@
   
 </details>
 
-<details open><summary id="parte4">2.2. Operações com segmentos</summary>
+<details><summary id="parte4">2.2. Operações com segmentos</summary>
   <p>Material da página 30 até a página 48.</p>
   <img src="parte4/apos_dg_0030.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4d1; Propriedades</summary>
@@ -4494,7 +4494,7 @@
   
 </details>
 
-<details><summary id="parte5">3. Triângulos e quadriláteros</summary>
+<details open><summary id="parte5">3. Triângulos e quadriláteros</summary>
   <p>Material da página 49 até a página 64.</p>
   <img src="parte5/apos_dg_0049.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Construção</summary>
