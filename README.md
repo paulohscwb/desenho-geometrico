@@ -8826,7 +8826,7 @@
 			   <input type="radio" id="1127" name="sl">
 			   <label for="1127"></label>
 			   <img src="parte8/91_02_04.png" loading="lazy"/>
-			   <figcaption>Como <b>AB = 2r</b> e <b>AF = 3r - rtan30&deg;</b>, usamos o teorema de Pitágoras no <b>&#9651;ABF</b> para encontrar o valor aproximado de <b>&pi;</b> neste processo. O erro fica na ordem de 6 décimos de milésimos.</figcaption>
+			   <figcaption>Como <b>AB = 2r</b> e <b>AF = 3r - rtan30&deg;</b>, usamos o teorema de Pitágoras no <b>&#9651;ABF</b> para encontrar o valor aproximado de <b>&pi;</b> neste processo. O erro fica na ordem de 6 centésimos de milésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte8/91_02_00.png" class="fundo" loading="lazy"/>
@@ -8888,7 +8888,7 @@
 			   <input type="radio" id="1137" name="sl">
 			   <label for="1137"></label>
 			   <img src="parte8/92_01_10.png" loading="lazy"/>
-			   <figcaption>Usando o teorema de Pitágoras no <b>&#9651;AOD</b>, encontramos a medida $\mathsf{ OD = \frac{r \sqrt{146}}{5}}$. Logo, temos que $\mathsf{ AG = \frac{13r \sqrt{146}}{25} }$. O erro neste processo é da ordem de 8 décimos de milésimos.</figcaption>
+			   <figcaption>Usando o teorema de Pitágoras no <b>&#9651;AOD</b>, encontramos a medida $\mathsf{ OD = \frac{r \sqrt{146}}{5}}$. Logo, temos que $\mathsf{ AG = \frac{13r \sqrt{146}}{25} }$. O erro neste processo é da ordem de 7 décimos de milionésimos.</figcaption>
 		   </li>
 		</ul>
 		<img src="parte8/92_01_00.png" class="fundo" loading="lazy"/>
