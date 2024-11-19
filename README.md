@@ -8665,7 +8665,7 @@
   
 </details>
 
-<details open><summary id="parte8">6.1. Retificação de circunferência</summary>
+<details><summary id="parte8">6.1. Retificação de circunferência</summary>
   <p>Material da página 90 até a página 95.</p>
   <img src="parte8/apos_dg_0090.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
