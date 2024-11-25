@@ -9073,7 +9073,7 @@
   
 </details>
 
-<details open style="border-bottom: 1px solid #a2dec0;"><summary id="parte9">6.2. Equivalência de áreas</summary>
+<details style="border-bottom: 1px solid #a2dec0;"><summary id="parte9">6.2. Equivalência de áreas</summary>
   <p>Material da página 96 até a página 105.</p>
   <img src="parte9/apos_dg_0096.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
